@@ -12,8 +12,10 @@ export default defineConfig({
     minify: 'terser',
     rollupOptions: {
       output: {
-        manualChunks: {
-          vendor: ['react', 'react-dom', 'framer-motion', 'react-router-dom'],
+        manualChunks(id) {
+          if (id.includes('node_modules')) {
+            return 'vendor';
+          }
         },
       },
     },
