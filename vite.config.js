@@ -9,7 +9,8 @@ export default defineConfig({
     assetsInlineLimit: 0, 
     // Optimization for large projects
     chunkSizeWarningLimit: 2000,
-    minify: 'terser',
+    // Use esbuild for minification (default and fastest)
+    minify: 'esbuild',
     rollupOptions: {
       output: {
         manualChunks(id) {
