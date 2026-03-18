@@ -144,8 +144,8 @@ export default function Hero() {
               <span className="section-tag" style={{ fontFamily: "'Outfit', sans-serif" }}>{t.tag}</span>
             </motion.div>
 
-            <motion.div variants={itemVar} style={{ display: 'flex', flexDirection: 'column', gap: '0.2rem', marginBottom: '1.5rem', fontFamily: "'Outfit', sans-serif" }}>
-              <span style={{ fontSize: 'clamp(2.2rem, 4.2vw, 3.5rem)', fontWeight: 700, color: '#fff', letterSpacing: '-0.02em' }}>
+            <motion.div className="hero__text-block" variants={itemVar} style={{ display: 'flex', flexDirection: 'column', gap: '0.2rem', marginBottom: '1.5rem', fontFamily: "'Outfit', sans-serif" }}>
+              <span className="hero__intro-text" style={{ fontSize: '3.5rem', fontWeight: 700, color: '#fff', letterSpacing: '-0.02em' }}>
                 {t.intro}
               </span>
               
@@ -153,7 +153,7 @@ export default function Hero() {
                 <AnimatedWords />
               </h1>
               
-              <span style={{ fontSize: 'clamp(2.2rem, 4.2vw, 3.5rem)', fontWeight: 700, color: '#fff', letterSpacing: '-0.02em', marginTop: '0.5rem' }}>
+              <span className="hero__outro-text" style={{ fontSize: '3.5rem', fontWeight: 700, color: '#fff', letterSpacing: '-0.02em', marginTop: '0.5rem' }}>
                 {t.outro}
               </span>
             </motion.div>
@@ -184,17 +184,6 @@ export default function Hero() {
         </div>
       </motion.div>
 
-      {/* Scroll indicator */}
-      <motion.div
-        className="hero__scroll"
-        animate={{ y: [0, 12, 0] }}
-        transition={{ duration: 1.8, repeat: Infinity, ease: 'easeInOut' }}
-      >
-        <div className="hero__scroll-mouse">
-          <div className="hero__scroll-wheel" />
-        </div>
-        <span>{t.scroll}</span>
-      </motion.div>
     </section>
   );
 }

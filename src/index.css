@@ -1,6 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Outfit:wght@500;600;700;800;900&display=swap');
 
-/* ── Design Tokens ── */
+/* ── Fluid Root Scaling (Baseline: 2560x1440) ── */
+@media screen and (min-width: 1025px) {
+  :root {
+    /* 1rem = 16px at 2560px width. min() ensures it fits height too. */
+    font-size: min(0.625vw, 1.111vh);
+  }
+}
+
 :root {
   --bg: #000000;
   --bg-2: #0a0a0a;
@@ -12,12 +19,12 @@
   --accent: #7B61FF;
   --accent-2: #BF5AFF;
   --accent-glow: rgba(123,97,255,0.35);
-  --radius: 16px;
-  --radius-sm: 10px;
-  --fs-hero: clamp(3.5rem, 8vw, 7.5rem);
-  --fs-xl: clamp(2.5rem, 5vw, 4.5rem);
-  --fs-lg: clamp(1.5rem, 3vw, 2.5rem);
-  --fs-md: clamp(1rem, 1.5vw, 1.25rem);
+  --radius: 1rem;
+  --radius-sm: 0.625rem;
+  --fs-hero: 7.5rem;   /* 120px at 2K */
+  --fs-xl: 4.5rem;     /* 72px at 2K */
+  --fs-lg: 2.5rem;     /* 40px at 2K */
+  --fs-md: 1.25rem;    /* 20px at 2K */
   --ease-apple: cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
@@ -25,9 +32,10 @@
 
 html, body {
   height: 100%;
+  width: 100%;
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 body {
@@ -41,6 +49,7 @@ body {
 /* App shell */
 .app-root {
   height: 100vh;
+  width: 100%;
   overflow: hidden;
   position: relative;
 }
@@ -48,6 +57,8 @@ body {
 /* The actual scroll snap container */
 .snap-container {
   height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
   overflow-y: scroll;
   scroll-snap-type: y mandatory;
   scroll-behavior: smooth;

@@ -1,9 +1,10 @@
 export const translations = {
   RO: {
     navbar: {
-      about: "DESPRE",
+      about: "DESPRE MINE",
       work: "PORTOFOLIU",
       skills: "SERVICII",
+      social: "UPDATES",
       contact: "CONTACT",
     },
     hero: {
@@ -158,6 +159,7 @@ export const translations = {
       about: "ABOUT",
       work: "PORTFOLIO",
       skills: "SERVICES",
+      social: "UPDATES",
       contact: "CONTACT",
     },
     hero: {

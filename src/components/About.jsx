@@ -14,6 +14,10 @@ function VHSNoise() {
     function resize() { canvas.width = canvas.offsetWidth; canvas.height = canvas.offsetHeight; }
     function draw() {
       const w = canvas.width, h = canvas.height;
+      if (w <= 0 || h <= 0) {
+        raf = requestAnimationFrame(draw);
+        return;
+      }
       const img = ctx.createImageData(w, h);
       const d = img.data;
       for (let i = 0; i < d.length; i += 4) {
@@ -50,6 +54,7 @@ function GlitchCanvas() {
 
     function drawGlitchFrame() {
       const w = canvas.width, h = canvas.height;
+      if (w <= 0 || h <= 0) return;
       ctx.clearRect(0, 0, w, h);
 
       // slice the image into random horizontal bands, each shifted

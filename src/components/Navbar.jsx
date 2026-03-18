@@ -15,9 +15,10 @@ export default function Navbar() {
   const location = useLocation();
 
   const navLinks = [
-    { label: t.work, href: '#work' },
     { label: t.about, href: '#about' },
+    { label: t.work, href: '#work' },
     { label: t.skills, href: '#skills' },
+    { label: t.social, href: '#social' },
     { label: t.contact, href: '#contact' },
   ];
 
@@ -60,6 +61,7 @@ export default function Navbar() {
       initial={{ y: -80, opacity: 0 }}
       animate={{ y: 0, opacity: 1 }}
       transition={{ duration: 0.7, ease: [0.25, 0.46, 0.45, 0.94] }}
+      style={{ position: 'fixed', top: 0, left: 0, width: '100%', zIndex: 1000 }}
     >
       <div className="navbar__inner container" style={{ position: 'relative', display: 'flex', alignItems: 'center', minHeight: '40px' }}>
         <motion.a 

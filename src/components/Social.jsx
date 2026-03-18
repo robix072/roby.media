@@ -7,10 +7,19 @@ export default function Social() {
   const { language } = useLanguage();
   const t = translations[language].social;
 
+  const [isMobile, setIsMobile] = React.useState(false);
+
+  React.useEffect(() => {
+    const check = () => setIsMobile(window.innerWidth <= 1024);
+    check();
+    window.addEventListener('resize', check);
+    return () => window.removeEventListener('resize', check);
+  }, []);
+
   return (
     <section className="social section" id="social" style={{ position: 'relative', overflow: 'hidden' }}>
-      {/* Background Video styled like hero */}
-      <div style={{ position: 'absolute', inset: 0, zIndex: 0, opacity: 0.15, mixBlendMode: 'screen', pointerEvents: 'none' }}>
+      {/* Background Video (Matching Hero exactly) */}
+      <div style={{ position: 'absolute', inset: 0, zIndex: 0, opacity: 0.9, mixBlendMode: 'screen', pointerEvents: 'none' }}>
         <video 
           src="/BG%202.mp4" 
           autoPlay 
@@ -21,72 +30,85 @@ export default function Social() {
         />
         <div style={{ position: 'absolute', inset: 0, background: 'linear-gradient(to bottom, var(--bg) 0%, transparent 20%, transparent 80%, var(--bg) 100%)' }} />
       </div>
-
+      
       <div className="container" style={{ position: 'relative', zIndex: 1 }}>
         <div className="social__grid">
-          {/* Left Side: Video Preview */}
+          {/* LEFT COLUMN: Video Preview */}
           <motion.div 
             className="social__video-column"
-            initial={{ opacity: 0, x: -50 }}
+            initial={{ opacity: 0, x: -30 }}
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
-            transition={{ duration: 0.8 }}
           >
             <div className="social__video-header">
-              <span className="social__latest-tag">{t.latest}</span>
+               <span className="social__latest-tag">{t.latest}</span>
             </div>
             <div className="social__video-wrapper glass-card">
               <iframe 
-                width="100%" 
-                height="100%" 
-                src="https://www.youtube.com/embed/hASy6ZkcEE8?start=275" 
+                width="100%" height="100%" 
+                src="https://www.youtube.com/embed/hASy6ZkcEE8" 
                 title="RobyCRS - O zi din viața unui artist" 
                 frameBorder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                 allowFullScreen
+                style={{ borderRadius: '40px' }}
               ></iframe>
-              <div className="social__video-glow" />
             </div>
           </motion.div>
 
-          {/* Right Side: Content */}
+          {/* RIGHT COLUMN: Content Column */}
           <motion.div 
             className="social__content-column"
-            initial={{ opacity: 0, x: 50 }}
+            initial={{ opacity: 0, x: 30 }}
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
-            transition={{ duration: 0.8 }}
+            transition={{ delay: 0.1 }}
           >
             <span className="section-tag">{t.tag}</span>
             <h2 className="social__title uppercase">
-              {t.title1} <span className="live-gradient">{t.title2}</span>
+              {t.title1} <br /> <span className="live-gradient">{t.title2}</span>
             </h2>
-            <p className="social__desc" dangerouslySetInnerHTML={{ __html: t.desc.replace('roby.media', '<strong>roby.media</strong>') }} />
+            <p className="social__desc" dangerouslySetInnerHTML={{ __html: t.desc }} />
 
-            <div className="social__links">
-              <a href="https://youtube.com/@robycrs" target="_blank" rel="noopener noreferrer" className="social__link-btn youtube">
-                <span className="icon"><i className="fa-brands fa-youtube"></i></span>
-                <div className="label">
-                  <span>YouTube</span>
-                  <small>@robycrs</small>
-                </div>
-              </a>
-              <a href="https://instagram.com/robycrs" target="_blank" rel="noopener noreferrer" className="social__link-btn instagram">
-                <span className="icon"><i className="fa-brands fa-instagram"></i></span>
-                <div className="label">
-                  <span>Instagram</span>
-                  <small>@robycrs</small>
-                </div>
-              </a>
-              <a href="https://tiktok.com/@robycrs" target="_blank" rel="noopener noreferrer" className="social__link-btn tiktok">
-                <span className="icon"><i className="fa-brands fa-tiktok"></i></span>
-                <div className="label">
-                  <span>TikTok</span>
-                  <small>@robycrs</small>
-                </div>
-              </a>
-            </div>
+            {!isMobile && (
+              <div className="social__links">
+                <a href="https://youtube.com/@robycrs" target="_blank" rel="noopener noreferrer" className="social__link-btn youtube">
+                  <span className="icon"><i className="fa-brands fa-youtube"></i></span>
+                  <div className="label"><span>YouTube</span><small>@robycrs</small></div>
+                </a>
+                <a href="https://instagram.com/robycrs" target="_blank" rel="noopener noreferrer" className="social__link-btn instagram">
+                  <span className="icon"><i className="fa-brands fa-instagram"></i></span>
+                  <div className="label"><span>Instagram</span><small>@robycrs</small></div>
+                </a>
+                <a href="https://tiktok.com/@robycrs" target="_blank" rel="noopener noreferrer" className="social__link-btn tiktok">
+                  <span className="icon"><i className="fa-brands fa-tiktok"></i></span>
+                  <div className="label"><span>TikTok</span><small>@robycrs</small></div>
+                </a>
+              </div>
+            )}
           </motion.div>
+
+          {/* Mobile Only: Social Links at the bottom (Protected layout) */}
+          {isMobile && (
+            <motion.div 
+              className="social__mobile-links"
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+            >
+              <div className="social__icons-row">
+                <a href="https://youtube.com/@robycrs" target="_blank" rel="noopener noreferrer" className="s-mini-btn yt"><i className="fa-brands fa-youtube"></i></a>
+                <a href="https://instagram.com/robycrs" target="_blank" rel="noopener noreferrer" className="s-mini-btn ig"><i className="fa-brands fa-instagram"></i></a>
+                <a href="https://tiktok.com/@robycrs" target="_blank" rel="noopener noreferrer" className="s-mini-btn tk"><i className="fa-brands fa-tiktok"></i></a>
+              </div>
+              <div className="social__handle-container">
+                 <div className="social__handle-badge">
+                   <span className="at">@</span>
+                   <span className="name live-gradient">ROBYCRS</span>
+                 </div>
+              </div>
+            </motion.div>
+          )}
         </div>
       </div>
     </section>
