@@ -1,8 +1,41 @@
+# SPACESHP APACHE HTACCESS FOR REACT + PHP API
+# Path: /public/.htaccess (will be copied to dist and root)
+
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /
+
+  # EXCEPTION 1: Allow API folder to be accessed directly
+  RewriteCond %{REQUEST_URI} ^/api/.*$
+  RewriteRule ^ - [L]
+
+  # EXCEPTION 2: Allow Uploads folder to be accessed directly
+  RewriteCond %{REQUEST_URI} ^/uploads/.*$
+  RewriteRule ^ - [L]
+
+  # SPA ROUTING: Redirect everything else to index.html
   RewriteRule ^index\.html$ - [L]
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteRule . /index.html [L]
+</IfModule>
+
+# PROTECT SENSITIVE FILES
+<FilesMatch "^\.">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# CACHING FOR ASSETS (CSS, JS, IMAGES)
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType image/jpg "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/pdf "access plus 1 month"
+    ExpiresByType text/javascript "access plus 1 month"
+    ExpiresByType image/x-icon "access plus 1 year"
+    ExpiresDefault "access plus 2 days"
 </IfModule>
