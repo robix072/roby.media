@@ -1,0 +1,179 @@
+{
+  "_comment": "Pagina /servicii/filmare-drona (EN: /en/services/drone-filming). Textele se editează direct aici.",
+  "id": "filmare-drona",
+  "category": "productie",
+  "order": 90,
+  "slug": { "ro": "filmare-drona", "en": "drone-filming" },
+  "icon": "drone",
+  "packageGroup": "productie",
+  "packageIds": ["drona"],
+  "priceFrom": 500,
+  "priceUnit": "sesiune",
+  "portfolioCategories": ["drona"],
+  "related": ["fotografie-video-imobiliare", "videoclip-prezentare-firma", "filmare-evenimente-corporate", "filmare-concerte-festivaluri"],
+  "localService": "filmare-drona",
+  "ro": {
+    "name": "Filmare cu drona",
+    "metaTitle": "Filmare cu drona 4K și fotografie aeriană",
+    "metaDescription": "Filmare cu drona și fotografie aeriană 4K pentru imobiliare, construcții, turism și evenimente. Sesiuni de la 500 lei. Cereți o ofertă acum.",
+    "h1": "Filmare cu drona și fotografie aeriană 4K",
+    "subtitle": "Cadre aeriene care arată amploarea unui proiect, poziția unei proprietăți sau energia unui eveniment. Zbor planificat, în siguranță și cu respectarea regulilor.",
+    "cardDescription": "Filmare și fotografie aeriană 4K pentru imobiliare, construcții, turism, evenimente și producții video.",
+    "summary": [
+      "Video și fotografii aeriene 4K, editate și livrate în formatele de care aveți nevoie.",
+      "Zboruri cu respectarea reglementărilor AACR și UE. Verificăm zona înainte de fiecare zbor.",
+      "Pentru imobiliare, construcții, turism, evenimente, spoturi publicitare și clipuri de prezentare.",
+      "Sesiunile de zbor pornesc de la 500 lei. Oferta finală depinde de locație și livrabile."
+    ],
+    "problem": {
+      "title": "Unele lucruri se înțeleg doar de sus",
+      "paragraphs": [
+        "Un teren, un ansamblu rezidențial, o hală industrială sau o pensiune la munte nu încap într-o fotografie de la sol. Clientul vede o fațadă sau un colț de curte, dar nu înțelege suprafața, accesul și ce se află în jur.",
+        "Cadrele aeriene rezolvă asta în câteva secunde. Doar că o dronă ridicată la întâmplare nu ajută. Imagini tremurate, orizont strâmb, expunere greșită sau, mai rău, un zbor într-o zonă unde nu era permis. Riscul nu merită asumat pentru un clip de prezentare."
+      ]
+    },
+    "solution": {
+      "title": "Cum lucrăm la o filmare cu drona",
+      "paragraphs": [
+        "Pornim de la scop: ce trebuie să vadă privitorul și unde va fi folosit materialul. Un anunț imobiliar cere alte cadre decât un spot publicitar sau o raportare de șantier. Pe baza asta stabilim traseele de zbor, unghiurile și ora potrivită pentru lumină.",
+        "Înainte de fiecare zbor verificăm zona pe hărțile oficiale de spațiu aerian. Zonele din jurul aeroporturilor, anumite zone urbane și unele obiective sunt restricționate. Zburăm cu respectarea reglementărilor AACR și a regulilor europene pentru drone. Dacă un zbor nu este permis sau vremea nu este sigură, vă anunțăm și propunem o alternativă.",
+        "Filmăm cu drone echipate cu cameră 4K și stabilizare, cu mișcări line și controlate. Combinăm survolări largi, apropieri lente, cadre de sus în jos și orbite în jurul obiectivului. Pentru fotografie aeriană facem expuneri multiple, ca cerul și terenul să fie corect expuse.",
+        "În post-producție selectăm cele mai bune cadre, corectăm culoarea și montăm clipul final. Puteți primi și cadrele brute selectate, pentru a le integra în propriile materiale."
+      ]
+    },
+    "includes": {
+      "title": "Ce include filmarea cu drona",
+      "items": [
+        { "title": "Planificarea zborului", "text": "Stabilim traseele, unghiurile și ora potrivită în funcție de lumină și de scopul materialului." },
+        { "title": "Verificarea zonei de zbor", "text": "Consultăm restricțiile de spațiu aerian și condițiile meteo înainte de fiecare sesiune." },
+        { "title": "Sesiune de zbor", "text": "Pilot cu experiență, zbor controlat și atenție la oameni, clădiri și obstacole." },
+        { "title": "Video aerian 4K", "text": "Cadre stabile, cu mișcări line, potrivite pentru ecrane mari și pentru social media." },
+        { "title": "Fotografii aeriene", "text": "Imagini de ansamblu și de detaliu, editate pentru anunțuri, site și materiale tipărite." },
+        { "title": "Editare și color grading", "text": "Culori uniforme și un clip montat pe ritm, cu muzică licențiată." },
+        { "title": "Formate orizontale și verticale", "text": "Variante pentru YouTube, site, prezentări, Reels și TikTok." },
+        { "title": "Integrare cu filmarea de la sol", "text": "Opțional, combinăm cadrele aeriene cu filmare și fotografie de la sol, cu aceeași echipă." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Cadrele aeriene sunt utile oriunde contează contextul, dimensiunea sau traseul.",
+      "items": [
+        { "industry": "Imobiliare și dezvoltatori", "text": "Poziția proprietății, vecinătatea, accesul și vederea, pentru anunțuri și campanii de vânzare." },
+        { "industry": "Construcții și infrastructură", "text": "Raportări periodice de progres pentru investitori și beneficiari, filmate din aceleași puncte." },
+        { "industry": "Turism și ospitalitate", "text": "Pensiuni, hoteluri, domenii și atracții prezentate în peisajul lor, pentru site și platforme de rezervări." },
+        { "industry": "Industrie și logistică", "text": "Fabrici, depozite și parcuri industriale arătate la scara lor reală, pentru prezentări și recrutare." },
+        { "industry": "Evenimente și festivaluri", "text": "Mulțimea, scena și locația văzute de sus, unde regulile și organizatorii permit zborul." },
+        { "industry": "Agricultură și podgorii", "text": "Culturi, ferme și crame prezentate în contextul lor, pentru branding, turism sau parteneri." },
+        { "industry": "Agenții și producții video", "text": "Cadre aeriene pentru spoturi, documentare și videoclipuri, livrate în formatul proiectului dumneavoastră." }
+      ]
+    },
+    "process": {
+      "title": "Procesul",
+      "steps": [
+        { "title": "Discuție și ofertă", "text": "Ne spuneți locația, scopul și materialele dorite. Verificăm preliminar zona și vă trimitem oferta." },
+        { "title": "Planificare", "text": "Stabilim data, ora, traseele de zbor și o dată de rezervă pentru vreme nefavorabilă." },
+        { "title": "Verificări înainte de zbor", "text": "Confirmăm restricțiile de spațiu aerian, condițiile meteo și siguranța locului." },
+        { "title": "Zborul", "text": "Filmăm și fotografiem după planul stabilit, adaptându-ne la lumina reală." },
+        { "title": "Editare și livrare", "text": "Primiți clipul final și fotografiile editate online, în formatele convenite." }
+      ]
+    },
+    "pricingNote": "Sesiunile de filmare cu drona pornesc de la 500 lei. Prețul final depinde de locație, durata zborului și materialele livrate.",
+    "faq": [
+      { "q": "Cât costă o filmare cu drona?", "a": "Sesiunile pornesc de la 500 lei și includ zborul, cadrele 4K și editarea. Prețul crește dacă aveți nevoie de mai multe locații, un clip montat mai complex sau filmare suplimentară de la sol. Primiți o ofertă fixă după o discuție scurtă." },
+      { "q": "Puteți zbura oriunde?", "a": "Nu. Zburăm doar unde reglementările AACR și regulile europene permit. Zonele din apropierea aeroporturilor, anumite zone urbane și unele obiective sunt restricționate. Verificăm fiecare locație înainte de zbor și vă spunem sincer dacă zborul nu este posibil." },
+      { "q": "Ce se întâmplă dacă plouă sau bate vântul?", "a": "Siguranța are prioritate. Dacă vremea nu permite un zbor sigur sau imaginile nu ar avea calitatea promisă, reprogramăm sesiunea. De aceea stabilim de la început o dată de rezervă." },
+      { "q": "În cât timp primim materialele?", "a": "Fotografiile aeriene și cadrele selectate se livrează de regulă în câteva zile lucrătoare. Un clip montat, cu muzică și color grading, poate dura mai mult. Termenul exact apare în ofertă." },
+      { "q": "Putem folosi imaginile în reclame?", "a": "Da. Primiți dreptul de a folosi materialele pentru promovarea proiectului sau a afacerii dumneavoastră, inclusiv în reclame plătite. Utilizările speciale, de exemplu revânzarea imaginilor, se stabilesc în ofertă." },
+      { "q": "Combinați drona cu filmarea de la sol?", "a": "Da, și de multe ori așa iese cel mai bun rezultat. Aceeași echipă poate filma un clip de prezentare, un tur imobiliar sau un eveniment, cu cadre aeriene integrate în montaj." },
+      { "q": "Ce trebuie să pregătim înainte?", "a": "Acces la locație, acordul proprietarului sau administratorului acolo unde este cazul și o persoană de contact în ziua zborului. Dacă pe teren sunt oameni sau utilaje, ne coordonăm ca zborul să fie sigur pentru toți." },
+      { "q": "Vă deplasați în toată țara?", "a": "Da. Lucrăm în toată România. Costul deplasării se trece separat în ofertă, în funcție de distanță. Mai multe locații din aceeași zonă le putem grupa într-o singură zi." }
+    ],
+    "closing": {
+      "title": "Arătați-vă proiectul din perspectiva potrivită",
+      "text": "Trimiteți-ne locația și ce vreți să obțineți. Verificăm zona și revenim cu o ofertă și o dată de zbor."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru filmare cu drona. Locație: ..., scopul materialului: ..."
+  },
+  "en": {
+    "name": "Drone filming",
+    "metaTitle": "4K Drone Filming and Aerial Photography in Romania",
+    "metaDescription": "4K drone filming and aerial photography for real estate, construction, tourism and events. Sessions from 500 RON. Request your quote today.",
+    "h1": "4K drone filming and aerial photography",
+    "subtitle": "Aerial shots that show the scale of a project, where a property sits or the energy of an event. Every flight planned, safe and within the rules.",
+    "cardDescription": "4K aerial video and photography for real estate, construction, tourism, events and video productions.",
+    "summary": [
+      "4K aerial video and photos, edited and delivered in the formats you need.",
+      "Flights follow AACR and EU rules. We check the airspace before every flight.",
+      "For real estate, construction, tourism, events, commercials and company videos.",
+      "Flight sessions start from 500 RON. Final pricing depends on location and deliverables."
+    ],
+    "problem": {
+      "title": "Some things only make sense from above",
+      "paragraphs": [
+        "A plot of land, a housing development, an industrial site or a mountain guesthouse won't fit in a photo taken from the ground. People see a facade or a corner of the garden, but not the size, the access or what's around it.",
+        "Aerial footage explains all of that in seconds. A drone sent up without a plan won't, though. You get shaky shots, a tilted horizon, poor exposure or, worse, a flight in airspace where it wasn't allowed. That's not a risk worth taking for a promo video."
+      ]
+    },
+    "solution": {
+      "title": "How a drone shoot works",
+      "paragraphs": [
+        "We start with the purpose: what viewers need to see and where the footage will be used. A property listing needs different shots from a commercial or a construction progress report. From there we plan flight paths, angles and the best time of day for light.",
+        "Before every flight we check the area against official airspace maps. Zones around airports, some urban areas and certain sites are restricted. We fly in line with AACR regulations and EU drone rules. If a flight isn't allowed or the weather isn't safe, we tell you and suggest an alternative.",
+        "We shoot with 4K camera drones and gimbal stabilisation, keeping every move smooth and controlled. We combine wide flyovers, slow reveals, top-down shots and orbits around the subject. For aerial photos we bracket exposures so both sky and ground look right.",
+        "In post-production we pick the strongest shots, grade the colour and cut the final film. You can also get the selected raw clips to use in your own edits."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Flight planning", "text": "Routes, angles and timing chosen around the light and what the footage is for." },
+        { "title": "Airspace check", "text": "We review airspace restrictions and the weather forecast before each session." },
+        { "title": "Flight session", "text": "An experienced pilot, controlled flying and full attention to people, buildings and obstacles." },
+        { "title": "4K aerial video", "text": "Steady shots with smooth movement, suited to big screens and social media alike." },
+        { "title": "Aerial photography", "text": "Wide and detail images, edited for listings, websites and print." },
+        { "title": "Editing and colour grading", "text": "Consistent colour and a film cut to the beat with licensed music." },
+        { "title": "Landscape and vertical formats", "text": "Versions for YouTube, websites, presentations, Reels and TikTok." },
+        { "title": "Ground footage on request", "text": "Optionally, we combine aerial shots with ground-level video and photos, using the same crew." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "Aerial footage pays off wherever context, scale or layout matters.",
+      "items": [
+        { "industry": "Real estate and developers", "text": "Location, surroundings, access and views for listings and sales campaigns." },
+        { "industry": "Construction and infrastructure", "text": "Regular progress reports for investors and clients, filmed from the same vantage points." },
+        { "industry": "Tourism and hospitality", "text": "Guesthouses, hotels, estates and attractions shown in their landscape, for websites and booking platforms." },
+        { "industry": "Industry and logistics", "text": "Factories, warehouses and industrial parks shown at their real scale, for presentations and recruitment." },
+        { "industry": "Events and festivals", "text": "The crowd, the stage and the venue from above, where the rules and organisers allow it." },
+        { "industry": "Farms and vineyards", "text": "Crops, farms and wineries in context, for branding, tourism or partners." },
+        { "industry": "Agencies and production companies", "text": "Aerial footage for commercials, documentaries and music videos, delivered to your project specs." }
+      ]
+    },
+    "process": {
+      "title": "The process",
+      "steps": [
+        { "title": "Call and quote", "text": "Tell us the location, purpose and deliverables. We do an initial airspace check and send a quote." },
+        { "title": "Planning", "text": "We agree the date, time and flight paths, plus a backup date in case of bad weather." },
+        { "title": "Pre-flight checks", "text": "We confirm airspace restrictions, weather conditions and on-site safety." },
+        { "title": "The flight", "text": "We film and photograph to plan, adapting to the light on the day." },
+        { "title": "Editing and delivery", "text": "You receive the final film and edited photos online, in the agreed formats." }
+      ]
+    },
+    "pricingNote": "Drone sessions start from 500 RON. The final price depends on location, flight time and deliverables.",
+    "faq": [
+      { "q": "How much does drone filming cost?", "a": "Sessions start from 500 RON, including the flight, 4K footage and editing. The price goes up if you need several locations, a more involved edit or extra ground footage. You get a fixed quote after a short call." },
+      { "q": "Can you fly anywhere?", "a": "No. We only fly where AACR regulations and EU rules allow. Areas near airports, parts of cities and certain sites are restricted. We check every location before flying and tell you plainly if a flight isn't possible." },
+      { "q": "What if it rains or it's windy?", "a": "Safety comes first. If the weather doesn't allow a safe flight, or the footage wouldn't meet the expected quality, we reschedule. That's why we agree a backup date from the start." },
+      { "q": "How soon do we get the footage?", "a": "Aerial photos and selected clips usually arrive within a few working days. An edited film with music and colour grading can take longer. The exact turnaround is in your quote." },
+      { "q": "Can we use the footage in ads?", "a": "Yes. You can use the material to promote your project or business, including in paid advertising. Special uses, such as reselling the images, are agreed in the quote." },
+      { "q": "Can you combine drone and ground filming?", "a": "Yes, and that often gives the best result. The same crew can shoot a company video, a property tour or an event, with aerial footage built into the edit." },
+      { "q": "What do we need to arrange beforehand?", "a": "Access to the site, permission from the owner or manager where needed, and a contact person on the day. If people or machinery are on site, we coordinate so the flight is safe for everyone." },
+      { "q": "Do you travel across the country?", "a": "Yes, we work all over Romania. Travel is listed separately in the quote, based on distance. Several locations in the same area can be grouped into one day." }
+    ],
+    "closing": {
+      "title": "Show your project from the right angle",
+      "text": "Send us the location and what you want to achieve. We'll check the area and come back with a quote and a flight date."
+    },
+    "whatsapp": "Hello, I'd like a quote for drone filming. Location: ..., what the footage is for: ..."
+  }
+}

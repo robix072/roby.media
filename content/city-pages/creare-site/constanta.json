@@ -1,0 +1,53 @@
+{
+  "_comment": "Pagina /creare-site-constanta. SCHELET: are noindex și nu apare în sitemap până puneți \"ready\": true.",
+  "_TODO": [
+    "Scrieți un paragraf introductiv propriu pentru Constanța (intro), nu copiat din alt oraș.",
+    "Completați „local” cu locații, zone sau industrii reale din Constanța.",
+    "Adăugați 3–5 întrebări FAQ locale.",
+    "Când conținutul e complet și unic, puneți \"ready\": true."
+  ],
+  "ready": false,
+  "service": "creare-site",
+  "city": "constanta",
+  "metaTitle": "Creare site Constanța | Roby Media",
+  "metaDescription": "Site-uri de prezentare și magazine online în Constanța. Echipă care se deplasează în tot județul Constanța. Cereți o ofertă pe WhatsApp sau prin formular.",
+  "h1": "Creare site în Constanța",
+  "subtitle": "Site-uri de prezentare și magazine online în Constanța și în județul Constanța.",
+  "summary": [
+    "Lucrăm în Constanța și în localitățile din județul Constanța.",
+    "Ofertă clară, primită de regulă în aceeași zi lucrătoare.",
+    "Contract, factură și termene de livrare stabilite de la început."
+  ],
+  "intro": [
+    "TODO: paragraf introductiv unic despre creare site în Constanța."
+  ],
+  "local": {
+    "title": "Creare site în Constanța: ce trebuie să știți",
+    "text": "TODO: context local pentru Constanța.",
+    "items": [
+      {
+        "title": "TODO",
+        "text": "TODO: locație, zonă sau industrie relevantă din Constanța."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Deplasare în Constanța",
+    "text": "Echipa noastră se deplasează în Constanța și în județul Constanța. Costul deplasării, dacă există, apare transparent în ofertă."
+  },
+  "faq": [
+    {
+      "q": "Lucrați în Constanța?",
+      "a": "Da. Lucrăm cu clienți în Constanța și din tot județul Constanța. Costul deplasării apare transparent în ofertă."
+    },
+    {
+      "q": "Cât de repede primim o ofertă?",
+      "a": "De regulă în aceeași zi lucrătoare. Cel mai rapid ne găsiți pe WhatsApp sau la telefon."
+    },
+    {
+      "q": "Lucrați pe bază de contract?",
+      "a": "Da. ROBY MEDIA SRL emite factură, iar livrabilele, termenele și plățile sunt trecute în contract."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru crearea unui site în Constanța."
+}

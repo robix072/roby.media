@@ -1,0 +1,176 @@
+{
+  "_comment": "Pagina /servicii/strategie-marketing (EN: /en/services/marketing-strategy-consulting). Textele se editează direct aici.",
+  "id": "strategie-marketing",
+  "category": "marketing",
+  "order": 80,
+  "slug": { "ro": "strategie-marketing", "en": "marketing-strategy-consulting" },
+  "icon": "compass",
+  "packageGroup": null,
+  "priceFrom": null,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["campanii"],
+  "related": ["reclame-facebook-instagram", "marketing-tiktok", "social-media-management", "creare-site-prezentare"],
+  "localService": null,
+  "ro": {
+    "name": "Strategie de marketing",
+    "metaTitle": "Strategie de marketing și consultanță pentru firme",
+    "metaDescription": "Strategie de marketing pentru firme: audit, poziționare, canale, buget și plan de acțiune pe 90 de zile. Programați o discuție scurtă cu noi.",
+    "h1": "Strategie de marketing pe care echipa dumneavoastră o poate aplica",
+    "subtitle": "Nu un document de 80 de pagini care rămâne în sertar. Un plan clar: cui vindeți, ce mesaj folosiți, pe ce canale investiți și ce măsurați, pas cu pas.",
+    "cardDescription": "Audit, poziționare, alegerea canalelor, buget și plan de acțiune pe 90 de zile, gândit pentru a fi aplicat.",
+    "summary": [
+      "Audit al canalelor actuale: site, social media, reclame, recenzii și concurență.",
+      "Poziționare, public țintă și mesaje clare pentru fiecare tip de client.",
+      "Alegerea canalelor, împărțirea bugetului și indicatorii pe care îi urmăriți.",
+      "Plan de acțiune pe 90 de zile, pe care îl aplicați intern sau împreună cu noi."
+    ],
+    "problem": {
+      "title": "Marketing fără direcție înseamnă buget pierdut",
+      "paragraphs": [
+        "Multe firme fac marketing pe bucăți. O postare când este timp, o campanie pornită pentru că așa a făcut și concurența, un site refăcut fără să se știe de ce nu vindea cel vechi. Fiecare acțiune costă, dar nimeni nu poate spune ce a adus rezultate.",
+        "Simptomele se recunosc ușor. Reclamele aduc clicuri, dar nu clienți. Pe social media apar like-uri, dar telefonul nu sună. Echipa nu știe ce să comunice, iar fiecare furnizor trage în altă direcție. Problema nu este lipsa de efort, ci lipsa unui plan comun."
+      ]
+    },
+    "solution": {
+      "title": "Cum construim strategia",
+      "paragraphs": [
+        "Începem cu afacerea, nu cu canalele. Vrem să înțelegem ce vindeți, cu ce marjă, cine cumpără deja de la dumneavoastră și de ce. Discutăm cu proprietarul sau cu managementul și, unde se poate, cu oamenii de vânzări, care aud zilnic întrebările și obiecțiile clienților.",
+        "Urmează auditul. Analizăm site-ul, profilurile de social media, campaniile active, recenziile și modul în care apăreți în căutări. Ne uităm la concurenți: ce promit, cum comunică, unde lasă loc liber. Verificăm și dacă măsurătorile sunt corecte. Fără pixel, conversii setate și date curate, orice decizie este o ghicitoare.",
+        "Pe această bază definim poziționarea și mesajele principale pentru fiecare tip de client. Alegem canalele potrivite, de exemplu TikTok, Meta, Google, SEO sau email, și propunem o împărțire realistă a bugetului. Fiecare canal primește un rol clar și un indicator de urmărit.",
+        "La final primiți un plan de acțiune pe 90 de zile, cu priorități, responsabili și termene. Îl prezentăm într-un workshop cu echipa, ca toată lumea să înțeleagă ce are de făcut și de ce."
+      ]
+    },
+    "includes": {
+      "title": "Ce include strategia de marketing",
+      "items": [
+        { "title": "Interviu de business", "text": "Obiective, produse, marje, capacitate și clienții care aduc cei mai mulți bani." },
+        { "title": "Audit de marketing", "text": "Site, social media, reclame, recenzii, prezență în căutări și materiale existente." },
+        { "title": "Analiza concurenței", "text": "Ce comunică principalii concurenți, pe ce canale și unde aveți un avantaj real." },
+        { "title": "Public țintă și poziționare", "text": "Profilurile de clienți, problemele lor și motivul clar pentru care ar alege firma dumneavoastră." },
+        { "title": "Mesaje și ofertă", "text": "Mesajele principale, argumentele și modul în care este prezentată oferta." },
+        { "title": "Canale și buget", "text": "Ce canale folosiți, cu ce rol, și cum împărțiți bugetul între ele." },
+        { "title": "Măsurare și indicatori", "text": "Ce urmăriți, cum setăm conversiile și cum citiți rezultatele lunar." },
+        { "title": "Plan pe 90 de zile și workshop", "text": "Pașii concreți, ordonați pe priorități, prezentați echipei într-o sesiune de lucru." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Strategia este utilă oricând investiți bani în marketing și nu știți exact ce funcționează. Iată situațiile cele mai des întâlnite.",
+      "items": [
+        { "industry": "Firme locale de servicii", "text": "Clinici, service-uri, saloane sau firme de construcții care vor mai multe cereri din zona lor, nu doar vizibilitate." },
+        { "industry": "Magazine online", "text": "Clarificați ce produse împingeți, pe ce canale și cât puteți plăti pentru o comandă nouă." },
+        { "industry": "Restaurante și HoReCa", "text": "Un plan pentru social media, recenzii și campanii locale care umplu mesele în zilele slabe." },
+        { "industry": "Firme B2B", "text": "Producători, distribuitori și consultanți care vând prin relații și au nevoie de lead-uri calificate." },
+        { "industry": "Dezvoltatori imobiliari și agenții", "text": "Strategie pentru un proiect nou, de la poziționare până la campaniile de precomercializare." },
+        { "industry": "Startup-uri și branduri noi", "text": "Primii pași pe piață, fără să risipiți bugetul pe canale nepotrivite." },
+        { "industry": "ONG-uri", "text": "Campanii de strângere de fonduri și atragere de voluntari, cu resurse limitate și mesaje clare." }
+      ]
+    },
+    "process": {
+      "title": "Etapele colaborării",
+      "steps": [
+        { "title": "Discuție scurtă", "text": "Aflăm unde se află firma, ce ați încercat și ce rezultat urmăriți. Vă spunem dacă vă putem ajuta." },
+        { "title": "Acces și date", "text": "Ne dați acces la site, conturile de reclame și statistici, plus orice date despre vânzări puteți oferi." },
+        { "title": "Audit și analiză", "text": "Analizăm canalele, concurența și clienții. Revenim cu întrebări unde datele nu sunt clare." },
+        { "title": "Strategia și planul", "text": "Primiți documentul cu poziționare, canale, buget, indicatori și planul pe 90 de zile." },
+        { "title": "Workshop și implementare", "text": "Prezentăm planul echipei. Îl puteți aplica intern sau ne puteți implica în execuție." }
+      ]
+    },
+    "pricingNote": "Strategia de marketing se ofertează după o discuție scurtă, în funcție de dimensiunea firmei, numărul de canale analizate și dacă doriți și implementarea.",
+    "faq": [
+      { "q": "Ce primim concret la final?", "a": "Un document de strategie clar, fără umplutură: poziționare, public țintă, mesaje, canale, buget, indicatori și planul pe 90 de zile. Îl prezentăm într-un workshop cu echipa, unde răspundem la întrebări și ajustăm prioritățile." },
+      { "q": "Garantați creșterea vânzărilor?", "a": "Nu promitem cifre. Rezultatele depind de produs, preț, piață și de cât de consecvent este aplicat planul. Ce garantăm este o analiză serioasă, recomandări argumentate și un plan pe care îl puteți măsura." },
+      { "q": "Avem nevoie de strategie dacă deja facem reclame?", "a": "Mai ales atunci. Dacă reclamele aduc clicuri, dar nu clienți, cauza este adesea în altă parte: oferta, site-ul, mesajul sau măsurarea. Strategia arată unde se pierd banii înainte să creșteți bugetul." },
+      { "q": "Trebuie să lucrăm cu dumneavoastră și pentru implementare?", "a": "Nu. Planul este scris ca să îl poată aplica echipa dumneavoastră sau alți furnizori. Dacă doriți, ne putem ocupa noi de reclame, conținut video, social media sau site, dar nu este o condiție." },
+      { "q": "Ce date trebuie să vă dăm?", "a": "Acces la conturile de reclame, la statisticile site-ului și la social media. Ne ajută și date despre vânzări, chiar și aproximative: ce produse se vând, de unde vin clienții, care sunt cei mai buni. Tratăm toate informațiile confidențial." },
+      { "q": "Este potrivită și pentru o firmă mică?", "a": "Da. Pentru firmele mici strategia este mai scurtă și mai concentrată: câteva canale, un buget realist și pași pe care îi puteți face fără o echipă mare de marketing." },
+      { "q": "Cât durează realizarea strategiei?", "a": "Depinde de dimensiunea firmei și de câte canale analizăm. Termenul exact îl stabilim în ofertă, după prima discuție. Cel mai mult contează cât de repede primim accesul la date." }
+    ],
+    "closing": {
+      "title": "Hai să vedem unde se pierd banii",
+      "text": "Programați o discuție scurtă. Ne spuneți ce ați încercat până acum, iar noi vă spunem ce am analiza primul."
+    },
+    "whatsapp": "Bună ziua, aș dori o discuție despre strategia de marketing pentru firma noastră. Domeniu: ..., site: ..."
+  },
+  "en": {
+    "name": "Marketing strategy",
+    "metaTitle": "Marketing Strategy Consulting for Businesses",
+    "metaDescription": "Marketing strategy for businesses: audit, positioning, channels, budget and a 90-day action plan you can execute. Book a short call with us.",
+    "h1": "A marketing strategy your team can actually execute",
+    "subtitle": "Not an 80-page report that sits in a drawer. A clear plan: who you sell to, what you say, where you invest and what you measure, step by step.",
+    "cardDescription": "Audit, positioning, channel choice, budget and a 90-day action plan, built to be put into practice.",
+    "summary": [
+      "An audit of your current channels: website, social media, ads, reviews and competitors.",
+      "Positioning, target audience and clear messages for each type of customer.",
+      "Channel choice, budget split and the metrics you'll track.",
+      "A 90-day action plan you can run in-house or with us."
+    ],
+    "problem": {
+      "title": "Marketing without direction burns budget",
+      "paragraphs": [
+        "Plenty of businesses do marketing in pieces. A post when there's time, a campaign launched because a competitor did one, a new website with no idea why the old one didn't sell. Every action costs money, yet nobody can say what actually worked.",
+        "The signs are easy to spot. Ads bring clicks but not customers. Social posts get likes but the phone doesn't ring. The team isn't sure what to say, and every supplier pulls in a different direction. The issue isn't a lack of effort. It's the lack of a shared plan."
+      ]
+    },
+    "solution": {
+      "title": "How we build your strategy",
+      "paragraphs": [
+        "We start with the business, not the channels. We want to understand what you sell, at what margin, who already buys from you and why. We talk to the owner or management and, where possible, to your sales people, who hear customers' questions and objections every day.",
+        "Then comes the audit. We review your website, social profiles, active campaigns, reviews and how you show up in search. We look at competitors: what they promise, how they talk, where they leave a gap. We also check whether your tracking works. Without a pixel, proper conversions and clean data, every decision is guesswork.",
+        "From there we define your positioning and core messages for each type of customer. We choose the right channels, such as TikTok, Meta, Google, SEO or email, and propose a realistic budget split. Each channel gets a clear job and a metric to watch.",
+        "You end up with a 90-day action plan, with priorities, owners and deadlines. We present it in a workshop with your team, so everyone knows what to do and why."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Business interview", "text": "Goals, products, margins, capacity and the customers who bring in the most revenue." },
+        { "title": "Marketing audit", "text": "Website, social media, ads, reviews, search presence and existing materials." },
+        { "title": "Competitor analysis", "text": "What your main competitors say, on which channels, and where you have a real edge." },
+        { "title": "Audience and positioning", "text": "Customer profiles, their problems and a clear reason to choose you." },
+        { "title": "Messaging and offer", "text": "Core messages, key arguments and how your offer is framed." },
+        { "title": "Channels and budget", "text": "Which channels you use, what each one is for, and how the budget is split." },
+        { "title": "Tracking and KPIs", "text": "What to track, how we set up conversions and how to read results each month." },
+        { "title": "90-day plan and workshop", "text": "Concrete steps in order of priority, walked through with your team in a working session." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "Strategy pays off whenever you're spending on marketing without knowing exactly what works. These are the most common situations.",
+      "items": [
+        { "industry": "Local service businesses", "text": "Clinics, repair shops, salons or builders who want more enquiries from their area, not just visibility." },
+        { "industry": "Online stores", "text": "Get clear on which products to push, on which channels, and what you can afford to pay for a new order." },
+        { "industry": "Restaurants and hospitality", "text": "A plan for social media, reviews and local campaigns that fills tables on quiet days." },
+        { "industry": "B2B companies", "text": "Manufacturers, distributors and consultancies that sell through relationships and need qualified leads." },
+        { "industry": "Property developers and agencies", "text": "Strategy for a new development, from positioning to pre-sales campaigns." },
+        { "industry": "Startups and new brands", "text": "Your first steps in the market, without wasting budget on the wrong channels." },
+        { "industry": "NGOs", "text": "Fundraising and volunteer campaigns with limited resources and clear messages." }
+      ]
+    },
+    "process": {
+      "title": "How we work together",
+      "steps": [
+        { "title": "Quick call", "text": "We learn where the business is, what you've tried and what you're aiming for, and tell you honestly if we can help." },
+        { "title": "Access and data", "text": "You give us access to your website, ad accounts and analytics, plus whatever sales data you can share." },
+        { "title": "Audit and analysis", "text": "We review channels, competitors and customers, and come back with questions where data is unclear." },
+        { "title": "Strategy and plan", "text": "You receive the document with positioning, channels, budget, KPIs and the 90-day plan." },
+        { "title": "Workshop and execution", "text": "We present the plan to your team. You can run it in-house or bring us in to execute." }
+      ]
+    },
+    "pricingNote": "Marketing strategy is quoted after a short call, based on the size of your business, the number of channels reviewed and whether you want help with execution.",
+    "faq": [
+      { "q": "What exactly do we get at the end?", "a": "A clear strategy document with no padding: positioning, audience, messaging, channels, budget, KPIs and the 90-day plan. We present it in a workshop with your team, answer questions and adjust priorities together." },
+      { "q": "Do you guarantee more sales?", "a": "We don't promise numbers. Results depend on your product, pricing, market and how consistently the plan is applied. What we do guarantee is a serious analysis, reasoned recommendations and a plan you can measure." },
+      { "q": "Do we need a strategy if we already run ads?", "a": "That's exactly when you need one. If ads bring clicks but not customers, the cause is often elsewhere: the offer, the website, the message or the tracking. A strategy shows where money leaks before you raise the budget." },
+      { "q": "Do we have to hire you for execution too?", "a": "No. The plan is written so your own team or other suppliers can run it. If you'd like, we can handle ads, video content, social media or the website, but it's not a condition." },
+      { "q": "What data do you need from us?", "a": "Access to your ad accounts, website analytics and social media. Sales data helps too, even rough figures: what sells, where customers come from, who your best ones are. Everything you share stays confidential." },
+      { "q": "Is it worth it for a small business?", "a": "Yes. For smaller businesses the strategy is shorter and more focused: a few channels, a realistic budget and steps you can take without a big marketing team." },
+      { "q": "How long does it take?", "a": "It depends on the size of the business and how many channels we review. We set the timeline in the quote after our first call. The biggest factor is how quickly we get access to your data." }
+    ],
+    "closing": {
+      "title": "Let's find where the money is leaking",
+      "text": "Book a short call. Tell us what you've tried so far, and we'll tell you what we'd look at first."
+    },
+    "whatsapp": "Hello, I'd like to talk about a marketing strategy for our business. Industry: ..., website: ..."
+  }
+}

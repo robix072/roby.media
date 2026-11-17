@@ -1,0 +1,53 @@
+{
+  "_comment": "Pagina /creare-site-bacau. SCHELET: are noindex și nu apare în sitemap până puneți \"ready\": true.",
+  "_TODO": [
+    "Scrieți un paragraf introductiv propriu pentru Bacău (intro), nu copiat din alt oraș.",
+    "Completați „local” cu locații, zone sau industrii reale din Bacău.",
+    "Adăugați 3–5 întrebări FAQ locale.",
+    "Când conținutul e complet și unic, puneți \"ready\": true."
+  ],
+  "ready": false,
+  "service": "creare-site",
+  "city": "bacau",
+  "metaTitle": "Creare site Bacău | Roby Media",
+  "metaDescription": "Site-uri de prezentare și magazine online în Bacău. Echipă care se deplasează în tot județul Bacău. Cereți o ofertă pe WhatsApp sau prin formular.",
+  "h1": "Creare site în Bacău",
+  "subtitle": "Site-uri de prezentare și magazine online în Bacău și în județul Bacău.",
+  "summary": [
+    "Lucrăm în Bacău și în localitățile din județul Bacău.",
+    "Ofertă clară, primită de regulă în aceeași zi lucrătoare.",
+    "Contract, factură și termene de livrare stabilite de la început."
+  ],
+  "intro": [
+    "TODO: paragraf introductiv unic despre creare site în Bacău."
+  ],
+  "local": {
+    "title": "Creare site în Bacău: ce trebuie să știți",
+    "text": "TODO: context local pentru Bacău.",
+    "items": [
+      {
+        "title": "TODO",
+        "text": "TODO: locație, zonă sau industrie relevantă din Bacău."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Deplasare în Bacău",
+    "text": "Echipa noastră se deplasează în Bacău și în județul Bacău. Costul deplasării, dacă există, apare transparent în ofertă."
+  },
+  "faq": [
+    {
+      "q": "Lucrați în Bacău?",
+      "a": "Da. Lucrăm cu clienți în Bacău și din tot județul Bacău. Costul deplasării apare transparent în ofertă."
+    },
+    {
+      "q": "Cât de repede primim o ofertă?",
+      "a": "De regulă în aceeași zi lucrătoare. Cel mai rapid ne găsiți pe WhatsApp sau la telefon."
+    },
+    {
+      "q": "Lucrați pe bază de contract?",
+      "a": "Da. ROBY MEDIA SRL emite factură, iar livrabilele, termenele și plățile sunt trecute în contract."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru crearea unui site în Bacău."
+}

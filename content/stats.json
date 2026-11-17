@@ -1,0 +1,4 @@
+{
+  "_comment": "Cifrele de încredere de pe Acasă și din pagina Despre. Doar cifre reale. Lista goală = secțiunea nu apare. Format: { \"id\": \"proiecte\", \"value\": 250, \"suffix\": \"+\", \"label\": { \"ro\": \"proiecte livrate\", \"en\": \"projects delivered\" } }",
+  "stats": []
+}

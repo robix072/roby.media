@@ -1,0 +1,182 @@
+{
+  "_comment": "Pagina /servicii/videoclipuri-muzicale (EN: /en/services/music-video-production). Textele se editează direct aici.",
+  "id": "videoclipuri-muzicale",
+  "category": "productie",
+  "order": 100,
+  "slug": { "ro": "videoclipuri-muzicale", "en": "music-video-production" },
+  "icon": "music",
+  "packageGroup": null,
+  "priceFrom": null,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["video-comercial"],
+  "related": ["post-productie-video", "filmare-drona", "filmare-concerte-festivaluri", "marketing-tiktok"],
+  "localService": null,
+  "ro": {
+    "name": "Videoclipuri muzicale",
+    "metaTitle": "Producție videoclipuri muzicale, de la concept la clip",
+    "metaDescription": "Producție de videoclipuri muzicale: concept, filmare cinema 4K, montaj, color grading și clipuri scurte pentru promovare. Trimiteți piesa pentru ofertă.",
+    "h1": "Producție videoclipuri muzicale cu identitate proprie",
+    "subtitle": "Transformăm piesa dumneavoastră într-un videoclip care se ține minte. Concept, filmare, montaj și materiale scurte pentru lansare, cu o singură echipă.",
+    "cardDescription": "Videoclipuri muzicale de la concept la clip final, plus teasere verticale pentru TikTok, Reels și Shorts.",
+    "summary": [
+      "Concept creativ și storyboard construite pe piesă, buget și imaginea artistului.",
+      "Filmare cu camere cinema 4K, lumini, dronă unde este permis și echipă de producție.",
+      "Montaj pe ritm, color grading și variante verticale pentru promovarea lansării.",
+      "Oferta se face după ce ascultăm piesa și discutăm ideea, într-un apel scurt."
+    ],
+    "problem": {
+      "title": "O piesă bună merită un clip pe măsură",
+      "paragraphs": [
+        "Astăzi, o piesă se descoperă mai des pe ecran decât la radio. Videoclipul este prima impresie despre artist. Dacă arată ieftin sau generic, publicul trece mai departe, oricât de bună ar fi muzica.",
+        "Mulți artiști ajung să filmeze în grabă, fără concept clar, cu o echipă improvizată. Rezultatul: cadre frumoase care nu spun nimic, montaj care nu respiră pe muzică, nimic de folosit pentru promovare după lansare.",
+        "Un videoclip trebuie să funcționeze pe YouTube, dar și tăiat în bucăți scurte pentru TikTok și Reels. Acolo se decide dacă piesa ajunge la oameni noi."
+      ]
+    },
+    "solution": {
+      "title": "Cum producem un videoclip muzical",
+      "paragraphs": [
+        "Ascultăm piesa de mai multe ori înainte de orice idee. Discutăm cu dumneavoastră despre mesaj, referințe vizuale și imaginea pe care vreți să o construiți. Apoi propunem un concept, adaptat realist la buget: narativ, performance, abstract sau o combinație.",
+        "În pre-producție scriem treatment-ul și storyboard-ul, alegem locațiile, stabilim recuzita, costumele și planul de filmare. Fiecare cadru are un rol în poveste. Știm dinainte ce filmăm și de ce, așa că ziua de filmare merge repede și fără surprize.",
+        "Pe platou lucrăm cu camere cinema 4K, lentile alese pentru stilul clipului, lumini controlate și playback pentru sincronizarea perfectă a vocii. Unde cadrul o cere și regulile permit, adăugăm cadre aeriene cu drona.",
+        "În post-producție montăm pe structura piesei, cu tăieturi pe beat și pe emoție. Color grading-ul dă clipului o identitate vizuală clară. La final pregătim teasere și clipuri verticale pentru promovarea lansării."
+      ]
+    },
+    "includes": {
+      "title": "Ce include producția",
+      "items": [
+        { "title": "Concept și treatment", "text": "Ideea clipului explicată clar, cu referințe vizuale și ton, înainte de orice filmare." },
+        { "title": "Storyboard și plan de filmare", "text": "Cadrele principale desenate sau descrise și ordinea în care le filmăm." },
+        { "title": "Locații și logistică", "text": "Propuneri de locații, programare și coordonarea echipei pe platou." },
+        { "title": "Filmare cinema 4K", "text": "Camere cinema, lentile potrivite stilului și operator dedicat." },
+        { "title": "Lumini și playback", "text": "Iluminare controlată pentru atmosferă și playback pentru sincronizare corectă." },
+        { "title": "Cadre aeriene opțional", "text": "Drona pentru scenele exterioare, unde zborul este permis." },
+        { "title": "Montaj și color grading", "text": "Montaj pe ritmul piesei și o paletă de culori care definește clipul." },
+        { "title": "Teasere și clipuri verticale", "text": "Fragmente scurte pentru TikTok, Reels și Shorts, gata pentru campania de lansare." },
+        { "title": "Livrare pentru platforme", "text": "Fișier master în calitate maximă și exporturi pentru YouTube și social media." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Lucrăm cu artiști la început de drum și cu proiecte consacrate, cu bugete diferite, dar cu aceeași seriozitate.",
+      "items": [
+        { "industry": "Artiști independenți", "text": "Un prim videoclip profesionist, care vă prezintă corect publicului și organizatorilor." },
+        { "industry": "Trupe", "text": "Clipuri performance care transmit energia live a trupei, chiar și pentru cine nu v-a văzut pe scenă." },
+        { "industry": "Case de discuri și manageri", "text": "Producție completă pentru lansările din roster, cu termene și livrabile clare." },
+        { "industry": "Producători și DJ", "text": "Visualizere și clipuri scurte pentru piese noi, seturi și promovarea evenimentelor." },
+        { "industry": "Muzică folk, tradițională și corală", "text": "Videoclipuri filmate în locații autentice, care respectă specificul genului." },
+        { "industry": "Branduri cu piese proprii", "text": "Jingle-uri și piese de campanie transformate în clipuri pentru reclame și social media." }
+      ]
+    },
+    "process": {
+      "title": "De la piesă la lansare",
+      "steps": [
+        { "title": "Ascultare și discuție", "text": "Ne trimiteți piesa și ideile. Discutăm imaginea, bugetul și termenul de lansare." },
+        { "title": "Concept și ofertă", "text": "Primiți conceptul clipului și oferta detaliată, cu ce include fiecare etapă." },
+        { "title": "Pre-producție", "text": "Storyboard, locații, recuzită, costume și plan de filmare, aprobate împreună." },
+        { "title": "Filmare", "text": "Una sau mai multe zile de filmare, cu echipa și echipamentul stabilite." },
+        { "title": "Post-producție", "text": "Montaj, color grading, revizii și pregătirea variantelor pentru promovare." },
+        { "title": "Livrare", "text": "Primiți clipul final și teaserele înainte de data lansării." }
+      ]
+    },
+    "pricingNote": "Fiecare videoclip are un concept diferit, așa că prețul se stabilește după ce ascultăm piesa și discutăm ideea, într-un apel scurt.",
+    "faq": [
+      { "q": "Cât costă un videoclip muzical?", "a": "Depinde de concept, numărul de zile de filmare, locații, figuranți, recuzită și echipă. Nu avem un preț fix, pentru că fiecare clip e diferit. După o discuție scurtă vă propunem un concept potrivit bugetului și o ofertă detaliată." },
+      { "q": "Cât durează realizarea unui videoclip?", "a": "Pre-producția durează de obicei una sau două săptămâni, iar filmarea una sau mai multe zile. Montajul și color grading-ul urmează după. Vă recomandăm să începem cu cel puțin câteva săptămâni înainte de data lansării." },
+      { "q": "Veniți voi cu ideea sau o avem noi?", "a": "Ambele variante funcționează. Dacă aveți deja o idee, o dezvoltăm și o facem realizabilă. Dacă nu, propunem noi unul sau mai multe concepte, pornind de la piesă și de la imaginea dumneavoastră." },
+      { "q": "Cine se ocupă de locații?", "a": "Propunem locații și ne ocupăm de programare. Unele locații cer taxe de închiriere sau acorduri separate, iar acestea apar transparent în ofertă. Puteți veni și cu locații proprii." },
+      { "q": "Câte runde de modificări avem?", "a": "Numărul rundelor de revizie este stabilit în ofertă. Vă trimitem o primă variantă de montaj, apoi facem ajustările cerute pe ritm, cadre și culoare, până la varianta finală." },
+      { "q": "Cui aparțin drepturile asupra videoclipului?", "a": "Primiți dreptul de a publica și monetiza videoclipul pe canalele dumneavoastră și pe platformele de streaming. Detaliile privind drepturile și creditarea echipei sunt trecute în contract." },
+      { "q": "Ne ajutați și cu promovarea lansării?", "a": "Da. Livrăm teasere și clipuri verticale, iar dacă doriți, ne ocupăm și de strategia pe TikTok sau de campaniile plătite. Lansarea are mai multe șanse când clipul e însoțit de conținut scurt constant." },
+      { "q": "Filmați și în afara orașului?", "a": "Da, în toată România. Deplasarea echipei și, dacă e cazul, cazarea se trec separat în ofertă. Multe concepte câștigă mult din locații din afara orașului." }
+    ],
+    "closing": {
+      "title": "Trimiteți-ne piesa",
+      "text": "Ne trimiteți un link către piesă și câteva cuvinte despre ce vă doriți. Revenim cu întrebări, idei și o ofertă."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru un videoclip muzical. Link piesă: ..., data lansării: ..."
+  },
+  "en": {
+    "name": "Music videos",
+    "metaTitle": "Music Video Production, from Concept to Release",
+    "metaDescription": "Music video production: concept, 4K cinema filming, editing, colour grading and short clips for your release. Send us your track for a quote.",
+    "h1": "Music video production with a look of its own",
+    "subtitle": "We turn your track into a video people remember. Concept, shoot, edit and short-form content for the release, all with one team.",
+    "cardDescription": "Music videos from concept to final cut, plus vertical teasers for TikTok, Reels and Shorts.",
+    "summary": [
+      "A creative concept and storyboard built around the track, your budget and your image.",
+      "Filmed on 4K cinema cameras with lighting, a production crew and drone where permitted.",
+      "Edited to the beat, colour graded and cut into vertical versions to promote the release.",
+      "Quoted once we've heard the track and talked through the idea on a short call."
+    ],
+    "problem": {
+      "title": "A good track deserves a video to match",
+      "paragraphs": [
+        "These days people discover music on a screen more often than on the radio. The video is the first impression of the artist. If it looks cheap or generic, viewers move on, however good the song is.",
+        "Many artists end up shooting in a rush, with no clear concept and a crew pulled together at the last minute. The result is pretty shots that say nothing, an edit that doesn't breathe with the music, and nothing left to promote the release with afterwards.",
+        "A music video has to work on YouTube and also be cut into short pieces for TikTok and Reels. That's where a track either reaches new listeners or doesn't."
+      ]
+    },
+    "solution": {
+      "title": "How we make a music video",
+      "paragraphs": [
+        "We listen to the track several times before suggesting anything. We talk with you about the message, visual references and the image you want to build. Then we pitch a concept that's realistic for the budget: narrative, performance, abstract or a mix.",
+        "In pre-production we write the treatment and storyboard, pick locations, and sort props, wardrobe and the shooting schedule. Every shot has a job in the story. We know exactly what we're filming and why, so the shoot day runs fast and without surprises.",
+        "On set we work with 4K cinema cameras, lenses chosen for the look, controlled lighting and playback so the vocals sync perfectly. Where the shot calls for it and the rules allow, we add aerial footage.",
+        "In post we cut to the structure of the track, on the beat and on the emotion. The colour grade gives the video a clear visual identity. Finally we prepare teasers and vertical clips for the release campaign."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Concept and treatment", "text": "The idea laid out clearly, with visual references and tone, before anything is filmed." },
+        { "title": "Storyboard and shooting plan", "text": "The key shots sketched or described, and the order we'll shoot them in." },
+        { "title": "Locations and logistics", "text": "Location ideas, scheduling and crew coordination on set." },
+        { "title": "4K cinema filming", "text": "Cinema cameras, lenses that suit the style and a dedicated camera operator." },
+        { "title": "Lighting and playback", "text": "Controlled light for atmosphere and playback for accurate lip sync." },
+        { "title": "Optional aerial shots", "text": "Drone footage for outdoor scenes, wherever flying is permitted." },
+        { "title": "Editing and colour grading", "text": "An edit built on the track's rhythm and a colour palette that defines the video." },
+        { "title": "Teasers and vertical clips", "text": "Short cuts for TikTok, Reels and Shorts, ready for your release campaign." },
+        { "title": "Platform-ready delivery", "text": "A full-quality master file plus exports for YouTube and social media." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "We work with emerging artists and established acts, on different budgets but with the same level of care.",
+      "items": [
+        { "industry": "Independent artists", "text": "A first professional music video that presents you properly to fans and promoters." },
+        { "industry": "Bands", "text": "Performance videos that carry your live energy to people who haven't seen you on stage yet." },
+        { "industry": "Labels and managers", "text": "Full production for releases across your roster, with clear deadlines and deliverables." },
+        { "industry": "Producers and DJs", "text": "Visualisers and short clips for new tracks, sets and event promotion." },
+        { "industry": "Folk, traditional and choral music", "text": "Videos shot in authentic locations that respect the character of the genre." },
+        { "industry": "Brands with their own music", "text": "Jingles and campaign songs turned into videos for ads and social media." }
+      ]
+    },
+    "process": {
+      "title": "From track to release",
+      "steps": [
+        { "title": "Listen and talk", "text": "Send us the track and your ideas. We discuss the look, budget and release date." },
+        { "title": "Concept and quote", "text": "You get the video concept and a detailed quote showing what each stage includes." },
+        { "title": "Pre-production", "text": "Storyboard, locations, props, wardrobe and shooting plan, signed off together." },
+        { "title": "The shoot", "text": "One or more shooting days with the agreed crew and kit." },
+        { "title": "Post-production", "text": "Editing, colour grading, revisions and the promo versions." },
+        { "title": "Delivery", "text": "You receive the final video and teasers ahead of your release date." }
+      ]
+    },
+    "pricingNote": "Every music video has a different concept, so pricing is quoted once we've heard the track and discussed the idea on a short call.",
+    "faq": [
+      { "q": "How much does a music video cost?", "a": "It depends on the concept, number of shooting days, locations, extras, props and crew. There's no fixed price because every video is different. After a short call we suggest a concept that fits your budget and send a detailed quote." },
+      { "q": "How long does it take?", "a": "Pre-production usually takes one to two weeks, and the shoot one or more days. Editing and colour grading follow. We recommend starting at least a few weeks before your release date." },
+      { "q": "Do you come up with the idea, or do we?", "a": "Either works. If you already have an idea, we develop it and make it achievable. If not, we pitch one or more concepts based on the track and your image." },
+      { "q": "Who handles locations?", "a": "We suggest locations and take care of scheduling. Some places charge a hire fee or need separate agreements, and those are listed clearly in the quote. You're welcome to bring your own locations too." },
+      { "q": "How many rounds of changes do we get?", "a": "The number of revision rounds is set in the quote. We send a first cut, then adjust pacing, shots and colour based on your notes until the final version." },
+      { "q": "Who owns the rights to the video?", "a": "You get the right to publish and monetise the video on your channels and streaming platforms. Rights and crew credit details are set out in the contract." },
+      { "q": "Can you help promote the release?", "a": "Yes. We deliver teasers and vertical clips, and if you like we can also handle your TikTok strategy or paid campaigns. A release stands a better chance when the video is backed by regular short-form content." },
+      { "q": "Do you shoot outside the city?", "a": "Yes, anywhere in Romania. Crew travel and, if needed, accommodation are listed separately in the quote. Many concepts gain a lot from locations outside town." }
+    ],
+    "closing": {
+      "title": "Send us your track",
+      "text": "Share a link to the track and a few words about what you have in mind. We'll come back with questions, ideas and a quote."
+    },
+    "whatsapp": "Hello, I'd like a quote for a music video. Track link: ..., release date: ..."
+  }
+}

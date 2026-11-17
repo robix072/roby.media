@@ -1,0 +1,173 @@
+{
+  "_comment": "Pagina /servicii/spot-publicitar (EN: /en/services/video-commercial-production). Textele se editează direct aici.",
+  "id": "spot-publicitar",
+  "category": "productie",
+  "order": 20,
+  "slug": { "ro": "spot-publicitar", "en": "video-commercial-production" },
+  "icon": "clapper",
+  "packageGroup": "productie",
+  "packageIds": ["spot-publicitar"],
+  "priceFrom": 3500,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["video-comercial", "campanii"],
+  "related": ["videoclip-prezentare-firma", "copywriting-scripturi-video", "reclame-facebook-instagram", "productie-ugc"],
+  "localService": null,
+  "ro": {
+    "name": "Spot publicitar",
+    "metaTitle": "Spot publicitar video: concept, filmare și montaj",
+    "metaDescription": "Producție spot publicitar video: idee creativă, filmare cinematică, color grading, sound design, formate 16:9, 9:16 și 1:1. De la 3.500 lei. Cereți ofertă.",
+    "h1": "Spot publicitar video care oprește scroll-ul și aduce clienți",
+    "subtitle": "Construim reclama în jurul unei singure idei puternice și o filmăm la nivel cinematic. Primiți versiuni gata de difuzat online, pe social media și pe ecrane mari.",
+    "cardDescription": "Reclamă video cinematică, de la idee la montaj final, livrată în formatele 16:9, 9:16 și 1:1.",
+    "summary": [
+      "Concept creativ și script construite pe obiectivul campaniei: vânzări, lansare sau notorietate.",
+      "Filmare cinematică cu echipă, lumini și, la nevoie, actori, locații și dronă.",
+      "Color grading, sound design și variante în 16:9, 9:16 și 1:1 pentru fiecare platformă.",
+      "Proiectele pornesc de la 3.500 lei + TVA, în funcție de complexitate."
+    ],
+    "problem": {
+      "title": "O reclamă slabă costă de două ori",
+      "paragraphs": [
+        "Publicul vede zeci de reclame pe zi și le sare pe cele mai multe în primele două secunde. Un spot fără o idee clară, filmat banal sau cu sunet neglijent, nu doar că nu vinde. Consumă bugetul de promovare și lasă o impresie proastă despre brand.",
+        "Problema apare des când reclama este gândită ca un clip de prezentare mai scurt. Spunem totul despre firmă și, în final, clientul nu reține nimic. Un spot bun are o singură promisiune, spusă memorabil, și un îndemn clar la acțiune."
+      ]
+    },
+    "solution": {
+      "title": "Cum producem un spot publicitar",
+      "paragraphs": [
+        "Pornim de la obiectiv. Vreți vânzări pentru un produs, programări, o lansare sau mai multă notorietate? Apoi analizăm publicul și ce îl face să se oprească din scroll. Pe baza acestor răspunsuri propunem una sau două idei creative, cu script și storyboard simplu.",
+        "După ce alegeți direcția, organizăm producția: locații, recuzită, actori sau oameni din echipa dumneavoastră, program de filmare. Filmăm cu camere cinema 4K, lumini controlate și sunet profesional. Fiecare cadru are un rol în poveste. Nu filmăm la întâmplare, sperând că vom găsi ceva la montaj.",
+        "În post-producție dăm ritm spotului, facem color grading pentru un aspect unitar și construim sound design-ul: muzică licențiată, efecte, voce. Montăm separat pentru fiecare format, nu doar decupăm imaginea. Primele secunde din varianta verticală sunt gândite pentru TikTok și Reels, unde atenția se câștigă imediat."
+      ]
+    },
+    "includes": {
+      "title": "Ce include producția spotului",
+      "items": [
+        { "title": "Concept creativ", "text": "Una sau două idei de spot, construite pe obiectivul campaniei și pe publicul țintă." },
+        { "title": "Script și storyboard", "text": "Textul, cadrele principale și ritmul spotului, aprobate de dumneavoastră înainte de filmare." },
+        { "title": "Pre-producție", "text": "Alegerea locațiilor, recuzita, casting la nevoie și planul detaliat al zilei de filmare." },
+        { "title": "Filmare cinematică 4K", "text": "Camere cinema, lentile de calitate, lumini controlate și sunet înregistrat profesional." },
+        { "title": "Cadre aeriene, opțional", "text": "Drona pentru amploare și context, folosită doar unde zborul este permis de reglementările AACR/UE." },
+        { "title": "Color grading", "text": "Un aspect vizual unitar, adaptat identității brandului și atmosferei dorite." },
+        { "title": "Sound design și voce", "text": "Muzică licențiată, efecte sonore și, la cerere, voce profesională din off." },
+        { "title": "Variante pe formate", "text": "Montaje dedicate în 16:9, 9:16 și 1:1, plus versiuni scurte de 6 sau 15 secunde la nevoie." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Un spot publicitar are sens atunci când aveți o ofertă clară și vreți să ajungeți la mulți oameni, rapid.",
+      "items": [
+        { "industry": "Magazine online și branduri de produs", "text": "Lansarea unui produs nou sau o campanie de sezon, cu variante dedicate pentru Meta Ads și TikTok Ads." },
+        { "industry": "Restaurante și lanțuri HoReCa", "text": "Un meniu nou, o locație deschisă recent sau livrarea la domiciliu, prezentate apetisant și scurt." },
+        { "industry": "Dezvoltatori imobiliari", "text": "Spot pentru lansarea unui ansamblu, cu cadre aeriene, interioare amenajate și stil de viață." },
+        { "industry": "Dealeri auto", "text": "Un model nou, o ofertă de finanțare sau un eveniment de test drive, filmate cinematic." },
+        { "industry": "Clinici și centre de înfrumusețare", "text": "O procedură sau un serviciu nou, explicat clar și atrăgător, fără promisiuni exagerate." },
+        { "industry": "Evenimente, festivaluri și săli de sport", "text": "Promovarea biletelor sau a abonamentelor, cu energie și un îndemn clar la cumpărare." }
+      ]
+    },
+    "process": {
+      "title": "De la idee la spotul difuzat",
+      "steps": [
+        { "title": "Brief", "text": "Ne spuneți ce promovați, cui și unde va rula reclama. Stabilim bugetul și termenul." },
+        { "title": "Concept și script", "text": "Vă prezentăm ideile creative. Alegeți una, iar noi o dezvoltăm în script și storyboard." },
+        { "title": "Pre-producție", "text": "Locații, actori, recuzită, program. Totul este confirmat înainte de ziua de filmare." },
+        { "title": "Filmare", "text": "Echipa filmează conform planului, cu timp alocat pentru variante și cadre suplimentare." },
+        { "title": "Post-producție și livrare", "text": "Montaj, color grading, sound design, o rundă de revizii, apoi livrarea pe toate formatele." }
+      ]
+    },
+    "pricingNote": "Pachetul Spot Publicitar pornește de la 3.500 lei + TVA. Prețul final depinde de numărul de zile de filmare, locații, actori și formatele cerute. Bugetul de difuzare nu este inclus.",
+    "faq": [
+      { "q": "Cât costă un spot publicitar?", "a": "Producția pornește de la 3.500 lei + TVA și include concept creativ, filmare cinematică, color grading, sound design și variantele în 16:9, 9:16 și 1:1. Actorii, locațiile închiriate, mai multe zile de filmare sau vocea profesională cresc costul. Vă trimitem o ofertă detaliată după brief." },
+      { "q": "Cât durează producția?", "a": "Pentru un spot obișnuit, de la brief la livrare trec de regulă câteva săptămâni. Etapa cea mai variabilă este pre-producția: găsirea locației, a actorilor și aprobarea scriptului. Dacă aveți o dată de lansare fixă, spuneți-ne de la început și planificăm invers de la ea." },
+      { "q": "Ce durată ar trebui să aibă spotul?", "a": "Depinde de platformă. Pentru social media funcționează bine 15–30 de secunde, cu mesajul principal în primele secunde. Pentru YouTube sau ecrane în spații publice putem merge mai lung. De obicei livrăm o versiune principală și câteva variante scurte, ca să le testați în campanii." },
+      { "q": "Ne ajutați și cu difuzarea reclamei?", "a": "Da. Putem administra campaniile pe Meta, TikTok sau Google prin serviciile noastre de reclame plătite. Bugetul de difuzare se plătește direct platformelor și nu este inclus în prețul producției." },
+      { "q": "Aveți actori sau trebuie să îi găsim noi?", "a": "Putem face casting pentru fiecare proiect, în funcție de publicul spotului. Onorariile actorilor se trec separat în ofertă. La fel de bine putem filma cu oameni din echipa dumneavoastră, ceea ce dă de multe ori un plus de autenticitate." },
+      { "q": "Cine deține drepturile asupra spotului?", "a": "Spotul final îl folosiți pentru promovarea brandului dumneavoastră, pe canalele stabilite. Muzica este licențiată pentru utilizarea convenită. Dacă folosim actori, perioada și canalele de difuzare se stabilesc în contract, pentru că influențează onorariul." },
+      { "q": "Ce se întâmplă dacă nu ne place montajul?", "a": "Scriptul și storyboard-ul sunt aprobate înainte de filmare, deci direcția nu este o surpriză. După primul montaj aveți o rundă de revizii inclusă. Modificările mari de concept, după filmare, se discută și se ofertează separat." }
+    ],
+    "closing": {
+      "title": "Aveți un produs sau o ofertă de promovat?",
+      "text": "Spuneți-ne ce vreți să vindeți și unde va rula reclama. Revenim cu o direcție creativă și o ofertă clară."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru producția unui spot publicitar video."
+  },
+  "en": {
+    "name": "Video commercial",
+    "metaTitle": "Video Commercial Production: Concept to Final Cut",
+    "metaDescription": "Video commercials with a strong creative idea, cinematic filming, grading, sound design and 16:9, 9:16, 1:1 cuts. From 3,500 RON. Request a quote.",
+    "h1": "Video commercials that stop the scroll and bring in customers",
+    "subtitle": "We build your ad around one strong idea and shoot it to a cinematic standard. You get versions ready for social media, online video and big screens.",
+    "cardDescription": "A cinematic video ad from idea to final edit, delivered in 16:9, 9:16 and 1:1.",
+    "summary": [
+      "A creative concept and script built on your campaign goal: sales, a launch or awareness.",
+      "Cinematic filming with crew and lighting, plus actors, locations and drone where needed.",
+      "Colour grading, sound design and dedicated 16:9, 9:16 and 1:1 edits for each platform.",
+      "Projects start at 3,500 RON + VAT, depending on scope."
+    ],
+    "problem": {
+      "title": "A weak ad costs you twice",
+      "paragraphs": [
+        "People see dozens of ads a day and skip most of them within two seconds. An ad with no clear idea, flat visuals or careless sound doesn't just fail to sell. It burns through your media budget and leaves a poor impression of your brand.",
+        "This often happens when a commercial is treated as a shorter company video. It tries to say everything, and viewers remember nothing. A good commercial makes one promise, makes it memorable, and ends with a clear call to action."
+      ]
+    },
+    "solution": {
+      "title": "How we produce your commercial",
+      "paragraphs": [
+        "We start with the goal. Product sales, bookings, a launch or brand awareness? Then we look at your audience and what actually makes them stop scrolling. Based on that, we pitch one or two creative ideas, each with a script and a simple storyboard.",
+        "Once you pick a direction, we handle production: locations, props, actors or members of your own team, and the shooting schedule. We film on 4K cinema cameras with controlled lighting and professional sound. Every shot has a job in the story. We don't film at random and hope to find something in the edit.",
+        "In post-production we set the pace, grade the colour for a consistent look and build the sound design: licensed music, effects and voice. Each format gets its own edit, not just a crop. The vertical version opens for TikTok and Reels, where attention has to be won instantly."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Creative concept", "text": "One or two ad ideas, built around your campaign goal and target audience." },
+        { "title": "Script and storyboard", "text": "The copy, key shots and pacing, approved by you before the shoot." },
+        { "title": "Pre-production", "text": "Location scouting, props, casting where needed and a detailed shooting plan." },
+        { "title": "Cinematic 4K filming", "text": "Cinema cameras, quality lenses, controlled lighting and professionally recorded sound." },
+        { "title": "Optional aerial footage", "text": "Drone shots for scale and context, flown only where Romanian and EU rules allow." },
+        { "title": "Colour grading", "text": "A consistent visual look, matched to your brand identity and the mood you want." },
+        { "title": "Sound design and voice", "text": "Licensed music, sound effects and, on request, a professional voiceover." },
+        { "title": "Platform-specific edits", "text": "Dedicated 16:9, 9:16 and 1:1 cuts, plus 6 or 15-second versions when needed." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "A commercial makes sense when you have a clear offer and want to reach a lot of people, fast.",
+      "items": [
+        { "industry": "E-commerce and product brands", "text": "A product launch or seasonal campaign, with separate cuts for Meta Ads and TikTok Ads." },
+        { "industry": "Restaurants and hospitality groups", "text": "A new menu, a new location or a delivery offer, shown short and mouth-watering." },
+        { "industry": "Property developers", "text": "A launch ad for a residential project, with aerial views, furnished interiors and lifestyle shots." },
+        { "industry": "Car dealerships", "text": "A new model, a finance offer or a test-drive event, filmed with a cinematic feel." },
+        { "industry": "Clinics and beauty centres", "text": "A new treatment or service, explained clearly and attractively, without overpromising." },
+        { "industry": "Events, festivals and gyms", "text": "Ticket or membership drives with energy and a clear reason to buy now." }
+      ]
+    },
+    "process": {
+      "title": "From idea to ad on air",
+      "steps": [
+        { "title": "Brief", "text": "Tell us what you're promoting, to whom and where the ad will run. We agree budget and deadline." },
+        { "title": "Concept and script", "text": "We present our creative ideas. You choose one and we develop it into a script and storyboard." },
+        { "title": "Pre-production", "text": "Locations, cast, props and schedule, all confirmed before the shoot day." },
+        { "title": "Shoot", "text": "The crew films to plan, with time set aside for alternate takes and extra shots." },
+        { "title": "Post and delivery", "text": "Edit, grade, sound design and one round of revisions, then delivery in every format." }
+      ]
+    },
+    "pricingNote": "The Commercial package starts at 3,500 RON + VAT. The final price depends on shoot days, locations, cast and the formats you need. Media spend is not included.",
+    "faq": [
+      { "q": "How much does a video commercial cost?", "a": "Production starts at 3,500 RON + VAT and covers the creative concept, cinematic filming, colour grading, sound design and 16:9, 9:16 and 1:1 versions. Actors, hired locations, extra shoot days or a professional voiceover add to the cost. You'll get a detailed quote after the brief." },
+      { "q": "How long does production take?", "a": "For a typical commercial, a few weeks from brief to delivery. Pre-production is the most variable stage: finding locations and cast, and signing off the script. If you have a fixed launch date, tell us up front and we'll plan backwards from it." },
+      { "q": "How long should the ad be?", "a": "It depends on the platform. On social media, 15 to 30 seconds with the main message up front works well. For YouTube or screens in public spaces we can go longer. We usually deliver a main version plus a few short variants so you can test them in your campaigns." },
+      { "q": "Can you also run the ads?", "a": "Yes. We can manage your campaigns on Meta, TikTok or Google through our paid advertising services. Media spend is paid directly to the platforms and isn't included in the production price." },
+      { "q": "Do you provide actors?", "a": "We can cast for each project, based on who the ad is speaking to. Talent fees are listed separately in the quote. We can just as easily film with your own team, which often adds authenticity." },
+      { "q": "Who owns the rights to the commercial?", "a": "You use the final ad to promote your brand on the agreed channels. Music is licensed for that use. If actors are involved, the usage period and channels are set in the contract, since they affect talent fees." },
+      { "q": "What if we don't like the edit?", "a": "The script and storyboard are approved before filming, so the direction holds no surprises. After the first cut you get one round of revisions included. Major concept changes after the shoot are discussed and quoted separately." }
+    ],
+    "closing": {
+      "title": "Got a product or offer to promote?",
+      "text": "Tell us what you want to sell and where the ad will run. We'll come back with a creative direction and a clear quote."
+    },
+    "whatsapp": "Hello, I'd like a quote for a video commercial."
+  }
+}

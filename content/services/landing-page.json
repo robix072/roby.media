@@ -1,0 +1,177 @@
+{
+  "_comment": "Pagina /servicii/landing-page (EN: /en/services/landing-page-design). Textele se editează direct aici.",
+  "id": "landing-page",
+  "category": "web",
+  "order": 30,
+  "slug": { "ro": "landing-page", "en": "landing-page-design" },
+  "icon": "layout",
+  "packageGroup": "website",
+  "packageIds": ["landing-page"],
+  "priceFrom": 1500,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["website", "campanii"],
+  "related": ["reclame-facebook-instagram", "reclame-google-ads", "copywriting-scripturi-video", "creare-site-prezentare"],
+  "localService": null,
+  "ro": {
+    "name": "Landing page",
+    "metaTitle": "Creare landing page pentru reclame care aduc cereri",
+    "metaDescription": "Landing page rapid, cu copywriting, formular, WhatsApp și tracking pentru reclame. De la 1.500 lei + TVA. Trimiteți-ne campania și primiți oferta.",
+    "h1": "Creare landing page pentru campanii care aduc cereri de ofertă",
+    "subtitle": "O singură pagină, un singur scop. Construim landing page-uri rapide, scrise pentru publicul campaniei dumneavoastră, care transformă click-urile plătite în cereri, programări și vânzări.",
+    "cardDescription": "O pagină de conversie rapidă, cu copywriting, formular, WhatsApp și tracking, construită pentru reclame.",
+    "summary": [
+      "O pagină de conversie dedicată unei oferte, unui serviciu sau unei campanii.",
+      "Copywriting inclus, formular, WhatsApp, apel direct și tracking pentru Google, Meta și TikTok.",
+      "Rapidă pe telefon, cu SEO de bază și elementele GDPR necesare.",
+      "Pachetul Landing Page pornește de la 1.500 lei + TVA."
+    ],
+    "problem": {
+      "title": "Reclamele trimit oameni pe pagina greșită",
+      "paragraphs": [
+        "Cea mai frecventă greșeală în campaniile plătite este trimiterea traficului pe prima pagină a site-ului. Omul a dat click pe o reclamă pentru un serviciu anume și ajunge pe o pagină cu meniu, zece servicii și un slider. Nu găsește repede ce a căutat și închide fereastra.",
+        "Fiecare click costă. Dacă pagina nu continuă exact promisiunea din reclamă, plătiți pentru vizite care nu devin cereri. Iar fără tracking corect, nici nu știți ce campanie merge și ce campanie doar consumă bugetul.",
+        "Problema nu este întotdeauna reclama. De multe ori, pagina pe care ajunge omul îi pierde atenția."
+      ]
+    },
+    "solution": {
+      "title": "Cum construim un landing page care convertește",
+      "paragraphs": [
+        "Pornim de la campanie. Ne uităm la oferta dumneavoastră, la publicul țintă și la reclamele care vor trimite trafic. Pagina trebuie să continue firesc mesajul din reclamă: același beneficiu, aceeași ofertă, același ton.",
+        "Scriem textul pentru oameni grăbiți. Titlul spune clar ce primește vizitatorul. Urmează beneficiile, dovezile pe care le aveți (fotografii reale, recenzii reale, exemple de lucrări), răspunsurile la obiecțiile frecvente și un singur îndemn la acțiune, repetat în locurile potrivite. Fără meniu care distrage atenția și fără informații care nu ajută decizia.",
+        "Construim pagina mobile-first și o optimizăm pentru viteză, pentru că traficul din TikTok, Instagram și Facebook vine aproape tot de pe telefon. Formularul cere doar ce aveți nevoie, iar butoanele de WhatsApp și apel direct sunt la un deget distanță.",
+        "Configurăm tracking-ul pentru reclame: evenimentele de conversie pentru Google Ads, Meta Pixel și TikTok Pixel, prin Google Tag Manager unde e cazul. Astfel, algoritmii platformelor învață cine devine client, iar dumneavoastră vedeți costul real pe cerere."
+      ]
+    },
+    "includes": {
+      "title": "Ce include landing page-ul",
+      "items": [
+        { "title": "Analiza ofertei și a publicului", "text": "Clarificăm cui vă adresați, ce promite reclama și ce trebuie să creadă vizitatorul ca să vă contacteze." },
+        { "title": "Copywriting de conversie", "text": "Titlu, beneficii, argumente, răspunsuri la obiecții și îndemnuri la acțiune, scrise de noi." },
+        { "title": "Design personalizat", "text": "O pagină construită pe brandul dumneavoastră, cu structură gândită pentru citire rapidă pe telefon." },
+        { "title": "Formular și WhatsApp", "text": "Formular scurt, buton WhatsApp cu mesaj precompletat și apel direct cu un singur click." },
+        { "title": "Tracking pentru reclame", "text": "Evenimente de conversie configurate pentru Google, Meta și TikTok, verificate înainte de lansare." },
+        { "title": "Viteză și mobile-first", "text": "Imagini optimizate și cod curat, ca pagina să se încarce repede chiar și pe date mobile." },
+        { "title": "GDPR și SEO de bază", "text": "Banner de cookie-uri, politică de confidențialitate, acord în formular, meta titlu și descriere." },
+        { "title": "Publicare pe domeniul dumneavoastră", "text": "Pe domeniul principal sau pe un subdomeniu dedicat campaniei, cum este mai potrivit." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Un landing page este util oricând aveți o ofertă clară și plătiți pentru trafic sau vreți să testați rapid o idee.",
+      "items": [
+        { "industry": "Clinici de estetică și stomatologie", "text": "O pagină pentru un singur tratament, cu explicații simple, întrebări frecvente și programare rapidă." },
+        { "industry": "Școli, cursuri și traineri", "text": "Pagină de înscriere pentru un curs sau un webinar, cu programa, formatorul și formularul de înscriere." },
+        { "industry": "Dezvoltatori imobiliari", "text": "Prezentarea unui proiect rezidențial, cu planuri, galerie și formular pentru vizionări." },
+        { "industry": "Servicii la domiciliu", "text": "Instalatori, firme de curățenie sau montaj, care au nevoie de telefoane din zona lor, nu de vizite." },
+        { "industry": "Evenimente și conferințe", "text": "Agenda, vorbitorii, locația și înregistrarea sau cumpărarea biletului, totul pe o singură pagină." },
+        { "industry": "Branduri care lansează un produs nou", "text": "Pagină de lansare sau precomandă, folosită pentru a testa interesul înainte de stoc mare." }
+      ]
+    },
+    "process": {
+      "title": "Cum lucrăm",
+      "steps": [
+        { "title": "Brief", "text": "Ne spuneți oferta, publicul, bugetul de reclame și ce înseamnă o conversie pentru dumneavoastră." },
+        { "title": "Text și structură", "text": "Scriem textul paginii și stabilim ordinea secțiunilor. Vi le trimitem spre aprobare." },
+        { "title": "Design și dezvoltare", "text": "Construim pagina, conectăm formularul, WhatsApp-ul și tracking-ul." },
+        { "title": "Testare", "text": "Verificăm pagina pe mai multe telefoane și browsere și testăm fiecare eveniment de conversie." },
+        { "title": "Lansare și ajustări", "text": "Pagina intră în campanii. După primele date, vă putem propune ajustări de text sau structură." }
+      ]
+    },
+    "pricingNote": "Pachetul Landing Page pornește de la 1.500 lei + TVA și include copywriting, formular, WhatsApp și tracking. Bugetul de reclame nu este inclus.",
+    "faq": [
+      { "q": "Cât costă un landing page?", "a": "Pachetul Landing Page pornește de la 1.500 lei + TVA. Include o pagină de conversie, copywriting, formular, WhatsApp și tracking pentru reclame. Prețul crește dacă aveți nevoie de variante pentru teste, de o a doua limbă sau de integrări speciale, de exemplu cu un CRM." },
+      { "q": "De ce nu trimitem reclamele direct pe site?", "a": "Puteți, dar site-ul are multe pagini, meniuri și mesaje generale. Un landing page păstrează vizitatorul pe o singură ofertă și un singur pas următor. De aceea, pentru campanii plătite, este de obicei alegerea mai eficientă." },
+      { "q": "În cât timp este gata pagina?", "a": "Un landing page se face mult mai repede decât un site complet, de regulă în câteva zile lucrătoare de la primirea informațiilor. Termenul exact depinde de cât de repede aprobați textul și designul." },
+      { "q": "Ce aveți nevoie de la noi?", "a": "Detaliile ofertei, logo-ul, fotografii reale ale produsului sau serviciului, eventual recenzii reale de la clienți și accesul la conturile de reclame sau la Google Tag Manager pentru tracking." },
+      { "q": "Câte revizii sunt incluse?", "a": "Textul și designul trec prin runde de revizie înainte de lansare. Numărul de runde este trecut în ofertă. Ajustările ulterioare, făcute pe baza rezultatelor din campanii, le stabilim separat." },
+      { "q": "Al cui este landing page-ul?", "a": "Pagina, textele și elementele de design vă aparțin după plata integrală. O publicăm pe domeniul dumneavoastră, iar datele din formulare ajung direct la dumneavoastră." },
+      { "q": "Vă ocupați și de reclame?", "a": "Da, separat, prin pachetele de administrare a reclamelor pe Meta, Google sau TikTok. Când aceeași echipă face pagina și campaniile, mesajul rămâne consecvent și optimizarea se face mai ușor." }
+    ],
+    "closing": {
+      "title": "Faceți ca fiecare click plătit să conteze",
+      "text": "Trimiteți-ne oferta și campania pe care vreți să o lansați. Vă răspundem cu o propunere de pagină și o ofertă clară."
+    },
+    "whatsapp": "Bună ziua, aș dori un landing page pentru o campanie. Oferta/serviciul: ..., platforma de reclame: ..."
+  },
+  "en": {
+    "name": "Landing page design",
+    "metaTitle": "Landing Page Design for Ads That Generate Leads",
+    "metaDescription": "Fast landing pages with copywriting, forms, WhatsApp and ad tracking built in. From 1,500 RON + VAT. Send us your campaign and get a quote.",
+    "h1": "Landing page design for campaigns that bring in leads",
+    "subtitle": "One page, one goal. We build fast landing pages written for your campaign's audience, turning paid clicks into enquiries, bookings and sales.",
+    "cardDescription": "A fast conversion page with copywriting, forms, WhatsApp and tracking, built for paid campaigns.",
+    "summary": [
+      "A conversion page dedicated to one offer, one service or one campaign.",
+      "Copywriting included, plus form, WhatsApp, click-to-call and tracking for Google, Meta and TikTok.",
+      "Fast on mobile, with core SEO and the GDPR essentials in place.",
+      "The Landing Page package starts at 1,500 RON + VAT."
+    ],
+    "problem": {
+      "title": "Your ads are sending people to the wrong page",
+      "paragraphs": [
+        "The most common mistake in paid campaigns is sending traffic to the homepage. Someone clicked an ad about one specific service and lands on a page with a menu, ten services and a slider. They can't find what they came for, so they close the tab.",
+        "Every click costs money. If the page doesn't pick up exactly where the ad left off, you're paying for visits that never become leads. And without proper tracking, you can't even tell which campaign works and which one just burns budget.",
+        "The ad isn't always the problem. Often it's the page that loses the visitor's attention."
+      ]
+    },
+    "solution": {
+      "title": "How we build a landing page that converts",
+      "paragraphs": [
+        "We start from the campaign. We look at your offer, your target audience and the ads that will drive traffic. The page has to carry the ad's message forward: same benefit, same offer, same tone.",
+        "We write for people in a hurry. The headline says exactly what the visitor gets. Then come the benefits, the proof you actually have (real photos, real reviews, examples of your work), answers to common objections and a single call to action, repeated in the right places. No distracting menu, nothing that doesn't help the decision.",
+        "We build mobile-first and optimise for speed, because traffic from TikTok, Instagram and Facebook is almost entirely on phones. The form asks only for what you need, and WhatsApp and click-to-call are one tap away.",
+        "We set up ad tracking: conversion events for Google Ads, Meta Pixel and TikTok Pixel, through Google Tag Manager where it makes sense. That way the ad platforms learn who becomes a customer, and you see your real cost per lead."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Offer and audience review", "text": "We clarify who you're talking to, what the ad promises and what visitors need to believe to get in touch." },
+        { "title": "Conversion copywriting", "text": "Headline, benefits, arguments, objection handling and calls to action, all written by us." },
+        { "title": "Custom design", "text": "A page built on your brand, structured for quick reading on a phone." },
+        { "title": "Form and WhatsApp", "text": "A short form, a WhatsApp button with a prefilled message and one-tap calling." },
+        { "title": "Ad tracking", "text": "Conversion events for Google, Meta and TikTok, configured and tested before launch." },
+        { "title": "Speed and mobile-first", "text": "Optimised images and clean code, so the page loads fast even on mobile data." },
+        { "title": "GDPR and core SEO", "text": "Cookie banner, privacy policy, form consent, meta title and description." },
+        { "title": "Published on your domain", "text": "On your main domain or a campaign subdomain, whichever fits best." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "A landing page makes sense whenever you have a clear offer and you're paying for traffic, or you want to test an idea quickly.",
+      "items": [
+        { "industry": "Aesthetic and dental clinics", "text": "One page per treatment, with plain explanations, an FAQ and fast booking." },
+        { "industry": "Schools, courses and trainers", "text": "A sign-up page for a course or webinar, with the syllabus, the trainer and the registration form." },
+        { "industry": "Property developers", "text": "A residential project showcase with floor plans, a gallery and a viewing request form." },
+        { "industry": "Home services", "text": "Plumbers, cleaning or installation companies that need phone calls from their area, not page views." },
+        { "industry": "Events and conferences", "text": "Agenda, speakers, venue and registration or ticket purchase, all on one page." },
+        { "industry": "Brands launching a new product", "text": "A launch or pre-order page to test demand before committing to large stock." }
+      ]
+    },
+    "process": {
+      "title": "How we work",
+      "steps": [
+        { "title": "Brief", "text": "You share the offer, the audience, the ad budget and what a conversion means for you." },
+        { "title": "Copy and structure", "text": "We write the page copy and set the order of sections, then send them for approval." },
+        { "title": "Design and build", "text": "We build the page and connect the form, WhatsApp and tracking." },
+        { "title": "Testing", "text": "We check the page on several phones and browsers and test every conversion event." },
+        { "title": "Launch and tuning", "text": "The page goes live in your campaigns. Once the first data comes in, we can suggest copy or layout tweaks." }
+      ]
+    },
+    "pricingNote": "The Landing Page package starts at 1,500 RON + VAT and includes copywriting, form, WhatsApp and tracking. Ad spend is not included.",
+    "faq": [
+      { "q": "How much does a landing page cost?", "a": "The Landing Page package starts at 1,500 RON + VAT. It includes one conversion page, copywriting, form, WhatsApp and ad tracking. The price goes up if you need test variants, a second language or special integrations, such as a CRM." },
+      { "q": "Why not send ads straight to our website?", "a": "You can, but a website has many pages, menus and general messages. A landing page keeps the visitor on one offer and one next step. For paid campaigns, that's usually the more efficient choice." },
+      { "q": "How long does it take?", "a": "A landing page is much quicker than a full website, usually a few working days once we have your information. The exact timeline depends on how quickly you approve the copy and design." },
+      { "q": "What do you need from us?", "a": "The details of your offer, your logo, real photos of the product or service, any genuine customer reviews, and access to your ad accounts or Google Tag Manager for tracking." },
+      { "q": "How many revisions are included?", "a": "Copy and design go through revision rounds before launch. The number of rounds is set out in the quote. Later changes based on campaign results are agreed separately." },
+      { "q": "Who owns the landing page?", "a": "Once paid in full, the page, the copy and the design assets are yours. We publish it on your domain, and form submissions go straight to you." },
+      { "q": "Do you run the ads too?", "a": "Yes, separately, through our Meta, Google and TikTok ads management packages. When the same team builds the page and runs the campaigns, the message stays consistent and optimisation is easier." }
+    ],
+    "closing": {
+      "title": "Make every paid click count",
+      "text": "Send us your offer and the campaign you want to launch. We'll come back with a page proposal and a clear quote."
+    },
+    "whatsapp": "Hello, I'd like a landing page for a campaign. Offer/service: ..., ad platform: ..."
+  }
+}

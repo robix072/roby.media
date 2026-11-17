@@ -1,0 +1,179 @@
+{
+  "_comment": "Pagina /servicii/marketing-tiktok (EN: /en/services/tiktok-marketing). Strategie, conținut și creștere organică. Reclamele plătite au pagina reclame-tiktok-ads.",
+  "id": "marketing-tiktok",
+  "category": "marketing",
+  "order": 10,
+  "slug": { "ro": "marketing-tiktok", "en": "tiktok-marketing" },
+  "icon": "trending",
+  "packageGroup": "social",
+  "packageIds": ["start", "marketing-pack", "growth", "all-in-brand"],
+  "priceFrom": 600,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["tiktok-social"],
+  "related": ["reclame-tiktok-ads", "social-media-management", "continut-social-media", "productie-ugc"],
+  "localService": "agentie-marketing",
+  "ro": {
+    "name": "Marketing TikTok",
+    "metaTitle": "Agenție TikTok: strategie, clipuri și creștere organică",
+    "metaDescription": "Agenție de marketing TikTok: strategie, scripturi, filmare și editare pentru afaceri locale. Pachete de la 600 lei. Cereți o ofertă pe WhatsApp.",
+    "h1": "Agenție TikTok pentru afaceri care vor clienți, nu doar vizualizări",
+    "subtitle": "Construim prezența afacerii dumneavoastră pe TikTok: strategie, scripturi, filmare și editare. Clipuri care explică ce faceți, câștigă încredere și aduc mesaje de la oameni interesați.",
+    "cardDescription": "Strategie, scripturi, filmare și editare pentru TikTok. Conținut constant care crește organic și aduce clienți.",
+    "summary": [
+      "Strategie de conținut, scripturi, filmare și editare, făcute de aceeași echipă.",
+      "Clipuri verticale gândite pentru TikTok, refolosibile pe Instagram Reels și YouTube Shorts.",
+      "Potrivit și pentru domenii „serioase”: clinici, construcții, avocatură, servicii B2B.",
+      "Pachete de la 600 lei pentru 10 clipuri. Administrare lunară de la 1.900 lei/lună."
+    ],
+    "problem": {
+      "title": "TikTok nu mai este doar pentru adolescenți",
+      "paragraphs": [
+        "Mulți antreprenori încă privesc TikTok ca pe o platformă de dansuri. Între timp, oamenii îl folosesc ca motor de căutare: caută „cel mai bun dentist”, „cât costă o casă la roșu”, „ce fac dacă am primit o amendă”. Cine răspunde clar la aceste întrebări, în format video, câștigă atenția și încrederea lor.",
+        "Problema nu este platforma, ci felul în care e folosită. Clipuri filmate în grabă, fără un mesaj clar, postate o dată pe lună. Sau conținut copiat după trenduri care nu au nicio legătură cu afacerea. Rezultatul: câteva sute de vizualizări, niciun client, și concluzia greșită că „TikTok nu merge la noi”.",
+        "Pentru o clinică, o firmă de construcții sau un cabinet de avocatură, TikTok este de fapt un avantaj. Concurența din aceste domenii este încă slab reprezentată acolo. Un specialist care explică simplu lucruri utile iese în evidență mult mai ușor decât un magazin de haine într-o mare de clipuri similare."
+      ]
+    },
+    "solution": {
+      "title": "Cum construim un cont TikTok care aduce clienți",
+      "paragraphs": [
+        "Pornim de la afacerea dumneavoastră, nu de la trenduri. Stabilim cine este clientul ideal, ce întrebări își pune înainte să cumpere și ce îl face să aibă încredere. Din răspunsuri construim piloni de conținut: educativ, din culise, rezultate, răspunsuri la obiecții, oameni din echipă.",
+        "Scriem fiecare clip cu un hook în primele secunde, un mesaj clar și un îndemn concret. Filmăm într-o zi de producție mai multe clipuri, ca să nu vă ocupăm timpul în fiecare săptămână. Editarea este dinamică, cu subtitrare, pentru că o mare parte dintre oameni urmăresc fără sunet.",
+        "Creșterea organică pe TikTok vine din constanță și din învățare. Urmărim ce clipuri sunt vizionate până la capăt, ce aduce comentarii și mesaje, ce subiecte merită continuate. Ajustăm formatul lună de lună. Dacă doriți să accelerați, aceleași clipuri pot deveni reclame plătite."
+      ]
+    },
+    "includes": {
+      "title": "Ce include marketingul TikTok",
+      "items": [
+        { "title": "Audit și strategie", "text": "Analizăm contul existent (dacă există), concurența și publicul, apoi stabilim pilonii de conținut și tonul." },
+        { "title": "Idei și scripturi", "text": "Fiecare clip are un hook scris, o structură și un îndemn la acțiune, aprobate de dumneavoastră înainte de filmare." },
+        { "title": "Filmare la sediul dumneavoastră", "text": "Venim cu echipamentul: cameră, lumini, microfoane wireless. Filmăm mai multe clipuri într-o singură zi." },
+        { "title": "Editare pentru vertical", "text": "Montaj ritmat, subtitrare, text pe ecran și muzică potrivită pentru TikTok și Reels." },
+        { "title": "Descrieri și hashtag-uri", "text": "Texte scurte care completează clipul și ajută la căutare, cu cuvinte pe care clienții le folosesc." },
+        { "title": "Calendar de postare", "text": "Știți ce se postează și când. În pachetele lunare ne ocupăm noi și de publicare." },
+        { "title": "Răspuns la comentarii", "text": "În pachetele Growth și All-In Brand răspundem la comentarii și vă semnalăm mesajele care pot deveni vânzări." },
+        { "title": "Analiză și ajustare", "text": "Raport lunar cu ce a funcționat și ce schimbăm, explicat simplu, fără jargon." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este marketingul TikTok",
+      "intro": "Funcționează pentru orice afacere care poate explica ce face și de ce contează. Câteva exemple:",
+      "items": [
+        { "industry": "Clinici medicale și stomatologice", "text": "Medicul răspunde la întrebări frecvente și demontează temeri. Pacienții vin la consultație deja cu încredere." },
+        { "industry": "Firme de construcții și renovări", "text": "Progresul unui șantier, înainte și după, greșeli de evitat. Clientul vede calitatea muncii înainte să ceară o ofertă." },
+        { "industry": "Cabinete de avocatură", "text": "Explicații scurte despre situații juridice comune. Avocatul devine o voce de încredere, în limitele regulilor profesiei." },
+        { "industry": "Restaurante și cafenele", "text": "Preparate filmate apetisant, bucătăria în acțiune, oferta zilei. Clipuri care aduc oameni la masă în același weekend." },
+        { "industry": "Saloane de înfrumusețare", "text": "Transformări, tehnici, rezultate. Formatul vizual perfect pentru programări noi." },
+        { "industry": "Dealeri auto și service-uri", "text": "Prezentări de mașini, sfaturi de întreținere, diagnostic explicat. Conținut căutat activ de pasionați și cumpărători." },
+        { "industry": "Magazine online", "text": "Produsul folosit în situații reale, răspunsuri la obiecții, unboxing. Clipuri care pot deveni ulterior reclame." }
+      ]
+    },
+    "process": {
+      "title": "Cum lucrăm, pas cu pas",
+      "steps": [
+        { "title": "Discuție inițială", "text": "Aflăm ce vindeți, cui și ce ați încercat deja. Vă recomandăm pachetul potrivit, fără presiune." },
+        { "title": "Strategie și scripturi", "text": "Primiți pilonii de conținut și scripturile pentru prima serie de clipuri, spre aprobare." },
+        { "title": "Ziua de filmare", "text": "Venim la locația dumneavoastră și filmăm totul eficient. Vă ghidăm dacă nu sunteți obișnuit cu camera." },
+        { "title": "Editare și livrare", "text": "Primiți clipurile editate, cu descrieri și calendar de postare. Cereți modificări dacă e nevoie." },
+        { "title": "Publicare și optimizare", "text": "În pachetele lunare postăm, urmărim rezultatele și ajustăm conținutul în fiecare lună." }
+      ]
+    },
+    "pricingNote": "Pachetele încep de la 600 lei + TVA pentru 10 clipuri. Administrarea lunară pornește de la 1.900 lei/lună. Bugetul de reclame plătite, unde este cazul, se plătește separat, direct platformei.",
+    "faq": [
+      { "q": "Merge TikTok și pentru o afacere serioasă, cum ar fi o clinică sau o firmă de avocatură?", "a": "Da, și adesea mai bine decât pentru alte domenii, pentru că există mai puțină concurență. Oamenii caută pe TikTok răspunsuri la întrebări reale. Un specialist care explică simplu și corect câștigă încredere. Respectăm regulile de publicitate specifice domeniului dumneavoastră, de exemplu cele pentru serviciile medicale sau juridice." },
+      { "q": "În cât timp vedem rezultate?", "a": "Primele semnale apar de obicei în câteva săptămâni: ce subiecte prind, ce clipuri aduc comentarii. O creștere organică stabilă, cu mesaje de la clienți, cere constanță timp de cel puțin 3 luni. Nu garantăm vizualizări sau urmăritori. Algoritmul nu poate fi controlat, dar calitatea și ritmul conținutului da." },
+      { "q": "Trebuie să apar eu în clipuri?", "a": "Ajută mult, pentru că oamenii au încredere în oameni. Dar nu este obligatoriu. Putem filma echipa, procesul, produsul sau putem lucra cu un prezentator. Dacă nu sunteți obișnuit cu camera, vă ghidăm și scriem textul astfel încât să sune natural." },
+      { "q": "Cât timp ne ocupă din program?", "a": "Puțin. Discuția inițială și aprobarea scripturilor durează câteva ore. Filmarea se face concentrat, de obicei într-o zi pentru zece sau mai multe clipuri. Restul se întâmplă la noi." },
+      { "q": "Al cui este contul de TikTok?", "a": "Al dumneavoastră. Contul se creează sau rămâne pe numele firmei, iar noi primim acces de administrare. Clipurile livrate vă aparțin și pot fi folosite și pe Instagram, Facebook sau YouTube Shorts." },
+      { "q": "Există un contract pe termen lung?", "a": "Pachetele Start și Marketing Pack sunt proiecte unice, fără abonament. Pachetele Growth și All-In Brand sunt lunare. Recomandăm minimum 3 luni pentru a avea date relevante, iar condițiile de încetare sunt trecute clar în contract." },
+      { "q": "Ce diferență este între marketing TikTok și reclame TikTok Ads?", "a": "Marketingul TikTok înseamnă conținut organic: strategie, clipuri, postare și comunitate. Reclamele TikTok Ads înseamnă buget plătit pentru a ajunge la un public țintit, cu obiective precise de vânzări sau lead-uri. Cele două se completează, iar pachetul All-In Brand le combină." },
+      { "q": "Ce trebuie să pregătim noi?", "a": "Informații despre servicii și clienți, întrebările frecvente pe care le primiți și acces la locație în ziua filmării. Dacă aveți deja materiale video sau foto, le putem folosi. Restul pregătim noi." }
+    ],
+    "closing": {
+      "title": "Vreți să vedeți cum ar arăta afacerea dumneavoastră pe TikTok?",
+      "text": "Scrieți-ne pe scurt ce vindeți și cui. Vă trimitem câteva idei de clipuri și pachetul potrivit, fără obligații."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru marketing TikTok. Domeniul afacerii: ..., orașul: ..."
+  },
+  "en": {
+    "name": "TikTok marketing",
+    "metaTitle": "TikTok Marketing Agency: Strategy, Content & Growth",
+    "metaDescription": "TikTok marketing for local businesses: strategy, scripts, filming and editing that bring in customers. Packages from 600 RON. Message us for a quote.",
+    "h1": "A TikTok marketing agency for businesses that want customers, not just views",
+    "subtitle": "We build your brand's presence on TikTok end to end: strategy, scripts, filming and editing. Videos that show what you do, earn trust and get the right people messaging you.",
+    "cardDescription": "TikTok strategy, scripting, filming and editing. Consistent content that grows organically and wins customers.",
+    "summary": [
+      "Content strategy, scripts, filming and editing from one team.",
+      "Vertical videos made for TikTok, reusable on Instagram Reels and YouTube Shorts.",
+      "Works for \"serious\" industries too: clinics, construction, law firms, B2B services.",
+      "Packages from 600 RON for 10 videos. Monthly management from 1,900 RON/month."
+    ],
+    "problem": {
+      "title": "TikTok isn't just for teenagers any more",
+      "paragraphs": [
+        "Plenty of business owners still think of TikTok as a dance app. Meanwhile, people are using it as a search engine. They look up the best dentist nearby or what a new roof really costs. Whoever answers those questions clearly, on video, wins their attention and their trust.",
+        "The platform isn't the issue. The way it gets used is. Rushed videos with no clear message, posted once a month, or copied trends unrelated to the business. The result is a few hundred views, zero customers and the wrong conclusion: \"TikTok doesn't work for us.\"",
+        "For a clinic, a construction company or a law firm, TikTok is actually an opening. Competitors in these fields are barely there yet. An expert explaining useful things in plain language stands out far more easily than one more fashion brand in a sea of lookalike videos."
+      ]
+    },
+    "solution": {
+      "title": "How we build a TikTok account that wins customers",
+      "paragraphs": [
+        "We start with your business, not with trends: who your ideal customer is, what they ask before buying, what makes them trust someone. The answers become content pillars: educational, behind the scenes, results, objection handling, the people on your team.",
+        "Every video is scripted with a hook in the opening seconds, one clear message and a concrete call to action. We batch-film several videos in a single production day, so we're not taking up your time every week. Editing is fast-paced and fully subtitled, because a large share of people watch with the sound off.",
+        "Organic growth on TikTok comes from consistency and learning. We track which videos people watch to the end, which ones spark comments and DMs, and which topics deserve a follow-up. The format gets sharper every month. When you want to move faster, the same videos can be turned into paid ads."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Audit and strategy", "text": "We review your current account (if you have one), your competitors and your audience, then set content pillars and tone of voice." },
+        { "title": "Ideas and scripts", "text": "Each video gets a written hook, a structure and a call to action, signed off by you before we shoot." },
+        { "title": "On-site filming", "text": "We bring the kit: camera, lighting, wireless mics. Several videos are filmed in a single day." },
+        { "title": "Vertical-first editing", "text": "Tight cuts, subtitles, on-screen text and fitting music for TikTok and Reels." },
+        { "title": "Captions and hashtags", "text": "Short copy that supports the video and helps search, using the words your customers actually type." },
+        { "title": "Posting calendar", "text": "You always know what goes out and when. On monthly plans we handle publishing too." },
+        { "title": "Comment replies", "text": "On Growth and All-In Brand we reply to comments and flag the conversations that could turn into sales." },
+        { "title": "Review and refinement", "text": "A monthly report on what worked and what we're changing, in plain English." }
+      ]
+    },
+    "audience": {
+      "title": "Who TikTok marketing is for",
+      "intro": "It works for any business that can explain what it does and why it matters. A few examples:",
+      "items": [
+        { "industry": "Medical and dental clinics", "text": "The doctor answers common questions and eases fears. Patients book a consultation already trusting you." },
+        { "industry": "Construction and renovation firms", "text": "Site progress, before and after, mistakes to avoid. Clients see the quality of your work before asking for a quote." },
+        { "industry": "Law firms", "text": "Short explainers on everyday legal situations. The lawyer becomes a trusted voice, within the profession's rules." },
+        { "industry": "Restaurants and cafés", "text": "Mouth-watering dishes, the kitchen in action, today's special. Videos that fill tables the same weekend." },
+        { "industry": "Beauty salons", "text": "Transformations, techniques, results. The ideal visual format for new bookings." },
+        { "industry": "Car dealers and garages", "text": "Car walkarounds, maintenance tips, diagnostics explained. Content enthusiasts and buyers actively look for." },
+        { "industry": "Online shops", "text": "Products used in real life, objections answered, unboxings. Videos that can later run as ads." }
+      ]
+    },
+    "process": {
+      "title": "How it works, step by step",
+      "steps": [
+        { "title": "Intro call", "text": "We learn what you sell, who to, and what you've tried. Then we suggest the right package, with no pressure." },
+        { "title": "Strategy and scripts", "text": "You receive the content pillars and the scripts for the first batch of videos to approve." },
+        { "title": "Shoot day", "text": "We come to you and film everything efficiently. If you're not used to the camera, we coach you through it." },
+        { "title": "Editing and delivery", "text": "You get the edited videos with captions and a posting calendar. Ask for changes if needed." },
+        { "title": "Publishing and optimisation", "text": "On monthly plans we post, track results and adjust the content every month." }
+      ]
+    },
+    "pricingNote": "Packages start at 600 RON + VAT for 10 videos. Monthly management starts at 1,900 RON/month. Any paid ad budget is separate and paid directly to the platform.",
+    "faq": [
+      { "q": "Does TikTok really work for a serious business like a clinic or a law firm?", "a": "Yes, often better than elsewhere, because competition is thin. People search TikTok for real answers, and a clear, accurate expert earns trust. We follow the advertising rules that apply to your field, such as those for medical or legal services." },
+      { "q": "How quickly will we see results?", "a": "Early signals usually show up within weeks. Steady organic growth that brings real enquiries takes consistency over at least 3 months. We don't guarantee views or followers. Nobody controls the algorithm, but the quality and rhythm of your content can be controlled." },
+      { "q": "Do I have to be on camera?", "a": "It helps a lot, because people trust people. It isn't mandatory: we can film your team, process or product instead. If you're camera-shy, we'll coach you and write lines that sound like you." },
+      { "q": "How much of our time will this take?", "a": "Not much. The intro call and script approval take a few hours. Filming is done in focused sessions, usually one day for ten or more videos. Everything else happens on our side." },
+      { "q": "Who owns the TikTok account?", "a": "You do. The account is created in, or stays in, your company's name, and we get admin access. The videos we deliver are yours and can also be used on Instagram, Facebook or YouTube Shorts." },
+      { "q": "Is there a long-term contract?", "a": "Start and Marketing Pack are one-off projects with no subscription. Growth and All-In Brand are monthly. We recommend at least 3 months to get meaningful data, and the notice terms are set out clearly in the contract." },
+      { "q": "What's the difference between TikTok marketing and TikTok Ads?", "a": "TikTok marketing is organic: strategy, videos, posting and community. TikTok Ads means paid budget to reach a targeted audience with specific sales or lead goals. The two work well together, and the All-In Brand package combines them." },
+      { "q": "What do you need from us?", "a": "Information about your services and customers, the questions you get asked most often, and access to your premises on shoot day. We prepare everything else." }
+    ],
+    "closing": {
+      "title": "Curious how your business would look on TikTok?",
+      "text": "Tell us briefly what you sell and who to. We'll send back a few video ideas and the package that fits, with no commitment."
+    },
+    "whatsapp": "Hello, I'd like a quote for TikTok marketing. Type of business: ..., city: ..."
+  }
+}

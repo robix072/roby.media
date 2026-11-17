@@ -1,0 +1,20 @@
+{
+  "_comment": "Orașele deservite. Pentru un oraș nou: adăugați-l aici, apoi creați fișierele în content/city-pages/{serviciu}/{id}.json (copiați un schelet existent). Pagina apare în Google doar când are \"ready\": true.",
+  "items": [
+    { "id": "bucuresti", "name": "București", "inName": "în București", "county": "București", "region": "Muntenia", "order": 1 },
+    { "id": "cluj-napoca", "name": "Cluj-Napoca", "inName": "în Cluj-Napoca", "county": "Cluj", "region": "Transilvania", "order": 2 },
+    { "id": "timisoara", "name": "Timișoara", "inName": "în Timișoara", "county": "Timiș", "region": "Banat", "order": 3 },
+    { "id": "iasi", "name": "Iași", "inName": "în Iași", "county": "Iași", "region": "Moldova", "order": 4 },
+    { "id": "brasov", "name": "Brașov", "inName": "în Brașov", "county": "Brașov", "region": "Transilvania", "order": 5 },
+    { "id": "constanta", "name": "Constanța", "inName": "în Constanța", "county": "Constanța", "region": "Dobrogea", "order": 6 },
+    { "id": "craiova", "name": "Craiova", "inName": "în Craiova", "county": "Dolj", "region": "Oltenia", "order": 7 },
+    { "id": "galati", "name": "Galați", "inName": "în Galați", "county": "Galați", "region": "Moldova", "order": 8 },
+    { "id": "oradea", "name": "Oradea", "inName": "în Oradea", "county": "Bihor", "region": "Crișana", "order": 9 },
+    { "id": "ploiesti", "name": "Ploiești", "inName": "în Ploiești", "county": "Prahova", "region": "Muntenia", "order": 10 },
+    { "id": "sibiu", "name": "Sibiu", "inName": "în Sibiu", "county": "Sibiu", "region": "Transilvania", "order": 11 },
+    { "id": "arad", "name": "Arad", "inName": "în Arad", "county": "Arad", "region": "Crișana", "order": 12 },
+    { "id": "pitesti", "name": "Pitești", "inName": "în Pitești", "county": "Argeș", "region": "Muntenia", "order": 13 },
+    { "id": "bacau", "name": "Bacău", "inName": "în Bacău", "county": "Bacău", "region": "Moldova", "order": 14 },
+    { "id": "suceava", "name": "Suceava", "inName": "în Suceava", "county": "Suceava", "region": "Bucovina", "order": 15 }
+  ]
+}

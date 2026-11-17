@@ -1,0 +1,180 @@
+{
+  "_comment": "Pagina /servicii/post-productie-video (EN: /en/services/video-post-production). Textele se editează direct aici.",
+  "id": "post-productie-video",
+  "category": "productie",
+  "order": 120,
+  "slug": { "ro": "post-productie-video", "en": "video-post-production" },
+  "icon": "scissors",
+  "packageGroup": null,
+  "priceFrom": null,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["video-comercial"],
+  "related": ["videoclip-prezentare-firma", "spot-publicitar", "continut-social-media", "podcast-video"],
+  "localService": null,
+  "ro": {
+    "name": "Post-producție video",
+    "metaTitle": "Post-producție video și editare video profesională",
+    "metaDescription": "Editare video, color grading, sound design, motion graphics și subtitrări pentru clipuri, reclame și social media. Trimiteți materialul pentru ofertă.",
+    "h1": "Post-producție video: editare, culoare, sunet și grafică",
+    "subtitle": "Aveți filmările, dar nu aveți timp sau echipă să le transformați într-un clip care vinde. Noi le montăm, le dăm culoare, sunet curat și formatul potrivit fiecărei platforme.",
+    "cardDescription": "Editare video, color grading, sound design, motion graphics și subtitrări pentru materialele filmate de dumneavoastră sau de noi.",
+    "summary": [
+      "Editare video pentru reclame, clipuri de prezentare, social media, evenimente și YouTube.",
+      "Color grading, curățare și mixaj de sunet, motion graphics și subtitrări în română și engleză.",
+      "Lucrăm pe materialul filmat de dumneavoastră sau de altă echipă, cu revizii clare.",
+      "Oferta se face după o discuție scurtă și o privire pe material."
+    ],
+    "problem": {
+      "title": "Filmarea e doar jumătate din clip",
+      "paragraphs": [
+        "Multe firme au gigabytes de filmări care nu ajung niciodată online. Interviuri, evenimente, cadre de produs, clipuri de pe telefon. Lipsește timpul sau omul care să le transforme în ceva publicabil.",
+        "Alteori, materialul ajunge online prost montat. Început lent, sunet inegal, culori diferite de la un cadru la altul, text greu de citit pe telefon. Privitorul pleacă în primele secunde, iar mesajul nu ajunge la el.",
+        "Un montaj bun decide dacă un clip este urmărit până la capăt sau ignorat. Ritmul, sunetul și primele trei secunde contează la fel de mult ca ce s-a filmat."
+      ]
+    },
+    "solution": {
+      "title": "Cum lucrăm în post-producție",
+      "paragraphs": [
+        "Pornim de la obiectiv: unde va fi publicat clipul, cui se adresează și ce trebuie să facă privitorul la final. Un spot de 15 secunde pentru reclame se montează diferit față de un clip de prezentare sau de un episod de YouTube.",
+        "Ne trimiteți materialul printr-un link de transfer. Îl verificăm, îl organizăm și vă spunem sincer ce se poate obține din el. Apoi construim structura: hook, mesaj, dovezi, call to action. Tăiem tot ce nu ajută povestea.",
+        "Urmează finisajele. Color grading-ul uniformizează cadrele și dă clipului un aspect profesionist. Curățăm sunetul de zgomot și ecou, echilibrăm vocile și muzica și adăugăm efecte sonore unde susțin imaginea. Motion graphics-ul explică cifre, procese sau produse mai clar decât orice voce din off.",
+        "La final adăugăm subtitrări, adaptăm clipul pentru formatele de care aveți nevoie și vi-l trimitem spre aprobare. Ajustăm după feedback și livrăm fișierele finale, gata de publicat."
+      ]
+    },
+    "includes": {
+      "title": "Servicii de post-producție",
+      "items": [
+        { "title": "Editare video", "text": "Selecția cadrelor, structura poveștii, ritmul și montajul pe muzică sau pe voce." },
+        { "title": "Color grading", "text": "Corecție de culoare și un look uniform, potrivit brandului sau stilului clipului." },
+        { "title": "Sound design și mixaj", "text": "Curățarea vocilor, eliminarea zgomotului, echilibrarea nivelurilor și efecte sonore." },
+        { "title": "Muzică licențiată", "text": "Alegem muzică potrivită, cu licență pentru utilizarea pe care o aveți în vedere." },
+        { "title": "Motion graphics", "text": "Titluri animate, lower thirds, infografice, logo animat și elemente de brand." },
+        { "title": "Subtitrări", "text": "Subtitrări în română și engleză, arse în imagine sau ca fișier separat." },
+        { "title": "Adaptare pe formate", "text": "Versiuni orizontale, verticale și pătrate, cu durate diferite pentru fiecare canal." },
+        { "title": "Reeditare materiale existente", "text": "Clipuri vechi scurtate, actualizate sau transformate în conținut nou pentru social media." },
+        { "title": "Livrare și arhivare", "text": "Fișiere finale în calitate maximă și exporturi optimizate pentru fiecare platformă." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Lucrăm cu oricine are material filmat și vrea un rezultat profesionist, fără să angajeze un editor intern.",
+      "items": [
+        { "industry": "Departamente de marketing", "text": "Un partener extern de editare care preia vârfurile de volum și livrează la termen." },
+        { "industry": "Creatori de conținut și YouTuberi", "text": "Montaj constant pentru episoade lungi și clipuri scurte, ca să vă concentrați pe filmare." },
+        { "industry": "Agenții de publicitate", "text": "Editare, culoare și grafică pentru campanii, cu respectarea ghidului de brand al clientului." },
+        { "industry": "Organizatori de evenimente și conferințe", "text": "Aftermovie-uri, rezumate și fragmente din prezentări, livrate rapid după eveniment." },
+        { "industry": "Training și educație online", "text": "Cursuri video montate clar, cu grafică explicativă și subtitrări pentru învățare ușoară." },
+        { "industry": "Magazine online și branduri de produs", "text": "Clipuri de produs și reclame scurte montate din filmările existente, în mai multe variante pentru testare." }
+      ]
+    },
+    "process": {
+      "title": "Procesul",
+      "steps": [
+        { "title": "Discuție și brief", "text": "Ne spuneți ce vreți să obțineți, unde publicați și ce termene aveți." },
+        { "title": "Transfer și evaluare", "text": "Ne trimiteți materialul. Îl verificăm și confirmăm oferta și termenul de livrare." },
+        { "title": "Primul montaj", "text": "Construim structura clipului și vă trimitem o primă variantă spre feedback." },
+        { "title": "Finisaje", "text": "Color grading, sunet, grafică și subtitrări, după ce structura este aprobată." },
+        { "title": "Livrare", "text": "Primiți fișierele finale în toate formatele stabilite." }
+      ]
+    },
+    "pricingNote": "Prețul se stabilește după o discuție scurtă și o privire pe material, în funcție de durata finală, volumul de filmări și finisajele necesare. Pentru volum lunar constant facem o ofertă separată.",
+    "faq": [
+      { "q": "Cât costă editarea unui clip?", "a": "Depinde de durata finală, de cât material brut avem de parcurs și de finisaje: color grading, sound design, motion graphics, subtitrări. Un clip scurt pentru social media cere alt efort decât un film de prezentare. După ce vedem materialul, primiți o ofertă fixă." },
+      { "q": "Lucrați și pe filmări făcute de noi sau de altă echipă?", "a": "Da. Lucrăm pe material de la orice cameră, inclusiv telefon. Vă spunem de la început ce se poate obține realist, de exemplu dacă sunetul înregistrat permite o voce clară." },
+      { "q": "Cum vă trimitem materialul?", "a": "Printr-un serviciu de transfer de fișiere sau un folder partajat. Pentru volume foarte mari putem prelua materialul și pe un hard disk. Vă recomandăm să trimiteți fișierele originale, nu versiuni comprimate." },
+      { "q": "În cât timp primim clipul?", "a": "Un clip scurt se livrează de regulă în câteva zile lucrătoare. Proiectele mai lungi sau cu multă grafică cer mai mult. Termenul exact apare în ofertă, iar pentru urgențe putem stabili livrare prioritară." },
+      { "q": "Câte runde de modificări sunt incluse?", "a": "Numărul rundelor de revizie este stabilit în ofertă. Lucrăm în două etape: aprobați întâi structura, apoi finisajele. Așa evităm schimbările mari la final." },
+      { "q": "Folosiți muzică fără probleme de drepturi?", "a": "Da. Folosim muzică licențiată, potrivită utilizării: social media, reclame plătite sau difuzare. Dacă aveți deja o piesă licențiată, o putem folosi pe aceea." },
+      { "q": "Primim și fișierele proiectului?", "a": "Livrabilul standard este clipul final, în formatele stabilite. Dacă aveți nevoie și de fișierele de proiect sau de materialul organizat, discutăm acest lucru în ofertă." },
+      { "q": "Faceți și subtitrări în engleză?", "a": "Da. Realizăm subtitrări în română și engleză, arse în imagine pentru social media sau ca fișier separat pentru YouTube și site." }
+    ],
+    "closing": {
+      "title": "Dați viață filmărilor pe care le aveți deja",
+      "text": "Spuneți-ne ce material aveți și ce vreți să obțineți. Vă răspundem cu o ofertă și un termen de livrare."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru post-producție video. Tip clip: ..., durata materialului brut: ..."
+  },
+  "en": {
+    "name": "Video post-production",
+    "metaTitle": "Video Post-Production and Professional Video Editing",
+    "metaDescription": "Video editing, colour grading, sound design, motion graphics and subtitles for ads, company videos and social media. Send us your footage for a quote.",
+    "h1": "Video post-production: editing, colour, sound and graphics",
+    "subtitle": "You have the footage but not the time or team to turn it into a video that sells. We edit it, grade it, clean up the sound and deliver the right format for every platform.",
+    "cardDescription": "Video editing, colour grading, sound design, motion graphics and subtitles for footage shot by you or by us.",
+    "summary": [
+      "Video editing for ads, company videos, social media, events and YouTube.",
+      "Colour grading, audio clean-up and mixing, motion graphics and subtitles in Romanian and English.",
+      "We work on footage shot by you or by another crew, with clear revision rounds.",
+      "Quoted after a short call and a look at your footage."
+    ],
+    "problem": {
+      "title": "Shooting is only half the job",
+      "paragraphs": [
+        "Plenty of companies have gigabytes of footage that never goes live. Interviews, events, product shots, phone clips. What's missing is the time, or the person, to turn it into something worth publishing.",
+        "Other times the footage does go live, but badly edited. A slow start, uneven audio, colour that shifts from shot to shot, text that's unreadable on a phone. Viewers drop off in the first few seconds and the message never lands.",
+        "Good editing decides whether a video gets watched to the end or skipped. Pacing, sound and the first three seconds matter as much as what was filmed."
+      ]
+    },
+    "solution": {
+      "title": "How we approach post-production",
+      "paragraphs": [
+        "We start with the goal: where the video will run, who it's for and what viewers should do at the end. A 15 second ad is cut very differently from a company film or a YouTube episode.",
+        "You send the footage via a transfer link. We review and organise it, and tell you honestly what can be made from it. Then we build the structure: hook, message, proof, call to action. Anything that doesn't serve the story goes.",
+        "Then comes the finishing. Colour grading evens out the shots and gives the video a polished look. We clean noise and echo from the audio, balance voices against music and add sound effects where they support the picture. Motion graphics explain figures, processes or products more clearly than any voiceover.",
+        "Finally we add subtitles, adapt the video to the formats you need and send it for approval. We make the changes from your feedback and deliver the final files, ready to publish."
+      ]
+    },
+    "includes": {
+      "title": "Post-production services",
+      "items": [
+        { "title": "Video editing", "text": "Shot selection, story structure, pacing and cutting to music or voice." },
+        { "title": "Colour grading", "text": "Colour correction and a consistent look that suits your brand or the style of the piece." },
+        { "title": "Sound design and mixing", "text": "Dialogue clean-up, noise removal, balanced levels and sound effects." },
+        { "title": "Licensed music", "text": "Music chosen to fit, licensed for the way you plan to use the video." },
+        { "title": "Motion graphics", "text": "Animated titles, lower thirds, infographics, logo animation and brand elements." },
+        { "title": "Subtitles", "text": "Romanian and English subtitles, burned in or as a separate file." },
+        { "title": "Format versions", "text": "Landscape, vertical and square cuts in different lengths for each channel." },
+        { "title": "Re-editing existing videos", "text": "Older videos shortened, updated or repurposed into fresh social media content." },
+        { "title": "Delivery and archiving", "text": "Full-quality masters plus exports optimised for each platform." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "We work with anyone who has footage and wants a professional result without hiring an in-house editor.",
+      "items": [
+        { "industry": "In-house marketing teams", "text": "An external editing partner who absorbs peaks in workload and hits deadlines." },
+        { "industry": "Content creators and YouTubers", "text": "Reliable editing for long episodes and short clips, so you can focus on filming." },
+        { "industry": "Advertising agencies", "text": "Editing, colour and graphics for campaigns, following your client's brand guidelines." },
+        { "industry": "Event and conference organisers", "text": "Aftermovies, recaps and talk highlights delivered soon after the event." },
+        { "industry": "Training and online education", "text": "Clearly edited courses with explanatory graphics and subtitles that make learning easier." },
+        { "industry": "Online shops and product brands", "text": "Product videos and short ads cut from existing footage, in several versions for testing." }
+      ]
+    },
+    "process": {
+      "title": "The process",
+      "steps": [
+        { "title": "Call and brief", "text": "Tell us what you want to achieve, where you'll publish and your deadlines." },
+        { "title": "Transfer and review", "text": "You send the footage. We review it and confirm the quote and delivery date." },
+        { "title": "First cut", "text": "We build the structure and send you a first version for feedback." },
+        { "title": "Finishing", "text": "Colour, sound, graphics and subtitles, once the structure is signed off." },
+        { "title": "Delivery", "text": "You receive the final files in every agreed format." }
+      ]
+    },
+    "pricingNote": "Pricing is quoted after a short call and a look at your footage, based on final length, the amount of raw material and the finishing required. Regular monthly volume is quoted separately.",
+    "faq": [
+      { "q": "How much does editing a video cost?", "a": "It depends on the final length, how much raw footage we need to go through and the finishing: grading, sound design, motion graphics, subtitles. A short social clip takes different effort from a company film. Once we've seen the footage, you get a fixed quote." },
+      { "q": "Do you work with footage we or another crew shot?", "a": "Yes. We work with footage from any camera, phones included. We tell you up front what's realistically achievable, for example whether the recorded audio allows for a clear voice." },
+      { "q": "How do we send you the footage?", "a": "Through a file transfer service or a shared folder. For very large projects we can also collect it on a hard drive. Send the original files rather than compressed copies." },
+      { "q": "How soon will we get the video?", "a": "A short video is usually delivered within a few working days. Longer or graphics-heavy projects take more time. The exact turnaround is in your quote, and urgent jobs can be prioritised." },
+      { "q": "How many rounds of changes are included?", "a": "The number of revision rounds is set in the quote. We work in two stages: you approve the structure first, then the finishing. That avoids big changes at the end." },
+      { "q": "Is the music copyright-safe?", "a": "Yes. We use music licensed for your use case: social media, paid ads or broadcast. If you already have a licensed track, we can use that." },
+      { "q": "Do we get the project files?", "a": "The standard deliverable is the final video in the agreed formats. If you also need the project files or organised footage, we agree that in the quote." },
+      { "q": "Can you add English subtitles?", "a": "Yes. We create Romanian and English subtitles, burned in for social media or as a separate file for YouTube and your website." }
+    ],
+    "closing": {
+      "title": "Put the footage you already have to work",
+      "text": "Tell us what footage you have and what you want to achieve. We'll reply with a quote and a delivery date."
+    },
+    "whatsapp": "Hello, I'd like a quote for video post-production. Type of video: ..., length of raw footage: ..."
+  }
+}

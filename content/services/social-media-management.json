@@ -1,0 +1,177 @@
+{
+  "_comment": "Pagina /servicii/social-media-management (EN: /en/services/social-media-management). Administrare lunară a conturilor: calendar, postare, comunitate, raportare. Pachete Growth și All-In Brand.",
+  "id": "social-media-management",
+  "category": "marketing",
+  "order": 50,
+  "slug": { "ro": "social-media-management", "en": "social-media-management" },
+  "icon": "calendar",
+  "packageGroup": "social",
+  "packageIds": ["growth", "all-in-brand"],
+  "priceFrom": 1900,
+  "priceUnit": "luna",
+  "portfolioCategories": ["tiktok-social"],
+  "related": ["marketing-tiktok", "continut-social-media", "reclame-facebook-instagram", "copywriting-scripturi-video"],
+  "localService": "agentie-marketing",
+  "ro": {
+    "name": "Social media management",
+    "metaTitle": "Social media management: administrare conturi lunar",
+    "metaDescription": "Administrare social media lunară: conținut video, postare, răspuns la comentarii și raport pe TikTok și Instagram. De la 1.900 lei/lună. Cereți o ofertă.",
+    "h1": "Social media management: conturi administrate complet, lună de lună",
+    "subtitle": "Preluăm conturile de TikTok și Instagram ale afacerii dumneavoastră: planificăm, filmăm, postăm și vorbim cu comunitatea. Dumneavoastră aprobați, noi ne ocupăm de rest.",
+    "cardDescription": "Administrare lunară TikTok și Instagram: 30 de clipuri, postare, răspuns la comentarii și raport de performanță.",
+    "summary": [
+      "30 de clipuri pe lună, filmate și editate de noi, postate pe TikTok și Instagram.",
+      "Calendar lunar aprobat de dumneavoastră înainte de publicare.",
+      "Răspundem la comentarii și vă transmitem rapid mesajele care pot deveni comenzi.",
+      "De la 1.900 lei/lună (Growth). Cu reclame plătite incluse: 2.900 lei/lună (All-In Brand), buget separat."
+    ],
+    "problem": {
+      "title": "Conturile de social media nu se administrează singure",
+      "paragraphs": [
+        "Scenariul este cunoscut. Se deschide contul de Instagram cu entuziasm, apar zece postări în prima lună, apoi trei, apoi niciuna. Ultima postare are opt luni. Un client potențial intră pe profil, vede că pare abandonat și se întreabă dacă firma mai funcționează.",
+        "De obicei nu lipsește voința, ci timpul. Proprietarul are o afacere de condus. Angajatul care „se pricepe la telefon” are și alte sarcini. Social media cere în schimb ritm: idei noi în fiecare săptămână, filmări, editare, texte, postare la ore bune și răspunsuri la comentarii în aceeași zi.",
+        "Un profil activ nu este un moft. Este adesea primul loc unde un client verifică dacă vă poate acorda încredere, chiar și atunci când a aflat de dumneavoastră din altă parte."
+      ]
+    },
+    "solution": {
+      "title": "Ce înseamnă administrarea completă a conturilor",
+      "paragraphs": [
+        "Lucrăm pe un ciclu lunar previzibil. La început de lună vă trimitem calendarul: subiectele, formatele și datele de postare, legate de ce se întâmplă în afacerea dumneavoastră, cum ar fi lansări, sezon, promoții sau evenimente. Îl aprobați sau cereți modificări, apoi organizăm filmarea.",
+        "Producem 30 de clipuri pe lună. Filmarea se face concentrat, la sediul dumneavoastră, iar editarea, subtitrarea, descrierile și hashtag-urile le facem noi. Postăm pe TikTok și Instagram la orele la care publicul dumneavoastră este activ și adaptăm fiecare clip la specificul platformei.",
+        "Comunitatea este a doua jumătate a muncii. Răspundem la comentarii pe tonul stabilit împreună, gestionăm întrebările frecvente și vă transferăm imediat conversațiile care cer o ofertă sau o programare. Lunar primiți un raport cu evoluția conturilor și cu ce schimbăm în luna următoare. Dacă alegeți All-In Brand, adăugăm campanii plătite TikTok Ads sau Meta Ads, optimizate săptămânal."
+      ]
+    },
+    "includes": {
+      "title": "Ce include social media management",
+      "items": [
+        { "title": "Calendar editorial lunar", "text": "Planul complet al lunii, cu subiecte și date, trimis spre aprobare înainte de producție." },
+        { "title": "30 de clipuri pe lună", "text": "Filmate, editate și subtitrate de echipa noastră, gândite pentru formatul vertical." },
+        { "title": "Postare pe TikTok și Instagram", "text": "Publicăm la orele potrivite, cu descrieri, hashtag-uri și coperți adaptate fiecărei platforme." },
+        { "title": "Răspuns la comentarii", "text": "Moderăm și răspundem pe tonul brandului, inclusiv la întrebări despre prețuri și program." },
+        { "title": "Semnalarea oportunităților", "text": "Mesajele cu potențial de vânzare ajung rapid la dumneavoastră, ca să nu pierdeți clienți." },
+        { "title": "Optimizarea profilurilor", "text": "Bio, link, highlight-uri și imagine de profil care spun clar cine sunteți și cum vă contactează clienții." },
+        { "title": "Raport lunar", "text": "Urmăritori, vizualizări, interacțiuni, cele mai bune clipuri și planul pentru luna următoare." },
+        { "title": "Campanii plătite (All-In Brand)", "text": "TikTok Ads sau Meta Ads, cu optimizare săptămânală și raport de performanță. Bugetul de reclame se plătește separat." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este potrivit",
+      "intro": "Pentru afacerile care știu că trebuie să fie prezente online, dar nu au timp sau echipă internă pentru asta.",
+      "items": [
+        { "industry": "Restaurante, cafenele și baruri", "text": "Postări constante cu meniul, evenimentele și atmosfera, plus răspunsuri rapide la întrebările despre rezervări." },
+        { "industry": "Clinici și cabinete medicale", "text": "Un profil activ și profesionist, care răspunde politicos și corect la întrebările pacienților." },
+        { "industry": "Saloane de înfrumusețare și centre de fitness", "text": "Rezultate, oferte și echipa prezentată regulat, ca programările să vină și din social media." },
+        { "industry": "Agenții imobiliare", "text": "Proprietăți noi, tururi video și sfaturi pentru cumpărători, publicate într-un ritm care ține agentul în atenție." },
+        { "industry": "Magazine locale și showroom-uri", "text": "Produse noi, stocuri și promoții comunicate săptămânal comunității din oraș." },
+        { "industry": "Firme de construcții și amenajări", "text": "Proiecte în lucru și finalizate, documentate constant, ca dovadă a calității pentru clienții viitori." }
+      ]
+    },
+    "process": {
+      "title": "Cum decurge o lună de colaborare",
+      "steps": [
+        { "title": "Onboarding", "text": "Stabilim tonul, temele permise și interzise, răspunsurile la întrebările frecvente și primim accesul la conturi." },
+        { "title": "Calendarul lunii", "text": "Vă trimitem planul de conținut. Îl aprobați sau cereți ajustări." },
+        { "title": "Filmare și editare", "text": "Filmăm concentrat la sediul dumneavoastră, apoi edităm toate clipurile lunii." },
+        { "title": "Postare și comunitate", "text": "Publicăm după calendar și răspundem la comentarii pe parcursul lunii." },
+        { "title": "Raport și ajustare", "text": "La final de lună analizăm rezultatele și le folosim pentru planul următor." }
+      ]
+    },
+    "pricingNote": "Pachetul Growth costă 1.900 lei/lună + TVA. All-In Brand, cu campanii plătite incluse, costă 2.900 lei/lună + TVA. Bugetul de reclame nu este inclus și se plătește direct platformelor.",
+    "faq": [
+      { "q": "Ce rețele sociale administrați?", "a": "Pachetele includ TikTok și Instagram, unde formatul video scurt are cea mai mare acoperire. Clipurile pot fi publicate și pe Facebook sau YouTube Shorts. Dacă aveți nevoie și de alte rețele, de exemplu LinkedIn, vă facem o ofertă separată." },
+      { "q": "Cât de implicați trebuie să fim?", "a": "Puțin, dar constant. Aprobați calendarul lunar, ne primiți la filmare și ne spuneți ce se întâmplă în afacere: oferte, noutăți, evenimente. Nimic nu se publică fără acordul dumneavoastră asupra planului." },
+      { "q": "Cine răspunde la mesajele private?", "a": "Răspundem la comentarii și la întrebările generale, pe baza informațiilor stabilite împreună. Conversațiile care cer o ofertă, un preț personalizat sau o programare vi le transmitem imediat, pentru că dumneavoastră închideți vânzarea." },
+      { "q": "În cât timp crește contul?", "a": "Primele luni construiesc ritmul și arată ce tip de conținut prinde. O creștere vizibilă apare de obicei după cel puțin 3 luni de postare constantă. Nu garantăm un anumit număr de urmăritori. Ne concentrăm pe conținut care aduce interes real pentru afacere." },
+      { "q": "Rămân conturile ale noastre?", "a": "Da. Conturile sunt și rămân pe firma dumneavoastră, iar noi lucrăm cu acces de administrare. Clipurile produse vă aparțin. Dacă încheiem colaborarea, ne retragem accesul și vă predăm tot materialul." },
+      { "q": "Care este durata minimă a contractului?", "a": "Colaborarea este lunară, cu un termen de preaviz trecut în contract. Recomandăm minimum 3 luni, pentru că social media funcționează prin constanță, nu prin postări izolate." },
+      { "q": "Ce primim în raportul lunar?", "a": "Evoluția urmăritorilor, vizualizările, interacțiunile, cele mai bune clipuri ale lunii și întrebările frecvente din comentarii. Plus ce schimbăm luna următoare. La All-In Brand primiți și raportul de performanță al reclamelor." },
+      { "q": "Care este diferența față de pachetul de marketing TikTok?", "a": "Pachetele de conținut, ca Start sau Marketing Pack, vă livrează clipurile gata de postat, iar publicarea rămâne la dumneavoastră. Social media management înseamnă că ne ocupăm noi de tot: plan, producție, publicare, comunitate și raportare, în fiecare lună." }
+    ],
+    "closing": {
+      "title": "Lăsați-ne pe noi să ținem conturile active",
+      "text": "Spuneți-ne ce afacere aveți și ce conturi folosiți acum. Vă propunem un plan pentru prima lună."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru administrare social media. Afacerea noastră: ..., conturile actuale: ..."
+  },
+  "en": {
+    "name": "Social media management",
+    "metaTitle": "Social Media Management: Fully Run Monthly Accounts",
+    "metaDescription": "Monthly social media management on TikTok and Instagram: video content, posting, comment replies and reports. From 1,900 RON/month. Get a quote.",
+    "h1": "Social media management: your accounts, fully run every month",
+    "subtitle": "We take over your business's TikTok and Instagram: planning, filming, posting and talking to your community. You approve the plan, we handle everything else.",
+    "cardDescription": "Monthly TikTok and Instagram management: 30 videos, posting, comment replies and a performance report.",
+    "summary": [
+      "30 videos a month, filmed and edited by us, posted on TikTok and Instagram.",
+      "A monthly content calendar that you approve before anything goes live.",
+      "We reply to comments and pass on the conversations that could become orders, fast.",
+      "From 1,900 RON/month (Growth). With paid ads included: 2,900 RON/month (All-In Brand), ad spend separate."
+    ],
+    "problem": {
+      "title": "Social accounts don't run themselves",
+      "paragraphs": [
+        "You've probably seen it happen. An Instagram account launches with enthusiasm: ten posts in month one, then three, then none. The latest post is eight months old. A potential customer lands on the profile, sees it looks abandoned and wonders if the business is still trading.",
+        "It's rarely a lack of will. It's a lack of time. The owner has a business to run. The employee who's \"good with phones\" has a day job too. Social media, meanwhile, demands rhythm: new ideas every week, filming, editing, captions, posting at the right times and same-day replies to comments.",
+        "An active profile isn't a vanity project. It's often the first place a customer checks to decide whether you can be trusted, even when they heard about you somewhere else."
+      ]
+    },
+    "solution": {
+      "title": "What full account management looks like",
+      "paragraphs": [
+        "We work on a predictable monthly cycle. At the start of the month you get the calendar: topics, formats and posting dates, tied to what's happening in your business, such as launches, seasons, promotions or events. You approve it or ask for changes, then we schedule the shoot.",
+        "We produce 30 videos a month. Filming happens in focused sessions at your premises, while editing, subtitles, captions and hashtags are all on us. We post on TikTok and Instagram when your audience is most active, adapting each video to the platform it's going on.",
+        "Community is the other half of the job. We reply to comments in the tone of voice we agreed with you, handle the recurring questions and hand over any conversation that needs a quote or a booking straight away. Each month you get a report on how the accounts are growing and what we'll change next. Choose All-In Brand and we add paid TikTok Ads or Meta Ads campaigns, optimised weekly."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Monthly content calendar", "text": "The full plan for the month, with topics and dates, sent for your approval before production." },
+        { "title": "30 videos a month", "text": "Filmed, edited and subtitled by our team, built for vertical viewing." },
+        { "title": "Posting on TikTok and Instagram", "text": "Published at the right times, with captions, hashtags and covers tailored to each platform." },
+        { "title": "Comment replies", "text": "We moderate and reply in your brand voice, including questions about prices and opening hours." },
+        { "title": "Lead hand-off", "text": "Messages with sales potential reach you quickly, so no customer slips through the cracks." },
+        { "title": "Profile optimisation", "text": "Bio, link, highlights and profile image that make it obvious who you are and how to get in touch." },
+        { "title": "Monthly report", "text": "Followers, views, engagement, top-performing videos and next month's plan." },
+        { "title": "Paid campaigns (All-In Brand)", "text": "TikTok Ads or Meta Ads with weekly optimisation and a performance report. Ad spend is paid separately." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "Businesses that know they need to be visible online but don't have the time or an in-house team to do it.",
+      "items": [
+        { "industry": "Restaurants, cafés and bars", "text": "Regular posts about the menu, events and atmosphere, plus quick answers to booking questions." },
+        { "industry": "Clinics and medical practices", "text": "An active, professional profile that answers patients' questions politely and accurately." },
+        { "industry": "Beauty salons and gyms", "text": "Results, offers and the team featured regularly, so bookings come from social media too." },
+        { "industry": "Estate agencies", "text": "New listings, video tours and buyer tips, posted often enough to keep the agent front of mind." },
+        { "industry": "Local shops and showrooms", "text": "New arrivals, stock and promotions shared weekly with the local community." },
+        { "industry": "Construction and fit-out firms", "text": "Projects in progress and completed, documented consistently as proof of quality for future clients." }
+      ]
+    },
+    "process": {
+      "title": "A month working together",
+      "steps": [
+        { "title": "Onboarding", "text": "We agree on tone of voice, topics to cover and avoid, standard answers to common questions, and get account access." },
+        { "title": "The month's calendar", "text": "We send the content plan. You approve it or ask for tweaks." },
+        { "title": "Filming and editing", "text": "We shoot in a focused session at your premises, then edit the whole month's videos." },
+        { "title": "Posting and community", "text": "We publish to the calendar and reply to comments throughout the month." },
+        { "title": "Report and adjust", "text": "At month end we review the results and feed them into the next plan." }
+      ]
+    },
+    "pricingNote": "Growth is 1,900 RON/month + VAT. All-In Brand, with paid campaigns included, is 2,900 RON/month + VAT. Ad spend is not included and is paid directly to the platforms.",
+    "faq": [
+      { "q": "Which social networks do you manage?", "a": "Our packages cover TikTok and Instagram, where short-form video reaches the most people. The videos can also go out on Facebook or YouTube Shorts. If you need other networks, LinkedIn for example, we'll quote for them separately." },
+      { "q": "How involved do we need to be?", "a": "A little, but regularly. You approve the monthly calendar, host us on shoot day and keep us posted on what's happening: offers, news, events. Nothing goes live without your sign-off on the plan." },
+      { "q": "Who answers private messages?", "a": "We handle comments and general questions, using the information we've agreed with you. Conversations that need a quote, custom pricing or a booking are passed to you immediately, because you're the one who closes the sale." },
+      { "q": "How long does it take for an account to grow?", "a": "The first months set the rhythm and show which content lands. Visible growth usually comes after at least 3 months of consistent posting. We don't guarantee follower numbers. Our focus is content that creates real interest in your business." },
+      { "q": "Do the accounts stay ours?", "a": "Yes. The accounts are, and remain, in your company's name, and we work with admin access. The videos we produce belong to you. If we stop working together, we remove our access and hand over all the material." },
+      { "q": "What's the minimum contract length?", "a": "We work month to month, with a notice period set out in the contract. We recommend at least 3 months, because social media rewards consistency, not one-off posts." },
+      { "q": "What's in the monthly report?", "a": "Follower growth, views, engagement, the month's best videos and the questions that keep coming up in comments, plus what we'll change next month. On All-In Brand you also get the ad performance report." },
+      { "q": "How is this different from the TikTok marketing packages?", "a": "Content packages like Start or Marketing Pack deliver ready-to-post videos, and you do the publishing. Social media management means we handle everything: planning, production, posting, community and reporting, every month." }
+    ],
+    "closing": {
+      "title": "Let us keep your accounts active",
+      "text": "Tell us about your business and the accounts you use today. We'll put together a plan for your first month."
+    },
+    "whatsapp": "Hello, I'd like a quote for social media management. Our business: ..., our current accounts: ..."
+  }
+}

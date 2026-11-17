@@ -1,0 +1,73 @@
+{
+  "ready": true,
+  "service": "filmare-nunta",
+  "city": "timisoara",
+  "metaTitle": "Filmare nuntă Timișoara, film cinematic 4K",
+  "metaDescription": "Filmare nuntă în Timișoara și județul Timiș: centrul istoric, Bega, locații din jur. Film 4K, teaser în 7 zile. De la 3.500 lei. Cereți oferta.",
+  "h1": "Filmare nuntă în Timișoara",
+  "subtitle": "Film de nuntă cinematic 4K în Timișoara și în tot județul Timiș, cu cadre din centrul istoric, de pe Bega și din locațiile din jurul orașului.",
+  "summary": [
+    "Filmăm nunți în Timișoara, în localitățile din jur și în tot județul Timiș.",
+    "Cunoaștem programul nunților bănățene și ce momente contează pentru familie.",
+    "Pachete de la 3.500 lei (Essential) și 6.000 lei (Cinematic), fără TVA.",
+    "Ofertă scrisă, contract și factură de la ROBY MEDIA SRL."
+  ],
+  "intro": [
+    "Timișoara are unul dintre cele mai frumoase centre istorice din țară pentru o sesiune de nuntă: piețe largi, clădiri baroce și de tip secession, catedrala de la capătul Pieței Victoriei și malurile Begăi, cu parcuri și poduri. Toate sunt la distanță de mers pe jos, ceea ce permite o sesiune foto și video bogată într-un timp scurt.",
+    "Banatul are și o identitate proprie. În multe familii se păstrează obiceiuri locale, iar comunitățile românești, sârbești, maghiare sau germane au fiecare tradițiile lor la cununie și la petrecere. Înainte de nuntă vă întrebăm ce obiceiuri urmează, ca să fim pregătiți pentru ele și să nu ratăm nimic important pentru familie.",
+    "Petrecerile se mută tot mai des în localitățile din jurul orașului, unde sunt grădini mari și spații pentru ceremonii în aer liber. Planificăm cu dumneavoastră drumul dintre biserică, sesiunea foto și locație, ca filmul să curgă firesc de la pregătiri până la ultimul dans."
+  ],
+  "local": {
+    "title": "Unde se filmează nunțile în Timișoara și în Timiș",
+    "text": "Nu facem recomandări de săli sau restaurante. Vă descriem tipurile de locuri pe care le aleg mirii din Timișoara și cum le abordăm la filmare.",
+    "items": [
+      {
+        "title": "Piața Unirii și Piața Victoriei",
+        "text": "Fațadele colorate, Domul romano-catolic, Opera și Catedrala Mitropolitană sunt fundaluri clasice pentru sesiunea de nuntă. Recomandăm orele de dimineață sau după-amiaza târziu, pentru lumină caldă și mai puțini trecători."
+      },
+      {
+        "title": "Malurile Begăi și parcurile din jur",
+        "text": "Parcul Rozelor, Parcul Central și Parcul Botanic, împreună cu promenada de pe Bega, oferă verdeață și apă chiar în oraș. Sunt potrivite pentru cadre plimbate, filmate cu stabilizator."
+      },
+      {
+        "title": "Localitățile din zona metropolitană",
+        "text": "Dumbrăvița, Giroc, Moșnița Nouă sau Ghiroda au locații de evenimente cu grădini, la câteva minute de oraș. Sunt alese des pentru ceremonii civile în aer liber."
+      },
+      {
+        "title": "Podgoriile din județ",
+        "text": "Zona viticolă de la Recaș și dealurile din estul județului sunt alese pentru sesiuni after wedding și pentru nunți mici, cu cadre largi între vii."
+      },
+      {
+        "title": "Orașe și stațiuni mici din Banat",
+        "text": "Lugoj, Buziaș sau satele bănățene cu case tradiționale dau un alt ton filmului. Pentru unele dintre ele verificăm din timp accesul și condițiile de filmare."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Deplasare în Timișoara și în județul Timiș",
+    "text": "Filmăm în Timișoara, în toată zona metropolitană și în județul Timiș, inclusiv Lugoj, Jimbolia sau Sânnicolau Mare, dar și în județele apropiate, cum sunt Arad, Caraș-Severin sau Hunedoara. Costul deplasării și, dacă este nevoie, al cazării echipei apare separat și transparent în ofertă."
+  },
+  "faq": [
+    {
+      "q": "Filmați și nunți în județul Timiș, în afara orașului?",
+      "a": "Da. Ne deplasăm în tot județul și în județele vecine. Dacă există un cost de deplasare, îl vedeți separat în ofertă, înainte să semnați contractul."
+    },
+    {
+      "q": "Puteți filma o nuntă cu obiceiuri bănățene sau cu două tradiții?",
+      "a": "Da. Vă rugăm să ne spuneți din timp ce obiceiuri urmează și în ce ordine. Așa ne poziționăm corect și înregistrăm sunetul acolo unde contează."
+    },
+    {
+      "q": "Folosiți drona la nunțile din Timișoara?",
+      "a": "Unde regulile permit. Aeroportul Traian Vuia este aproape de oraș, iar o parte din zona urbană are restricții de zbor. Verificăm fiecare locație înainte și, unde nu se poate zbura, compensăm cu cadre largi de la sol."
+    },
+    {
+      "q": "Când este sezonul de nunți în Timișoara?",
+      "a": "Cele mai căutate sunt sâmbetele din mai până în septembrie. Pentru ele recomandăm o rezervare cu 6–12 luni înainte. Primăvara devreme și toamna târziu au mai multă disponibilitate."
+    },
+    {
+      "q": "Cât costă filmarea unei nunți în Timișoara?",
+      "a": "Pachetul Essential pornește de la 3.500 lei, iar Cinematic de la 6.000 lei, fără TVA. Prețul final depinde de numărul de ore, de numărul de videografi și de locații."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru filmare nuntă în Timișoara. Data nunții este: "
+}

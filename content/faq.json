@@ -1,0 +1,37 @@
+{
+  "_comment": "Întrebările frecvente generale (Acasă, Pachete, Contact). Întrebările specifice fiecărui serviciu sunt în fișierul serviciului.",
+  "items": [
+    {
+      "q": { "ro": "Lucrați doar în orașul dumneavoastră sau în toată țara?", "en": "Do you only work locally, or across the country?" },
+      "a": { "ro": "Lucrăm cu clienți din toată România. Echipa de filmare se deplasează oriunde, iar serviciile de marketing, reclame și website le livrăm complet online. Costul deplasării, dacă există, apare transparent în ofertă.", "en": "We work with clients all over Romania. Our film crew travels anywhere, and marketing, ads and web projects are delivered fully online. Any travel cost is listed clearly in your quote." }
+    },
+    {
+      "q": { "ro": "Cât costă un proiect?", "en": "How much does a project cost?" },
+      "a": { "ro": "Prețurile de pornire sunt afișate pe pagina Pachete & prețuri: de exemplu, 20 de clipuri TikTok pornesc de la 1.000 lei, un videoclip de prezentare de la 1.800 lei, iar un site de prezentare de la 2.900 lei. Oferta finală o primiți după o discuție scurtă, în care înțelegem exact ce aveți nevoie.", "en": "Starting prices are listed on our Packages & pricing page: for example, 20 TikTok clips start at 1,000 RON, a company video at 1,800 RON and a business website at 2,900 RON. You get a final quote after a short call where we understand exactly what you need." }
+    },
+    {
+      "q": { "ro": "În cât timp primim o ofertă?", "en": "How quickly do we get a quote?" },
+      "a": { "ro": "De regulă în aceeași zi lucrătoare. Cel mai rapid ne găsiți pe WhatsApp sau la telefon. Pentru proiecte mari vă propunem un apel scurt, ca oferta să fie exactă.", "en": "Usually the same business day. WhatsApp or a phone call is the fastest way to reach us. For larger projects we'll suggest a short call so the quote is accurate." }
+    },
+    {
+      "q": { "ro": "Lucrăm pe bază de contract și factură?", "en": "Do you work with a contract and invoice?" },
+      "a": { "ro": "Da. ROBY MEDIA SRL emite factură pentru orice proiect, iar termenii (livrabile, termene, revizii, plăți) sunt trecuți într-un contract sau într-o comandă scrisă.", "en": "Yes. ROBY MEDIA SRL invoices every project, and the terms (deliverables, deadlines, revisions, payments) are set out in a contract or written order." }
+    },
+    {
+      "q": { "ro": "Ale cui sunt materialele și conturile de reclame?", "en": "Who owns the content and the ad accounts?" },
+      "a": { "ro": "Materialele finale livrate sunt ale dumneavoastră și le puteți folosi în scopurile stabilite în contract. Campaniile le rulăm în conturile dumneavoastră de reclame, nu în ale noastre, așa că datele și istoricul rămân la firmă.", "en": "The final deliverables are yours to use as agreed in the contract. We run campaigns inside your own ad accounts, not ours, so the data and history stay with your business." }
+    },
+    {
+      "q": { "ro": "Câte revizii sunt incluse?", "en": "How many revisions are included?" },
+      "a": { "ro": "Fiecare proiect include runde de revizie, stabilite în ofertă. Pornim mereu de la un brief și un script aprobat, așa că modificările de la final sunt de obicei mici.", "en": "Every project includes revision rounds, set out in your quote. We always start from an approved brief and script, so late changes are usually small." }
+    },
+    {
+      "q": { "ro": "Trebuie să semnăm un contract pe termen lung pentru abonamente?", "en": "Do monthly plans require a long-term contract?" },
+      "a": { "ro": "Nu. Abonamentele lunare (social media și reclame) se pot opri cu un preaviz stabilit în contract. Recomandăm totuși minimum 3 luni, pentru că atât durează, de obicei, testarea și optimizarea campaniilor.", "en": "No. Monthly plans (social media and ads) can be cancelled with the notice period in your contract. We do recommend at least 3 months, since that's typically how long testing and optimisation take." }
+    },
+    {
+      "q": { "ro": "Ne ajutați și dacă nu știm exact de ce avem nevoie?", "en": "Can you help if we're not sure what we need?" },
+      "a": { "ro": "Da, aici începem cu majoritatea clienților. Ne spuneți obiectivul (mai mulți clienți, vânzări online, un eveniment) și vă recomandăm combinația potrivită de servicii pentru bugetul dumneavoastră.", "en": "Yes, that's where most clients start. Tell us your goal (more customers, online sales, an event) and we'll recommend the right mix of services for your budget." }
+    }
+  ]
+}

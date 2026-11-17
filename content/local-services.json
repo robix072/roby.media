@@ -1,0 +1,10 @@
+{
+  "_comment": "Serviciile care au pagini pe oraș. URL: /{slugPrefix}-{oras}. Conținutul fiecărei pagini este în content/city-pages/{id}/{oras}.json.",
+  "items": [
+    { "id": "filmare-nunta", "slugPrefix": "filmare-nunta", "serviceId": "filmare-nunta", "name": "Filmare nuntă" },
+    { "id": "videoclip-prezentare-firma", "slugPrefix": "videoclip-prezentare-firma", "serviceId": "videoclip-prezentare-firma", "name": "Videoclip de prezentare firmă" },
+    { "id": "filmare-drona", "slugPrefix": "filmare-drona", "serviceId": "filmare-drona", "name": "Filmare cu drona" },
+    { "id": "agentie-marketing", "slugPrefix": "agentie-marketing", "serviceId": "social-media-management", "name": "Agenție de marketing și social media" },
+    { "id": "creare-site", "slugPrefix": "creare-site", "serviceId": "creare-site-prezentare", "name": "Creare site" }
+  ]
+}

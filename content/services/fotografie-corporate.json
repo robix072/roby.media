@@ -1,0 +1,174 @@
+{
+  "_comment": "Pagina /servicii/fotografie-corporate (EN: /en/services/corporate-photography). Textele se editează direct aici.",
+  "id": "fotografie-corporate",
+  "category": "productie",
+  "order": 60,
+  "slug": { "ro": "fotografie-corporate", "en": "corporate-photography" },
+  "icon": "briefcase",
+  "packageGroup": null,
+  "priceFrom": null,
+  "priceUnit": "sesiune",
+  "portfolioCategories": ["foto"],
+  "related": ["videoclip-prezentare-firma", "creare-site-prezentare", "branding-identitate-vizuala", "filmare-evenimente-corporate"],
+  "localService": null,
+  "ro": {
+    "name": "Fotografie corporate",
+    "metaTitle": "Fotografie corporate: portrete de echipă și sediu",
+    "metaDescription": "Fotografie corporate la sediul firmei: portrete profesionale, poze de echipă, birouri și oameni la lucru, pentru site și LinkedIn. Cereți o ofertă acum.",
+    "h1": "Fotografie corporate care arată oamenii din spatele firmei",
+    "subtitle": "Portrete profesionale, fotografii de echipă și imagini de la locul de muncă, realizate la sediul dumneavoastră. O imagine unitară pentru site, LinkedIn, presă și oferte.",
+    "cardDescription": "Portrete profesionale, fotografii de echipă și imagini la sediu, pentru site, LinkedIn, presă și materiale de prezentare.",
+    "summary": [
+      "Ședință foto la sediul dumneavoastră, cu studio mobil și lumină profesională.",
+      "Portrete individuale, fotografii de grup și imagini cu echipa la lucru.",
+      "Stil unitar pentru toată echipa, cu retuș natural și fișiere pentru web și print.",
+      "Prețul se stabilește pe sesiune, după o discuție scurtă despre număr de persoane și locații."
+    ],
+    "problem": {
+      "title": "Pozele de pe site spun mai mult decât credeți",
+      "paragraphs": [
+        "Clienții și partenerii vor să știe cu cine lucrează. Se uită la pagina „Despre noi”, la profilurile de LinkedIn și la prezentările primite. Când găsesc selfie-uri decupate, poze de la evenimente vechi sau imagini de stoc cu oameni care nu lucrează la dumneavoastră, încrederea scade.",
+        "La fel de des apare problema lipsei de unitate. Fiecare membru al echipei are o poză diferită: alt fundal, altă lumină, altă calitate. Pe site arată ca un colaj improvizat, nu ca o firmă serioasă. Iar când vine un angajat nou, nu există o modalitate simplă de a-i face o poză în același stil."
+      ]
+    },
+    "solution": {
+      "title": "Cum organizăm o ședință foto corporate",
+      "paragraphs": [
+        "Venim la sediul dumneavoastră cu un studio mobil: fundal, lumini și tot ce trebuie pentru portrete. Amenajăm un colț într-o sală de ședințe sau un birou liber, iar echipa trece prin fața aparatului pe rând, după un program stabilit. Fiecare portret durează câteva minute, așa că activitatea nu se oprește.",
+        "Înainte de ședință stabilim stilul: fundal neutru sau de culoare de brand, portrete în birou cu fundal estompat, ținută formală sau mai relaxată. Notăm totul, ca peste câteva luni să putem reface aceleași condiții pentru angajații noi. Toată echipa rămâne unitară, în timp.",
+        "Pe lângă portrete, fotografiem echipa la lucru: ședințe, discuții, oameni la birou, spațiile firmei, recepția. Aceste imagini sunt cele de care aveți nevoie pentru site, cariere, postări pe social media și articole de presă. Retușul este natural. Corectăm lumina și detaliile mici, dar oamenii rămân ei înșiși."
+      ]
+    },
+    "includes": {
+      "title": "Ce include fotografia corporate",
+      "items": [
+        { "title": "Discuție de planificare", "text": "Stabilim stilul, lista de persoane, locațiile din sediu și programul ședinței." },
+        { "title": "Studio mobil la sediu", "text": "Fundal, lumini de studio și echipament montat într-un spațiu din firma dumneavoastră." },
+        { "title": "Portrete individuale", "text": "Portrete profesionale pentru site, LinkedIn, ecusoane și materiale de presă." },
+        { "title": "Fotografii de echipă", "text": "Fotografii de grup pe departamente sau cu toată echipa, în birou sau în aer liber." },
+        { "title": "Oameni la lucru", "text": "Imagini naturale din activitatea zilnică: ședințe, discuții, lucru la birou sau în producție." },
+        { "title": "Spații și sediu", "text": "Fotografii cu biroul, recepția, sălile de ședințe și exteriorul clădirii." },
+        { "title": "Retuș natural", "text": "Corecții de lumină, culoare și detalii, fără să schimbăm aspectul oamenilor." },
+        { "title": "Formate de livrare", "text": "Fișiere în rezoluție mare pentru print, variante pentru web și decupaje pătrate pentru profiluri." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Fotografia corporate este pentru orice firmă în care oamenii sunt parte din ceea ce vindeți.",
+      "items": [
+        { "industry": "Cabinete de avocatură și notariale", "text": "Portrete serioase și unitare pentru pagina echipei, care transmit încredere înainte de prima consultație." },
+        { "industry": "Clinici medicale și stomatologice", "text": "Medicii și asistentele fotografiați în cabinet, ca pacienții să știe pe cine întâlnesc." },
+        { "industry": "Firme de consultanță și contabilitate", "text": "Portrete pentru site și LinkedIn, plus imagini cu echipa în ședințe, pentru oferte și prezentări." },
+        { "industry": "Agenții imobiliare", "text": "Portrete pentru fiecare agent, folosite în anunțuri, pe site și pe materialele tipărite." },
+        { "industry": "Fabrici și firme de construcții", "text": "Oamenii de la birou și din producție sau de pe șantier, pentru recrutare și rapoarte către parteneri." },
+        { "industry": "Startup-uri și firme IT", "text": "Fotografii pentru pagina de cariere, investitori și presă, cu un stil mai relaxat." }
+      ]
+    },
+    "process": {
+      "title": "Cum decurge ședința",
+      "steps": [
+        { "title": "Discuție și ofertă", "text": "Ne spuneți câte persoane sunt, ce imagini vă trebuie și unde le veți folosi. Primiți oferta pe sesiune." },
+        { "title": "Planificare", "text": "Stabilim data, stilul, spațiul pentru studio și programul pe persoane sau departamente." },
+        { "title": "Ziua ședinței", "text": "Montăm studioul, fotografiem portretele pe rând, apoi echipa la lucru și spațiile." },
+        { "title": "Selecție", "text": "Primiți o galerie de previzualizare din care fiecare persoană își alege portretul preferat." },
+        { "title": "Retuș și livrare", "text": "Retușăm imaginile alese și le livrăm în formatele potrivite pentru web și print." }
+      ]
+    },
+    "pricingNote": "Fotografia corporate se ofertează pe sesiune, după o discuție scurtă. Prețul depinde de numărul de persoane, de durata ședinței și de locațiile fotografiate.",
+    "faq": [
+      { "q": "Cât costă o ședință foto corporate?", "a": "Prețul se stabilește pe sesiune și depinde de numărul de persoane, de câte imagini aveți nevoie și dacă includem fotografii cu echipa la lucru și cu sediul. Vă trimitem oferta după o discuție scurtă, ca să plătiți exact pentru ce folosiți." },
+      { "q": "Cât durează ședința?", "a": "Un portret individual durează câteva minute pe persoană. Pentru o echipă mică, totul se termină în câteva ore. Pentru echipe mari, organizăm programul pe departamente sau pe mai multe zile, ca activitatea să nu fie afectată." },
+      { "q": "Ce trebuie să pregătim?", "a": "Un spațiu liber de câțiva metri pătrați pentru studio, lista de persoane și un program orientativ. Vă trimitem înainte câteva recomandări despre ținută: culori uni, fără modele mărunte, haine călcate. Restul ține de noi." },
+      { "q": "Putem face poze și pentru angajații noi, mai târziu?", "a": "Da. Notăm setările de lumină, fundalul și încadrarea, ca să putem reface același stil la o sesiune ulterioară. Așa, portretele noi se potrivesc cu cele existente pe site." },
+      { "q": "Cum alegem fotografiile finale?", "a": "Primiți o galerie online de previzualizare. Fiecare persoană își alege portretul preferat, iar noi retușăm imaginile selectate. Numărul de imagini retușate pe persoană se stabilește în ofertă." },
+      { "q": "Ne putem folosi fotografiile oriunde?", "a": "Da. Fotografiile le folosiți pentru comunicarea firmei: site, LinkedIn, social media, presă, oferte și materiale tipărite. Condițiile de utilizare sunt trecute în contract." },
+      { "q": "Vă deplasați la sediul nostru din alt oraș?", "a": "Da. Lucrăm în toată România, cu studio mobil. Costul deplasării se trece transparent în ofertă, în funcție de distanță." },
+      { "q": "Putem face și un videoclip de prezentare în aceeași zi?", "a": "Da, și este o combinație eficientă. Echipa este deja pregătită, spațiul este aranjat, iar fotografiile și clipul au un stil comun. Vă trimitem o ofertă comună pentru ambele." }
+    ],
+    "closing": {
+      "title": "Arătați echipa care face diferența",
+      "text": "Spuneți-ne câte persoane sunt în echipă și unde veți folosi fotografiile. Revenim cu o propunere de stil și o ofertă pe sesiune."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru o ședință foto corporate. Număr de persoane: ..."
+  },
+  "en": {
+    "name": "Corporate photography",
+    "metaTitle": "Corporate Photography: Headshots, Teams and Offices",
+    "metaDescription": "On-site corporate photography: professional headshots, team photos, offices and people at work for your website and LinkedIn. Request a quote today.",
+    "h1": "Corporate photography that shows the people behind your company",
+    "subtitle": "Professional headshots, team photos and workplace images, shot at your premises. One consistent look for your website, LinkedIn, press and proposals.",
+    "cardDescription": "Professional headshots, team photos and on-site images for your website, LinkedIn, press and presentations.",
+    "summary": [
+      "An on-site session at your offices, with a mobile studio and professional lighting.",
+      "Individual headshots, group photos and images of your team at work.",
+      "A consistent style across the whole team, natural retouching, files for web and print.",
+      "Priced per session after a short call about headcount and locations."
+    ],
+    "problem": {
+      "title": "Your website photos say more than you think",
+      "paragraphs": [
+        "Clients and partners want to know who they'll be working with. They check your About page, your LinkedIn profiles and the decks you send. When they find cropped selfies, old event snaps or stock images of people who don't work for you, trust takes a hit.",
+        "Just as common is the lack of consistency. Everyone on the team has a different photo: different background, different light, different quality. On your website it looks like a patchwork, not a serious company. And when someone new joins, there's no easy way to match the style."
+      ]
+    },
+    "solution": {
+      "title": "How we run a corporate shoot",
+      "paragraphs": [
+        "We come to your offices with a mobile studio: backdrop, lights and everything needed for headshots. We set up in a meeting room or a spare office, and the team comes through one at a time on an agreed schedule. Each headshot takes a few minutes, so work carries on.",
+        "Before the shoot we agree on the style: neutral or brand-coloured backdrop, office portraits with a soft background, formal or relaxed dress. We record every setting, so months later we can recreate the same conditions for new hires. Your team stays consistent over time.",
+        "Beyond headshots, we photograph your team at work: meetings, conversations, people at their desks, your spaces and reception. These are the images you need for your website, careers page, social posts and press articles. Retouching stays natural. We fix light and small details, but people still look like themselves."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Planning call", "text": "We agree on style, the list of people, the spaces to use and the shoot schedule." },
+        { "title": "Mobile studio on site", "text": "Backdrop, studio lights and equipment set up in a room at your premises." },
+        { "title": "Individual headshots", "text": "Professional portraits for your website, LinkedIn, ID badges and press kits." },
+        { "title": "Team photos", "text": "Group shots by department or the whole company, indoors or outdoors." },
+        { "title": "People at work", "text": "Natural images of everyday activity: meetings, discussions, desk work or production." },
+        { "title": "Spaces and premises", "text": "Photos of your offices, reception, meeting rooms and building exterior." },
+        { "title": "Natural retouching", "text": "Corrections to light, colour and small details, without changing how people look." },
+        { "title": "Delivery formats", "text": "High-resolution files for print, web versions and square crops for profiles." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "Corporate photography is for any business where the people are part of what you sell.",
+      "items": [
+        { "industry": "Law firms and notaries", "text": "Serious, consistent headshots for your team page that build trust before the first consultation." },
+        { "industry": "Medical and dental clinics", "text": "Doctors and nurses photographed in the clinic, so patients know who they'll meet." },
+        { "industry": "Consultancies and accounting firms", "text": "Headshots for your website and LinkedIn, plus team-in-action shots for proposals and decks." },
+        { "industry": "Real estate agencies", "text": "A portrait of every agent, used in listings, on your website and in printed material." },
+        { "industry": "Manufacturers and construction companies", "text": "Office staff and people on the production floor or on site, for recruitment and partner reports." },
+        { "industry": "Startups and tech companies", "text": "Photos for your careers page, investors and press, in a more relaxed style." }
+      ]
+    },
+    "process": {
+      "title": "How the session runs",
+      "steps": [
+        { "title": "Call and quote", "text": "Tell us how many people, which images you need and where you'll use them. You get a per-session quote." },
+        { "title": "Planning", "text": "We set the date, style, studio space and a schedule by person or department." },
+        { "title": "Shoot day", "text": "We set up the studio, shoot headshots one by one, then the team at work and your spaces." },
+        { "title": "Selection", "text": "You get a preview gallery where each person picks their favourite shot." },
+        { "title": "Retouching and delivery", "text": "We retouch the chosen images and deliver them in the right formats for web and print." }
+      ]
+    },
+    "pricingNote": "Corporate photography is quoted per session after a short call. The price depends on headcount, session length and the spaces we photograph.",
+    "faq": [
+      { "q": "How much does a corporate photo session cost?", "a": "We price per session, based on headcount, how many images you need and whether we also cover team-at-work shots and your premises. We'll send a quote after a short call, so you pay only for what you'll use." },
+      { "q": "How long does the session take?", "a": "An individual headshot takes a few minutes per person. For a small team, the whole thing is done in a few hours. For larger teams, we schedule by department or across several days so work isn't disrupted." },
+      { "q": "What do we need to prepare?", "a": "A free space of a few square metres for the studio, the list of people and a rough schedule. We'll send some clothing tips in advance: solid colours, no small patterns, pressed clothes. We take care of the rest." },
+      { "q": "Can you photograph new hires later?", "a": "Yes. We record the lighting, backdrop and framing so we can recreate the same style at a later session. New headshots will match the ones already on your website." },
+      { "q": "How do we choose the final photos?", "a": "You get an online preview gallery. Each person picks their favourite shot, and we retouch the selected images. The number of retouched images per person is set in the quote." },
+      { "q": "Can we use the photos anywhere?", "a": "Yes. You can use them for company communications: website, LinkedIn, social media, press, proposals and print. Usage terms are written into the contract." },
+      { "q": "Will you come to our offices in another city?", "a": "Yes. We work all over Romania with a mobile studio. Travel costs are listed clearly in the quote, based on distance." },
+      { "q": "Can we film a presentation video on the same day?", "a": "Yes, and it's an efficient combination. Your team is already prepared, the space is set up, and the photos and video share the same look. We'll send a combined quote for both." }
+    ],
+    "closing": {
+      "title": "Show the team that makes the difference",
+      "text": "Tell us how many people are on your team and where you'll use the photos. We'll come back with a style proposal and a per-session quote."
+    },
+    "whatsapp": "Hello, I'd like a quote for a corporate photo session. Number of people: ..."
+  }
+}

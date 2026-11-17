@@ -1,0 +1,77 @@
+{
+  "ready": true,
+  "service": "filmare-nunta",
+  "city": "brasov",
+  "metaTitle": "Filmare nuntă Brașov, film cinematic 4K",
+  "metaDescription": "Filmare nuntă în Brașov, Poiana Brașov și zona Bran-Moieciu. Film 4K cu munții în cadru, teaser în 7 zile. De la 3.500 lei. Cereți oferta.",
+  "h1": "Filmare nuntă în Brașov",
+  "subtitle": "Film de nuntă cinematic 4K în Brașov, în Poiana Brașov și în satele de munte din jur, cu peisajul ca parte din poveste.",
+  "summary": [
+    "Filmăm nunți în Brașov, în stațiunile de munte și în tot județul Brașov.",
+    "Lucrăm des cu miri din alte orașe care aleg Brașovul pentru o nuntă la munte.",
+    "Pachete de la 3.500 lei (Essential) și 6.000 lei (Cinematic), fără TVA.",
+    "Ne adaptăm programul la vreme, la lumină și la drumurile de munte."
+  ],
+  "intro": [
+    "Brașovul este unul dintre locurile preferate pentru nunțile cu munți în fundal. Pe lângă mirii din oraș, aici vin multe cupluri din București și din alte zone ale țării, care vor o nuntă cu invitații cazați la munte și cu o sesiune foto în centrul vechi sau pe un platou cu vedere.",
+    "Peisajul face mult pentru film, dar vine și cu provocări. Vremea se schimbă repede, lumina dispare mai devreme în spatele munților, iar drumurile spre pensiunile și locațiile din zona Bran-Moieciu pot cere mai mult timp, mai ales iarna. Pregătim din timp un plan pentru zi și o variantă de rezervă pentru sesiunea în exterior.",
+    "O nuntă la munte se întinde des pe două zile, cu o seară de bun venit sau un brunch a doua zi. Putem filma și aceste momente, ca filmul să arate tot weekendul, nu doar ceremonia și petrecerea. Vă spunem ce merită inclus și ce costă fiecare variantă."
+  ],
+  "local": {
+    "title": "Unde se filmează nunțile în Brașov și în împrejurimi",
+    "text": "Nu recomandăm locații de evenimente anume. Vă descriem tipurile de locuri alese de miri în zona Brașovului și cum le pregătim pentru filmare.",
+    "items": [
+      {
+        "title": "Centrul istoric",
+        "text": "Piața Sfatului, Biserica Neagră, Strada Sforii și zidurile vechi ale cetății sunt fundaluri clasice. Fiind o zonă foarte turistică, recomandăm sesiunea dimineața devreme sau în timpul săptămânii."
+      },
+      {
+        "title": "Tâmpa și Aleea de sub Tâmpa",
+        "text": "Aleea de la poalele muntelui Tâmpa este umbrită și liniștită, iar de sus se vede tot orașul vechi. Este o alegere bună pentru cadre cu verdeață chiar lângă centru."
+      },
+      {
+        "title": "Poiana Brașov",
+        "text": "Stațiunea are hoteluri și spații de evenimente cu priveliște spre munte. Iarna oferă cadre cu zăpadă, iar vara pajiști și pădure, la câteva minute de oraș."
+      },
+      {
+        "title": "Zona Bran, Moieciu și Fundata",
+        "text": "Pensiunile și cabanele din satele de munte sunt alese pentru nunți mai mici, cu invitații cazați la locație. Platourile din jur sunt potrivite pentru sesiuni la apus."
+      },
+      {
+        "title": "Cetăți și biserici fortificate",
+        "text": "Cetatea Râșnov, biserica fortificată de la Prejmer sau satele săsești din județ dau filmului un aer istoric. Accesul cu echipament se stabilește după regulile fiecărui loc."
+      },
+      {
+        "title": "Parcuri naturale și lacuri",
+        "text": "Zona Piatra Craiului, de la Zărnești, și lacurile din jurul orașului sunt alese pentru sesiuni after wedding. În ariile protejate respectăm regulile administrației."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Deplasare în Brașov și în zona montană",
+    "text": "Filmăm în Brașov, în Poiana Brașov, în zona Bran-Moieciu, în Râșnov, Zărnești, Săcele, Codlea sau Făgăraș și în tot județul, dar și pe Valea Prahovei. Pentru nunțile de două zile sau cu program până târziu, includem cazarea echipei. Costul deplasării și al cazării apare separat și transparent în ofertă."
+  },
+  "faq": [
+    {
+      "q": "Filmați și nunți în zona Bran-Moieciu sau pe Valea Prahovei?",
+      "a": "Da. Ne deplasăm în tot județul Brașov și în zonele montane apropiate. Costul deplasării și, dacă e nevoie, al cazării echipei apare clar în ofertă."
+    },
+    {
+      "q": "Ce facem dacă plouă în ziua nunții?",
+      "a": "Pregătim de la început o variantă de rezervă pentru sesiunea în exterior: un loc acoperit, o fereastră de timp mai târziu în zi sau o sesiune after wedding în altă zi."
+    },
+    {
+      "q": "Puteți zbura cu drona în centrul Brașovului sau la munte?",
+      "a": "În centrul istoric și în apropierea aeroportului Brașov-Ghimbav pot exista restricții, iar unele arii protejate au reguli proprii. Verificăm fiecare locație înainte și zburăm doar unde este permis."
+    },
+    {
+      "q": "Merită o nuntă iarna la Brașov?",
+      "a": "Da, dacă vă place zăpada. Zilele sunt scurte, așa că planificăm sesiunea foto în orele cu lumină și ținem cont de drumurile de munte. Disponibilitatea este mai mare decât vara."
+    },
+    {
+      "q": "Cu cât timp înainte trebuie să rezervăm?",
+      "a": "Pentru sâmbetele de vară și de început de toamnă, vă recomandăm 6–12 luni. Data se rezervă cu un avans, pe bază de contract."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru filmare nuntă în Brașov. Data nunții și locația sunt: "
+}

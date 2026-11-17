@@ -1,0 +1,178 @@
+{
+  "_comment": "Pagina /servicii/copywriting-scripturi-video (EN: /en/services/video-scriptwriting-copywriting). Textele se editează direct aici.",
+  "id": "copywriting-scripturi-video",
+  "category": "marketing",
+  "order": 70,
+  "slug": { "ro": "copywriting-scripturi-video", "en": "video-scriptwriting-copywriting" },
+  "icon": "pen",
+  "packageGroup": null,
+  "priceFrom": null,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["video-comercial", "tiktok-social"],
+  "related": ["spot-publicitar", "productie-ugc", "reclame-tiktok-ads", "landing-page"],
+  "localService": null,
+  "ro": {
+    "name": "Copywriting și scripturi video",
+    "metaTitle": "Copywriting și scripturi video care vând",
+    "metaDescription": "Scripturi video, hook-uri, texte pentru reclame și copywriting pentru site, scrise să oprească scroll-ul și să aducă clienți. Cereți o ofertă acum.",
+    "h1": "Copywriting și scripturi video care opresc scroll-ul și vând",
+    "subtitle": "Scriem textele din spatele conținutului care funcționează: scripturi pentru video, hook-uri pentru primele secunde, texte pentru reclame și pentru site. Clar, pe limba clientului, cu un pas următor evident.",
+    "cardDescription": "Scripturi video, hook-uri, texte pentru reclame și pentru site, scrise să capteze atenția și să aducă clienți.",
+    "summary": [
+      "Scripturi pentru video de prezentare, reclame, TikTok, Reels și conținut UGC.",
+      "Hook-uri pentru primele secunde și variante de testat în campanii.",
+      "Texte pentru reclame, landing page-uri și site-uri, scrise pentru conversie.",
+      "Oferta se face la cerere, după o discuție scurtă despre volum și obiective."
+    ],
+    "problem": {
+      "title": "Un video bun cu un mesaj slab tot nu vinde",
+      "paragraphs": [
+        "Multe firme investesc în filmare și montaj, dar pornesc fără script. Se filmează ce pare frumos, iar mesajul se caută la montaj. Rezultatul arată bine, dar nu spune clar de ce ar trebui să cumpere cineva.",
+        "Pe TikTok și Instagram, oamenii decid în primele secunde dacă rămân sau dau mai departe. Fără un hook puternic, nici cel mai bine filmat clip nu este văzut până la capăt. Același lucru se întâmplă pe site: texte despre misiune și valori, în loc de răspunsuri la întrebările clientului.",
+        "Textul nu este un detaliu de final. Este structura pe care se construiește tot restul."
+      ]
+    },
+    "solution": {
+      "title": "Cum scriem texte care funcționează",
+      "paragraphs": [
+        "Începem cu clientul dumneavoastră, nu cu firma. Aflăm ce problemă are, ce a încercat deja, ce îl face să ezite și ce cuvinte folosește când vorbește despre ea. Le găsim în discuția cu dumneavoastră, în recenziile reale, în comentarii și în întrebările pe care le primiți des.",
+        "Pentru video, scriem scripturi gândite pentru ecran: ce se spune, ce se vede și ce apare ca text. Primele secunde primesc atenție separată, cu mai multe variante de hook. Structura urmează un drum simplu: atenție, problemă, soluție, dovadă, îndemn la acțiune. Scriem pe durata reală a clipului, nu texte lungi care trebuie tăiate la montaj.",
+        "Pentru reclame, scriem mai multe variante de titlu și text principal, ca să puteți testa ce funcționează. Pentru site și landing page-uri, scriem pe structura paginii, cu titluri clare, beneficii concrete, răspunsuri la obiecții și un îndemn la acțiune evident.",
+        "Avantajul nostru este că producem și video, și reclame. Scriem știind ce se poate filma, cât costă o scenă și ce funcționează efectiv pe platforme, nu doar pe hârtie."
+      ]
+    },
+    "includes": {
+      "title": "Ce putem scrie pentru dumneavoastră",
+      "items": [
+        { "title": "Scripturi pentru video de prezentare", "text": "Povestea firmei, a produsului sau a serviciului, cu text, indicații de imagine și durată." },
+        { "title": "Scripturi pentru spoturi publicitare", "text": "Concept, scenariu și dialog pentru reclame video care trebuie să comunice mult în puțin timp." },
+        { "title": "Scripturi pentru TikTok, Reels și Shorts", "text": "Formate verticale scurte, cu ritm rapid, text pe ecran și structură nativă platformelor." },
+        { "title": "Brief-uri și scripturi UGC", "text": "Indicații clare pentru creatori: ce să spună, ce să arate și ce să evite, păstrând tonul natural." },
+        { "title": "Hook-uri", "text": "Variante pentru primele secunde ale fiecărui clip, ca să puteți testa ce oprește scroll-ul." },
+        { "title": "Texte pentru reclame", "text": "Titluri, text principal și descrieri pentru Meta, Google și TikTok, în mai multe variante." },
+        { "title": "Copywriting pentru site", "text": "Pagina principală, pagini de servicii, landing page-uri și întrebări frecvente." },
+        { "title": "Tone of voice", "text": "Câteva reguli simple despre cum vorbește brandul, ca toată echipa să scrie consecvent." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Lucrăm cu firme care au de spus ceva valoros, dar nu au timpul sau experiența să îl spună într-un mod care vinde.",
+      "items": [
+        { "industry": "Magazine online și branduri de produs", "text": "Scripturi pentru reclame video și UGC, plus descrieri de produs care răspund la obiecții." },
+        { "industry": "Clinici și servicii medicale", "text": "Texte care explică simplu tratamente complexe, fără promisiuni exagerate și cu ton de încredere." },
+        { "industry": "Firme B2B și tehnice", "text": "Transformăm specificații tehnice în beneficii clare pentru cei care iau decizia de cumpărare." },
+        { "industry": "HoReCa și turism", "text": "Scripturi scurte pentru TikTok și Reels care fac oamenii să vrea să vină, plus texte pentru rezervări." },
+        { "industry": "Imobiliare", "text": "Scripturi pentru prezentări video ale proprietăților și ale proiectelor rezidențiale, cu accent pe stilul de viață." },
+        { "industry": "Antreprenori și branduri personale", "text": "Scripturi pentru clipuri vorbite în fața camerei, care sună natural și construiesc autoritate." },
+        { "industry": "Agenții și echipe de marketing", "text": "Suport de copywriting când volumul crește și echipa internă nu mai face față." }
+      ]
+    },
+    "process": {
+      "title": "Cum lucrăm",
+      "steps": [
+        { "title": "Brief", "text": "Discutăm obiectivul, publicul, oferta și canalele pe care va fi folosit textul." },
+        { "title": "Cercetare", "text": "Analizăm recenziile, întrebările clienților și conținutul concurenței." },
+        { "title": "Prima variantă", "text": "Vă trimitem textele sau scripturile, cu variante de hook și de titlu unde e cazul." },
+        { "title": "Revizii", "text": "Ajustăm pe baza feedback-ului, în numărul de runde stabilit în ofertă." },
+        { "title": "Predare și producție", "text": "Primiți textele finale. Dacă doriți, le putem duce mai departe în filmare, montaj sau campanii." }
+      ]
+    },
+    "pricingNote": "Copywriting-ul și scripturile se ofertează la cerere, în funcție de tip și volum. După o discuție scurtă vă trimitem o ofertă clară, cu livrabile și termen.",
+    "faq": [
+      { "q": "Cât costă un script video?", "a": "Depinde de tipul și de durata video-ului, de cercetarea necesară și de numărul de variante. Un set de scripturi scurte pentru social media diferă mult de scenariul unui spot publicitar. După o discuție scurtă primiți o ofertă clară." },
+      { "q": "În cât timp primim textele?", "a": "Pentru volume mici, de regulă în câteva zile lucrătoare de la brief. Proiectele mai mari, cum ar fi textele pentru un site complet, durează mai mult. Termenul exact este trecut în ofertă." },
+      { "q": "Câte revizii sunt incluse?", "a": "Numărul de runde de revizie este stabilit în ofertă. Un brief bun la început reduce mult nevoia de revizii, așa că investim timp în discuția inițială." },
+      { "q": "Ale cui sunt textele?", "a": "După plata integrală, textele vă aparțin și le puteți folosi oricum doriți: pe site, în reclame, în video sau în materiale tipărite." },
+      { "q": "Ce aveți nevoie de la noi?", "a": "Informații despre produs sau serviciu, despre clienți și despre ofertă, exemple de conținut care vă plac și, dacă există, recenzii sau întrebări frecvente reale. Cu cât știm mai mult despre clienți, cu atât textul e mai bun." },
+      { "q": "Puteți și filma ce scrieți?", "a": "Da. Pentru că producem video, putem duce scriptul mai departe în filmare și montaj, prin serviciile de video de prezentare, spot publicitar, conținut social media sau UGC." },
+      { "q": "Scrieți și în engleză?", "a": "Da. Scriem în română și în engleză. Textul în engleză îl adaptăm pentru publicul vizat, nu îl traducem cuvânt cu cuvânt." }
+    ],
+    "closing": {
+      "title": "Spuneți-ne ce vreți să comunicați",
+      "text": "Trimiteți-ne pe scurt ce aveți nevoie: scripturi, texte pentru reclame sau pentru site. Vă răspundem cu o propunere și o ofertă clară."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru copywriting / scripturi video. Am nevoie de: ..., pentru platforma: ..."
+  },
+  "en": {
+    "name": "Video scriptwriting and copywriting",
+    "metaTitle": "Video Scriptwriting and Copywriting That Sells",
+    "metaDescription": "Video scripts, hooks, ad copy and website copy written to stop the scroll and win customers. Tell us what you need and get a clear quote.",
+    "h1": "Video scriptwriting and copywriting that stops the scroll and sells",
+    "subtitle": "We write the words behind content that works: video scripts, hooks for the first seconds, ad copy and website copy. Clear, in your customer's language, with an obvious next step.",
+    "cardDescription": "Video scripts, hooks, ad copy and website copy, written to grab attention and bring in customers.",
+    "summary": [
+      "Scripts for company videos, commercials, TikTok, Reels and UGC content.",
+      "Hooks for the first seconds, with variations to test in your campaigns.",
+      "Copy for ads, landing pages and websites, written to convert.",
+      "Pricing is quoted on request, after a short call about volume and goals."
+    ],
+    "problem": {
+      "title": "Great footage with a weak message still won't sell",
+      "paragraphs": [
+        "Plenty of businesses invest in filming and editing but start without a script. The crew films whatever looks good, and the message gets figured out in the edit. The result looks polished but never says clearly why anyone should buy.",
+        "On TikTok and Instagram, people decide in the first seconds whether to stay or swipe. Without a strong hook, even beautifully shot footage doesn't get watched to the end. Websites have the same problem: copy about the company's mission and values instead of answers to the customer's questions.",
+        "Copy isn't a finishing touch. It's the structure everything else is built on."
+      ]
+    },
+    "solution": {
+      "title": "How we write copy that works",
+      "paragraphs": [
+        "We start with your customer, not your company. What problem they have, what they've already tried, what makes them hesitate and the words they use to describe it. We find those answers in our conversation with you, in genuine reviews, in comments and in the questions you get asked most often.",
+        "For video, we write scripts made for the screen: what's said, what's shown and what appears as on-screen text. The opening seconds get special attention, with several hook options. The structure follows a simple path: attention, problem, solution, proof, call to action. We write to the real length of the clip, not long copy that has to be hacked down in the edit.",
+        "For ads, we write several headline and primary text variations so you can test what works. For websites and landing pages, we write to the page structure, with clear headlines, concrete benefits, answers to objections and an obvious call to action.",
+        "Our edge is that we also produce video and run ads. We write knowing what can be filmed, what a scene costs and what actually performs on each platform, not just on paper."
+      ]
+    },
+    "includes": {
+      "title": "What we can write for you",
+      "items": [
+        { "title": "Company video scripts", "text": "The story of your business, product or service, with voiceover, shot notes and runtime." },
+        { "title": "Commercial scripts", "text": "Concept, screenplay and dialogue for video ads that need to say a lot in very little time." },
+        { "title": "TikTok, Reels and Shorts scripts", "text": "Short vertical formats with fast pacing, on-screen text and a platform-native structure." },
+        { "title": "UGC briefs and scripts", "text": "Clear guidance for creators: what to say, what to show and what to avoid, while keeping it natural." },
+        { "title": "Hooks", "text": "Opening-line options for every clip, so you can test what stops the scroll." },
+        { "title": "Ad copy", "text": "Headlines, primary text and descriptions for Meta, Google and TikTok, in several variations." },
+        { "title": "Website copy", "text": "Homepage, service pages, landing pages and FAQs." },
+        { "title": "Tone of voice", "text": "A few simple rules for how your brand speaks, so your whole team writes consistently." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "We work with businesses that have something valuable to say but lack the time or experience to say it in a way that sells.",
+      "items": [
+        { "industry": "Online stores and product brands", "text": "Scripts for video ads and UGC, plus product descriptions that handle objections." },
+        { "industry": "Clinics and healthcare providers", "text": "Copy that explains complex treatments simply, with a trustworthy tone and no exaggerated claims." },
+        { "industry": "B2B and technical companies", "text": "We turn technical specs into clear benefits for the people who make the buying decision." },
+        { "industry": "Hospitality and tourism", "text": "Short TikTok and Reels scripts that make people want to visit, plus copy that drives bookings." },
+        { "industry": "Real estate", "text": "Scripts for property and residential project videos, focused on lifestyle rather than square metres." },
+        { "industry": "Founders and personal brands", "text": "Talking-head scripts that sound natural and build authority." },
+        { "industry": "Agencies and in-house marketing teams", "text": "Extra copywriting capacity when volume grows and the team can't keep up." }
+      ]
+    },
+    "process": {
+      "title": "How we work",
+      "steps": [
+        { "title": "Brief", "text": "We discuss the goal, audience, offer and the channels where the copy will run." },
+        { "title": "Research", "text": "We review customer reviews, common questions and what competitors are publishing." },
+        { "title": "First draft", "text": "We send the copy or scripts, with hook and headline options where relevant." },
+        { "title": "Revisions", "text": "We refine based on your feedback, within the number of rounds set in the quote." },
+        { "title": "Handover and production", "text": "You get the final copy. If you like, we can take it further into filming, editing or campaigns." }
+      ]
+    },
+    "pricingNote": "Copywriting and scripts are quoted on request, depending on type and volume. After a short call, we send a clear quote with deliverables and a timeline.",
+    "faq": [
+      { "q": "How much does a video script cost?", "a": "It depends on the type and length of the video, the research involved and how many variations you need. A set of short social scripts is very different from a commercial screenplay. After a short call, you get a clear quote." },
+      { "q": "How quickly will we get the copy?", "a": "Small volumes usually take a few working days from the brief. Bigger projects, such as copy for a full website, take longer. The exact timeline is in the quote." },
+      { "q": "How many revisions are included?", "a": "The number of revision rounds is set in the quote. A good brief up front cuts revisions dramatically, so we put real time into the first conversation." },
+      { "q": "Who owns the copy?", "a": "Once paid in full, the copy is yours to use however you like: on your website, in ads, in video or in print." },
+      { "q": "What do you need from us?", "a": "Information about your product or service, your customers and your offer, examples of content you like and, if you have them, genuine reviews or frequently asked questions. The more we know about your customers, the better the copy." },
+      { "q": "Can you also film what you write?", "a": "Yes. Because we're a production team, we can take the script into filming and editing through our company video, commercial, social media content or UGC services." },
+      { "q": "Do you write in English?", "a": "Yes. We write in Romanian and English. English copy is adapted for its audience, never translated word for word." }
+    ],
+    "closing": {
+      "title": "Tell us what you want to say",
+      "text": "Send us a quick note on what you need: scripts, ad copy or website copy. We'll reply with a proposal and a clear quote."
+    },
+    "whatsapp": "Hello, I'd like a quote for copywriting / video scripts. I need: ..., for platform: ..."
+  }
+}

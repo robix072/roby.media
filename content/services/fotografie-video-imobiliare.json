@@ -1,0 +1,180 @@
+{
+  "_comment": "Pagina /servicii/fotografie-video-imobiliare (EN: /en/services/real-estate-photo-video). Textele se editează direct aici.",
+  "id": "fotografie-video-imobiliare",
+  "category": "productie",
+  "order": 70,
+  "slug": { "ro": "fotografie-video-imobiliare", "en": "real-estate-photo-video" },
+  "icon": "home",
+  "packageGroup": null,
+  "priceFrom": null,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["foto", "drona", "video-comercial"],
+  "related": ["filmare-drona", "videoclip-prezentare-firma", "reclame-facebook-instagram", "continut-social-media"],
+  "localService": null,
+  "ro": {
+    "name": "Foto și video imobiliare",
+    "metaTitle": "Fotografie imobiliară și video pentru anunțuri",
+    "metaDescription": "Fotografie imobiliară, video tur și cadre cu drona pentru apartamente, case și ansambluri. Livrare rapidă, gata de anunț. Cereți o ofertă acum.",
+    "h1": "Fotografie imobiliară și video care fac anunțul să iasă în evidență",
+    "subtitle": "Fotografii luminoase, tururi video și cadre aeriene care arată proprietatea la adevărata ei valoare. Mai multe vizualizări, mai multe cereri de vizionare.",
+    "cardDescription": "Fotografii HDR, tur video și cadre cu drona pentru apartamente, case, spații comerciale și ansambluri rezidențiale.",
+    "summary": [
+      "Fotografii de interior și exterior, editate pentru portaluri imobiliare și site.",
+      "Tur video orizontal pentru YouTube și site, plus clipuri verticale pentru Reels și TikTok.",
+      "Cadre aeriene cu drona pentru case, terenuri și ansambluri, unde zborul este permis.",
+      "Oferta se face după o discuție scurtă, în funcție de suprafață, număr de proprietăți și livrabile."
+    ],
+    "problem": {
+      "title": "Cumpărătorul decide din primele trei fotografii",
+      "paragraphs": [
+        "Pe portalurile imobiliare, anunțul dumneavoastră stă lângă zeci de proprietăți similare. Cel care caută derulează rapid. Se oprește doar unde imaginea principală îl convinge. Restul anunțurilor rămân necitite.",
+        "Fotografiile făcute cu telefonul au aceleași probleme peste tot: ferestre arse, camere întunecate, unghiuri care micșorează spațiul, linii strâmbe. O proprietate bună arată mediocru. Iar un anunț mediocru aduce vizionări puține sau oameni care negociază agresiv prețul.",
+        "Pentru dezvoltatori, miza este și mai mare. Un ansamblu în construcție se vinde din imagini și din încredere. Fără materiale profesionale, cumpărătorul nu își poate imagina cum va arăta viața acolo."
+      ]
+    },
+    "solution": {
+      "title": "Cum lucrăm la o ședință foto-video imobiliară",
+      "paragraphs": [
+        "Înainte de ședință vă trimitem o listă scurtă de pregătire: ce se strânge de pe blaturi, ce lumini se aprind, ce uși se deschid. Stabilim ora în funcție de orientarea proprietății, ca lumina naturală să lucreze pentru noi.",
+        "La fotografie folosim trepied, obiective cu unghi larg fără distorsiuni exagerate și expuneri multiple. Astfel, și interiorul, și priveliștea de la fereastră se văd corect. Verticalele sunt drepte, culorile sunt naturale, iar spațiul arată așa cum îl percepe omul care intră pe ușă.",
+        "Pentru video filmăm un tur fluid, cu mișcări stabilizate, care urmează traseul firesc al unui vizitator. Adăugăm detalii: finisaje, vedere, curte, parcare, împrejurimi. Unde regulile permit, drona arată poziția proprietății, accesul și vecinătatea.",
+        "În post-producție corectăm lumina și perspectiva, egalizăm culorile între camere și montăm clipurile în formatele de care aveți nevoie: orizontal pentru portaluri și YouTube, vertical pentru social media și reclame."
+      ]
+    },
+    "includes": {
+      "title": "Ce primiți",
+      "items": [
+        { "title": "Fotografii de interior HDR", "text": "Camere luminoase, ferestre corect expuse și verticale drepte, gata de publicat." },
+        { "title": "Fotografii de exterior", "text": "Fațada, curtea, terasa, intrarea și spațiile comune ale clădirii." },
+        { "title": "Tur video al proprietății", "text": "Un clip orizontal de 1–3 minute, cu mișcări fluide și muzică licențiată." },
+        { "title": "Clipuri verticale scurte", "text": "Variante de 15–45 de secunde pentru Reels, TikTok, Stories și reclame." },
+        { "title": "Cadre aeriene cu drona", "text": "Poziția, accesul și împrejurimile, filmate și fotografiate din aer, unde zborul este permis." },
+        { "title": "Fotografii la apus", "text": "Opțional, pentru case și vile, cu lumini aprinse și cer colorat." },
+        { "title": "Editare și corecție de culoare", "text": "Fiecare imagine este ajustată manual, fără filtre care schimbă realitatea." },
+        { "title": "Formate pentru fiecare platformă", "text": "Dimensiuni optimizate pentru portaluri, site, social media și materiale tipărite." },
+        { "title": "Livrare online", "text": "Toate fișierele într-un link privat, gata de descărcat și publicat." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Lucrăm cu oricine are de vândut sau de închiriat un spațiu și vrea ca anunțul să aducă cereri reale.",
+      "items": [
+        { "industry": "Agenții și agenți imobiliari", "text": "Fotografii uniforme pentru tot portofoliul, care ridică nivelul anunțurilor și vă ajută să obțineți mandate noi." },
+        { "industry": "Dezvoltatori rezidențiali", "text": "Materiale pentru apartamentul de prezentare, progresul șantierului și campaniile de precomercializare." },
+        { "industry": "Proprietari care vând direct", "text": "Un anunț care arată profesionist și concurează cu agențiile pe aceleași portaluri." },
+        { "industry": "Pensiuni și apartamente în regim hotelier", "text": "Imagini pentru platformele de rezervări, care transmit confortul și atmosfera locului." },
+        { "industry": "Spații comerciale și birouri", "text": "Prezentarea suprafeței, a accesului și a vizibilității pentru chiriași potriviți." },
+        { "industry": "Arhitecți și designeri de interior", "text": "Fotografii curate ale proiectelor finalizate, pentru portofoliu, site și concursuri." }
+      ]
+    },
+    "process": {
+      "title": "Procesul, pas cu pas",
+      "steps": [
+        { "title": "Discuție și ofertă", "text": "Ne spuneți tipul proprietății, suprafața, locația și ce materiale vă trebuie. Primiți o ofertă clară." },
+        { "title": "Pregătirea proprietății", "text": "Vă trimitem lista de pregătire și stabilim ora potrivită pentru lumină." },
+        { "title": "Ședința foto-video", "text": "Fotografiem și filmăm proprietatea. Verificăm zona de zbor înainte de a ridica drona." },
+        { "title": "Editare", "text": "Corectăm lumina, perspectiva și culorile, apoi montăm turul video și clipurile scurte." },
+        { "title": "Livrare", "text": "Primiți fișierele finale online, în formatele stabilite, gata de publicat." }
+      ]
+    },
+    "pricingNote": "Prețul se stabilește după o discuție scurtă, în funcție de suprafață, numărul de proprietăți și materialele dorite. Pentru agenții și dezvoltatori putem face o ofertă pentru colaborare constantă.",
+    "faq": [
+      { "q": "Cât costă o ședință foto-video imobiliară?", "a": "Depinde de suprafață, de numărul de proprietăți și de livrabile: doar fotografii, fotografii și video, cu sau fără dronă. După o discuție scurtă vă trimitem o ofertă fixă, fără costuri ascunse. Cadrele aeriene separate pornesc de la 500 lei." },
+      { "q": "În cât timp primim fotografiile?", "a": "Fotografiile editate se livrează de regulă în câteva zile lucrătoare. Turul video și clipurile scurte cer mai mult timp de montaj. Termenul exact îl confirmăm în ofertă, iar pentru anunțuri urgente putem stabili livrare prioritară." },
+      { "q": "Cum pregătim proprietatea?", "a": "Vă trimitem o listă înainte de ședință. Pe scurt: blaturi libere, paturi făcute, obiecte personale strânse, toate becurile funcționale. Nu e nevoie de amenajare specială. O proprietate curată și aerisită arată mult mai bine în cadru." },
+      { "q": "Fotografiile arată realitatea sau sunt prelucrate excesiv?", "a": "Corectăm lumina, culorile și perspectiva, adică ce ar vedea ochiul uman în persoană. Nu ștergem defecte structurale și nu schimbăm finisajele. Un cumpărător care vine la vizionare trebuie să găsească ce a văzut în anunț." },
+      { "q": "Putem folosi materialele oriunde?", "a": "Da. Primiți dreptul de a folosi fotografiile și clipurile pentru promovarea proprietății: portaluri, site, social media, reclame și materiale tipărite. Dacă vreți să le folosiți și în alt scop, stabilim acest lucru în ofertă." },
+      { "q": "Zburați cu drona deasupra oricărei proprietăți?", "a": "Nu oriunde. Zborurile respectă reglementările AACR și regulile europene. Verificăm zona înainte de fiecare ședință, pentru că zonele din apropierea aeroporturilor și unele zone urbane sunt restricționate. Dacă zborul nu este permis, vă spunem din timp." },
+      { "q": "Vă deplasați în afara orașului?", "a": "Da. Lucrăm în toată România. Pentru proprietăți aflate la distanță, costul deplasării apare separat în ofertă. Pentru mai multe proprietăți în aceeași zonă le grupăm în aceeași zi." },
+      { "q": "Lucrați și cu agenții, pe volum?", "a": "Da. Pentru agenții și dezvoltatori putem stabili un flux constant, cu programare rapidă și același stil vizual pe toate anunțurile. Condițiile se discută în funcție de volumul estimat." }
+    ],
+    "closing": {
+      "title": "Faceți ca proprietatea să fie văzută",
+      "text": "Trimiteți-ne tipul proprietății, suprafața și locația. Vă răspundem rapid cu o ofertă și o dată pentru ședință."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru fotografie și video imobiliare. Tip proprietate: ..., suprafață: ..., locație: ..."
+  },
+  "en": {
+    "name": "Real estate photo & video",
+    "metaTitle": "Real Estate Photography and Video in Romania",
+    "metaDescription": "Real estate photography, video tours and drone shots for flats, houses and developments. Listing-ready files, delivered fast. Request a quote today.",
+    "h1": "Real estate photography and video that make your listing stand out",
+    "subtitle": "Bright photos, smooth video tours and aerial shots that show a property at its true value. More views, more viewing requests.",
+    "cardDescription": "HDR photos, video tours and drone footage for apartments, houses, commercial spaces and residential developments.",
+    "summary": [
+      "Interior and exterior photos, edited for property portals and your website.",
+      "A horizontal video tour for YouTube and your site, plus vertical clips for Reels and TikTok.",
+      "Aerial drone shots for houses, land and developments, wherever flying is allowed.",
+      "Quoted after a short call, based on floor area, number of properties and deliverables."
+    ],
+    "problem": {
+      "title": "Buyers decide from the first three photos",
+      "paragraphs": [
+        "On property portals your listing sits next to dozens of similar homes. People scroll fast and only stop when the lead image catches them. Everything else gets skipped.",
+        "Phone photos tend to fail in the same ways: blown-out windows, dark rooms, angles that make spaces feel smaller, lines that lean. A good property ends up looking average. An average listing brings few viewings, or buyers who come in ready to haggle hard.",
+        "For developers the stakes are higher still. A project under construction sells on visuals and trust. Without professional material, buyers simply can't picture themselves living there."
+      ]
+    },
+    "solution": {
+      "title": "How a real estate shoot works",
+      "paragraphs": [
+        "Before the shoot we send you a short prep list: what to clear off the counters, which lights to switch on, which doors to open. We pick the time of day based on how the property faces, so the natural light works in our favour.",
+        "For photography we use a tripod, wide lenses without heavy distortion and multiple exposures. That way both the room and the view through the window look right. Verticals stay straight, colours stay true, and the space looks the way it feels when you walk in.",
+        "For video we shoot a smooth, stabilised walkthrough that follows the natural route of a visitor, then add the details that sell: finishes, views, garden, parking, the neighbourhood. Where regulations allow, the drone shows the location, access and surroundings.",
+        "In post-production we correct light and perspective, match colour from room to room, and cut the footage into the formats you need: landscape for portals and YouTube, vertical for social media and ads."
+      ]
+    },
+    "includes": {
+      "title": "What you get",
+      "items": [
+        { "title": "HDR interior photos", "text": "Bright rooms, properly exposed windows and straight verticals, ready to publish." },
+        { "title": "Exterior photos", "text": "The facade, garden, terrace, entrance and shared areas of the building." },
+        { "title": "Property video tour", "text": "A 1 to 3 minute landscape film with smooth movement and licensed music." },
+        { "title": "Short vertical clips", "text": "15 to 45 second edits for Reels, TikTok, Stories and paid ads." },
+        { "title": "Aerial drone footage", "text": "Location, access and surroundings in photo and video from above, where flying is permitted." },
+        { "title": "Twilight photos", "text": "Optional for houses and villas, with interior lights on and a colourful sky." },
+        { "title": "Editing and colour correction", "text": "Every image is adjusted by hand, with no filters that misrepresent the property." },
+        { "title": "Formats for every platform", "text": "Sizes optimised for portals, websites, social media and print." },
+        { "title": "Online delivery", "text": "All files in a private link, ready to download and publish." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "We work with anyone who needs to sell or let a space and wants the listing to bring real enquiries.",
+      "items": [
+        { "industry": "Estate agencies and agents", "text": "Consistent photos across your whole portfolio that lift your listings and help you win new instructions." },
+        { "industry": "Residential developers", "text": "Content for the show flat, construction progress updates and off-plan sales campaigns." },
+        { "industry": "Private sellers", "text": "A listing that looks professional and competes with agencies on the same portals." },
+        { "industry": "Guesthouses and short-term rentals", "text": "Images for booking platforms that convey comfort and the feel of the place." },
+        { "industry": "Retail units and offices", "text": "Showing floor area, access and street visibility to attract the right tenants." },
+        { "industry": "Architects and interior designers", "text": "Clean photos of finished projects for your portfolio, website and award entries." }
+      ]
+    },
+    "process": {
+      "title": "The process, step by step",
+      "steps": [
+        { "title": "Call and quote", "text": "Tell us the property type, size, location and what you need. You get a clear, fixed quote." },
+        { "title": "Preparing the property", "text": "We send the prep list and agree the best time of day for light." },
+        { "title": "The shoot", "text": "We photograph and film the property, and check the airspace before the drone goes up." },
+        { "title": "Editing", "text": "We correct light, perspective and colour, then cut the video tour and short clips." },
+        { "title": "Delivery", "text": "Final files arrive online in the agreed formats, ready to go live." }
+      ]
+    },
+    "pricingNote": "Pricing is quoted after a short call, based on floor area, number of properties and the deliverables you need. Agencies and developers can ask for terms for ongoing work.",
+    "faq": [
+      { "q": "How much does a real estate shoot cost?", "a": "It depends on floor area, the number of properties and what you need: photos only, photos and video, with or without drone. After a short call we send a fixed quote with no hidden extras. Standalone aerial footage starts from 500 RON." },
+      { "q": "How soon do we get the photos?", "a": "Edited photos are usually delivered within a few working days. The video tour and short clips need more editing time. We confirm the exact turnaround in the quote and can prioritise urgent listings." },
+      { "q": "How should we prepare the property?", "a": "We send a checklist beforehand. In short: clear counters, beds made, personal items put away and every bulb working. No staging is required. A clean, aired room always looks better on camera." },
+      { "q": "Will the photos be realistic or heavily edited?", "a": "We correct light, colour and perspective, so the image matches what the human eye sees on site. We don't remove structural defects or change finishes. Buyers who come to a viewing should find what they saw in the listing." },
+      { "q": "Can we use the material anywhere?", "a": "Yes. You can use the photos and videos to market the property on portals, your website, social media, ads and print. If you need them for something else, we agree that in the quote." },
+      { "q": "Can you fly the drone over any property?", "a": "Not everywhere. All flights follow AACR and EU drone rules, and we check the airspace before every shoot, as areas near airports and parts of cities are restricted. If flying isn't allowed, we tell you in advance." },
+      { "q": "Do you travel outside the city?", "a": "Yes, we work across Romania. For properties further afield, travel is listed separately in the quote. If you have several properties in the same area, we group them on the same day." },
+      { "q": "Do you work with agencies on volume?", "a": "Yes. For agencies and developers we can set up an ongoing workflow with quick scheduling and a consistent visual style across all listings. Terms depend on the expected volume." }
+    ],
+    "closing": {
+      "title": "Get your property seen",
+      "text": "Send us the property type, size and location. We'll reply quickly with a quote and a date for the shoot."
+    },
+    "whatsapp": "Hello, I'd like a quote for real estate photo and video. Property type: ..., size: ..., location: ..."
+  }
+}

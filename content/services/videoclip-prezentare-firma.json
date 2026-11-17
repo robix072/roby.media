@@ -1,0 +1,361 @@
+{
+  "_comment": "Pagina /servicii/videoclip-prezentare-firma (EN: /en/services/company-presentation-video). Textele se editează direct aici.",
+  "id": "videoclip-prezentare-firma",
+  "category": "productie",
+  "order": 10,
+  "slug": {
+    "ro": "videoclip-prezentare-firma",
+    "en": "company-presentation-video"
+  },
+  "icon": "film",
+  "packageGroup": "productie",
+  "packageIds": [
+    "video-prezentare"
+  ],
+  "priceFrom": 1800,
+  "priceUnit": "proiect",
+  "portfolioCategories": [
+    "video-comercial"
+  ],
+  "related": [
+    "spot-publicitar",
+    "filmare-drona",
+    "fotografie-corporate",
+    "continut-social-media"
+  ],
+  "localService": "videoclip-prezentare-firma",
+  "ro": {
+    "name": "Videoclip de prezentare firmă",
+    "metaTitle": "Videoclip de prezentare firmă, filmat profesionist 4K",
+    "metaDescription": "Videoclip de prezentare pentru firmă: concept, script, filmare 4K și 3 variante pentru social media. De la 1.800 lei. Cereți o ofertă azi.",
+    "h1": "Videoclip de prezentare firmă care vinde înainte de prima discuție",
+    "subtitle": "Arătați în două minute cine sunteți, ce faceți și de ce merită ales. Un clip clar, filmat profesionist, pe care îl folosiți pe site, în oferte și pe social media.",
+    "cardDescription": "Clip de 60–120 de secunde despre firma dumneavoastră: concept, script, filmare 4K și variante scurte pentru social media.",
+    "summary": [
+      "Concept și script scrise de noi, pornind de la clienții pe care vreți să îi atrageți.",
+      "O zi de filmare 4K la sediul, în atelierul sau pe șantierul dumneavoastră.",
+      "Clip principal de 60–120 de secunde și 3 variante scurte verticale pentru social media.",
+      "Proiectele pornesc de la 1.800 lei + TVA. Ne deplasăm în toată România."
+    ],
+    "problem": {
+      "title": "Clienții vă judecă firma înainte să vă sune",
+      "paragraphs": [
+        "Un client nou intră pe site, vă caută pe Google sau dă peste o postare. Are câteva secunde să decidă dacă vă contactează. Dacă vede doar text generic și poze de stoc, trece mai departe la concurență.",
+        "Multe firme bune pierd clienți exact aici. Fac treabă serioasă, dar nu o arată. Echipa, utilajele, procesul și grija pentru detalii rămân invizibile. Un videoclip filmat cu telefonul, cu sunet slab și fără un mesaj clar, face mai mult rău decât bine.",
+        "Un videoclip de prezentare bun rezolvă problema. Răspunde la întrebările pe care clientul le are oricum: cine sunteți, ce faceți, cum lucrați și de ce să aibă încredere în dumneavoastră."
+      ]
+    },
+    "solution": {
+      "title": "Cum realizăm un videoclip de prezentare",
+      "paragraphs": [
+        "Începem cu o discuție de 30 de minute despre afacerea dumneavoastră. Aflăm cine sunt clienții ideali, ce îi convinge să cumpere și ce vă diferențiază. Pe baza ei scriem conceptul și scriptul. Știți dinainte ce se va filma și ce se va spune.",
+        "În ziua filmării venim cu echipa și echipamentul: camere cinema 4K, lumini, microfoane wireless și, unde are sens, dronă. Filmăm oamenii, spațiul, produsele și procesul de lucru. Dacă scriptul include interviuri, vă pregătim înainte, ca discursul să sune natural, nu recitat.",
+        "În post-producție montăm clipul pe ritmul mesajului, facem color grading, curățăm sunetul și adăugăm muzică licențiată, titluri și subtitrări. Din același material extragem 3 variante scurte în format vertical, gata de postat pe TikTok, Instagram sau Facebook.",
+        "Rezultatul este un material pe care îl folosiți ani de zile: pe pagina principală a site-ului, în prezentările de vânzări, la târguri, în campanii de recrutare și în reclame."
+      ]
+    },
+    "includes": {
+      "title": "Ce include videoclipul de prezentare",
+      "items": [
+        {
+          "title": "Discuție de briefing",
+          "text": "Stabilim obiectivul clipului, publicul și mesajele principale, online sau la sediul dumneavoastră."
+        },
+        {
+          "title": "Concept și script",
+          "text": "Structura clipului, textul vocii sau întrebările de interviu și lista cadrelor, aprobate de dumneavoastră înainte de filmare."
+        },
+        {
+          "title": "O zi de filmare 4K",
+          "text": "Echipă la fața locului, camere cinema 4K, lumini și sunet profesional. Putem filma în mai multe spații în aceeași zi."
+        },
+        {
+          "title": "Interviuri și voce",
+          "text": "Interviu cu fondatorul sau cu echipa, filmat cu sunet curat. Opțional, voce din off înregistrată separat."
+        },
+        {
+          "title": "Cadre aeriene, la cerere",
+          "text": "Pentru fabrici, șantiere, hoteluri sau sedii mari, adăugăm cadre cu drona, cu respectarea regulilor AACR/UE."
+        },
+        {
+          "title": "Montaj și color grading",
+          "text": "Clip de 60–120 de secunde, cu ritm bun, culori unitare și muzică licențiată pentru folosire online."
+        },
+        {
+          "title": "3 variante scurte pentru social media",
+          "text": "Clipuri verticale 9:16, cu subtitrări, potrivite pentru Reels, TikTok și Stories."
+        },
+        {
+          "title": "Formate de livrare",
+          "text": "Clipul principal în 16:9 pentru site și YouTube, plus 9:16 sau 1:1 pentru social media, la cerere."
+        }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Orice firmă care vinde încredere are nevoie de un videoclip de prezentare. Iată câteva exemple de cum îl folosesc clienții.",
+      "items": [
+        {
+          "industry": "Clinici medicale și stomatologice",
+          "text": "Arătați cabinetele, aparatura și medicii. Pacienții noi vin mai liniștiți când știu deja cine îi tratează."
+        },
+        {
+          "industry": "Firme de construcții și instalații",
+          "text": "Lucrări finalizate, echipă și utilaje în acțiune. Un argument solid în ofertele către dezvoltatori și clienți privați."
+        },
+        {
+          "industry": "Producători și fabrici",
+          "text": "Linia de producție, controlul calității și depozitul. Util pentru distribuitori, parteneri externi și târguri."
+        },
+        {
+          "industry": "Agenții imobiliare și dezvoltatori",
+          "text": "Prezentarea echipei sau a ansamblului rezidențial, cu cadre aeriene asupra zonei și a vecinătăților."
+        },
+        {
+          "industry": "Cabinete de avocatură și firme de consultanță",
+          "text": "Fețele din spatele firmei și modul de lucru. Serviciile intangibile devin concrete și ușor de înțeles."
+        },
+        {
+          "industry": "Service-uri auto și dealeri",
+          "text": "Atelierul, echipamentele de diagnoză și procesul de lucru. Clientul vede unde îi lasă mașina."
+        }
+      ]
+    },
+    "process": {
+      "title": "Procesul, de la brief la clipul final",
+      "steps": [
+        {
+          "title": "Discuție și ofertă",
+          "text": "Ne spuneți ce vreți să obțineți. Primiți o ofertă clară, cu ce este inclus și termenul de livrare."
+        },
+        {
+          "title": "Concept și script",
+          "text": "Scriem structura clipului și textul. Le ajustăm împreună până când sunteți mulțumit."
+        },
+        {
+          "title": "Pregătirea filmării",
+          "text": "Stabilim data, locațiile, persoanele care apar și lista de cadre. Vă trimitem o listă scurtă cu ce trebuie pregătit."
+        },
+        {
+          "title": "Ziua de filmare",
+          "text": "Echipa vine la dumneavoastră și filmează conform planului, cu minim de întrerupere a activității."
+        },
+        {
+          "title": "Montaj și revizii",
+          "text": "Primiți prima variantă a clipului, ne trimiteți observațiile, iar noi facem modificările."
+        },
+        {
+          "title": "Livrare finală",
+          "text": "Clipul principal și variantele scurte, în formatele potrivite pentru fiecare platformă."
+        }
+      ]
+    },
+    "pricingNote": "Pachetul Video Prezentare pornește de la 1.800 lei + TVA. Prețul final depinde de numărul de locații, durata filmării și opțiuni precum drona sau vocea din off.",
+    "faq": [
+      {
+        "q": "Cât costă un videoclip de prezentare pentru firmă?",
+        "a": "Pachetul Video Prezentare pornește de la 1.800 lei + TVA și include concept, script, o zi de filmare, clipul principal și 3 variante scurte. Costul crește dacă sunt necesare mai multe zile de filmare, mai multe locații, dronă sau voce profesională. Vă trimitem oferta exactă după o discuție scurtă."
+      },
+      {
+        "q": "În cât timp primim videoclipul?",
+        "a": "De obicei, de la discuția inițială până la livrare trec câteva săptămâni. Conceptul și scriptul durează câteva zile, filmarea o zi, iar montajul se face după aceea. Termenul exact îl trecem în ofertă, în funcție de complexitate și de cât de repede aprobați etapele."
+      },
+      {
+        "q": "Ce trebuie să pregătim noi?",
+        "a": "Spațiul curat și ordonat, persoanele care apar în clip disponibile în ziua filmării și, dacă aveți, logo-ul și culorile de brand. Vă trimitem înainte o listă scurtă și concretă, ca nimic să nu fie lăsat la final."
+      },
+      {
+        "q": "Nu ne simțim confortabil în fața camerei. Este o problemă?",
+        "a": "Nu. Majoritatea oamenilor nu sunt obișnuiți cu camera. Lucrăm cu întrebări, nu cu texte de memorat, și filmăm în ritmul dumneavoastră. Dacă preferați, clipul poate fi construit pe voce din off, fără ca nimeni să vorbească în cadru."
+      },
+      {
+        "q": "Putem folosi clipul în reclame plătite?",
+        "a": "Da. Clipul vă aparține pentru promovarea firmei: pe site, social media, reclame, prezentări și târguri. Folosim muzică licențiată, ca materialul să nu fie blocat de platforme. Condițiile de utilizare sunt trecute clar în contract."
+      },
+      {
+        "q": "Câte modificări putem cere?",
+        "a": "O rundă de revizii pe montaj este inclusă. Pentru că scriptul este aprobat înainte de filmare, modificările de la final sunt de obicei mici: o tăietură, un titlu, o schimbare de ordine. Modificările majore de concept, după filmare, se ofertează separat."
+      },
+      {
+        "q": "Vă deplasați în orașul nostru?",
+        "a": "Da. Lucrăm cu firme din toată România. Costul deplasării se trece transparent în ofertă, în funcție de distanță și de durata filmării."
+      },
+      {
+        "q": "Ce diferență este între un videoclip de prezentare și un spot publicitar?",
+        "a": "Videoclipul de prezentare explică firma: cine sunteți, ce faceți, cum lucrați. Spotul publicitar este un material scurt, construit pe o idee creativă, pentru o campanie sau un produs anume. Dacă nu știți de care aveți nevoie, vă recomandăm noi după prima discuție."
+      }
+    ],
+    "closing": {
+      "title": "Hai să arătăm ce face firma dumneavoastră",
+      "text": "Spuneți-ne pe scurt despre afacere și ce vreți să obțineți cu clipul. Vă răspundem cu o propunere de concept și o ofertă clară."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru un videoclip de prezentare pentru firmă."
+  },
+  "en": {
+    "name": "Company presentation video",
+    "metaTitle": "Company Presentation Video, Filmed in 4K",
+    "metaDescription": "A company presentation video with concept, script, 4K filming and 3 short social cuts. From 1,800 RON. Tell us about your business and get a quote.",
+    "h1": "A company presentation video that sells before the first call",
+    "subtitle": "Show who you are, what you do and why you're the right choice, in two minutes. A clear, professional video for your website, sales pitches and social media.",
+    "cardDescription": "A 60 to 120-second film about your company: concept, script, 4K filming and short social media cuts.",
+    "summary": [
+      "We write the concept and script around the clients you want to win.",
+      "One day of 4K filming at your office, workshop, factory or site.",
+      "A 60 to 120-second main video plus 3 short vertical cuts for social media.",
+      "Projects start at 1,800 RON + VAT. We travel anywhere in Romania."
+    ],
+    "problem": {
+      "title": "Clients size you up before they ever pick up the phone",
+      "paragraphs": [
+        "A potential client lands on your website, finds you on Google or scrolls past a post. They give you a few seconds. If all they see is generic copy and stock photos, they move on to a competitor.",
+        "This is where plenty of good companies lose business. The work is solid, but nobody sees it. The team, the equipment and the care behind every job stay hidden. And a phone-shot video with poor sound and no clear message does more harm than good.",
+        "A well-made presentation video fixes that. It answers what clients already want to know: who you are, what you do, how you work and why they should trust you."
+      ]
+    },
+    "solution": {
+      "title": "How we make your presentation video",
+      "paragraphs": [
+        "It starts with a 30-minute conversation about your business. We want to know who your ideal clients are, what convinces them to buy and what sets you apart. From there we write the concept and the script, so you know exactly what will be filmed and said before we arrive.",
+        "On the day, our crew brings 4K cinema cameras, lighting, wireless microphones and, where it helps, a drone. We film your people, space, products and the way you work. If there are interviews, we prepare you beforehand so you sound like yourself, not like someone reading lines.",
+        "In post-production we cut to the rhythm of your message, grade the colour, clean the audio and add licensed music, titles and captions. From the same footage we pull 3 short vertical edits for TikTok, Instagram or Facebook.",
+        "The result is an asset that keeps working for years: on your homepage, in sales decks, at trade fairs, in hiring and in paid ads."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        {
+          "title": "Briefing call",
+          "text": "We agree on the goal, the audience and the key messages, online or at your premises."
+        },
+        {
+          "title": "Concept and script",
+          "text": "Structure, voiceover copy or interview questions and a shot list, all approved by you before filming."
+        },
+        {
+          "title": "One day of 4K filming",
+          "text": "An on-site crew with 4K cinema cameras, lighting and pro audio. Several spaces can be covered in one day."
+        },
+        {
+          "title": "Interviews and voiceover",
+          "text": "An interview with the founder or team, recorded with clean sound. A separate voiceover is available on request."
+        },
+        {
+          "title": "Aerial footage on request",
+          "text": "For factories, sites, hotels or large premises, drone shots flown in line with Romanian and EU rules."
+        },
+        {
+          "title": "Editing and colour grading",
+          "text": "A 60 to 120-second film with good pacing, consistent colour and music licensed for online use."
+        },
+        {
+          "title": "3 short social media cuts",
+          "text": "Vertical 9:16 clips with captions, built for Reels, TikTok and Stories."
+        },
+        {
+          "title": "Delivery formats",
+          "text": "The main video in 16:9 for your website and YouTube, plus 9:16 or 1:1 versions for social on request."
+        }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "Any business that sells on trust benefits from a presentation video. Here's how different industries use it.",
+      "items": [
+        {
+          "industry": "Medical and dental clinics",
+          "text": "Show the treatment rooms, the equipment and the doctors. New patients arrive calmer when they already know who will treat them."
+        },
+        {
+          "industry": "Construction and installation companies",
+          "text": "Finished projects, your crew and machinery at work. A strong addition to tenders and quotes for developers and homeowners."
+        },
+        {
+          "industry": "Manufacturers and factories",
+          "text": "The production line, quality control and warehouse. Ideal for distributors, foreign partners and fairs."
+        },
+        {
+          "industry": "Real estate agencies and developers",
+          "text": "Introduce your team or a residential project, with aerial views of the area and what's around it."
+        },
+        {
+          "industry": "Law firms and consultancies",
+          "text": "The people behind the name and how you work. Intangible services become concrete and easy to grasp."
+        },
+        {
+          "industry": "Car dealers and service centres",
+          "text": "Your workshop, diagnostic equipment and process. Customers see exactly where they're leaving their car."
+        }
+      ]
+    },
+    "process": {
+      "title": "From brief to final cut",
+      "steps": [
+        {
+          "title": "Call and quote",
+          "text": "Tell us what you want to achieve. You get a clear quote with what's included and the delivery timeline."
+        },
+        {
+          "title": "Concept and script",
+          "text": "We draft the structure and the copy, then refine it with you until you're happy."
+        },
+        {
+          "title": "Pre-production",
+          "text": "We fix the date, locations, who appears on camera and the shot list, and send you a short prep checklist."
+        },
+        {
+          "title": "Filming day",
+          "text": "Our crew comes to you and shoots to plan, with minimal disruption to your business."
+        },
+        {
+          "title": "Edit and revisions",
+          "text": "You review the first cut, send your notes and we make the changes."
+        },
+        {
+          "title": "Final delivery",
+          "text": "The main video and short edits, exported for each platform."
+        }
+      ]
+    },
+    "pricingNote": "The Presentation Video package starts at 1,800 RON + VAT. The final price depends on the number of locations, filming time and extras such as drone footage or a voiceover.",
+    "faq": [
+      {
+        "q": "How much does a company presentation video cost?",
+        "a": "The Presentation Video package starts at 1,800 RON + VAT and covers concept, script, one filming day, the main video and 3 short cuts. Extra filming days, locations, drone footage or a pro voiceover add to the price. You get an exact quote after a short call."
+      },
+      {
+        "q": "How long does it take?",
+        "a": "Usually a few weeks from the first call to delivery. Script takes a few days, filming one day, then the edit. The exact timeline is in your quote and depends on complexity and how fast you approve each stage."
+      },
+      {
+        "q": "What do we need to prepare?",
+        "a": "A tidy space, the people who will appear available on the day and, if you have them, your logo and brand colours. We send a short, practical checklist in advance."
+      },
+      {
+        "q": "We're not comfortable on camera. Is that a problem?",
+        "a": "Not at all. Most people aren't used to the camera. We ask questions instead of handing you lines, and we go at your pace. The video can also be built around a voiceover, with nobody speaking on screen."
+      },
+      {
+        "q": "Can we use the video in paid ads?",
+        "a": "Yes. You can use it on your website, social media, ads, presentations and at trade fairs. We use licensed music so platforms don't block it, and usage terms are written into the contract."
+      },
+      {
+        "q": "How many changes can we ask for?",
+        "a": "One round of edit revisions is included. Since the script is approved before filming, final changes tend to be small: a trim, a title, a reordered scene. Major concept changes after the shoot are quoted separately."
+      },
+      {
+        "q": "Will you travel to our city?",
+        "a": "Yes. We work with companies all over Romania, and travel costs are listed clearly in the quote."
+      },
+      {
+        "q": "What's the difference between a presentation video and a commercial?",
+        "a": "A presentation video explains your company: who you are, what you do, how you work. A commercial is a short piece built on one creative idea for a specific campaign or product. Not sure which you need? We'll advise after our first call."
+      }
+    ],
+    "closing": {
+      "title": "Let's show people what your company does",
+      "text": "Tell us briefly about your business and what you want the video to achieve. We'll come back with a concept proposal and a clear quote."
+    },
+    "whatsapp": "Hello, I'd like a quote for a company presentation video."
+  }
+}

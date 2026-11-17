@@ -1,0 +1,98 @@
+{
+  "ready": true,
+  "service": "agentie-marketing",
+  "city": "cluj-napoca",
+  "metaTitle": "Agenție de marketing și social media în Cluj-Napoca",
+  "metaDescription": "Social media, TikTok și reclame plătite pentru firme din Cluj-Napoca. Marketing Pack 1.000 lei, Growth 1.900 lei/lună. Scrieți-ne pe WhatsApp.",
+  "h1": "Agenție de marketing și social media în Cluj-Napoca",
+  "subtitle": "Conținut video scurt, administrare de pagini și campanii plătite pentru afaceri din Cluj care vor să ajungă la studenți, profesioniști și turiști.",
+  "summary": [
+    "Clipuri pentru TikTok, Instagram și LinkedIn, filmate la locația dumneavoastră din Cluj.",
+    "Campanii plătite pentru rezervări, programări, vânzări sau recrutare.",
+    "TikTok Marketing Pack 1.000 lei, abonamentul Growth 1.900 lei/lună, plus TVA.",
+    "Lucru online, cu ședințe prin apel video și filmări programate."
+  ],
+  "intro": [
+    "Clujul are un public online foarte activ: zeci de mii de studenți, mulți tineri care lucrează în IT și servicii, plus vizitatori care vin la festivaluri, conferințe și meciuri. Pentru o afacere locală, asta înseamnă o oportunitate mare, dar și un public care recunoaște imediat conținutul generic.",
+    "Ce funcționează aici este conținutul autentic: oameni reali din echipă, produse arătate în context, umor potrivit brandului. Pe TikTok și Instagram, clipurile bine făcute pot ajunge la mii de oameni din oraș fără buget mare, iar reclamele plătite amplifică ce a funcționat deja.",
+    "Noi ne ocupăm de plan, filmare, montaj, publicare și reclame, iar dumneavoastră aprobați conținutul și primiți rapoarte clare."
+  ],
+  "local": {
+    "title": "Ce funcționează în marketingul online din Cluj",
+    "text": "Publicul din Cluj este tânăr, conectat și obișnuit cu branduri care comunică direct. Ritmul evenimentelor din oraș și sezonul universitar schimbă cererea pe parcursul anului.",
+    "items": [
+      {
+        "title": "Calendarul universitar",
+        "text": "Începutul anului universitar și sesiunile influențează cererea pentru cafenele, chirii, cursuri și servicii. Planificăm campaniile după acest ritm."
+      },
+      {
+        "title": "Festivaluri și evenimente mari",
+        "text": "În perioadele cu evenimente mari, orașul se umple de vizitatori. Pentru HoReCa și cazare, sunt momente bune pentru campanii scurte și targetate."
+      },
+      {
+        "title": "Employer branding în IT",
+        "text": "Firmele de tehnologie își folosesc paginile și pentru recrutare. Conținutul cu echipa și proiectele ajută mai mult decât postările corporate."
+      },
+      {
+        "title": "Startup-uri care au nevoie de tracțiune",
+        "text": "Pentru produse noi, testăm rapid mesaje și formate cu bugete mici, ca să vedem ce atrage utilizatori înainte de a crește investiția."
+      },
+      {
+        "title": "Public vorbitor de engleză",
+        "text": "Studenții internaționali și profesioniștii străini din oraș sunt un public real. Pentru unele afaceri merită conținut bilingv."
+      }
+    ]
+  },
+  "industries": {
+    "title": "Sectoare din Cluj care câștigă din social media",
+    "items": [
+      {
+        "title": "Cafenele, restaurante și baruri",
+        "text": "Clipuri scurte cu produse și atmosferă, plus reclame locale în perioadele aglomerate."
+      },
+      {
+        "title": "Startup-uri și aplicații",
+        "text": "Conținut care explică produsul simplu și campanii pentru primele mii de utilizatori."
+      },
+      {
+        "title": "Săli de sport, studiouri și wellness",
+        "text": "Clipuri cu antrenori și clase, campanii pentru abonamente la început de semestru."
+      },
+      {
+        "title": "Firme IT care recrutează",
+        "text": "Video cu echipa și cultura firmei, distribuit pe LinkedIn și Instagram."
+      },
+      {
+        "title": "Cursuri, școli de limbi și training",
+        "text": "Conținut educativ scurt și reclame către studenți și tineri profesioniști."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Cum lucrăm cu firmele din Cluj-Napoca",
+    "text": "Planul de conținut, montajul, publicarea și reclamele le gestionăm online. Ședințele de strategie și rapoartele lunare le discutăm prin apel video. Pentru filmări, venim la dumneavoastră în Cluj-Napoca în zilele stabilite, de obicei grupând mai multe clipuri într-o singură sesiune. Dacă este nevoie, ne întâlnim și față în față."
+  },
+  "faq": [
+    {
+      "q": "Puteți face conținut și în limba engleză?",
+      "a": "Da. Putem face clipuri cu subtitrare în engleză sau postări bilingve, dacă o parte din clienții dumneavoastră sunt studenți sau profesioniști străini."
+    },
+    {
+      "q": "Cât de des veniți să filmăm?",
+      "a": "De regulă o dată sau de două ori pe lună, în funcție de pachet. Într-o sesiune filmăm materiale pentru mai multe săptămâni de postări."
+    },
+    {
+      "q": "Lucrați cu startup-uri care au buget mic?",
+      "a": "Da. TikTok Marketing Pack, la 1.000 lei + TVA, este un punct bun de pornire. Când vedem ce funcționează, putem trece la abonamentul Growth, de 1.900 lei/lună + TVA."
+    },
+    {
+      "q": "Bugetul de reclame este inclus în preț?",
+      "a": "Nu. Bugetul de reclame se plătește direct către platforme, din contul dumneavoastră. Vă recomandăm un buget de pornire după ce înțelegem obiectivele."
+    },
+    {
+      "q": "Garantați un număr de urmăritori sau vânzări?",
+      "a": "Nu. Nimeni nu poate garanta onest asta. Garantăm un plan clar, conținut livrat la timp și rapoarte transparente, plus ajustări pe baza datelor."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru social media și reclame pentru afacerea noastră din Cluj-Napoca."
+}

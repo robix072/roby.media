@@ -1,0 +1,98 @@
+{
+  "ready": true,
+  "service": "creare-site",
+  "city": "cluj-napoca",
+  "metaTitle": "Creare site în Cluj-Napoca: prezentare și landing page",
+  "metaDescription": "Creare site în Cluj-Napoca: site de prezentare bilingv de la 2.900 lei, landing page pentru startup-uri de la 1.500 lei. Scrieți-ne pe WhatsApp.",
+  "h1": "Creare site în Cluj-Napoca",
+  "subtitle": "Site-uri de prezentare, landing page-uri și magazine online pentru firme, startup-uri și servicii din Cluj, inclusiv în variantă bilingvă.",
+  "summary": [
+    "Site de prezentare de la 2.900 lei, cu variantă bilingvă opțională, plus TVA.",
+    "Landing page de la 1.500 lei pentru lansări, aplicații și campanii.",
+    "Magazin online de la 5.900 lei, cu plăți și integrare curierat.",
+    "Proiect gestionat online, cu apeluri video și întâlniri când este nevoie."
+  ],
+  "intro": [
+    "Într-un oraș cu o comunitate tehnologică puternică, publicul observă repede un site făcut în grabă. Clienții din Cluj, mulți dintre ei lucrând ei înșiși în IT, se așteaptă ca un site să se încarce rapid, să arate bine pe telefon și să spună clar ce face firma.",
+    "Pentru startup-uri, site-ul este adesea primul test al produsului: dacă vizitatorii înțeleg oferta și lasă o adresă de e-mail. Pentru firmele de servicii, este locul unde se verifică seriozitatea după o recomandare. Pentru afacerile cu clienți străini, este nevoie de o variantă în engleză la fel de bine scrisă ca cea în română.",
+    "Construim site-uri curate și rapide, cu texte clare și o structură gândită pentru Google, care pot crește odată cu afacerea dumneavoastră."
+  ],
+  "local": {
+    "title": "Site-uri pentru piața din Cluj",
+    "text": "Clujul are un public exigent, mulți clienți internaționali și un ritm rapid de lansări. Site-ul trebuie să fie ușor de actualizat și să poată fi extins fără să fie refăcut de la zero.",
+    "items": [
+      {
+        "title": "Startup-uri și produse noi",
+        "text": "Un landing page bun permite testarea rapidă a mesajului, colectarea de înscrieri și măsurarea interesului înainte de investiții mari."
+      },
+      {
+        "title": "Clienți și parteneri din străinătate",
+        "text": "Multe firme clujene vând în afara țării. Varianta în engleză este scrisă natural, nu tradusă automat, și este structurată corect pentru Google."
+      },
+      {
+        "title": "Firme de outsourcing și servicii IT",
+        "text": "Site-ul trebuie să arate expertiza, procesele și tipurile de proiecte, fără jargon inutil pentru clientul care decide."
+      },
+      {
+        "title": "Pagini de cariere",
+        "text": "Firmele care recrutează în Cluj au nevoie de o pagină de cariere clară, cu posturi, beneficii și eventual un video cu echipa."
+      },
+      {
+        "title": "Evenimente și conferințe",
+        "text": "Organizatorii de evenimente au nevoie de pagini rapide, cu program, speakeri și înscriere, publicate și actualizate des."
+      }
+    ]
+  },
+  "industries": {
+    "title": "Pentru cine facem site-uri în Cluj",
+    "items": [
+      {
+        "title": "Startup-uri SaaS și aplicații",
+        "text": "Landing page cu explicația produsului, demo video și formular de înscriere sau de cerere a unui demo."
+      },
+      {
+        "title": "Firme IT și agenții tehnice",
+        "text": "Site de prezentare bilingv, cu servicii, studii de caz reale și pagină de cariere."
+      },
+      {
+        "title": "Clinici și centre medicale",
+        "text": "Pagini pe specialități, medici și programări rapide, bine afișate pe telefon."
+      },
+      {
+        "title": "Cafenele și restaurante",
+        "text": "Meniu clar, program, locație și legături către rezervări și livrare."
+      },
+      {
+        "title": "Producători și firme industriale",
+        "text": "Site cu produse, capacități de producție și cerere de ofertă pentru clienți B2B."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Cum lucrăm cu firmele din Cluj-Napoca",
+    "text": "Designul, dezvoltarea și textele se fac online. Ne vedem prin apel video la începutul proiectului și la fiecare etapă importantă, iar feedbackul îl primim în scris. Dacă este util, ne întâlnim față în față în Cluj. Pentru fotografii și video pentru site, echipa noastră de filmare se poate deplasa la dumneavoastră."
+  },
+  "faq": [
+    {
+      "q": "Puteți face site-ul în română și engleză?",
+      "a": "Da. Site-ul de prezentare are variantă bilingvă opțională. Textele în engleză sunt scrise natural, pentru clienți reali, și sunt structurate separat pentru Google."
+    },
+    {
+      "q": "Avem un startup la început. Ce ne recomandați?",
+      "a": "De obicei un landing page, de la 1.500 lei + TVA. Este rapid de lansat și vă arată dacă mesajul funcționează. Când produsul se stabilizează, îl putem extinde într-un site complet."
+    },
+    {
+      "q": "Putem actualiza singuri site-ul?",
+      "a": "Da. Vă arătăm cum să modificați textele, imaginile și paginile simple. Pentru schimbări mai mari ne puteți contacta oricând."
+    },
+    {
+      "q": "Trebuie să ne întâlnim față în față?",
+      "a": "Nu este necesar. Proiectele se desfășoară bine prin apel video și mesaje. Dacă preferați o întâlnire în Cluj, o stabilim."
+    },
+    {
+      "q": "Cât durează să apară site-ul în Google în Cluj?",
+      "a": "Pagina poate fi indexată în câteva zile, dar pozițiile bune pentru căutări locale se construiesc în timp. Nu promitem poziții, dar livrăm site-ul optimizat corect tehnic de la început."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru crearea unui site pentru firma noastră din Cluj-Napoca."
+}

@@ -1,0 +1,178 @@
+{
+  "_comment": "Pagina /servicii/podcast-video (EN: /en/services/video-podcast-production). Textele se editează direct aici.",
+  "id": "podcast-video",
+  "category": "productie",
+  "order": 110,
+  "slug": { "ro": "podcast-video", "en": "video-podcast-production" },
+  "icon": "mic",
+  "packageGroup": null,
+  "priceFrom": null,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["tiktok-social", "video-comercial"],
+  "related": ["continut-social-media", "post-productie-video", "marketing-tiktok", "live-streaming-evenimente"],
+  "localService": null,
+  "ro": {
+    "name": "Podcast video",
+    "metaTitle": "Producție podcast video: filmare, montaj și clipuri",
+    "metaDescription": "Producție podcast video cu mai multe camere, sunet curat, montaj complet și clipuri scurte pentru TikTok și Reels. Programați o discuție acum.",
+    "h1": "Producție podcast video, de la filmare la clipuri pentru social media",
+    "subtitle": "Dumneavoastră vorbiți, noi ne ocupăm de rest. Filmare cu mai multe camere, sunet clar, episod montat și clipuri scurte care aduc ascultători noi.",
+    "cardDescription": "Filmare podcast cu mai multe camere, sunet profesional, montaj complet și clipuri verticale din fiecare episod.",
+    "summary": [
+      "Filmare cu 2–3 camere și microfoane dedicate pentru fiecare invitat.",
+      "Episod complet montat pentru YouTube și audio separat pentru Spotify și alte platforme.",
+      "Clipuri verticale scurte din fiecare episod, cu subtitrare, pentru TikTok, Reels și Shorts.",
+      "Oferta se face după o discuție scurtă, în funcție de frecvență, locație și livrabile."
+    ],
+    "problem": {
+      "title": "Conversațiile bune se pierd într-o producție slabă",
+      "paragraphs": [
+        "Un podcast este una dintre cele mai eficiente forme de a construi încredere. Oamenii vă ascultă o oră, nu trei secunde. Înțeleg cum gândiți și de ce merită să lucreze cu dumneavoastră.",
+        "Problema e producția. Sunet cu ecou, o singură cameră fixă, lumină plată, montaj care durează zile întregi. După câteva episoade, entuziasmul scade și podcastul se oprește. Iar episoadele existente nu ajung la nimeni, pentru că nu există clipuri scurte care să le promoveze.",
+        "Un episod lung nu se distribuie singur. Fără fragmente bine alese pentru social media, chiar și cea mai bună conversație rămâne nevăzută."
+      ]
+    },
+    "solution": {
+      "title": "Cum producem un podcast video",
+      "paragraphs": [
+        "Începem cu formatul: despre ce vorbiți, cui vă adresați, cât de des publicați și unde. Pe baza asta stabilim decorul, numărul de camere, încadrările și structura episodului: intro, segmente, final și call to action.",
+        "Venim la dumneavoastră la birou, într-un spațiu închiriat sau într-o locație aleasă împreună și amenajăm platoul. Fiecare vorbitor are microfon propriu, iar camerele surprind cadrul larg și prim-planurile. Lumina este reglată pentru un aspect curat și constant de la un episod la altul.",
+        "În montaj alternăm camerele după cine vorbește, curățăm sunetul de zgomote și pauze lungi și adăugăm grafica podcastului. Rezultatul este un episod care se urmărește ușor de la cap la coadă.",
+        "Apoi alegem cele mai puternice momente și le transformăm în clipuri verticale, cu hook, subtitrare și format potrivit fiecărei platforme. Acestea aduc oameni noi către episodul complet."
+      ]
+    },
+    "includes": {
+      "title": "Ce include producția",
+      "items": [
+        { "title": "Stabilirea formatului", "text": "Structura episodului, decorul, încadrările și identitatea vizuală a podcastului." },
+        { "title": "Amenajarea platoului", "text": "Montăm camerele, luminile și microfoanele în locația aleasă și le demontăm la final." },
+        { "title": "Filmare cu 2–3 camere", "text": "Cadru larg și prim-planuri pentru fiecare vorbitor, pentru un montaj dinamic." },
+        { "title": "Sunet profesional", "text": "Microfon dedicat pentru fiecare persoană și înregistrare audio separată, ca rezervă." },
+        { "title": "Montaj complet al episodului", "text": "Schimbarea camerelor, eliminarea pauzelor și a greșelilor, intro și outro." },
+        { "title": "Versiune audio", "text": "Fișier audio curățat și normalizat, gata pentru Spotify, Apple Podcasts și alte platforme." },
+        { "title": "Clipuri verticale", "text": "Fragmente scurte cu subtitrare și hook, pentru TikTok, Reels și Shorts." },
+        { "title": "Thumbnail și grafică", "text": "Coperți pentru episoade și elemente grafice consecvente cu identitatea podcastului." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Un podcast video funcționează pentru oricine are expertiză de împărtășit și vrea să fie recunoscut pentru ea.",
+      "items": [
+        { "industry": "Antreprenori și fondatori", "text": "Vă construiți imaginea de lider în domeniu și atrageți clienți care vă cunosc deja ideile." },
+        { "industry": "Firme B2B și consultanță", "text": "Conversații cu clienți și parteneri care explică produse complexe mai bine decât orice broșură." },
+        { "industry": "Avocați, medici și consultanți financiari", "text": "Răspunsuri clare la întrebările pe care le primiți des, care generează încredere înainte de prima întâlnire." },
+        { "industry": "Creatori de conținut", "text": "O producție constantă, fără să pierdeți zile întregi cu montajul." },
+        { "industry": "ONG-uri și instituții culturale", "text": "Povești și invitați care dau vizibilitate cauzei și proiectelor dumneavoastră." },
+        { "industry": "Comunicare internă și HR", "text": "Episoade cu oameni din companie, pentru onboarding, cultură organizațională și recrutare." }
+      ]
+    },
+    "process": {
+      "title": "Procesul",
+      "steps": [
+        { "title": "Discuție și ofertă", "text": "Aflăm despre ce este podcastul, cât de des publicați și ce livrabile vă trebuie." },
+        { "title": "Format și decor", "text": "Stabilim locația, decorul, încadrările și structura episodului." },
+        { "title": "Ziua de înregistrare", "text": "Amenajăm platoul și înregistrăm unul sau mai multe episoade într-o singură sesiune." },
+        { "title": "Montaj și clipuri", "text": "Montăm episodul complet, versiunea audio și clipurile scurte." },
+        { "title": "Aprobare și livrare", "text": "Vă trimitem materialele spre aprobare, facem ajustările și livrăm fișierele finale." }
+      ]
+    },
+    "pricingNote": "Prețul se stabilește după o discuție scurtă, în funcție de numărul de episoade, frecvență, locație și numărul de clipuri scurte. Pentru producție lunară constantă facem o ofertă separată.",
+    "faq": [
+      { "q": "Cât costă producția unui podcast video?", "a": "Depinde de numărul de episoade pe sesiune, de câte camere și microfoane sunt necesare, de locație și de câte clipuri scurte vreți din fiecare episod. Primiți o ofertă clară după o discuție scurtă. Producția constantă, lunară, are de obicei un cost pe episod mai avantajos." },
+      { "q": "Aveți studio sau veniți la noi?", "a": "Venim cu tot echipamentul la dumneavoastră: la birou, acasă sau într-un spațiu închiriat. Vă ajutăm să alegeți o cameră potrivită acustic și vizual. Dacă nu aveți un spațiu potrivit, căutăm împreună o variantă." },
+      { "q": "Câte episoade putem înregistra într-o zi?", "a": "Odată amenajat platoul, puteți înregistra mai multe episoade la rând. Multe podcasturi înregistrează materialul pentru o lună întreagă într-o singură sesiune. Numărul realist depinde de durata episoadelor și de invitați." },
+      { "q": "În cât timp primim episodul montat?", "a": "De regulă, episodul complet și clipurile se livrează în câteva zile lucrătoare de la înregistrare. Pentru producție recurentă stabilim un calendar fix, ca să puteți publica la aceeași oră în fiecare săptămână." },
+      { "q": "Ne ajutați cu subiectele și invitații?", "a": "Vă putem ajuta cu structura episoadelor, ideile de subiecte și întrebările pentru invitați. Găsirea și programarea invitaților rămân de obicei în grija dumneavoastră, pentru că sunt oamenii din rețeaua dumneavoastră." },
+      { "q": "Cine alege fragmentele pentru clipurile scurte?", "a": "Le propunem noi, pe baza momentelor cu cel mai mare potențial: o idee puternică, o poveste, o replică memorabilă. Le puteți aproba sau puteți cere alte fragmente înainte de publicare." },
+      { "q": "Ne ocupăm noi de publicare?", "a": "Primiți fișierele gata de urcat. Dacă doriți, ne putem ocupa și de publicare, descrieri și programarea clipurilor scurte, ca parte dintr-un serviciu de social media management." },
+      { "q": "Putem face și transmisiuni live?", "a": "Da. Putem transmite live o înregistrare, de exemplu un episod special sau o discuție cu public, și livrăm ulterior și varianta montată." }
+    ],
+    "closing": {
+      "title": "Lansați un podcast care se vede și se aude bine",
+      "text": "Spuneți-ne despre ce vreți să vorbiți și cât de des. Vă propunem un format și o ofertă pentru prima sesiune."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru producție podcast video. Episoade pe lună: ..., oraș: ..."
+  },
+  "en": {
+    "name": "Video podcast",
+    "metaTitle": "Video Podcast Production: Filming, Editing, Clips",
+    "metaDescription": "Video podcast production with multi-camera filming, clean audio, full editing and short clips for TikTok and Reels. Book a quick call today.",
+    "h1": "Video podcast production, from recording to social clips",
+    "subtitle": "You talk, we handle the rest. Multi-camera filming, clear sound, a fully edited episode and short clips that bring in new listeners.",
+    "cardDescription": "Multi-camera podcast filming, professional audio, full editing and vertical clips from every episode.",
+    "summary": [
+      "Filmed on 2 to 3 cameras, with a dedicated microphone for every guest.",
+      "A fully edited episode for YouTube, plus a separate audio file for Spotify and other platforms.",
+      "Short vertical clips from every episode, subtitled, for TikTok, Reels and Shorts.",
+      "Quoted after a short call, based on frequency, location and deliverables."
+    ],
+    "problem": {
+      "title": "Great conversations get lost in weak production",
+      "paragraphs": [
+        "A podcast is one of the most effective ways to build trust. People listen to you for an hour, not three seconds. They get a sense of how you think and why they should work with you.",
+        "Production is where it falls apart. Echoey audio, one static camera, flat lighting, and editing that eats up whole days. After a few episodes the enthusiasm fades and the podcast quietly stops. The episodes that do exist reach nobody, because there are no short clips to promote them.",
+        "A long episode doesn't share itself. Without well-chosen clips for social media, even the best conversation goes unseen."
+      ]
+    },
+    "solution": {
+      "title": "How we produce a video podcast",
+      "paragraphs": [
+        "We start with the format: what you talk about, who it's for, how often you publish and where. From that we decide the set, number of cameras, framing and episode structure: intro, segments, close and call to action.",
+        "We come to your office, a rented space or a location we pick together, and build the set there. Every speaker gets their own microphone, and the cameras cover both the wide shot and close-ups. Lighting is set for a clean look that stays consistent from one episode to the next.",
+        "In the edit we switch cameras to follow whoever's speaking, clean up noise and long pauses, and add your podcast's graphics. The result is an episode that's easy to watch from start to finish.",
+        "Then we pick the strongest moments and turn them into vertical clips with a hook, subtitles and the right format for each platform. Those clips are what bring new people to the full episode."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Format development", "text": "Episode structure, set, framing and a visual identity for your show." },
+        { "title": "Set build", "text": "We set up cameras, lights and microphones at your location and pack everything away afterwards." },
+        { "title": "2 to 3 camera filming", "text": "A wide shot plus close-ups of each speaker, for a dynamic edit." },
+        { "title": "Professional audio", "text": "A dedicated mic for every person and a separate audio recording as backup." },
+        { "title": "Full episode edit", "text": "Camera switching, cutting pauses and slips, intro and outro." },
+        { "title": "Audio version", "text": "A cleaned, levelled audio file ready for Spotify, Apple Podcasts and other platforms." },
+        { "title": "Vertical clips", "text": "Short, subtitled cuts with a hook, for TikTok, Reels and Shorts." },
+        { "title": "Thumbnails and graphics", "text": "Episode covers and on-screen graphics consistent with your show's identity." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "A video podcast works for anyone with expertise to share who wants to be known for it.",
+      "items": [
+        { "industry": "Entrepreneurs and founders", "text": "Build your reputation as a voice in your field and attract clients who already know your thinking." },
+        { "industry": "B2B companies and consultancies", "text": "Conversations with clients and partners that explain complex offers better than any brochure." },
+        { "industry": "Lawyers, doctors and financial advisers", "text": "Clear answers to the questions you hear all the time, building trust before the first meeting." },
+        { "industry": "Content creators", "text": "Consistent production without losing whole days to editing." },
+        { "industry": "NGOs and cultural organisations", "text": "Stories and guests that bring visibility to your cause and projects." },
+        { "industry": "Internal comms and HR", "text": "Episodes with people from across the company, for onboarding, culture and recruitment." }
+      ]
+    },
+    "process": {
+      "title": "The process",
+      "steps": [
+        { "title": "Call and quote", "text": "We learn what the podcast is about, how often you publish and what you need delivered." },
+        { "title": "Format and set", "text": "We agree the location, set design, framing and episode structure." },
+        { "title": "Recording day", "text": "We build the set and record one or several episodes in a single session." },
+        { "title": "Editing and clips", "text": "We edit the full episode, the audio version and the short clips." },
+        { "title": "Review and delivery", "text": "You review the material, we make the changes and deliver the final files." }
+      ]
+    },
+    "pricingNote": "Pricing is quoted after a short call, based on the number of episodes, frequency, location and how many short clips you need. Regular monthly production is quoted separately.",
+    "faq": [
+      { "q": "How much does video podcast production cost?", "a": "It depends on how many episodes you record per session, how many cameras and mics are needed, the location and how many short clips you want per episode. You get a clear quote after a short call. Regular monthly production usually works out cheaper per episode." },
+      { "q": "Do you have a studio, or do you come to us?", "a": "We bring all the kit to you: your office, your home or a rented space. We help you pick a room that works both acoustically and visually. If you don't have one, we'll look for an option together." },
+      { "q": "How many episodes can we record in a day?", "a": "Once the set is up, you can record several episodes back to back. Many podcasts record a full month's worth in one session. The realistic number depends on episode length and guests." },
+      { "q": "How soon do we get the edited episode?", "a": "The full episode and clips are usually delivered within a few working days of recording. For ongoing production we set a fixed schedule, so you can publish at the same time every week." },
+      { "q": "Can you help with topics and guests?", "a": "We can help with episode structure, topic ideas and interview questions. Finding and booking guests usually stays with you, since they come from your own network." },
+      { "q": "Who picks the moments for the short clips?", "a": "We suggest them, based on the moments with the most potential: a strong idea, a story, a memorable line. You can approve them or ask for different moments before anything goes live." },
+      { "q": "Do we handle publishing ourselves?", "a": "You get files ready to upload. If you prefer, we can also handle publishing, descriptions and scheduling the clips as part of a social media management service." },
+      { "q": "Can we also go live?", "a": "Yes. We can stream a recording live, for example a special episode or a session with an audience, and deliver the edited version afterwards." }
+    ],
+    "closing": {
+      "title": "Launch a podcast that looks and sounds right",
+      "text": "Tell us what you want to talk about and how often. We'll suggest a format and a quote for your first session."
+    },
+    "whatsapp": "Hello, I'd like a quote for video podcast production. Episodes per month: ..., city: ..."
+  }
+}

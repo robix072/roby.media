@@ -1,0 +1,181 @@
+{
+  "_comment": "Pagina /servicii/creare-magazin-online (EN: /en/services/ecommerce-website-development). Textele se editează direct aici.",
+  "id": "creare-magazin-online",
+  "category": "web",
+  "order": 20,
+  "slug": { "ro": "creare-magazin-online", "en": "ecommerce-website-development" },
+  "icon": "cart",
+  "packageGroup": "website",
+  "packageIds": ["magazin-online"],
+  "priceFrom": 5900,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["website"],
+  "related": ["fotografie-produs", "reclame-facebook-instagram", "reclame-google-ads", "optimizare-seo"],
+  "localService": null,
+  "ro": {
+    "name": "Creare magazin online",
+    "metaTitle": "Creare magazin online gata de vânzare, cu plăți și curier",
+    "metaDescription": "Creare magazin online cu plăți cu cardul, integrare curier și foto produs pentru 20 de produse. De la 5.900 lei + TVA. Cereți oferta acum.",
+    "h1": "Creare magazin online gata să vândă din prima zi",
+    "subtitle": "Construim magazinul online complet: catalog, plăți cu cardul, livrare prin curier, pagini legale și fotografii de produs. Dumneavoastră vă ocupați de comenzi, noi de partea tehnică.",
+    "cardDescription": "Magazin online complet, cu plăți online, integrare curier, pagini legale și fotografii de produs incluse.",
+    "summary": [
+      "Magazin online pe o platformă potrivită afacerii, aleasă după nevoi, nu după moda momentului.",
+      "Plăți online, integrare curier, coș de cumpărături simplu și pagini de produs construite pentru conversie.",
+      "Fotografie de produs inclusă pentru până la 20 de produse, plus pagini legale, GDPR și linkurile ANPC.",
+      "Pachetul Magazin Online pornește de la 5.900 lei + TVA. Magazinul și domeniul sunt ale dumneavoastră."
+    ],
+    "problem": {
+      "title": "Un magazin online care nu vinde costă în fiecare zi",
+      "paragraphs": [
+        "Mulți comercianți pornesc un magazin online cu o temă cumpărată ieftin și descoperă repede limitele. Paginile se încarcă greu, coșul de cumpărături are prea mulți pași, iar fotografiile făcute cu telefonul nu inspiră încredere. Clientul adaugă produsul în coș și pleacă.",
+        "Apoi vin problemele operaționale. Comenzile se introduc manual la curier, stocurile nu se actualizează, plata cu cardul nu funcționează mereu. Iar dacă lipsesc paginile legale obligatorii, magazinul riscă sancțiuni și pierde încrederea cumpărătorilor.",
+        "Reclamele nu rezolvă un magazin slab. Doar plătiți mai mult pentru vizitatori care nu cumpără."
+      ]
+    },
+    "solution": {
+      "title": "Cum construim un magazin online care vinde",
+      "paragraphs": [
+        "Alegem tehnologia după afacerea dumneavoastră. Lucrăm pe o platformă potrivită (de exemplu WooCommerce, Shopify sau o soluție custom), aleasă după numărul de produse, buget, integrările necesare și cât de mult vreți să administrați singuri. Vă explicăm diferențele înainte să decidem.",
+        "Construim magazinul în jurul drumului clientului: de la pagina de categorie la pagina de produs, apoi la coș și la finalizarea comenzii. Paginile de produs au fotografii clare, descrieri care răspund la întrebări reale, variante, stoc și informații de livrare. Checkout-ul are cât mai puțini pași și funcționează impecabil pe telefon.",
+        "Integrăm plata online cu cardul printr-un procesator de plăți și livrarea prin curier, ca generarea AWB-urilor să nu mai fie o muncă manuală. Configurăm e-mailurile automate de confirmare, taxele de livrare și regulile de stoc.",
+        "Includem fotografie de produs pentru până la 20 de produse, pe fundal curat, consecvente ca stil. Adăugăm paginile legale: termeni și condiții, politica de retur, politica de confidențialitate, bannerul de cookie-uri și linkurile ANPC (SAL și SOL) cerute magazinelor online din România. Instalăm tracking-ul de e-commerce, ca reclamele să fie optimizate pe vânzări, nu pe click-uri."
+      ]
+    },
+    "includes": {
+      "title": "Ce include crearea magazinului online",
+      "items": [
+        { "title": "Alegerea platformei", "text": "Recomandăm platforma potrivită pentru catalogul, bugetul și modul dumneavoastră de lucru, cu argumente clare." },
+        { "title": "Design orientat spre vânzare", "text": "Pagini de categorie și de produs construite să răspundă la întrebări și să ducă spre coș." },
+        { "title": "Plăți online", "text": "Plată cu cardul printr-un procesator de plăți, plus ramburs și transfer bancar, dacă le doriți." },
+        { "title": "Integrare curier", "text": "Calcul al costului de livrare și generare de AWB direct din comandă, fără copiere manuală." },
+        { "title": "Fotografie de produs", "text": "Fotografii profesionale pentru până la 20 de produse, editate și optimizate pentru web." },
+        { "title": "Încărcarea produselor", "text": "Configurăm categoriile, atributele și variantele, plus primul set de produse în magazin." },
+        { "title": "Pagini legale și GDPR", "text": "Termeni și condiții, retur, confidențialitate, cookie-uri și linkurile ANPC obligatorii." },
+        { "title": "Tracking e-commerce", "text": "Evenimente de vizualizare, adăugare în coș și achiziție, pentru Google, Meta și TikTok." },
+        { "title": "SEO de bază pentru magazin", "text": "Structură de categorii, URL-uri curate, meta titluri, date structurate de produs și sitemap." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Lucrăm atât cu afaceri care vând pentru prima dată online, cât și cu magazine care vor să înlocuiască o platformă care le încurcă.",
+      "items": [
+        { "industry": "Producători locali și meșteșugari", "text": "Vânzare directă către client, fără intermediari, cu povestea produsului spusă prin imagini bune." },
+        { "industry": "Magazine fizice care trec online", "text": "Catalogul din magazin devine disponibil în toată țara, cu stocuri și comenzi gestionate ordonat." },
+        { "industry": "Branduri de cosmetice și îngrijire", "text": "Pagini de produs cu ingrediente, mod de utilizare și variante, plus fotografii care arată textura și ambalajul." },
+        { "industry": "Fashion și accesorii", "text": "Variante de mărime și culoare, ghid de mărimi și politică de retur clară, care reduc ezitarea la cumpărare." },
+        { "industry": "Distribuitori B2B", "text": "Catalog pentru parteneri, cu prețuri diferențiate sau cereri de ofertă direct din magazin." },
+        { "industry": "Băcănii, cafenele și produse alimentare", "text": "Livrare locală sau prin curier, abonamente și coșuri cadou, cu reguli clare de livrare." }
+      ]
+    },
+    "process": {
+      "title": "De la idee la prima comandă",
+      "steps": [
+        { "title": "Analiză și ofertă", "text": "Discutăm despre produse, volume, livrare și plăți. Recomandăm platforma și vă trimitem oferta în scris." },
+        { "title": "Structură și design", "text": "Stabilim categoriile și drumul clientului, apoi vă prezentăm designul paginilor principale spre aprobare." },
+        { "title": "Fotografie de produs", "text": "Fotografiem produsele incluse în pachet, în studio sau la sediul dumneavoastră, după caz." },
+        { "title": "Dezvoltare și integrări", "text": "Construim magazinul, conectăm plata și curierul, încărcăm produsele și configurăm tracking-ul." },
+        { "title": "Testare și lansare", "text": "Plasăm comenzi de test, verificăm plata, AWB-ul și e-mailurile, apoi lansăm și vă instruim echipa." }
+      ]
+    },
+    "pricingNote": "Pachetul Magazin Online pornește de la 5.900 lei + TVA și include fotografie de produs pentru până la 20 de produse. Comisioanele procesatorului de plăți și ale curierului se plătesc direct către aceștia.",
+    "faq": [
+      { "q": "Cât costă un magazin online?", "a": "Pachetul Magazin Online pornește de la 5.900 lei + TVA. Prețul final depinde de numărul de produse, de platforma aleasă, de integrările necesare (facturare, ERP, marketplace-uri) și de designul personalizat. Primiți o ofertă detaliată înainte de începerea lucrului." },
+      { "q": "Pe ce platformă construiți magazinul?", "a": "Pe cea potrivită nevoilor dumneavoastră, de exemplu WooCommerce, Shopify sau o soluție custom. Ținem cont de numărul de produse, de costurile lunare, de integrări și de cât de ușor vreți să îl administrați. Vă explicăm avantajele și limitele fiecărei variante." },
+      { "q": "În cât timp putem începe să vindem?", "a": "Depinde de numărul de produse, de integrări și de cât de repede primim informațiile. Pentru un magazin cu catalog mic, proiectul durează de regulă câteva săptămâni. Activarea contului la procesatorul de plăți poate adăuga timp, așa că o pornim din prima săptămână." },
+      { "q": "Al cui este magazinul?", "a": "Domeniul, magazinul, conținutul și fotografiile de produs vă aparțin după plata integrală. Conturile de plăți, curier și găzduire sunt deschise pe firma dumneavoastră, iar noi primim doar accesul necesar." },
+      { "q": "Ce trebuie să pregătim noi?", "a": "Lista de produse cu prețuri, descrieri de bază și stocuri, produsele fizice pentru fotografiere, datele firmei pentru paginile legale și contractele cu procesatorul de plăți și curierul. Vă ajutăm cu lista exactă și cu ordinea pașilor." },
+      { "q": "Putem adăuga singuri produse după lansare?", "a": "Da. Vă instruim să adăugați produse, să modificați prețuri și să gestionați comenzile. Pentru actualizări tehnice, securitate și backup-uri vă recomandăm un abonament de mentenanță sau intervenții la cerere." },
+      { "q": "Ce se întâmplă dacă avem mai mult de 20 de produse?", "a": "Pachetul include fotografie pentru până la 20 de produse. Restul le putem fotografia separat, prin serviciul de fotografie de produs, sau puteți folosi imaginile oficiale de la furnizori, dacă aveți dreptul să le folosiți." },
+      { "q": "Câte revizii sunt incluse?", "a": "Designul trece prin runde de revizie înainte de aprobare, iar înainte de lansare facem ajustări pe baza testelor dumneavoastră. Numărul de runde este trecut în ofertă, ca să nu existe surprize." }
+    ],
+    "closing": {
+      "title": "Porniți magazinul online cu o bază solidă",
+      "text": "Spuneți-ne ce vindeți și câte produse aveți. Vă recomandăm platforma potrivită și vă trimitem o ofertă clară, cu termen."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru un magazin online. Ce vând: ..., număr aproximativ de produse: ..."
+  },
+  "en": {
+    "name": "E-commerce website development",
+    "metaTitle": "E-commerce Website Development, Ready to Sell",
+    "metaDescription": "Online stores with card payments, courier integration and product photos for 20 products. From 5,900 RON + VAT. Ask for your quote now.",
+    "h1": "E-commerce website development, ready to sell from day one",
+    "subtitle": "We build your complete online store: catalogue, card payments, courier delivery, legal pages and product photography. You handle the orders, we handle the tech.",
+    "cardDescription": "A complete online store with online payments, courier integration, legal pages and product photography included.",
+    "summary": [
+      "An online store on the platform that fits your business, chosen for your needs, not for the latest trend.",
+      "Online payments, courier integration, a simple checkout and product pages built to convert.",
+      "Product photography for up to 20 products, plus legal pages, GDPR essentials and the required ANPC links.",
+      "The Online Store package starts at 5,900 RON + VAT. The store and domain belong to you."
+    ],
+    "problem": {
+      "title": "A store that doesn't sell costs you every single day",
+      "paragraphs": [
+        "Many retailers launch with a cheap off-the-shelf theme and quickly hit its limits. Pages load slowly, checkout has too many steps and product photos taken on a phone don't inspire trust. Shoppers add to cart and walk away.",
+        "Then come the operational headaches. Orders get typed into the courier's system by hand, stock levels drift, and card payments fail now and then. And if the mandatory legal pages are missing, the store risks fines and loses buyers' trust.",
+        "Ads won't fix a weak store. You just pay more for visitors who don't buy."
+      ]
+    },
+    "solution": {
+      "title": "How we build a store that sells",
+      "paragraphs": [
+        "We pick the technology to fit your business. We build on the right platform (for example WooCommerce, Shopify or a custom solution), chosen by catalogue size, budget, the integrations you need and how much you want to manage yourself. We walk you through the trade-offs before anything is decided.",
+        "The store is built around the customer journey: category page, product page, cart, checkout. Product pages have sharp photos, descriptions that answer real questions, variants, stock and delivery information. Checkout has as few steps as possible and works flawlessly on a phone.",
+        "We connect card payments through a payment processor and set up courier integration, so shipping labels stop being manual work. We configure order confirmation emails, shipping rates and stock rules.",
+        "Product photography for up to 20 products is included, shot on a clean background in a consistent style. We add the legal pages: terms and conditions, returns policy, privacy policy, a cookie consent banner and the ANPC dispute-resolution links required for online stores in Romania. E-commerce tracking is set up so your ads optimise for sales, not clicks."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Platform selection", "text": "We recommend the right platform for your catalogue, budget and workflow, with clear reasoning." },
+        { "title": "Sales-focused design", "text": "Category and product pages designed to answer questions and lead to the cart." },
+        { "title": "Online payments", "text": "Card payments through a payment processor, plus cash on delivery and bank transfer if you want them." },
+        { "title": "Courier integration", "text": "Shipping cost calculation and shipping labels generated straight from the order." },
+        { "title": "Product photography", "text": "Professional photos for up to 20 products, edited and optimised for the web." },
+        { "title": "Product setup", "text": "We configure categories, attributes and variants, and load your first set of products." },
+        { "title": "Legal pages and GDPR", "text": "Terms, returns, privacy, cookies and the mandatory ANPC links." },
+        { "title": "E-commerce tracking", "text": "View, add-to-cart and purchase events for Google, Meta and TikTok." },
+        { "title": "Store SEO foundations", "text": "Category structure, clean URLs, meta titles, product structured data and a sitemap." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "We work with businesses selling online for the first time and with stores ready to leave a platform that holds them back.",
+      "items": [
+        { "industry": "Local producers and makers", "text": "Sell direct to customers, no middlemen, with your product's story told through strong visuals." },
+        { "industry": "Bricks-and-mortar shops going online", "text": "Your in-store range becomes available nationwide, with stock and orders managed properly." },
+        { "industry": "Cosmetics and skincare brands", "text": "Product pages with ingredients, usage and variants, plus photos that show texture and packaging." },
+        { "industry": "Fashion and accessories", "text": "Size and colour variants, a size guide and a clear returns policy that reduce hesitation at checkout." },
+        { "industry": "B2B distributors", "text": "A catalogue for trade partners, with tiered pricing or quote requests straight from the store." },
+        { "industry": "Delis, coffee roasters and food brands", "text": "Local delivery or courier shipping, subscriptions and gift boxes, with clear delivery rules." }
+      ]
+    },
+    "process": {
+      "title": "From idea to first order",
+      "steps": [
+        { "title": "Discovery and quote", "text": "We talk through products, volumes, delivery and payments, recommend a platform and send a written quote." },
+        { "title": "Structure and design", "text": "We define categories and the customer journey, then present the key page designs for approval." },
+        { "title": "Product photography", "text": "We photograph the products included in the package, in the studio or at your premises." },
+        { "title": "Build and integrations", "text": "We build the store, connect payments and courier, load the products and set up tracking." },
+        { "title": "Testing and launch", "text": "We place test orders, check payment, labels and emails, then go live and train your team." }
+      ]
+    },
+    "pricingNote": "The Online Store package starts at 5,900 RON + VAT and includes product photography for up to 20 products. Payment processor and courier fees are paid directly to those providers.",
+    "faq": [
+      { "q": "How much does an online store cost?", "a": "The Online Store package starts at 5,900 RON + VAT. The final price depends on the number of products, the platform, any integrations (invoicing, ERP, marketplaces) and how custom the design is. You get a detailed quote before any work begins." },
+      { "q": "Which platform do you build on?", "a": "Whichever suits your needs, for example WooCommerce, Shopify or a custom build. We weigh catalogue size, monthly running costs, integrations and how easy you want day-to-day admin to be, and explain the pros and cons of each option." },
+      { "q": "How soon can we start selling?", "a": "It depends on product count, integrations and how quickly we get your information. A store with a small catalogue usually takes a few weeks. Payment processor approval can take time, so we start that in week one." },
+      { "q": "Who owns the store?", "a": "Once paid in full, the domain, store, content and product photos are yours. Payment, courier and hosting accounts are opened in your company's name, and we only get the access we need." },
+      { "q": "What do we need to prepare?", "a": "A product list with prices, basic descriptions and stock, the physical products for the shoot, company details for the legal pages, and agreements with a payment processor and a courier. We'll give you the exact checklist and order of steps." },
+      { "q": "Can we add products ourselves after launch?", "a": "Yes. We train you to add products, change prices and manage orders. For technical updates, security and backups, we recommend a maintenance plan or on-request support." },
+      { "q": "What if we have more than 20 products?", "a": "The package covers photography for up to 20 products. We can shoot the rest separately through our product photography service, or you can use official supplier images if you have the rights to them." },
+      { "q": "How many revisions are included?", "a": "The design goes through revision rounds before sign-off, and before launch we make adjustments based on your testing. The number of rounds is set out in the quote, so there are no surprises." }
+    ],
+    "closing": {
+      "title": "Launch your online store on solid ground",
+      "text": "Tell us what you sell and roughly how many products you have. We'll recommend the right platform and send a clear quote with a timeline."
+    },
+    "whatsapp": "Hello, I'd like a quote for an online store. What I sell: ..., approximate number of products: ..."
+  }
+}

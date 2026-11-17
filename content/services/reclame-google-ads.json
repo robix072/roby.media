@@ -1,0 +1,176 @@
+{
+  "_comment": "Pagina /servicii/reclame-google-ads (EN: /en/services/google-ads-management). Search, Performance Max, YouTube.",
+  "id": "reclame-google-ads",
+  "category": "marketing",
+  "order": 40,
+  "slug": { "ro": "reclame-google-ads", "en": "google-ads-management" },
+  "icon": "search",
+  "packageGroup": "ads",
+  "priceFrom": 900,
+  "priceUnit": "luna",
+  "portfolioCategories": ["campanii"],
+  "related": ["landing-page", "optimizare-seo", "reclame-facebook-instagram", "creare-site-prezentare"],
+  "localService": null,
+  "ro": {
+    "name": "Reclame Google Ads",
+    "metaTitle": "Reclame Google Ads: Search, Performance Max, YouTube",
+    "metaDescription": "Administrare Google Ads: campanii Search, Performance Max și YouTube, cu urmărire corectă a conversiilor. De la 900 lei/lună. Cereți un audit al contului.",
+    "h1": "Reclame Google Ads pentru clienții care vă caută deja",
+    "subtitle": "Vă aducem în fața oamenilor care caută acum exact ce oferiți. Campanii Search, Performance Max și YouTube, administrate în contul dumneavoastră, cu fiecare apel și formular măsurat.",
+    "cardDescription": "Campanii Google Ads în Search, Performance Max și YouTube, cu urmărirea apelurilor, formularelor și vânzărilor.",
+    "summary": [
+      "Campanii Search pentru cererea existentă, Performance Max pentru vânzări și YouTube pentru vizibilitate.",
+      "Configurăm conversiile prin Google Tag, Google Analytics 4 și urmărirea apelurilor telefonice.",
+      "Cuvinte cheie alese după intenția de cumpărare, cu liste de excludere actualizate constant.",
+      "Management de la 900 lei/lună + TVA. Bugetul de click-uri se plătește direct către Google."
+    ],
+    "problem": {
+      "title": "Unde se pierd banii în Google Ads",
+      "paragraphs": [
+        "Google Ads are un avantaj pe care alte platforme nu îl au: intenția. Cine caută „instalator urgent Cluj” sau „avocat divorț București” are nevoie de serviciul respectiv acum. Tocmai de aceea, fiecare click costă mai mult, iar greșelile se plătesc scump.",
+        "Cele mai frecvente probleme pe care le vedem în conturi: cuvinte cheie prea largi, care aduc căutări irelevante. Lipsa cuvintelor excluse, așa că plătiți pentru „gratuit”, „job” sau „cum să faci singur”. Conversii măsurate greșit sau deloc, deci Google optimizează pentru click-uri, nu pentru clienți. Și setările implicite lăsate neatinse, care extind reclamele în rețele și zone pe care nu le-ați ales.",
+        "Rezultatul este un cont care consumă bugetul lunar fără să puteți spune exact ce a adus."
+      ]
+    },
+    "solution": {
+      "title": "Cum construim și administrăm campaniile Google",
+      "paragraphs": [
+        "Începem cu urmărirea conversiilor. Configurăm Google Tag și Google Analytics 4, importăm conversiile relevante și, unde se potrivește, setăm conversiile îmbunătățite și urmărirea apelurilor. Pentru o firmă de servicii, un apel de un minut valorează mai mult decât zece vizite pe site.",
+        "Alegem tipul de campanie după obiectiv. Search pentru oamenii care caută activ serviciul dumneavoastră, cu cuvinte cheie grupate pe intenție și anunțuri scrise pentru fiecare grup. Performance Max pentru magazinele online, legat de Google Merchant Center, ca produsele să apară în Shopping, YouTube, Gmail și rețeaua de display. YouTube pentru a construi notorietate și pentru remarketing video către cei care v-au vizitat deja site-ul.",
+        "Optimizarea este muncă de fond, făcută săptămânal: verificăm termenii de căutare reali, adăugăm excluderi, ajustăm licitările și bugetele, testăm anunțuri noi. Rezultatele depind de cererea din piață, de oferta și pagina de destinație, de tracking și de buget. Strategiile automate de licitare au nevoie de date, de aceea recomandăm cel puțin 3 luni pentru a evalua corect campaniile."
+      ]
+    },
+    "includes": {
+      "title": "Ce include administrarea Google Ads",
+      "items": [
+        { "title": "Audit și cercetare de cuvinte cheie", "text": "Analizăm contul existent, concurența și volumul de căutări pentru serviciile dumneavoastră." },
+        { "title": "Tracking de conversii", "text": "Google Tag, GA4, conversii îmbunătățite unde se potrivește, apeluri și formulare, totul testat înainte de lansare." },
+        { "title": "Campanii Search", "text": "Grupuri de anunțuri pe intenție, anunțuri responsive scrise de noi și extensii (apel, locație, linkuri)." },
+        { "title": "Performance Max", "text": "Pentru e-commerce, conectat la Merchant Center, cu grupuri de elemente separate pe categorii de produse." },
+        { "title": "Campanii YouTube", "text": "Reclame video pentru notorietate sau remarketing, cu clipuri existente ori produse de noi." },
+        { "title": "Cuvinte cheie excluse", "text": "Lista se actualizează constant pe baza căutărilor reale, ca să nu plătiți pentru click-uri inutile." },
+        { "title": "Optimizare săptămânală", "text": "Licitări, bugete, programarea afișării, zone geografice și testarea anunțurilor." },
+        { "title": "Raportare", "text": "Costul pe conversie, căutările care aduc clienți și recomandări concrete pentru luna următoare." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine funcționează Google Ads",
+      "intro": "Google Ads este cel mai potrivit când oamenii caută deja produsul sau serviciul dumneavoastră.",
+      "items": [
+        { "industry": "Servicii de urgență și intervenții", "text": "Instalatori, electricieni, deblocări uși, tractări. Reclame Search cu buton de apel, afișate în zona deservită." },
+        { "industry": "Cabinete de avocatură", "text": "Campanii pe specializări (divorț, succesiuni, drept comercial), cu anunțuri care respectă regulile profesiei." },
+        { "industry": "Clinici medicale și stomatologice", "text": "Pacienți care caută proceduri concrete, cu programare online sau apel direct." },
+        { "industry": "Magazine online", "text": "Performance Max și Shopping cu feed de produse optimizat, pentru vânzări măsurate la nivel de produs." },
+        { "industry": "Firme B2B și producători", "text": "Lead-uri de la companii care caută furnizori, cu cuvinte cheie de nișă și costuri controlate." },
+        { "industry": "Școli, cursuri și centre educaționale", "text": "Înscrieri în perioadele de vârf, cu remarketing pe YouTube pentru cei care au ezitat." },
+        { "industry": "Hoteluri și pensiuni", "text": "Rezervări directe de la oameni care caută cazare în zonă, fără comisionul platformelor de booking." }
+      ]
+    },
+    "process": {
+      "title": "Etapele colaborării",
+      "steps": [
+        { "title": "Audit gratuit", "text": "Ne dați acces de citire la cont sau ne spuneți ce vindeți. Vă arătăm unde se pierd bani și ce potențial există." },
+        { "title": "Tracking și structură", "text": "Configurăm conversiile, apoi construim campaniile și grupurile de anunțuri." },
+        { "title": "Lansare", "text": "Pornim după aprobarea dumneavoastră, cu bugete prudente în primele săptămâni." },
+        { "title": "Învățare și curățare", "text": "Analizăm termenii de căutare, adăugăm excluderi și lăsăm strategiile de licitare să strângă date." },
+        { "title": "Scalare și rapoarte", "text": "Creștem bugetul pe ce aduce clienți rentabil și vă raportăm regulat ce s-a întâmplat." }
+      ]
+    },
+    "pricingNote": "Administrarea Google Ads începe de la 900 lei/lună + TVA. Bugetul pentru click-uri și afișări nu este inclus și se plătește direct către Google.",
+    "faq": [
+      { "q": "Ce buget minim are sens pentru Google Ads?", "a": "Depinde de costul pe click din domeniul dumneavoastră, care poate varia foarte mult între, de exemplu, servicii juridice și o florărie. Bugetul trebuie să aducă suficiente click-uri zilnic ca să putem învăța ceva. În audit vă estimăm un buget de pornire realist, pe baza datelor din Google." },
+      { "q": "Cât durează până vedem rezultate?", "a": "Campaniile Search pot aduce apeluri din prima săptămână, pentru că cererea există deja. Optimizarea reală vine după ce strângem date despre ce căutări convertesc. Performance Max și strategiile automate au nevoie de mai mult timp. Recomandăm minimum 3 luni și nu garantăm un număr de clienți." },
+      { "q": "Al cui este contul Google Ads?", "a": "Al dumneavoastră. Contul este creat pe firma dumneavoastră și plătit cu cardul firmei. Noi îl legăm de contul nostru de administrare, iar legătura poate fi eliminată oricând. Datele, istoricul și campaniile rămân la dumneavoastră." },
+      { "q": "Merită Google Ads dacă facem deja SEO?", "a": "Da, se completează. SEO aduce trafic pe termen lung, dar durează. Google Ads vă pune în față imediat, inclusiv pentru căutările unde nu sunteți încă pe prima pagină. Datele din reclame arată și ce cuvinte cheie merită lucrate în SEO." },
+      { "q": "Cum aflăm ce ne-au adus reclamele?", "a": "Prin rapoarte lunare sau la două săptămâni, în funcție de pachet. Vedeți cheltuiala, numărul de apeluri, formulare sau vânzări, costul pe fiecare și căutările care le-au adus. Fără tracking corect nu lansăm campanii." },
+      { "q": "Există contract pe termen lung?", "a": "Colaborarea este lunară. Pentru că strategiile automate de licitare au nevoie de date, recomandăm minimum 3 luni. Condițiile de încetare sunt trecute clar în contract." },
+      { "q": "Ce trebuie să ne asigurăm noi?", "a": "Un site rapid, cu o pagină clară pentru serviciul promovat, un număr de telefon la care se răspunde și acces la site pentru instalarea codurilor. Dacă pagina nu convertește, vă putem face un landing page dedicat." }
+    ],
+    "closing": {
+      "title": "Aflați unde se pierd bani în contul dumneavoastră Google Ads",
+      "text": "Trimiteți-ne site-ul și, dacă aveți, acces de citire la cont. Vă răspundem cu observații concrete și cu un plan."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru reclame Google Ads. Site-ul nostru: ..., zona în care vindem: ..."
+  },
+  "en": {
+    "name": "Google Ads management",
+    "metaTitle": "Google Ads Management: Search, PMax and YouTube",
+    "metaDescription": "Google Ads management across Search, Performance Max and YouTube, with proper conversion tracking. From 900 RON/month. Ask for an account audit.",
+    "h1": "Google Ads management that reaches people already searching for you",
+    "subtitle": "We put you in front of people searching right now for exactly what you offer. Search, Performance Max and YouTube campaigns run in your own account, with every call and form tracked.",
+    "cardDescription": "Google Ads campaigns across Search, Performance Max and YouTube, with call, form and sales tracking.",
+    "summary": [
+      "Search for existing demand, Performance Max for sales and YouTube for reach.",
+      "Conversions tracked through Google Tag, Google Analytics 4 and phone call tracking.",
+      "Keywords chosen for buying intent, with negative keyword lists updated constantly.",
+      "Management from 900 RON/month + VAT. Click spend is paid directly to Google."
+    ],
+    "problem": {
+      "title": "Where Google Ads budgets leak",
+      "paragraphs": [
+        "Google Ads has something other platforms don't: intent. Someone searching for an emergency plumber in Cluj or a divorce lawyer in Bucharest needs that service now. That's exactly why each click costs more, and why mistakes get expensive.",
+        "The problems we see most often in accounts: keywords so broad they pull in irrelevant searches. No negative keywords, so you pay for \"free\", \"jobs\" or \"DIY\". Conversions tracked badly or not at all, so Google optimises for clicks rather than customers. And default settings left untouched, quietly extending ads into networks and locations you never chose.",
+        "The result is an account that eats the monthly budget while nobody can say exactly what it delivered."
+      ]
+    },
+    "solution": {
+      "title": "How we build and manage Google campaigns",
+      "paragraphs": [
+        "We start with conversion tracking. We set up Google Tag and Google Analytics 4, import the conversions that matter and, where it fits, add enhanced conversions and call tracking. For a service business, a one-minute phone call is worth more than ten site visits.",
+        "Campaign type follows the goal. Search for people actively looking for your service, with keywords grouped by intent and ads written for each group. Performance Max for online shops, connected to Google Merchant Center, so products show across Shopping, YouTube, Gmail and the Display network. YouTube for building awareness and for video remarketing to people who've already visited your site.",
+        "Optimisation is steady, weekly work: reviewing the actual search terms, adding negatives, adjusting bids and budgets, testing new ads. Results depend on market demand, your offer and landing page, tracking and budget. Automated bidding needs data to work, so we recommend at least 3 months before judging a campaign."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Audit and keyword research", "text": "We review your existing account, your competitors and search volume for your services." },
+        { "title": "Conversion tracking", "text": "Google Tag, GA4, enhanced conversions where suitable, calls and forms, all tested before launch." },
+        { "title": "Search campaigns", "text": "Intent-based ad groups, responsive ads written by us, plus call, location and sitelink assets." },
+        { "title": "Performance Max", "text": "For e-commerce, linked to Merchant Center, with asset groups split by product category." },
+        { "title": "YouTube campaigns", "text": "Video ads for awareness or remarketing, using your existing videos or ones we produce." },
+        { "title": "Negative keywords", "text": "Constantly updated from real search data, so you stop paying for useless clicks." },
+        { "title": "Weekly optimisation", "text": "Bids, budgets, ad scheduling, locations and ad testing." },
+        { "title": "Reporting", "text": "Cost per conversion, the searches that bring customers and concrete recommendations for next month." }
+      ]
+    },
+    "audience": {
+      "title": "Who Google Ads work for",
+      "intro": "Google Ads fit best when people are already searching for your product or service.",
+      "items": [
+        { "industry": "Emergency and call-out services", "text": "Plumbers, electricians, locksmiths, towing. Search ads with a call button, shown only in the area you cover." },
+        { "industry": "Law firms", "text": "Campaigns by practice area (divorce, inheritance, commercial law), with ads that respect professional rules." },
+        { "industry": "Medical and dental clinics", "text": "Patients searching for specific procedures, booking online or calling directly." },
+        { "industry": "Online shops", "text": "Performance Max and Shopping with an optimised product feed, for sales tracked down to product level." },
+        { "industry": "B2B companies and manufacturers", "text": "Leads from businesses looking for suppliers, using niche keywords and tightly controlled costs." },
+        { "industry": "Schools, courses and training centres", "text": "Enrolments in peak periods, with YouTube remarketing for people who hesitated." },
+        { "industry": "Hotels and guesthouses", "text": "Direct bookings from people searching for a stay in your area, with no booking-site commission." }
+      ]
+    },
+    "process": {
+      "title": "How we work",
+      "steps": [
+        { "title": "Free audit", "text": "Give us read-only access or tell us what you sell. We'll show you where money is leaking and what potential there is." },
+        { "title": "Tracking and structure", "text": "We set up conversions, then build the campaigns and ad groups." },
+        { "title": "Launch", "text": "We go live once you approve, with cautious budgets for the first weeks." },
+        { "title": "Learning and clean-up", "text": "We review search terms, add negatives and let bidding strategies gather data." },
+        { "title": "Scaling and reports", "text": "We put more budget behind what brings customers profitably and report back regularly." }
+      ]
+    },
+    "pricingNote": "Google Ads management starts at 900 RON/month + VAT. The budget for clicks and impressions is not included and is paid directly to Google.",
+    "faq": [
+      { "q": "What's the minimum budget that makes sense for Google Ads?", "a": "It depends on the cost per click in your industry, which varies hugely between, say, legal services and a florist. The budget needs to buy enough clicks each day for us to learn something. In the audit we estimate a realistic starting budget using Google's own data." },
+      { "q": "How long until we see results?", "a": "Search campaigns can bring calls in the first week, because the demand already exists. Real optimisation comes once we know which searches convert. Performance Max and automated bidding need longer. We recommend at least 3 months and we don't guarantee a number of customers." },
+      { "q": "Who owns the Google Ads account?", "a": "You do. The account is set up in your company's name and billed to your card. We link it to our manager account, and that link can be removed at any time. The data, history and campaigns stay with you." },
+      { "q": "Is Google Ads worth it if we already do SEO?", "a": "Yes, the two complement each other. SEO builds long-term traffic but takes time. Google Ads puts you on the page straight away, including for searches where you don't rank yet. Ad data also shows which keywords are worth targeting with SEO." },
+      { "q": "How will we know what the ads delivered?", "a": "Through monthly or fortnightly reports, depending on your plan. You'll see spend, the number of calls, forms or sales, the cost of each and the searches behind them. We don't launch campaigns without proper tracking." },
+      { "q": "Is there a long-term contract?", "a": "We work month to month. Because automated bidding needs data, we recommend at least 3 months. Notice terms are clearly set out in the contract." },
+      { "q": "What do we need to have in place?", "a": "A fast website with a clear page for the service being promoted, a phone number someone actually answers and website access for installing tags. If the page doesn't convert, we can build you a dedicated landing page." }
+    ],
+    "closing": {
+      "title": "Find out where your Google Ads budget is leaking",
+      "text": "Send us your website and, if you have one, read-only access to your account. We'll come back with concrete findings and a plan."
+    },
+    "whatsapp": "Hello, I'd like a quote for Google Ads management. Our website: ..., the area we sell in: ..."
+  }
+}

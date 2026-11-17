@@ -1,0 +1,53 @@
+{
+  "_comment": "Pagina /creare-site-suceava. SCHELET: are noindex și nu apare în sitemap până puneți \"ready\": true.",
+  "_TODO": [
+    "Scrieți un paragraf introductiv propriu pentru Suceava (intro), nu copiat din alt oraș.",
+    "Completați „local” cu locații, zone sau industrii reale din Suceava.",
+    "Adăugați 3–5 întrebări FAQ locale.",
+    "Când conținutul e complet și unic, puneți \"ready\": true."
+  ],
+  "ready": false,
+  "service": "creare-site",
+  "city": "suceava",
+  "metaTitle": "Creare site Suceava | Roby Media",
+  "metaDescription": "Site-uri de prezentare și magazine online în Suceava. Echipă care se deplasează în tot județul Suceava. Cereți o ofertă pe WhatsApp sau prin formular.",
+  "h1": "Creare site în Suceava",
+  "subtitle": "Site-uri de prezentare și magazine online în Suceava și în județul Suceava.",
+  "summary": [
+    "Lucrăm în Suceava și în localitățile din județul Suceava.",
+    "Ofertă clară, primită de regulă în aceeași zi lucrătoare.",
+    "Contract, factură și termene de livrare stabilite de la început."
+  ],
+  "intro": [
+    "TODO: paragraf introductiv unic despre creare site în Suceava."
+  ],
+  "local": {
+    "title": "Creare site în Suceava: ce trebuie să știți",
+    "text": "TODO: context local pentru Suceava.",
+    "items": [
+      {
+        "title": "TODO",
+        "text": "TODO: locație, zonă sau industrie relevantă din Suceava."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Deplasare în Suceava",
+    "text": "Echipa noastră se deplasează în Suceava și în județul Suceava. Costul deplasării, dacă există, apare transparent în ofertă."
+  },
+  "faq": [
+    {
+      "q": "Lucrați în Suceava?",
+      "a": "Da. Lucrăm cu clienți în Suceava și din tot județul Suceava. Costul deplasării apare transparent în ofertă."
+    },
+    {
+      "q": "Cât de repede primim o ofertă?",
+      "a": "De regulă în aceeași zi lucrătoare. Cel mai rapid ne găsiți pe WhatsApp sau la telefon."
+    },
+    {
+      "q": "Lucrați pe bază de contract?",
+      "a": "Da. ROBY MEDIA SRL emite factură, iar livrabilele, termenele și plățile sunt trecute în contract."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru crearea unui site în Suceava."
+}

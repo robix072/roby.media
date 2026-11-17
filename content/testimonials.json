@@ -1,0 +1,4 @@
+{
+  "_comment": "Testimoniale reale (cu acordul clienților). Lista goală = secțiunea nu apare pe site. Format: { \"placeholder\": false, \"name\": \"\", \"company\": \"\", \"role\": { \"ro\": \"\", \"en\": \"\" }, \"services\": [\"id-serviciu\"], \"rating\": 5, \"quote\": { \"ro\": \"\", \"en\": \"\" } }",
+  "items": []
+}

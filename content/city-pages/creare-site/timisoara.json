@@ -1,0 +1,98 @@
+{
+  "ready": true,
+  "service": "creare-site",
+  "city": "timisoara",
+  "metaTitle": "Creare site în Timișoara pentru firme și producători",
+  "metaDescription": "Creare site în Timișoara pentru firme industriale, servicii și comerț. Site de prezentare de la 2.900 lei + TVA, bilingv opțional. Cereți oferta.",
+  "h1": "Creare site în Timișoara",
+  "subtitle": "Site-uri clare și profesioniste pentru firme din Timișoara: producători, furnizori, firme de servicii și comerț, cu variante pentru clienți din țară și din străinătate.",
+  "summary": [
+    "Site de prezentare de la 2.900 lei + TVA, cu până la 6 pagini și variantă bilingvă opțională.",
+    "Pagini de produs și capacități pentru firme B2B, plus pagini de cariere.",
+    "Landing page de la 1.500 lei, magazin online de la 5.900 lei, plus TVA.",
+    "Lucru online, cu apeluri video și întâlniri la sediu când este nevoie."
+  ],
+  "intro": [
+    "În Timișoara, multe firme vând altor firme. Un furnizor de componente, o firmă de logistică sau un atelier de prelucrări este căutat de cumpărători care compară opțiuni, adesea din străinătate. Pentru ei, site-ul este o primă verificare: arată firma serioasă, are capacitățile descrise clar, poate fi contactată ușor?",
+    "Mulți producători din zonă au încă site-uri vechi, cu informații depășite și fără variantă în engleză. Asta nu înseamnă că pierd toate comenzile, dar înseamnă că pornesc cu un dezavantaj în fața concurenților care se prezintă mai bine.",
+    "Pentru firmele de servicii și comerț din oraș, prioritatea este alta: să apară în căutările locale și să transforme vizitele în apeluri. Construim fiecare site în funcție de cine trebuie să îl citească."
+  ],
+  "local": {
+    "title": "Ce contează pentru un site în Timișoara",
+    "text": "Economia Timișoarei este orientată spre industrie, export și servicii pentru companii. Un site bun reflectă acest public: informații tehnice clare, limbă potrivită și o cale simplă spre o cerere de ofertă.",
+    "items": [
+      {
+        "title": "Clienți B2B și investitori străini",
+        "text": "Prezentăm capacitățile, echipamentele, certificările reale și tipurile de proiecte, cu variantă în engleză pentru partenerii din afara țării."
+      },
+      {
+        "title": "Automotive și industrie",
+        "text": "Furnizorii au nevoie de pagini despre procese, calitate și capacitate de producție, scrise clar, nu doar de un slogan și o poză."
+      },
+      {
+        "title": "Recrutare de personal",
+        "text": "O pagină de cariere bine făcută, cu posturi, condiții și formular simplu, ajută firmele din zonă care caută constant oameni."
+      },
+      {
+        "title": "Clienți din zona de graniță",
+        "text": "Apropierea de Ungaria și Serbia aduce clienți din regiune. Pentru unele afaceri merită o pagină dedicată sau o variantă într-o limbă suplimentară."
+      },
+      {
+        "title": "Servicii locale și căutări pe oraș",
+        "text": "Pentru clinici, service-uri auto sau firme de amenajări, structurăm site-ul pe servicii și zone, ca să lucreze bine cu profilul de Google al firmei."
+      }
+    ]
+  },
+  "industries": {
+    "title": "Firme din Timișoara pentru care facem site-uri",
+    "items": [
+      {
+        "title": "Producători și furnizori industriali",
+        "text": "Site bilingv cu capacități, echipamente, galerie și cerere de ofertă tehnică."
+      },
+      {
+        "title": "Transport și logistică",
+        "text": "Pagini pentru servicii, rute deservite și formular de cotație rapidă."
+      },
+      {
+        "title": "Firme IT",
+        "text": "Site de prezentare cu servicii, tehnologii și pagină de cariere."
+      },
+      {
+        "title": "Service-uri și comerț auto",
+        "text": "Pagini pe servicii, programare online sau prin WhatsApp și hartă."
+      },
+      {
+        "title": "Magazine locale",
+        "text": "Magazin online cu plăți și curierat, pentru clienți din oraș și din toată țara."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Cum lucrăm cu firmele din Timișoara",
+    "text": "Designul, dezvoltarea și textele se realizează online, cu apeluri video la fiecare etapă. Pentru firmele industriale, unde avem nevoie să înțelegem bine procesele, putem veni la sediu sau în fabrică pentru o discuție. Dacă site-ul are nevoie de fotografii sau video cu hala și echipa, echipa noastră de filmare se deplasează în Timișoara și în județul Timiș."
+  },
+  "faq": [
+    {
+      "q": "Ne puteți face site-ul în engleză sau germană?",
+      "a": "Varianta în engleză o scriem noi. Pentru alte limbi, integrăm textele primite de la un traducător ales de dumneavoastră. Fiecare limbă are paginile ei, structurate corect pentru Google."
+    },
+    {
+      "q": "Cât costă un site pentru o firmă de producție?",
+      "a": "Site-ul de prezentare pornește de la 2.900 lei + TVA, cu până la 6 pagini. Dacă aveți nevoie de multe pagini de produs sau de mai multe limbi, vă trimitem o ofertă după o discuție scurtă."
+    },
+    {
+      "q": "Cât durează să apară site-ul în Google în Timișoara?",
+      "a": "Indexarea durează de obicei câteva zile. Pozițiile bune se construiesc în timp și depind de concurență și de conținut. Nu garantăm poziții, dar livrăm o bază tehnică corectă."
+    },
+    {
+      "q": "Trebuie să ne întâlnim față în față?",
+      "a": "Nu este obligatoriu. Majoritatea discuțiilor au loc prin apel video. Pentru firmele industriale, o vizită la sediu ne ajută uneori să înțelegem mai bine ce faceți, și o putem programa."
+    },
+    {
+      "q": "Puteți include o pagină de cariere?",
+      "a": "Da. Putem include o pagină cu posturile deschise, condițiile de lucru și un formular simplu de aplicare, plus un video cu echipa, dacă doriți."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru crearea unui site pentru firma noastră din Timișoara."
+}

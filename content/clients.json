@@ -1,0 +1,4 @@
+{
+  "_comment": "Logo-urile clienților pentru banda animată (marquee). Puneți fișierele în public/clients/ (SVG sau PNG transparent, alb sau monocrom) și scrieți calea în \"logo\". Folosiți doar logo-uri pentru care aveți acordul clientului. Lista goală = banda nu apare. Format: { \"placeholder\": false, \"name\": \"\", \"logo\": \"/clients/nume.svg\" }",
+  "items": []
+}

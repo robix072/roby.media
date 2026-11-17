@@ -1,0 +1,181 @@
+{
+  "_comment": "Pagina /servicii/fotografie-video-horeca (EN: /en/services/restaurant-photo-video). Textele se editează direct aici.",
+  "id": "fotografie-video-horeca",
+  "category": "productie",
+  "order": 80,
+  "slug": { "ro": "fotografie-video-horeca", "en": "restaurant-photo-video" },
+  "icon": "utensils",
+  "packageGroup": "social",
+  "packageIds": ["start", "marketing-pack"],
+  "priceFrom": null,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["foto", "tiktok-social"],
+  "related": ["continut-social-media", "marketing-tiktok", "fotografie-produs", "social-media-management"],
+  "localService": null,
+  "ro": {
+    "name": "Foto și video HoReCa",
+    "metaTitle": "Fotografie și video HoReCa pentru restaurante",
+    "metaDescription": "Fotografie de meniu, clipuri TikTok și Reels pentru restaurante, cafenele, baruri și hoteluri. Conținut care aduce clienți la masă. Cereți o ofertă.",
+    "h1": "Fotografie și video HoReCa care umple mesele",
+    "subtitle": "Fotografii de meniu care fac poftă și clipuri scurte care arată atmosfera locului. Conținut pentru meniu, livrări, Google și social media, făcut într-o singură zi.",
+    "cardDescription": "Fotografii de meniu, clipuri pentru TikTok și Reels și imagini de atmosferă pentru restaurante, cafenele, baruri și hoteluri.",
+    "summary": [
+      "Fotografii de preparate și băuturi pentru meniu, aplicații de livrare, site și Google.",
+      "Clipuri verticale pentru TikTok, Reels și Stories, cu bucătăria, echipa și atmosfera.",
+      "O zi de producție bine planificată, fără să vă blocăm programul cu clienții.",
+      "Pachetele de conținut social media pornesc de la 600 lei. Ședințele foto de meniu se ofertează la cerere."
+    ],
+    "problem": {
+      "title": "Clientul alege restaurantul cu ochii, înainte să guste",
+      "paragraphs": [
+        "Înainte să rezerve o masă, oamenii vă caută pe Google, pe Instagram sau în aplicația de livrare. Se uită la fotografii. Dacă preparatele arată palid sau sala pare goală, trec la următorul local. Nu ajung să afle cât de bună e mâncarea.",
+        "Multe localuri au meniul fotografiat cu telefonul, sub lumina din bucătărie, pe farfurii aranjate în grabă. Pe social media postează rar, pentru că nimeni din echipă nu are timp să filmeze și să monteze. Rezultatul: un local bun care pare obișnuit online.",
+        "Concurența nu doarme. Localurile care postează constant clipuri cu preparate, cocktailuri și oameni care se distrează ajung în fața clienților noi în fiecare săptămână."
+      ]
+    },
+    "solution": {
+      "title": "Cum lucrăm cu restaurantele și cafenelele",
+      "paragraphs": [
+        "Începem cu o discuție scurtă: ce preparate vindeți cel mai bine, ce vreți să promovați, unde folosiți imaginile. Stabilim lista de preparate, ordinea în care ies din bucătărie și ora ședinței, de obicei în afara orelor de vârf.",
+        "La fotografie lucrăm cu lumină controlată, fundaluri și accesorii potrivite stilului localului. Fiecare preparat primește unghiul care îi pune în valoare textura și culoarea. Fotografiem și sala, terasa, barul și echipa, ca oamenii să vadă unde vor sta.",
+        "Pentru video ne concentrăm pe ce oprește scroll-ul: flacăra din tigaie, sosul turnat, cocktailul preparat la bar, primul fum de la cafea. Filmăm vertical, cu hook în primele secunde, și scriem dinainte scenariile scurte. Dacă vreți, apar în clipuri bucătarul sau proprietarul.",
+        "La final, montăm clipurile cu ritm, subtitrare și muzică potrivită, iar fotografiile le edităm pentru fiecare platformă. Primiți materiale gata de postat, nu fișiere brute."
+      ]
+    },
+    "includes": {
+      "title": "Ce include",
+      "items": [
+        { "title": "Planificare și listă de cadre", "text": "Stabilim preparatele, scenariile clipurilor și programul zilei înainte de ședință." },
+        { "title": "Fotografie de meniu", "text": "Preparate și băuturi fotografiate cu lumină controlată, pe fundal curat sau în decorul localului." },
+        { "title": "Fotografii de atmosferă", "text": "Sala, terasa, barul, detaliile de decor și echipa la lucru." },
+        { "title": "Clipuri TikTok și Reels", "text": "Clipuri verticale scurte, cu hook, ritm și subtitrare, gata de postat." },
+        { "title": "Scripturi și idei de conținut", "text": "Idei adaptate localului dumneavoastră, nu copiate din trenduri generice." },
+        { "title": "Editare foto", "text": "Culori naturale și apetisante, fără să schimbăm aspectul real al preparatelor." },
+        { "title": "Formate pentru fiecare canal", "text": "Imagini pentru meniu tipărit, aplicații de livrare, Google Business Profile și site." },
+        { "title": "Muzică și descrieri", "text": "La pachetele social media, muzică potrivită, descrieri și hashtag-uri pentru fiecare clip." },
+        { "title": "Livrare online", "text": "Toate fișierele într-un link privat, organizate pe categorii." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Lucrăm cu localuri mici și cu lanțuri, cu deschideri noi și cu afaceri care vor să își reîmprospăteze imaginea.",
+      "items": [
+        { "industry": "Restaurante", "text": "Meniu nou, preparate de sezon sau lansarea unui concept, prezentate astfel încât oamenii să rezerve." },
+        { "industry": "Cafenele și patiserii", "text": "Clipuri cu cafea, deserturi și dimineți liniștite, care aduc clienți constanți din cartier." },
+        { "industry": "Baruri și cocktail baruri", "text": "Cocktailuri filmate la bar și seri pline, pentru clienții care aleg unde ies în weekend." },
+        { "industry": "Hoteluri și pensiuni", "text": "Restaurantul, micul dejun și spațiile comune, pentru site și platformele de rezervări." },
+        { "industry": "Dark kitchen și livrări", "text": "Fotografii de produs care cresc încrederea în aplicațiile de livrare, unde imaginea e totul." },
+        { "industry": "Catering și evenimente private", "text": "Prezentarea meniurilor de eveniment și a modului de servire, pentru clienți corporate și privați." }
+      ]
+    },
+    "process": {
+      "title": "Procesul",
+      "steps": [
+        { "title": "Discuție și ofertă", "text": "Aflăm ce vreți să promovați și unde. Primiți o propunere de pachet sau o ofertă personalizată." },
+        { "title": "Planificare", "text": "Stabilim lista de preparate, scenariile clipurilor și ora ședinței, de preferat în afara orelor de vârf." },
+        { "title": "Ziua de producție", "text": "Fotografiem și filmăm în local. Bucătăria pregătește preparatele în ordinea stabilită." },
+        { "title": "Editare și montaj", "text": "Edităm fotografiile și montăm clipurile cu subtitrare, muzică și ritm." },
+        { "title": "Livrare și postare", "text": "Primiți materialele gata de publicat. La Marketing Pack primiți și calendarul de postare." }
+      ]
+    },
+    "pricingNote": "Pachetele de conținut pentru social media pornesc de la 600 lei (Start). Ședințele foto de meniu și proiectele mai mari se ofertează după o discuție scurtă.",
+    "faq": [
+      { "q": "Cât costă conținutul pentru un restaurant?", "a": "Pachetul Start, cu 10 clipuri TikTok sau Reels și o zi de filmare, pornește de la 600 lei. Marketing Pack include 20 de clipuri, strategie și calendar de postare. Fotografia de meniu se ofertează separat, în funcție de numărul de preparate." },
+      { "q": "Trebuie să închidem localul în ziua ședinței?", "a": "Nu. Lucrăm de obicei dimineața sau între prânz și cină, când sala e liberă. Pentru cadrele cu atmosferă putem reveni la o oră aglomerată, cu acordul clienților prezenți în cadru." },
+      { "q": "Ce trebuie să pregătim?", "a": "Lista de preparate stabilită împreună, ingredientele pentru porții proaspete și un bucătar disponibil. Vă recomandăm să curățați sala și să aveți veselă în stare bună. Restul, adică lumina și compoziția, e treaba noastră." },
+      { "q": "Câte preparate fotografiați într-o zi?", "a": "Depinde de complexitatea preparatelor și de ritmul bucătăriei. Planificăm realist, ca fiecare farfurie să fie fotografiată proaspătă. Vă spunem în ofertă ce volum este rezonabil pentru meniul dumneavoastră." },
+      { "q": "Putem folosi fotografiile și pe aplicațiile de livrare?", "a": "Da. Livrăm formate pentru meniu tipărit, site, Google Business Profile și platformele de livrare. Puteți folosi materialele în toate canalele proprii de promovare ale localului." },
+      { "q": "Cine apare în clipuri?", "a": "Cine dorește din echipă: bucătarul, barmanul, proprietarul. Dacă nimeni nu vrea să apară, construim clipurile în jurul preparatelor și al locului. Vă ajutăm cu replicile, ca totul să sune natural." },
+      { "q": "Putem cere modificări la clipuri?", "a": "Da. Vă trimitem clipurile spre aprobare și facem ajustările rezonabile de montaj, text sau muzică. Numărul rundelor de revizie este trecut în ofertă." },
+      { "q": "Lucrați și în afara orașului dumneavoastră de bază?", "a": "Da, în toată România. Pentru localuri aflate la distanță, deplasarea apare separat în ofertă. Lanțurile cu mai multe locații pot programa ședințele consecutiv." }
+    ],
+    "closing": {
+      "title": "Faceți-i pe oameni să vă caute localul",
+      "text": "Spuneți-ne ce tip de local aveți și ce vreți să promovați. Vă propunem pachetul potrivit și o dată pentru ședință."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru foto și video pentru localul meu. Tip local: ..., oraș: ..."
+  },
+  "en": {
+    "name": "Restaurant photo & video",
+    "metaTitle": "Restaurant Photography and Video for Hospitality",
+    "metaDescription": "Menu photography, TikTok and Reels for restaurants, cafes, bars and hotels. Content that brings guests through the door. Ask for a quote today.",
+    "h1": "Restaurant photography and video that fill tables",
+    "subtitle": "Menu photos that make people hungry and short videos that show the atmosphere. Content for your menu, delivery apps, Google and social media, shot in a single day.",
+    "cardDescription": "Menu photography, TikTok and Reels videos and atmosphere shots for restaurants, cafes, bars and hotels.",
+    "summary": [
+      "Food and drink photos for your menu, delivery apps, website and Google listing.",
+      "Vertical videos for TikTok, Reels and Stories featuring your kitchen, team and atmosphere.",
+      "One well-planned production day that doesn't get in the way of service.",
+      "Social media content packages start at 600 RON. Menu photo shoots are quoted on request."
+    ],
+    "problem": {
+      "title": "Guests choose with their eyes before they taste anything",
+      "paragraphs": [
+        "Before booking a table, people look you up on Google, Instagram or a delivery app. They look at the photos. If the food looks flat or the room looks empty, they move on to the next place. They never find out how good your food actually is.",
+        "Plenty of venues have their menu shot on a phone under kitchen lights, on plates arranged in a hurry. Social media gets updated now and then, because nobody on the team has time to film and edit. The result is a great venue that looks ordinary online.",
+        "Meanwhile, the places that post regular clips of dishes, cocktails and people enjoying themselves reach new guests every single week."
+      ]
+    },
+    "solution": {
+      "title": "How we work with restaurants and cafes",
+      "paragraphs": [
+        "We start with a quick conversation: which dishes sell best, what you want to push, where the images will be used. We agree the shot list, the order dishes leave the kitchen and a shoot time, usually outside peak hours.",
+        "For photography we use controlled lighting, backgrounds and props that match your style. Each dish gets the angle that brings out its texture and colour. We also shoot the dining room, terrace, bar and team, so people can see where they'll be sitting.",
+        "For video we focus on what stops the scroll: flames in the pan, sauce being poured, a cocktail built at the bar, the first wisp of steam from a coffee. We shoot vertically, open with a hook and script the short concepts in advance. If you like, your chef or owner can appear on camera.",
+        "Finally we edit the videos with pace, subtitles and the right music, and prepare the photos for each platform. You receive content that's ready to post, not a folder of raw files."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Planning and shot list", "text": "We agree the dishes, video concepts and schedule before the shoot." },
+        { "title": "Menu photography", "text": "Food and drinks shot under controlled light, on a clean background or in your own setting." },
+        { "title": "Atmosphere photos", "text": "The dining room, terrace, bar, decor details and the team at work." },
+        { "title": "TikTok and Reels videos", "text": "Short vertical clips with a hook, good pacing and subtitles, ready to post." },
+        { "title": "Scripts and content ideas", "text": "Ideas built around your venue, not lifted from generic trends." },
+        { "title": "Photo editing", "text": "Natural, appetising colour that never changes how the food really looks." },
+        { "title": "Formats for every channel", "text": "Images sized for printed menus, delivery apps, Google Business Profile and your website." },
+        { "title": "Music and captions", "text": "On social media packages, suitable music, captions and hashtags for every clip." },
+        { "title": "Online delivery", "text": "All files in a private link, organised by category." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "We work with independent venues and chains, new openings and established places that want a fresh look.",
+      "items": [
+        { "industry": "Restaurants", "text": "A new menu, seasonal dishes or a concept launch, shown in a way that gets people booking." },
+        { "industry": "Cafes and bakeries", "text": "Clips of coffee, pastries and slow mornings that build a loyal local crowd." },
+        { "industry": "Bars and cocktail bars", "text": "Cocktails made at the bar and busy nights, for people deciding where to go this weekend." },
+        { "industry": "Hotels and guesthouses", "text": "The restaurant, breakfast and shared spaces, for your website and booking platforms." },
+        { "industry": "Dark kitchens and delivery brands", "text": "Product shots that build trust in delivery apps, where the photo is everything." },
+        { "industry": "Catering and private events", "text": "Showcasing event menus and service style for corporate and private clients." }
+      ]
+    },
+    "process": {
+      "title": "The process",
+      "steps": [
+        { "title": "Call and quote", "text": "We learn what you want to promote and where. You get a package suggestion or a tailored quote." },
+        { "title": "Planning", "text": "We agree the dish list, video concepts and shoot time, ideally outside peak hours." },
+        { "title": "Production day", "text": "We shoot on site while the kitchen sends out dishes in the agreed order." },
+        { "title": "Editing", "text": "We retouch the photos and cut the videos with subtitles, music and pace." },
+        { "title": "Delivery and posting", "text": "You receive ready-to-publish content. Marketing Pack also includes a posting calendar." }
+      ]
+    },
+    "pricingNote": "Social media content packages start at 600 RON (Start). Menu photo shoots and larger projects are quoted after a short call.",
+    "faq": [
+      { "q": "How much does restaurant content cost?", "a": "The Start package, with 10 TikTok or Reels videos and one shooting day, begins at 600 RON. Marketing Pack includes 20 videos, a content strategy and a posting calendar. Menu photography is quoted separately, based on the number of dishes." },
+      { "q": "Do we need to close on the shoot day?", "a": "No. We usually work in the morning or between lunch and dinner, when the room is quiet. For atmosphere shots we can come back at a busy time, with the consent of any guests who appear on camera." },
+      { "q": "What do we need to prepare?", "a": "The dish list we agreed, ingredients for fresh portions and a chef who's available. Make sure the room is clean and the tableware is in good shape. Lighting and composition are our job." },
+      { "q": "How many dishes can you shoot in a day?", "a": "It depends on how complex the dishes are and how fast the kitchen works. We plan realistically, so every plate is shot fresh. Your quote will say what volume makes sense for your menu." },
+      { "q": "Can we use the photos on delivery apps?", "a": "Yes. We deliver formats for printed menus, your website, Google Business Profile and delivery platforms. You can use the material across all your own promotional channels." },
+      { "q": "Who appears in the videos?", "a": "Whoever on your team wants to: the chef, the bartender, the owner. If nobody does, we build the videos around the food and the space. We help with lines so everything sounds natural." },
+      { "q": "Can we ask for changes?", "a": "Yes. We send the videos for approval and make reasonable changes to the edit, on-screen text or music. The number of revision rounds is stated in your quote." },
+      { "q": "Do you work outside your home city?", "a": "Yes, anywhere in Romania. For venues further away, travel is listed separately in the quote. Chains with several locations can schedule shoots back to back." }
+    ],
+    "closing": {
+      "title": "Give people a reason to find you",
+      "text": "Tell us what kind of venue you run and what you want to promote. We'll suggest the right package and a shoot date."
+    },
+    "whatsapp": "Hello, I'd like a quote for photo and video for my venue. Type of venue: ..., city: ..."
+  }
+}

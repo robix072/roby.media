@@ -1,0 +1,409 @@
+@import "tailwindcss";
+
+/* ------------------------------------------------------------------ Design tokens */
+@theme {
+  /* Neutre ușor calde (spre auriu), același aspect ca înainte. */
+  --color-ink: #0b0a09;
+  --color-surface: #151412;
+  --color-surface-2: #1d1b18;
+  --color-line: #2b2925;
+  --color-line-strong: #3d3a34;
+  --color-gold: #e0a100;
+  --color-gold-hover: #c78f00;
+  --color-gold-soft: rgb(224 161 0 / 0.12);
+  --color-fg: #f5f3ef;
+  --color-muted: #a6a29a;
+
+  --font-display: var(--font-anton), "Arial Narrow", Impact, sans-serif;
+  --font-sans: var(--font-manrope), system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  /* Mișcare: vezi docs/DESIGN.md */
+  --ease-cine: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+
+  --animate-marquee: marquee 40s linear infinite;
+  @keyframes marquee {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+}
+
+/* ------------------------------------------------------------------ Bază */
+@layer base {
+  html {
+    color-scheme: dark;
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    background: var(--color-ink);
+    color: var(--color-fg);
+    font-family: var(--font-sans);
+    font-feature-settings: "ss01";
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  ::selection {
+    background: var(--color-gold);
+    color: var(--color-ink);
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-gold);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+  /* Ancore sub header-ul sticky */
+  [id] {
+    scroll-margin-top: 6rem;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+    /* Excepție: camera din hero rămâne animată (doar trasare și fade, fără deplasare). */
+    .cam-draw path {
+      animation-duration: 10s !important;
+      animation-iteration-count: infinite !important;
+    }
+  }
+}
+
+/* ------------------------------------------------------------------ Apariție la scroll */
+@media (prefers-reduced-motion: no-preference) {
+  .js [data-reveal]:not(.is-visible) {
+    opacity: 0;
+    transform: translateY(16px);
+    /* Siguranță: dacă scriptul nu rulează, conținutul apare oricum. */
+    animation: reveal-fallback 0.01s linear 2.5s forwards;
+  }
+  .js [data-reveal] {
+    transition: opacity 0.6s var(--ease-out), transform 0.6s var(--ease-out);
+    transition-delay: var(--reveal-delay, 0s);
+  }
+}
+@keyframes reveal-fallback {
+  to { opacity: 1; transform: none; }
+}
+
+/* Hero: stare inițială pentru intrarea GSAP (components/motion/hero-scene.tsx). */
+@media (prefers-reduced-motion: no-preference) {
+  .js [data-hero-line] {
+    transform: translateY(105%);
+    animation: reveal-fallback 0.01s linear 2.5s forwards;
+  }
+  .js [data-hero-fade] {
+    opacity: 0;
+    transform: translateY(16px);
+    animation: reveal-fallback 0.01s linear 2.5s forwards;
+  }
+  /* Bandă de lumină caldă, foarte lentă, pe fundalul provizoriu. */
+  /* Doar transform (fără repaint la fiecare cadru). */
+  .hero-sweep {
+    inset: 0 -60%;
+    background: linear-gradient(105deg, transparent 38%, rgb(224 161 0 / 0.08) 50%, transparent 62%);
+    animation: hero-sweep 14s var(--ease-in-out) infinite alternate;
+    will-change: transform;
+  }
+}
+@keyframes hero-sweep {
+  from { transform: translateX(30%); }
+  to { transform: translateX(-30%); }
+}
+
+/* Camera din hero se desenează linie cu linie, în buclă de 10s (vezi hero-camera.tsx).
+   Rulează și cu mișcare redusă: e doar trasare de linie și fade, nimic nu se deplasează pe ecran. */
+.cam-draw path {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: cam-draw 10s var(--ease-in-out) both infinite;
+  animation-delay: calc(var(--i) * 0.32s);
+}
+@keyframes cam-draw {
+  0% { stroke-dashoffset: 1; opacity: 1; }
+  32% { stroke-dashoffset: 0; }
+  78% { stroke-dashoffset: 0; opacity: 1; }
+  92% { stroke-dashoffset: 0; opacity: 0; }
+  100% { stroke-dashoffset: 1; opacity: 0; }
+}
+
+/* ------------------------------------------------------------------ Interacțiuni (doar cu mouse) */
+@media (hover: hover) and (pointer: fine) {
+  .card-lift:hover { transform: translateY(-2px); }
+  .card-lift:hover .media-zoom,
+  .group:hover > .media-frame .media-zoom { transform: scale(1.03); }
+  .card-lift:hover .viewfinder::before,
+  .group:hover > .viewfinder::before { inset: calc(var(--vf-inset) + 6px); }
+  .link-draw:hover::after { transform: scaleX(1); }
+  .btn:hover .btn-chip svg,
+  .btn:hover > svg.lucide-arrow-right { transform: translateX(3px); }
+  .btn:hover .btn-chip { background: rgb(11 10 9 / 0.18); }
+}
+.card-lift { transition: transform 240ms var(--ease-out), border-color 240ms var(--ease-out), background-color 240ms var(--ease-out); }
+.media-zoom { transition: transform 700ms var(--ease-out); }
+
+/* ------------------------------------------------------------------ Fundal ambiental (components/motion/ambient-background.tsx) */
+/* Imaginile de lumină (public/bg): negrul dispare prin „screen”, rămâne doar lumina. */
+.ambient-image {
+  position: absolute;
+  inset: -10% 0;
+  background-size: cover;
+  background-position: center;
+  mix-blend-mode: screen;
+  will-change: transform, opacity;
+}
+.ambient-glow {
+  border-radius: 9999px;
+  background: radial-gradient(closest-side, var(--glow), transparent 100%);
+  will-change: transform;
+}
+/* Grilă de storyboard: 12 coloane aliniate la container, linii de 1px, estompate spre margini. */
+.storyboard-grid {
+  --col: calc((min(100vw, 88rem) - 5rem) / 12);
+  background-image:
+    linear-gradient(to right, rgb(245 243 239 / 0.035) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(245 243 239 / 0.025) 1px, transparent 1px);
+  background-size: var(--col) 100%, 100% calc(var(--col) * 2);
+  background-position: calc(50% - min(100vw, 88rem) / 2 + 2.5rem) 0, 0 0;
+  mask-image: radial-gradient(ellipse 80% 70% at 50% 40%, #000 30%, transparent 100%);
+}
+@media (width < 64rem) {
+  .storyboard-grid { --col: calc((100vw - 2rem) / 4); background-position: 1rem 0, 0 0; }
+}
+
+/* Benzile „surface”: margini de peliculă (perforații) sus și jos. */
+.film-band::before,
+.film-band::after {
+  content: "";
+  position: absolute;
+  inset-inline: 0;
+  height: 10px;
+  background-image: linear-gradient(to right, rgb(245 243 239 / 0.07) 0 14px, transparent 14px 28px);
+  background-size: 28px 6px;
+  background-repeat: repeat-x;
+  background-position: 0 50%;
+  pointer-events: none;
+}
+.film-band::before { top: 10px; }
+.film-band::after { bottom: 10px; }
+
+/* Număr mare de secvență în spatele titlurilor numerotate. */
+.index-watermark {
+  position: absolute;
+  top: -0.32em;
+  right: 0;
+  z-index: -1;
+  font-family: var(--font-display);
+  font-size: clamp(8rem, 4rem + 12vw, 18rem);
+  line-height: 1;
+  color: transparent;
+  -webkit-text-stroke: 1px rgb(245 243 239 / 0.07);
+  font-variant-numeric: tabular-nums;
+  pointer-events: none;
+  user-select: none;
+}
+
+/* Subliniere care se desenează de la stânga (navigație, linkuri text). */
+.link-draw { position: relative; }
+.link-draw::after {
+  content: "";
+  position: absolute;
+  left: var(--draw-x, 0.875rem);
+  right: var(--draw-x, 0.875rem);
+  bottom: 0.25rem;
+  height: 1px;
+  background: currentColor;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 240ms var(--ease-out);
+}
+.link-draw[aria-current="page"]::after { transform: scaleX(1); background: var(--color-gold); }
+
+/* Săgeata din buton, în propriul pătrat. */
+.btn-chip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  margin-right: -0.75rem;
+  background: rgb(11 10 9 / 0.12);
+  transition: background-color 240ms var(--ease-out);
+}
+.btn-chip svg,
+.btn > svg.lucide-arrow-right { transition: transform 240ms var(--ease-out); }
+.btn-outline .btn-chip { background: var(--color-gold-soft); color: var(--color-gold); }
+
+/* ------------------------------------------------------------------ Utilitare */
+@utility font-display {
+  font-family: var(--font-display);
+  font-weight: 400;
+  letter-spacing: 0.005em;
+  text-transform: uppercase;
+  /* Spațiu pentru diacriticele majuscule (Â, Î, Ă deasupra; Ș, Ț dedesubt). */
+  --tw-leading: 1.16;
+  line-height: 1.16;
+}
+
+/* Scară fluidă pentru titluri (în loc de mărimi pe fiecare breakpoint). */
+@utility text-display-1 {
+  font-size: clamp(2.75rem, 1.55rem + 5.4vw, 7rem);
+  letter-spacing: -0.005em;
+}
+@utility text-display-2 {
+  font-size: clamp(2.375rem, 1.75rem + 2.9vw, 4.5rem);
+}
+@utility text-display-3 {
+  font-size: clamp(1.625rem, 1.3rem + 1.2vw, 2.375rem);
+}
+
+/* Etichetă de tip „01 / Servicii” deasupra titlurilor (claquette). */
+@utility index-label {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.625rem;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--color-gold);
+  font-variant-numeric: tabular-nums;
+}
+
+@utility container-x {
+  width: 100%;
+  max-width: 88rem;
+  margin-inline: auto;
+  padding-inline: 1rem;
+  @media (width >= 40rem) { padding-inline: 1.5rem; }
+  @media (width >= 64rem) { padding-inline: 2.5rem; }
+}
+
+@utility eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: var(--color-gold);
+  &::before {
+    content: "";
+    width: 2rem;
+    height: 1px;
+    background: currentColor;
+  }
+}
+
+/* Grain fin de film, static (nu consumă resurse la scroll). */
+@utility grain {
+  &::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 60;
+    pointer-events: none;
+    opacity: 0.06;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 .55 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+}
+
+/* Colțuri de vizor (viewfinder) pe imagini și carduri. */
+@utility viewfinder {
+  position: relative;
+  --vf-size: 18px;
+  --vf-color: rgb(245 245 245 / 0.7);
+  --vf-inset: 12px;
+  &::before {
+    content: "";
+    position: absolute;
+    inset: var(--vf-inset);
+    pointer-events: none;
+    z-index: 2;
+    background:
+      linear-gradient(var(--vf-color), var(--vf-color)) top left / var(--vf-size) 1.5px,
+      linear-gradient(var(--vf-color), var(--vf-color)) top left / 1.5px var(--vf-size),
+      linear-gradient(var(--vf-color), var(--vf-color)) top right / var(--vf-size) 1.5px,
+      linear-gradient(var(--vf-color), var(--vf-color)) top right / 1.5px var(--vf-size),
+      linear-gradient(var(--vf-color), var(--vf-color)) bottom left / var(--vf-size) 1.5px,
+      linear-gradient(var(--vf-color), var(--vf-color)) bottom left / 1.5px var(--vf-size),
+      linear-gradient(var(--vf-color), var(--vf-color)) bottom right / var(--vf-size) 1.5px,
+      linear-gradient(var(--vf-color), var(--vf-color)) bottom right / 1.5px var(--vf-size);
+    background-repeat: no-repeat;
+    transition: inset 0.6s var(--ease-cine), opacity 0.6s var(--ease-cine);
+  }
+}
+
+/* Bare negre de cinema deasupra și dedesubt (letterbox). */
+@utility letterbox {
+  box-shadow: inset 0 3.5rem 3rem -2rem var(--color-ink), inset 0 -6rem 5rem -2rem var(--color-ink);
+}
+
+/* Text pentru conținut lung (blog, pagini legale). */
+@utility prose-roby {
+  color: rgb(245 245 245 / 0.86);
+  font-size: 1.0625rem;
+  line-height: 1.75;
+  & > * + * { margin-top: 1.25em; }
+  & h2 {
+    font-family: var(--font-display);
+    text-transform: uppercase;
+    font-size: clamp(1.75rem, 3vw, 2.25rem);
+    line-height: 1.12;
+    color: var(--color-fg);
+    margin-top: 2.2em;
+    margin-bottom: 0.4em;
+  }
+  & h3 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--color-fg);
+    margin-top: 1.8em;
+  }
+  & a {
+    color: var(--color-gold);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  & a:hover { color: var(--color-fg); }
+  & strong { color: var(--color-fg); font-weight: 700; }
+  & ul, & ol { padding-left: 1.25em; }
+  & ul { list-style: none; }
+  & ul > li { position: relative; }
+  & ul > li::before {
+    content: "";
+    position: absolute;
+    left: -1.1em;
+    top: 0.75em;
+    width: 0.45em;
+    height: 1.5px;
+    background: var(--color-gold);
+  }
+  & ol { list-style: decimal; }
+  & ol > li::marker { color: var(--color-gold); font-weight: 700; }
+  & li + li { margin-top: 0.45em; }
+  & blockquote {
+    border-left: 2px solid var(--color-gold);
+    padding-left: 1.25em;
+    color: var(--color-fg);
+    font-style: italic;
+  }
+  & em { color: var(--color-muted); }
+  & hr { border-color: var(--color-line); margin-block: 2.5em; }
+  & table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+    display: block;
+    overflow-x: auto;
+  }
+  & th, & td {
+    border-bottom: 1px solid var(--color-line);
+    padding: 0.7em 0.9em 0.7em 0;
+    text-align: left;
+    vertical-align: top;
+  }
+  & th { color: var(--color-fg); font-weight: 700; }
+}

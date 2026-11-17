@@ -1,0 +1,98 @@
+{
+  "ready": true,
+  "service": "creare-site",
+  "city": "brasov",
+  "metaTitle": "Creare site în Brașov pentru hoteluri și firme",
+  "metaDescription": "Creare site în Brașov pentru pensiuni, hoteluri, restaurante și firme locale. Site de prezentare de la 2.900 lei + TVA, bilingv opțional. Cereți oferta.",
+  "h1": "Creare site în Brașov",
+  "subtitle": "Site-uri pentru turism, HoReCa și firme locale din Brașov, construite pentru rezervări directe, cereri de ofertă și clienți din țară și din străinătate.",
+  "summary": [
+    "Site de prezentare de la 2.900 lei + TVA, cu variantă bilingvă opțională pentru turiști străini.",
+    "Galerii foto și video, informații practice și contact direct pentru rezervări.",
+    "Landing page de la 1.500 lei, magazin online de la 5.900 lei, plus TVA.",
+    "Lucru online, cu apeluri video și, la nevoie, fotografie și video la fața locului."
+  ],
+  "intro": [
+    "Pentru o pensiune sau un hotel din Brașov și Poiana Brașov, platformele de rezervări aduc clienți, dar și comisioane. Un site propriu, cu imagini bune și informații clare, permite oaspeților să rezerve direct și vă oferă control asupra prezentării. Mulți turiști verifică site-ul oficial înainte de a rezerva, chiar dacă au găsit unitatea pe o platformă.",
+    "Restaurantele, cafenelele și organizatorii de activități au aceeași provocare: turistul decide pe telefon, de multe ori în aceeași zi. Meniul, programul, locația și un buton de contact trebuie să fie vizibile imediat.",
+    "Pe lângă turism, Brașovul are o industrie puternică și multe firme de servicii. Pentru ele, site-ul are alt rol: să explice clar ce fac și să aducă cereri de ofertă."
+  ],
+  "local": {
+    "title": "Ce contează pentru un site în Brașov",
+    "text": "Brașovul are un public dublu: vizitatori care vin pentru câteva zile și localnici sau firme care caută servicii pe termen lung. Un site bun este construit pentru publicul care contează în cazul dumneavoastră.",
+    "items": [
+      {
+        "title": "Rezervări directe pentru cazare",
+        "text": "Prezentăm camerele, facilitățile și împrejurimile cu galerii clare și includem contact rapid sau formular de rezervare, ca oaspeții să vă scrie direct."
+      },
+      {
+        "title": "Turiști străini",
+        "text": "Centrul istoric și zona montană atrag vizitatori din străinătate. Varianta în engleză este scrisă natural și include informații practice despre acces și împrejurimi."
+      },
+      {
+        "title": "Sezonalitate",
+        "text": "Ofertele de iarnă pentru Poiana Brașov și cele de vară diferă. Construim site-ul astfel încât să puteți actualiza ușor pachetele și prețurile de sezon."
+      },
+      {
+        "title": "Imagini care vând",
+        "text": "Pentru turism, fotografiile și video-ul sunt decisive. Putem realiza noi materialele la fața locului, inclusiv imagini aeriene acolo unde zborul este permis."
+      },
+      {
+        "title": "Firme industriale și B2B",
+        "text": "Producătorii și furnizorii din zona Brașovului au nevoie de un site bilingv, cu capacități, procese și cerere de ofertă pentru clienți din țară și din afară."
+      }
+    ]
+  },
+  "industries": {
+    "title": "Afaceri din Brașov pentru care facem site-uri",
+    "items": [
+      {
+        "title": "Pensiuni și hoteluri",
+        "text": "Site bilingv cu camere, galerii, oferte de sezon și contact direct pentru rezervări."
+      },
+      {
+        "title": "Restaurante și cafenele",
+        "text": "Meniu ușor de citit pe telefon, program, hartă și rezervare rapidă."
+      },
+      {
+        "title": "Activități outdoor și ghizi",
+        "text": "Pagini pentru fiecare tur sau activitate, cu detalii practice și formular de rezervare."
+      },
+      {
+        "title": "Producători și furnizori industriali",
+        "text": "Site de prezentare cu capacități, certificări reale și cerere de ofertă."
+      },
+      {
+        "title": "Produse locale și suveniruri",
+        "text": "Magazin online cu plăți și curierat, pentru vânzare și după ce turiștii au plecat acasă."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Cum lucrăm cu firmele din Brașov",
+    "text": "Designul, dezvoltarea și textele se realizează online, cu apeluri video la fiecare etapă și feedback în scris. Dacă preferați să ne întâlnim față în față, venim în Brașov. Pentru fotografii și video cu unitatea dumneavoastră, echipa noastră de filmare se deplasează în Brașov, Poiana Brașov și în județ, iar costul deplasării apare transparent în ofertă."
+  },
+  "faq": [
+    {
+      "q": "Merită un site propriu dacă suntem deja pe platformele de rezervări?",
+      "a": "De cele mai multe ori, da. Site-ul propriu vă permite să primiți rezervări directe, fără comision, și să vă prezentați exact cum doriți. Platformele rămân un canal util, în paralel."
+    },
+    {
+      "q": "Puteți face și fotografiile pentru site?",
+      "a": "Da. Echipa noastră de producție poate fotografia și filma camerele, spațiile și împrejurimile. Prețul se stabilește separat, în funcție de volum."
+    },
+    {
+      "q": "Cât durează să apară site-ul în Google în Brașov?",
+      "a": "Indexarea are loc de obicei în câteva zile. Pozițiile bune pentru căutări turistice, unde concurența este mare, se construiesc în timp. Nu garantăm poziții, dar livrăm o bază tehnică corectă."
+    },
+    {
+      "q": "Putem actualiza singuri ofertele de sezon?",
+      "a": "Da. Vă arătăm cum să modificați prețurile, pachetele și imaginile. Pentru schimbări mai mari ne puteți scrie oricând."
+    },
+    {
+      "q": "Trebuie să ne întâlnim față în față?",
+      "a": "Nu este obligatoriu. Proiectul se poate face complet online. Dacă doriți o întâlnire la unitatea dumneavoastră din Brașov, o programăm, mai ales dacă facem și fotografiile."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru crearea unui site pentru afacerea noastră din Brașov."
+}

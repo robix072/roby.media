@@ -1,0 +1,351 @@
+{
+  "_comment": "Pagina /servicii/branding-identitate-vizuala (EN: /en/services/branding-visual-identity). Textele se editează direct aici.",
+  "id": "branding-identitate-vizuala",
+  "category": "web",
+  "order": 50,
+  "slug": {
+    "ro": "branding-identitate-vizuala",
+    "en": "branding-visual-identity"
+  },
+  "icon": "palette",
+  "packageGroup": null,
+  "priceFrom": null,
+  "priceUnit": "proiect",
+  "portfolioCategories": [
+    "website",
+    "video-comercial"
+  ],
+  "related": [
+    "creare-site-prezentare",
+    "videoclip-prezentare-firma",
+    "social-media-management",
+    "fotografie-corporate"
+  ],
+  "localService": null,
+  "ro": {
+    "name": "Branding și identitate vizuală",
+    "metaTitle": "Branding și identitate vizuală: logo, culori, ghid",
+    "metaDescription": "Branding și identitate vizuală: logo, paletă de culori, tipografie, ghid de brand și template-uri social media. Cereți o ofertă după o scurtă discuție.",
+    "h1": "Branding și identitate vizuală pentru firme care vor să fie recunoscute",
+    "subtitle": "Creăm logo-ul, culorile, fonturile și regulile vizuale ale brandului dumneavoastră. Rezultatul: o imagine coerentă pe site, pe rețelele sociale, în video și pe tot ce tipăriți.",
+    "cardDescription": "Logo, paletă de culori, tipografie, ghid de brand și template-uri social media, pentru o imagine coerentă peste tot.",
+    "summary": [
+      "Logo în variante pentru web, print, social media și video, plus fișierele sursă.",
+      "Paletă de culori, tipografie și elemente grafice care se potrivesc cu poziționarea firmei.",
+      "Ghid de brand și template-uri pentru social media, ca imaginea să rămână consecventă.",
+      "Oferta se face la cerere, după o discuție scurtă despre firmă și ce aveți deja."
+    ],
+    "problem": {
+      "title": "O imagine incoerentă costă încredere",
+      "paragraphs": [
+        "Multe firme cresc mai repede decât imaginea lor. Logo-ul a fost făcut în grabă la început, fiecare postare pe social media arată altfel, site-ul folosește alte culori decât cărțile de vizită, iar ofertele trimise clienților au trei fonturi diferite.",
+        "Clientul nu analizează conștient aceste detalii, dar le simte. O imagine dezordonată transmite o firmă mică sau neatentă, chiar dacă serviciile sunt foarte bune. Iar când vreți să creșteți prețurile sau să lucrați cu clienți mai mari, imaginea începe să vă tragă înapoi.",
+        "Fără reguli clare, fiecare designer, fiecare angajat și fiecare furnizor improvizează. Brandul se diluează în loc să se construiască."
+      ]
+    },
+    "solution": {
+      "title": "Cum construim identitatea vizuală",
+      "paragraphs": [
+        "Începem cu o discuție despre firmă, nu despre culori preferate. Cine sunt clienții, cum vreți să fiți percepuți, care sunt concurenții și prin ce vă diferențiați. Din aceste răspunsuri iese direcția vizuală: un brand premium arată altfel decât unul prietenos și accesibil.",
+        "Vă prezentăm concepte de logo construite pe această direcție, cu explicația din spatele fiecăruia. Alegeți direcția, o rafinăm împreună, apoi o extindem într-un sistem complet: paletă de culori, tipografie, elemente grafice, stil de fotografie și reguli de folosire.",
+        "Testăm identitatea acolo unde va trăi de fapt: pe site, pe ecranul telefonului, într-o postare de Instagram, pe o cartelă de final dintr-un video, pe o carte de vizită. Un logo care arată bine doar mare pe un ecran de prezentare nu este suficient.",
+        "La final primiți ghidul de brand, toate fișierele în formatele necesare și template-uri pentru social media. Pentru că lucrăm și pe video și web, identitatea se aplică imediat și coerent pe site, în reclame și în producțiile video."
+      ]
+    },
+    "includes": {
+      "title": "Ce include proiectul de branding",
+      "items": [
+        {
+          "title": "Discuție de poziționare",
+          "text": "Clarificăm publicul, valorile, concurența și felul în care vreți să fiți percepuți."
+        },
+        {
+          "title": "Design logo",
+          "text": "Concepte argumentate, rafinare pe direcția aleasă și variante: principală, orizontală, simbol, monocrom."
+        },
+        {
+          "title": "Paletă de culori",
+          "text": "Culori principale și secundare, cu coduri pentru web și print, verificate pentru contrast și lizibilitate."
+        },
+        {
+          "title": "Tipografie",
+          "text": "Fonturi pentru titluri și text, alese pentru lizibilitate pe ecran și în print, cu licențe clare."
+        },
+        {
+          "title": "Elemente grafice",
+          "text": "Forme, iconițe sau modele care fac brandul recognoscibil și dincolo de logo."
+        },
+        {
+          "title": "Ghid de brand",
+          "text": "Un document clar cu regulile de folosire, ce este permis și ce nu, pentru echipă și furnizori."
+        },
+        {
+          "title": "Template-uri social media",
+          "text": "Șabloane pentru postări și story-uri, ușor de editat, ca imaginea să rămână consecventă."
+        },
+        {
+          "title": "Aplicații de bază",
+          "text": "Carte de vizită, semnătură de e-mail, antet de document sau alte materiale, după nevoi."
+        },
+        {
+          "title": "Fișiere finale",
+          "text": "Formate vectoriale și raster pentru web, print și video, plus fișierele sursă."
+        }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Lucrăm cu firme noi care pornesc corect de la început și cu firme existente care au depășit imaginea cu care au început.",
+      "items": [
+        {
+          "industry": "Startup-uri și firme noi",
+          "text": "O identitate completă înainte de site, reclame și primele materiale, ca să nu refaceți totul peste un an."
+        },
+        {
+          "industry": "Clinici și cabinete private",
+          "text": "O imagine care transmite profesionalism și încredere, aplicată coerent la recepție, pe site și online."
+        },
+        {
+          "industry": "Restaurante, cafenele și branduri alimentare",
+          "text": "Identitate pentru meniu, ambalaje, vitrină și social media, gândită să fie ușor de recunoscut."
+        },
+        {
+          "industry": "Firme de construcții și industriale",
+          "text": "Rebranding care le poziționează pentru contracte mai mari, pe site, în oferte și pe echipamente."
+        },
+        {
+          "industry": "Consultanți și branduri personale",
+          "text": "Un sistem vizual simplu și ușor de folosit în prezentări, cursuri și conținut video."
+        },
+        {
+          "industry": "Magazine online și producători",
+          "text": "Identitate aplicată pe magazin, etichete și fotografii de produs, pentru un brand memorabil."
+        }
+      ]
+    },
+    "process": {
+      "title": "Etapele proiectului",
+      "steps": [
+        {
+          "title": "Discuție și brief",
+          "text": "Aflăm cine sunteți, cui vă adresați și ce vreți să transmiteți. Vă trimitem oferta și calendarul."
+        },
+        {
+          "title": "Cercetare și direcție",
+          "text": "Analizăm piața și concurența și stabilim direcția vizuală."
+        },
+        {
+          "title": "Concepte de logo",
+          "text": "Vă prezentăm conceptele, cu argumentele lor. Alegeți direcția și o rafinăm împreună."
+        },
+        {
+          "title": "Sistemul vizual",
+          "text": "Extindem identitatea în culori, tipografie, elemente grafice și aplicații."
+        },
+        {
+          "title": "Ghid și predare",
+          "text": "Primiți ghidul de brand, template-urile și toate fișierele finale."
+        }
+      ]
+    },
+    "pricingNote": "Proiectele de branding se ofertează la cerere. După o discuție scurtă despre firmă și ce materiale aveți deja, vă trimitem o ofertă clară, cu livrabile și termen.",
+    "faq": [
+      {
+        "q": "Cât costă un proiect de branding?",
+        "a": "Depinde de ce aveți nevoie: doar un logo, o identitate completă sau un rebranding cu multe aplicații. După o discuție scurtă vă trimitem o ofertă clară, cu lista livrabilelor, ca să știți exact ce primiți."
+      },
+      {
+        "q": "Cât durează?",
+        "a": "Un proiect complet de identitate vizuală durează de obicei câteva săptămâni, în funcție de numărul de concepte, de rundele de feedback și de câte aplicații includem. Termenul exact este trecut în ofertă."
+      },
+      {
+        "q": "Câte variante de logo primim și câte revizii?",
+        "a": "Numărul de concepte și de runde de revizie este stabilit în ofertă. Preferăm câteva concepte bine gândite și argumentate în locul multor variante făcute în grabă."
+      },
+      {
+        "q": "Ale cui sunt drepturile asupra logo-ului?",
+        "a": "După plata integrală, drepturile de utilizare asupra identității create se transferă către firma dumneavoastră, conform contractului, și primiți toate fișierele sursă. Fonturile comerciale, dacă sunt alese, se folosesc conform licenței lor."
+      },
+      {
+        "q": "Ce aveți nevoie de la noi?",
+        "a": "Informații despre firmă, clienți și concurență, exemple de branduri care vă plac sau nu și accesul la materialele existente. Cel mai important este să avem o persoană care poate lua decizii în timpul proiectului."
+      },
+      {
+        "q": "Putem păstra logo-ul actual?",
+        "a": "Da. Uneori logo-ul este bun, dar lipsește sistemul din jurul lui. Putem face un refresh discret sau doar culorile, tipografia, ghidul și template-urile, ca să îl folosiți coerent."
+      },
+      {
+        "q": "Ne puteți ajuta și cu aplicarea brandului?",
+        "a": "Da. Putem aplica identitatea pe site, pe rețelele sociale, în reclame și în producțiile video, astfel încât brandul să arate la fel peste tot din prima zi."
+      }
+    ],
+    "closing": {
+      "title": "Construiți o imagine pe măsura firmei",
+      "text": "Spuneți-ne pe scurt cine sunteți și ce aveți deja. Vă răspundem cu o propunere de abordare și o ofertă clară."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru branding / identitate vizuală. Firma activează în: ..., avem deja logo: da/nu"
+  },
+  "en": {
+    "name": "Branding and visual identity",
+    "metaTitle": "Branding and Visual Identity: Logo, Colours, Guide",
+    "metaDescription": "Branding and visual identity design: logo, colour palette, typography, brand guidelines and social templates. Get a quote after a short call.",
+    "h1": "Branding and visual identity for businesses that want to be recognised",
+    "subtitle": "We create your logo, colours, fonts and visual rules. The result is one consistent look across your website, social media, video and everything you print.",
+    "cardDescription": "Logo, colour palette, typography, brand guidelines and social templates for a consistent look everywhere.",
+    "summary": [
+      "A logo in versions for web, print, social media and video, plus the source files.",
+      "A colour palette, typography and graphic elements that match how you want to be positioned.",
+      "Brand guidelines and social media templates that keep your look consistent.",
+      "Pricing is quoted on request, after a short call about your business and what you already have."
+    ],
+    "problem": {
+      "title": "An inconsistent look costs you trust",
+      "paragraphs": [
+        "Many businesses grow faster than their image. The logo was rushed at the start, every social post looks different, the website uses other colours than the business cards, and the proposals you send clients use three different fonts.",
+        "Customers don't consciously notice these details, but they feel them. A messy visual identity makes a company look small or careless, even when the service is excellent. And when you want to raise prices or win bigger clients, your image starts holding you back.",
+        "Without clear rules, every designer, employee and supplier improvises. Instead of building, the brand gets diluted."
+      ]
+    },
+    "solution": {
+      "title": "How we build your visual identity",
+      "paragraphs": [
+        "We start with a conversation about your business, not your favourite colours. Who your customers are, how you want to be seen, who you compete with and what sets you apart. That shapes the visual direction: a premium brand looks very different from a friendly, accessible one.",
+        "We present logo concepts built on that direction, with the thinking behind each one. You choose a route, we refine it together, then expand it into a full system: colour palette, typography, graphic elements, photography style and usage rules.",
+        "We test the identity where it will actually live: on the website, on a phone screen, in an Instagram post, on the end card of a video, on a business card. A logo that only looks good large on a presentation screen isn't enough.",
+        "You receive the brand guidelines, every file in the formats you need and social media templates. Because we also produce video and build websites, your new identity can be rolled out quickly and consistently across your site, ads and video content."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        {
+          "title": "Positioning session",
+          "text": "We clarify your audience, values, competition and how you want to be perceived."
+        },
+        {
+          "title": "Logo design",
+          "text": "Reasoned concepts, refinement of the chosen route and versions: primary, horizontal, symbol, monochrome."
+        },
+        {
+          "title": "Colour palette",
+          "text": "Primary and secondary colours with web and print codes, checked for contrast and legibility."
+        },
+        {
+          "title": "Typography",
+          "text": "Heading and body fonts chosen for legibility on screen and in print, with clear licensing."
+        },
+        {
+          "title": "Graphic elements",
+          "text": "Shapes, icons or patterns that make the brand recognisable beyond the logo."
+        },
+        {
+          "title": "Brand guidelines",
+          "text": "A clear document with usage rules, dos and don'ts, for your team and suppliers."
+        },
+        {
+          "title": "Social media templates",
+          "text": "Easy-to-edit post and story templates that keep your feed consistent."
+        },
+        {
+          "title": "Core applications",
+          "text": "Business card, email signature, letterhead or other materials, as needed."
+        },
+        {
+          "title": "Final files",
+          "text": "Vector and raster formats for web, print and video, plus the source files."
+        }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "We work with new businesses that want to start right and with established companies that have outgrown the image they started with.",
+      "items": [
+        {
+          "industry": "Startups and new businesses",
+          "text": "A complete identity before the website, ads and first materials, so you don't redo everything a year later."
+        },
+        {
+          "industry": "Private clinics and practices",
+          "text": "An image that signals professionalism and trust, applied consistently at reception, on the website and online."
+        },
+        {
+          "industry": "Restaurants, cafés and food brands",
+          "text": "Identity for menus, packaging, shopfront and social media, designed to be instantly recognisable."
+        },
+        {
+          "industry": "Construction and industrial companies",
+          "text": "A rebrand that positions you for bigger contracts, on your website, proposals and equipment."
+        },
+        {
+          "industry": "Consultants and personal brands",
+          "text": "A simple visual system that's easy to use in presentations, courses and video content."
+        },
+        {
+          "industry": "Online stores and producers",
+          "text": "Identity applied to your store, labels and product photography for a memorable brand."
+        }
+      ]
+    },
+    "process": {
+      "title": "Project stages",
+      "steps": [
+        {
+          "title": "Call and brief",
+          "text": "We learn who you are, who you serve and what you want to convey, then send a quote and schedule."
+        },
+        {
+          "title": "Research and direction",
+          "text": "We review your market and competitors and agree on a visual direction."
+        },
+        {
+          "title": "Logo concepts",
+          "text": "We present the concepts and the reasoning behind them. You pick a route and we refine it together."
+        },
+        {
+          "title": "The visual system",
+          "text": "We expand the identity into colours, typography, graphic elements and applications."
+        },
+        {
+          "title": "Guidelines and handover",
+          "text": "You receive the brand guidelines, templates and every final file."
+        }
+      ]
+    },
+    "pricingNote": "Branding projects are quoted on request. After a short call about your business and the materials you already have, we'll send a clear quote with deliverables and a timeline.",
+    "faq": [
+      {
+        "q": "How much does a branding project cost?",
+        "a": "It depends on what you need: just a logo, a full identity or a rebrand with many applications. After a short call, we send a clear quote listing every deliverable, so you know exactly what you're getting."
+      },
+      {
+        "q": "How long does it take?",
+        "a": "A full visual identity usually takes a few weeks, depending on the number of concepts, feedback rounds and how many applications are included. The exact timeline is in the quote."
+      },
+      {
+        "q": "How many logo options and revisions do we get?",
+        "a": "The number of concepts and revision rounds is set out in the quote. We prefer a few well-reasoned concepts to lots of rushed variations."
+      },
+      {
+        "q": "Who owns the rights to the logo?",
+        "a": "Once paid in full, the usage rights to the identity we create transfer to your company under the contract, and you get all the source files. Any commercial fonts are used under their own licence terms."
+      },
+      {
+        "q": "What do you need from us?",
+        "a": "Information about your business, customers and competitors, examples of brands you like or dislike, and your existing materials. Most importantly, a person who can make decisions during the project."
+      },
+      {
+        "q": "Can we keep our current logo?",
+        "a": "Yes. Sometimes the logo is fine, but the system around it is missing. We can do a subtle refresh, or just the colours, typography, guidelines and templates so you can use it consistently."
+      },
+      {
+        "q": "Can you help us roll out the brand?",
+        "a": "Yes. We can apply the identity to your website, social media, ads and video productions, so the brand looks the same everywhere from day one."
+      }
+    ],
+    "closing": {
+      "title": "Build an image that matches your business",
+      "text": "Tell us briefly who you are and what you already have. We'll reply with a suggested approach and a clear quote."
+    },
+    "whatsapp": "Hello, I'd like a quote for branding / visual identity. Our industry: ..., existing logo: yes/no"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "_comment": "Pagina /servicii/creare-site-prezentare (EN: /en/services/business-website-design). Textele se editează direct aici.",
+  "id": "creare-site-prezentare",
+  "category": "web",
+  "order": 10,
+  "slug": { "ro": "creare-site-prezentare", "en": "business-website-design" },
+  "icon": "monitor",
+  "packageGroup": "website",
+  "packageIds": ["site-prezentare", "landing-page"],
+  "priceFrom": 2900,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["website"],
+  "related": ["landing-page", "optimizare-seo", "branding-identitate-vizuala", "videoclip-prezentare-firma"],
+  "localService": "creare-site",
+  "ro": {
+    "name": "Creare site de prezentare",
+    "metaTitle": "Creare site de prezentare rapid, gândit pentru clienți",
+    "metaDescription": "Creare site de prezentare rapid, mobile-first, cu SEO de bază, formulare, WhatsApp și tracking. De la 2.900 lei + TVA. Cereți o ofertă azi.",
+    "h1": "Creare site de prezentare care transformă vizitatorii în clienți",
+    "subtitle": "Construim site-ul firmei dumneavoastră rapid, clar și ușor de folosit pe telefon. Fiecare pagină are un scop: să explice ce oferiți și să îl aducă pe vizitator la telefon, pe WhatsApp sau în formular.",
+    "cardDescription": "Site de prezentare rapid și mobile-first, cu SEO de bază, formulare, WhatsApp și tracking pentru reclame.",
+    "summary": [
+      "Site de prezentare de până la 6 pagini, cu design premium adaptat brandului dumneavoastră.",
+      "Optimizat pentru telefon și viteză, cu formular, WhatsApp, apel direct și tracking pentru reclame.",
+      "SEO de bază, politică de confidențialitate și banner de cookie-uri incluse.",
+      "Pachetul Site Prezentare pornește de la 2.900 lei + TVA. Domeniul și site-ul rămân ale dumneavoastră."
+    ],
+    "problem": {
+      "title": "Un site care doar există nu aduce clienți",
+      "paragraphs": [
+        "Mulți antreprenori au un site făcut acum câțiva ani, pe care nu îl mai deschid nici ei. Se încarcă greu pe telefon, textele sunt generice, iar butonul de contact e greu de găsit. Vizitatorul pleacă în câteva secunde și sună la concurență.",
+        "Alții nu au deloc site și se bazează doar pe o pagină de Facebook sau Instagram. Problema e că rețelele sociale nu vă aparțin. Algoritmul se schimbă, contul poate fi restricționat, iar clienții care vă caută pe Google nu găsesc informațiile de care au nevoie: servicii, prețuri orientative, zonă de lucru, date de contact.",
+        "Un site bun nu este o broșură online. Este un instrument de vânzare care lucrează și când biroul e închis."
+      ]
+    },
+    "solution": {
+      "title": "Cum construim un site de prezentare care funcționează",
+      "paragraphs": [
+        "Pornim de la business, nu de la design. Discutăm ce servicii vă aduc cei mai mulți bani, cine sunt clienții ideali și ce întrebări pun înainte să cumpere. Pe baza acestor răspunsuri stabilim structura paginilor și mesajele principale.",
+        "Designul îl creăm pe identitatea dumneavoastră vizuală: culori, fonturi, fotografii reale ale echipei și ale lucrărilor. Lucrăm mobile-first, pentru că majoritatea vizitatorilor vin de pe telefon. Optimizăm imaginile și codul, ca paginile să se încarce repede și să fie bine evaluate de Google.",
+        "Fiecare pagină are un îndemn clar la acțiune. Formularul de contact, butonul de WhatsApp și apelul cu un singur click sunt mereu la îndemână. Instalăm tracking-ul pentru reclame (de exemplu Google Analytics, Meta Pixel sau Google Tag Manager), ca să vedeți de unde vin cererile și ce campanii merită bugetul.",
+        "La final, puneți bazele SEO corect: titluri și descrieri pentru fiecare pagină, structură de headings, URL-uri curate, sitemap și date structurate pentru firmă. Adăugăm politica de confidențialitate și bannerul de consimțământ pentru cookie-uri, conform GDPR."
+      ]
+    },
+    "includes": {
+      "title": "Ce include crearea site-ului de prezentare",
+      "items": [
+        { "title": "Strategie și structură", "text": "Stabilim paginile, ordinea informațiilor și mesajul principal pe baza obiectivelor dumneavoastră de vânzare." },
+        { "title": "Design premium personalizat", "text": "Un design construit pe brandul dumneavoastră, nu o temă generică folosită de alte sute de firme." },
+        { "title": "Până la 6 pagini", "text": "De regulă: acasă, despre noi, servicii, portofoliu sau galerie, întrebări frecvente și contact." },
+        { "title": "Mobile-first și viteză", "text": "Pagini optimizate pentru telefon, imagini comprimate și cod curat pentru încărcare rapidă." },
+        { "title": "Conversie", "text": "Formular de contact, buton WhatsApp, apel direct de pe telefon și îndemnuri clare pe fiecare pagină." },
+        { "title": "Tracking pentru reclame", "text": "Configurăm analytics și evenimentele de conversie, ca reclamele să poată fi optimizate pe rezultate reale." },
+        { "title": "SEO de bază", "text": "Meta titluri și descrieri, structură corectă, sitemap, date structurate și indexare în Google Search Console." },
+        { "title": "GDPR de bază", "text": "Politică de confidențialitate, banner de consimțământ pentru cookie-uri și formulare cu acord explicit." },
+        { "title": "Variantă bilingvă opțional", "text": "Pentru firmele care lucrează și cu clienți străini, adăugăm a doua limbă cu structură SEO separată." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Un site de prezentare se potrivește oricărei firme care primește clienți din căutări, recomandări sau reclame și vrea să îi transforme în cereri de ofertă.",
+      "items": [
+        { "industry": "Clinici medicale și stomatologice", "text": "Pagini clare pentru fiecare tratament, echipa medicală prezentată și programare rapidă prin telefon sau formular." },
+        { "industry": "Firme de construcții și amenajări", "text": "Portofoliu de lucrări cu fotografii reale, zonă de deservire și formular de cerere de ofertă cu detalii despre proiect." },
+        { "industry": "Avocați, notari și consultanți", "text": "Un site sobru, care explică domeniile de practică și construiește încredere înainte de primul telefon." },
+        { "industry": "Restaurante, pensiuni și hoteluri", "text": "Meniu sau oferta de cazare, galerie foto, hartă și rezervare directă, fără comisioane către intermediari." },
+        { "industry": "Service-uri auto și ateliere", "text": "Lista serviciilor, program, locație pe hartă și apel direct, exact ce caută un client grăbit pe telefon." },
+        { "industry": "Firme B2B și producători", "text": "Prezentarea capacității de producție, a certificărilor reale și a proceselor, pentru parteneri și distribuitori." }
+      ]
+    },
+    "process": {
+      "title": "Procesul, de la discuție la lansare",
+      "steps": [
+        { "title": "Discuție și ofertă", "text": "Ne spuneți ce face firma și ce vreți să obțineți. Vă trimitem o ofertă clară, cu pagini, funcționalități și termen." },
+        { "title": "Structură și conținut", "text": "Stabilim harta site-ului și strângem conținutul: texte, fotografii, logo, date de contact. Vă putem ajuta cu textele." },
+        { "title": "Design", "text": "Vă prezentăm designul paginii principale. După aprobare, îl extindem pe celelalte pagini." },
+        { "title": "Dezvoltare și testare", "text": "Construim site-ul, configurăm formularele, tracking-ul și SEO-ul de bază, apoi testăm pe telefon, tabletă și desktop." },
+        { "title": "Lansare și predare", "text": "Publicăm site-ul pe domeniul dumneavoastră, îl trimitem spre indexare și vă arătăm cum să faceți modificări simple." }
+      ]
+    },
+    "pricingNote": "Pachetul Site Prezentare pornește de la 2.900 lei + TVA. Dacă aveți nevoie de o singură pagină pentru campanii, Landing Page-ul pornește de la 1.500 lei + TVA.",
+    "faq": [
+      { "q": "Cât costă un site de prezentare?", "a": "Pachetul Site Prezentare pornește de la 2.900 lei + TVA și include până la 6 pagini, design premium și SEO de bază. Prețul final depinde de numărul de pagini, de varianta bilingvă și de funcționalitățile speciale, cum ar fi programările online. Primiți oferta în scris înainte să începem." },
+      { "q": "În cât timp este gata site-ul?", "a": "Termenul depinde mai ales de cât de repede avem conținutul: texte, fotografii, logo. Pentru un site de prezentare standard vorbim de obicei de câteva săptămâni. Termenul exact îl trecem în ofertă și în contract." },
+      { "q": "Al cui este site-ul și domeniul?", "a": "Domeniul se înregistrează pe numele firmei dumneavoastră, iar după plata integrală site-ul vă aparține. Vă predăm datele de acces la domeniu, găzduire și administrare. Nu țineți site-ul ostatic la noi." },
+      { "q": "Ce aveți nevoie de la noi?", "a": "Logo-ul, informațiile despre servicii, datele de contact și, ideal, fotografii reale ale echipei și lucrărilor. Dacă nu aveți texte, le putem scrie noi. Dacă nu aveți fotografii bune, putem organiza o sesiune foto sau video." },
+      { "q": "Câte revizii sunt incluse?", "a": "Designul paginii principale trece prin runde de revizie înainte de aprobare, iar înainte de lansare mai facem o rundă de ajustări pe tot site-ul. Numărul exact de runde este trecut în ofertă, ca să fie clar pentru ambele părți." },
+      { "q": "Ne ocupăm noi de mentenanță după lansare?", "a": "Puteți face singuri modificări simple de text și imagini, vă arătăm cum. Pentru actualizări tehnice, backup-uri și modificări mai mari putem stabili un abonament de mentenanță sau intervenții la cerere." },
+      { "q": "Site-ul va apărea pe prima pagină în Google?", "a": "Punem bazele SEO corect, dar nimeni nu poate garanta poziții în Google. Pentru cuvinte cheie competitive este nevoie de o strategie SEO continuă, pe care o putem face separat, prin serviciul de optimizare SEO." },
+      { "q": "Puteți reface site-ul pe care îl avem deja?", "a": "Da. Analizăm site-ul actual, păstrăm ce funcționează și refacem restul. Avem grijă la redirecționări, ca să nu pierdeți pozițiile câștigate deja în Google." }
+    ],
+    "closing": {
+      "title": "Să construim împreună site-ul care vă aduce clienți",
+      "text": "Spuneți-ne pe scurt ce face firma și ce pagini vă imaginați. Vă răspundem cu o ofertă clară, termen și pașii următori."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru un site de prezentare. Domeniul de activitate: ..., aveți deja site: da/nu"
+  },
+  "en": {
+    "name": "Business website design",
+    "metaTitle": "Business Website Design Built to Win Customers",
+    "metaDescription": "Fast, mobile-first business websites with core SEO, forms, WhatsApp and ad tracking. From 2,900 RON + VAT. Ask for your quote today.",
+    "h1": "Business website design that turns visitors into customers",
+    "subtitle": "We build your company website to be fast, clear and easy to use on a phone. Every page has one job: explain what you offer and get the visitor to call, message you on WhatsApp or fill in the form.",
+    "cardDescription": "A fast, mobile-first business website with core SEO, contact forms, WhatsApp and ad tracking.",
+    "summary": [
+      "A business website of up to 6 pages, with a premium design tailored to your brand.",
+      "Built for mobile and speed, with forms, WhatsApp, click-to-call and ad tracking.",
+      "Core SEO, a privacy policy and a cookie consent banner included.",
+      "The Business Website package starts at 2,900 RON + VAT. The domain and the site belong to you."
+    ],
+    "problem": {
+      "title": "A website that just sits there won't bring in customers",
+      "paragraphs": [
+        "Plenty of business owners have a site built years ago that even they no longer open. It loads slowly on a phone, the copy is generic and the contact button is hard to find. Visitors leave within seconds and call a competitor instead.",
+        "Others have no website at all and rely on a Facebook or Instagram page. But you don't own social media. Algorithms change, accounts get restricted, and people searching on Google can't find what they need: your services, rough pricing, the area you cover and how to reach you.",
+        "A good website isn't an online brochure. It's a sales tool that keeps working after the office closes."
+      ]
+    },
+    "solution": {
+      "title": "How we build a website that performs",
+      "paragraphs": [
+        "We start with your business, not with the design. We talk about which services make you the most money, who your ideal customers are and what they ask before they buy. Those answers shape the page structure and the key messages.",
+        "The design follows your visual identity: colours, fonts, and real photos of your team and your work. We design mobile-first, because most visitors arrive on a phone. Images and code are optimised so pages load quickly and score well with Google.",
+        "Every page has a clear call to action. The contact form, WhatsApp button and one-tap call are always within reach. We set up ad tracking (for example Google Analytics, Meta Pixel or Google Tag Manager), so you can see where enquiries come from and which campaigns deserve the budget.",
+        "Finally, we get the SEO foundations right: titles and descriptions for every page, a clean heading structure, tidy URLs, a sitemap and structured data for your business. We add a privacy policy and a GDPR-compliant cookie consent banner."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Strategy and structure", "text": "We plan the pages, the order of information and the core message around your sales goals." },
+        { "title": "Premium custom design", "text": "A design built around your brand, not a stock theme shared by hundreds of other businesses." },
+        { "title": "Up to 6 pages", "text": "Typically home, about, services, portfolio or gallery, FAQ and contact." },
+        { "title": "Mobile-first and fast", "text": "Pages built for phones first, with compressed images and clean code for quick loading." },
+        { "title": "Built to convert", "text": "Contact form, WhatsApp button, click-to-call and clear calls to action on every page." },
+        { "title": "Ad tracking", "text": "We configure analytics and conversion events so your ads can be optimised on real results." },
+        { "title": "Core SEO", "text": "Meta titles and descriptions, proper structure, sitemap, structured data and Google Search Console setup." },
+        { "title": "GDPR essentials", "text": "Privacy policy, cookie consent banner and forms with explicit consent." },
+        { "title": "Optional second language", "text": "For businesses with international clients, we add a second language with its own SEO structure." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "A business website suits any company that gets customers from search, referrals or ads and wants to turn them into enquiries.",
+      "items": [
+        { "industry": "Medical and dental clinics", "text": "A clear page for each treatment, an introduction to the medical team and quick booking by phone or form." },
+        { "industry": "Construction and renovation companies", "text": "A portfolio of real projects, the area you cover and a quote request form that captures project details." },
+        { "industry": "Lawyers, notaries and consultants", "text": "A restrained, credible site that explains your practice areas and builds trust before the first call." },
+        { "industry": "Restaurants, guesthouses and hotels", "text": "Menu or rooms, a photo gallery, a map and direct booking without paying commission to third parties." },
+        { "industry": "Car repair shops and workshops", "text": "Services, opening hours, a map and one-tap calling: exactly what a customer in a hurry looks for on a phone." },
+        { "industry": "B2B companies and manufacturers", "text": "Your production capacity, genuine certifications and processes, presented for partners and distributors." }
+      ]
+    },
+    "process": {
+      "title": "From first call to launch",
+      "steps": [
+        { "title": "Call and quote", "text": "Tell us what your business does and what you want to achieve. We send a clear quote with pages, features and timeline." },
+        { "title": "Structure and content", "text": "We map out the site and gather the content: copy, photos, logo, contact details. We can help with the writing." },
+        { "title": "Design", "text": "We present the homepage design. Once you approve it, we roll it out across the other pages." },
+        { "title": "Build and testing", "text": "We build the site, set up forms, tracking and core SEO, then test on phone, tablet and desktop." },
+        { "title": "Launch and handover", "text": "We publish the site on your domain, submit it for indexing and show you how to make simple edits." }
+      ]
+    },
+    "pricingNote": "The Business Website package starts at 2,900 RON + VAT. If you only need a single page for campaigns, a Landing Page starts at 1,500 RON + VAT.",
+    "faq": [
+      { "q": "How much does a business website cost?", "a": "The Business Website package starts at 2,900 RON + VAT and covers up to 6 pages, premium design and core SEO. The final price depends on the number of pages, a second language and any special features such as online booking. You get the quote in writing before we start." },
+      { "q": "How long does it take?", "a": "It mostly depends on how quickly we get your content. A standard business website usually takes a few weeks. We put the exact timeline in the quote and the contract." },
+      { "q": "Who owns the website and the domain?", "a": "The domain is registered in your company's name, and once paid in full the website is yours. We hand over access to the domain, hosting and admin panel. Your site is never held hostage." },
+      { "q": "What do you need from us?", "a": "Your logo, information about your services, contact details and, ideally, real photos of your team and your work. No copy? We can write it. No good photos? We can arrange a shoot." },
+      { "q": "How many revisions are included?", "a": "The homepage design goes through revision rounds before sign-off, and we do a final round of adjustments across the whole site before launch. The exact number of rounds is set out in the quote, so expectations are clear on both sides." },
+      { "q": "Who handles maintenance after launch?", "a": "You can make simple text and image changes yourself, and we'll show you how. For technical updates, backups and larger changes, we can agree a maintenance plan or work on request." },
+      { "q": "Will the site be on page one of Google?", "a": "We build solid SEO foundations, but no one can honestly guarantee Google rankings. Competitive keywords need an ongoing SEO strategy, which we offer separately as our SEO service." },
+      { "q": "Can you rebuild our existing website?", "a": "Yes. We review your current site, keep what works and rebuild the rest. We set up redirects carefully so you don't lose rankings you have already earned." }
+    ],
+    "closing": {
+      "title": "Let's build a website that brings you customers",
+      "text": "Tell us briefly what your business does and which pages you have in mind. We'll reply with a clear quote, a timeline and the next steps."
+    },
+    "whatsapp": "Hello, I'd like a quote for a business website. Industry: ..., existing website: yes/no"
+  }
+}

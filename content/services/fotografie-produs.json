@@ -1,0 +1,173 @@
+{
+  "_comment": "Pagina /servicii/fotografie-produs (EN: /en/services/product-photography). Textele se editează direct aici.",
+  "id": "fotografie-produs",
+  "category": "productie",
+  "order": 50,
+  "slug": { "ro": "fotografie-produs", "en": "product-photography" },
+  "icon": "box",
+  "packageGroup": "productie",
+  "packageIds": ["foto-produs"],
+  "priceFrom": 500,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["foto"],
+  "related": ["creare-magazin-online", "spot-publicitar", "reclame-facebook-instagram", "fotografie-video-horeca"],
+  "localService": null,
+  "ro": {
+    "name": "Fotografie de produs",
+    "metaTitle": "Fotografie de produs pentru magazin online și reclame",
+    "metaDescription": "Fotografie de produs pe fundal alb și lifestyle, cu retuș, pentru magazin online, marketplace și reclame. De la 500 lei pentru 15 produse. Cereți ofertă.",
+    "h1": "Fotografie de produs profesională pentru magazinul dumneavoastră online",
+    "subtitle": "Imagini clare, cu lumină corectă și culori fidele, care fac produsul să arate exact cum este. Mai multă încredere pe pagina de produs, mai multe comenzi.",
+    "cardDescription": "Fotografii de produs pe fundal alb și lifestyle, retușate, pentru magazin online, marketplace-uri și reclame.",
+    "summary": [
+      "Fotografii pe fundal alb, conforme cu cerințele marketplace-urilor, și imagini lifestyle.",
+      "Lumină de studio controlată, culori fidele și retuș pentru fiecare imagine livrată.",
+      "Fișiere optimizate pentru web și variante 1:1, 4:5 și 9:16 pentru social media.",
+      "Pachetul Foto Produs pornește de la 500 lei + TVA, pentru până la 15 produse."
+    ],
+    "problem": {
+      "title": "Online, clientul nu poate atinge produsul. Vede doar poza.",
+      "paragraphs": [
+        "Într-un magazin fizic, clientul ia produsul în mână, îl întoarce, îl compară. Online, decizia se ia pe baza fotografiilor. Dacă imaginea este întunecată, cu culori greșite sau cu fundal încărcat, produsul pare mai ieftin decât este.",
+        "Pozele slabe costă în două feluri. Mai puțini vizitatori adaugă în coș, iar cei care cumpără au mai des surprize la primire, deci mai multe retururi. Pe marketplace-uri, imaginile care nu respectă cerințele pot fi chiar respinse."
+      ]
+    },
+    "solution": {
+      "title": "Cum lucrăm la o ședință foto de produs",
+      "paragraphs": [
+        "Pornim de la locul unde vor fi folosite imaginile: magazinul propriu, un marketplace, catalog, reclame sau social media. Fiecare are alte cerințe de format, fundal și dimensiune. Stabilim lista de produse, unghiurile necesare și stilul vizual, ca toate fotografiile să arate unitar.",
+        "Fotografiem cu lumină de studio controlată, ca reflexiile, texturile și culorile să fie redate corect. Pe fundal alb obținem imagini curate, bune pentru paginile de produs. Pentru lifestyle punem produsul în context: pe masă, în mână, în spațiul în care este folosit. Așa clientul înțelege dimensiunea și modul de utilizare.",
+        "În post-procesare corectăm culorile, curățăm praful și imperfecțiunile, uniformizăm fundalul și decupăm unde este nevoie. Livrăm fișierele denumite clar, în rezoluție mare pentru print și în variante optimizate pentru web, ca site-ul să se încarce repede."
+      ]
+    },
+    "includes": {
+      "title": "Ce include fotografia de produs",
+      "items": [
+        { "title": "Planificarea ședinței", "text": "Lista de produse, unghiurile, numărul de imagini pe produs și stilul, stabilite înainte de fotografiere." },
+        { "title": "Fotografii pe fundal alb", "text": "Imagini curate, potrivite pentru pagina de produs și pentru cerințele marketplace-urilor." },
+        { "title": "Fotografii lifestyle", "text": "Produsul în context real, cu recuzită aleasă pentru brand și publicul dumneavoastră." },
+        { "title": "Detalii și texturi", "text": "Cadre apropiate pentru materiale, finisaje, etichete și elemente care justifică prețul." },
+        { "title": "Lumină de studio", "text": "Iluminare controlată pentru culori fidele și reflexii corecte, inclusiv la sticlă și metal." },
+        { "title": "Retuș și corecție de culoare", "text": "Curățare, uniformizare a fundalului și culori apropiate de produsul real." },
+        { "title": "Formate pentru fiecare canal", "text": "Fișiere pentru site, variante 1:1 și 4:5 pentru feed și 9:16 pentru Stories, la cerere." },
+        { "title": "Livrare online", "text": "Galerie privată de unde descărcați imaginile în rezoluție mare și optimizate pentru web." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Orice afacere care vinde produse fizice, online sau prin distribuitori, are nevoie de fotografii care să le arate corect.",
+      "items": [
+        { "industry": "Magazine online", "text": "Fotografii unitare pentru tot catalogul, care fac site-ul să arate profesionist și cresc încrederea." },
+        { "industry": "Vânzători pe marketplace-uri", "text": "Imagini principale pe fundal alb, conforme cu cerințele platformelor, plus imagini secundare care explică produsul." },
+        { "industry": "Producători locali și artizani", "text": "Bijuterii, ceramică, produse din lemn sau cosmetice naturale, puse în valoare cu lumină și compoziție." },
+        { "industry": "Restaurante și producători alimentari", "text": "Produse ambalate, borcane, sticle sau preparate pentru meniuri, aplicații de livrare și etichete." },
+        { "industry": "Distribuitori și firme B2B", "text": "Cataloage, fișe tehnice și prezentări pentru parteneri, cu imagini clare ale fiecărui articol." },
+        { "industry": "Branduri de modă și accesorii", "text": "Încălțăminte, genți, ceasuri și accesorii fotografiate pe fundal neutru și în context lifestyle." }
+      ]
+    },
+    "process": {
+      "title": "Cum decurge colaborarea",
+      "steps": [
+        { "title": "Lista de produse", "text": "Ne trimiteți produsele care trebuie fotografiate și unde vor fi folosite imaginile." },
+        { "title": "Ofertă și plan", "text": "Primiți oferta, numărul de imagini pe produs și stilul propus pentru fotografii." },
+        { "title": "Predarea produselor", "text": "Ne aduceți sau ne trimiteți produsele. Pentru volume mari sau obiecte voluminoase putem veni la dumneavoastră." },
+        { "title": "Fotografiere și retuș", "text": "Fotografiem conform planului, apoi retușăm și verificăm fiecare imagine." },
+        { "title": "Livrare", "text": "Descărcați fotografiile din galeria online, organizate pe produse." }
+      ]
+    },
+    "pricingNote": "Pachetul Foto Produs pornește de la 500 lei + TVA și include până la 15 produse, fundal alb și lifestyle, cu retuș. Pentru cataloage mai mari primiți o ofertă dedicată.",
+    "faq": [
+      { "q": "Cât costă fotografia de produs?", "a": "Pachetul Foto Produs pornește de la 500 lei + TVA și include până la 15 produse, fotografii pe fundal alb și lifestyle, cu retuș. Prețul final depinde de numărul de imagini pe produs, de complexitatea lifestyle-ului și de produsele dificile, precum cele din sticlă sau metal lucios." },
+      { "q": "Câte fotografii primim pentru fiecare produs?", "a": "Stabilim asta înainte de ședință, în funcție de produs și de canal. De regulă, un produs are nevoie de o imagine principală, câteva unghiuri și un detaliu. Pentru produsele simple pot fi suficiente mai puține imagini." },
+      { "q": "Trebuie să vă trimitem produsele?", "a": "Da, avem nevoie de produsele fizice. Le puteți aduce personal sau le puteți trimite prin curier, iar noi le returnăm după ședință. Pentru obiecte mari sau volume mari ne putem deplasa la dumneavoastră." },
+      { "q": "Fotografiile respectă cerințele marketplace-urilor?", "a": "Da. Pentru imaginea principală livrăm fotografii pe fundal alb, cu produsul centrat și fără elemente în plus, cum cer de obicei marketplace-urile. Dacă platforma are cerințe specifice de dimensiune, ni le spuneți și exportăm conform lor." },
+      { "q": "În cât timp primim pozele?", "a": "Pentru pachetele obișnuite, livrarea se face de regulă în câteva zile lucrătoare de la ședință. La cataloagele mari termenul crește, iar data exactă o stabilim în ofertă." },
+      { "q": "Putem folosi fotografiile oriunde?", "a": "Da. Imaginile le folosiți pentru promovarea propriilor produse: site, marketplace, social media, reclame, cataloage și materiale tipărite. Condițiile de utilizare sunt trecute în contract." },
+      { "q": "Faceți și clipuri video cu produsele?", "a": "Da. Putem filma în aceeași zi clipuri scurte pentru pagina de produs sau pentru social media. Pentru campanii mai ample vă recomandăm un spot publicitar, cu idee creativă și montaj dedicat." }
+    ],
+    "closing": {
+      "title": "Faceți produsele să arate cât valorează",
+      "text": "Trimiteți-ne lista de produse și unde veți folosi fotografiile. Vă răspundem cu o ofertă clară și un termen de livrare."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru fotografie de produs. Număr de produse: ..."
+  },
+  "en": {
+    "name": "Product photography",
+    "metaTitle": "Product Photography for Online Stores and Ads",
+    "metaDescription": "White-background and lifestyle product photography with retouching, for online stores, marketplaces and ads. From 500 RON for 15 products. Get a quote.",
+    "h1": "Professional product photography for your online store",
+    "subtitle": "Sharp images with proper lighting and true-to-life colour, showing your product exactly as it is. More trust on your product pages, more orders.",
+    "cardDescription": "Retouched white-background and lifestyle product photos for online stores, marketplaces and ads.",
+    "summary": [
+      "White-background shots that meet marketplace requirements, plus lifestyle images.",
+      "Controlled studio lighting, accurate colour and retouching on every delivered image.",
+      "Web-optimised files plus 1:1, 4:5 and 9:16 versions for social media.",
+      "The Product Photo package starts at 500 RON + VAT for up to 15 products."
+    ],
+    "problem": {
+      "title": "Online, customers can't touch the product. They only see the photo.",
+      "paragraphs": [
+        "In a shop, customers pick a product up, turn it over and compare it. Online, they decide based on the photos. If the image is dark, the colours are off or the background is cluttered, the product looks cheaper than it really is.",
+        "Poor photos cost you twice. Fewer visitors add to cart, and those who do buy are more often surprised when the parcel arrives, which means more returns. On marketplaces, images that don't meet the guidelines can even be rejected."
+      ]
+    },
+    "solution": {
+      "title": "How a product shoot works",
+      "paragraphs": [
+        "We start with where the images will live: your own store, a marketplace, a catalogue, ads or social media. Each has different requirements for format, background and size. We agree the product list, the angles you need and the visual style, so every photo looks part of the same set.",
+        "We shoot under controlled studio lighting, so reflections, textures and colours come out right. White-background shots give you clean images for product pages. Lifestyle shots put the product in context: on a table, in someone's hand, in the space where it's used. That helps customers understand size and use at a glance.",
+        "In post-processing we correct colour, remove dust and blemishes, even out the background and cut out products where needed. Files are clearly named and delivered in high resolution for print, plus web-optimised versions so your site stays fast."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Shoot planning", "text": "Product list, angles, number of images per product and style, all agreed before we start." },
+        { "title": "White-background photos", "text": "Clean images for your product pages that meet typical marketplace requirements." },
+        { "title": "Lifestyle photos", "text": "Your product in a real setting, with props chosen for your brand and audience." },
+        { "title": "Details and textures", "text": "Close-ups of materials, finishes, labels and the features that justify the price." },
+        { "title": "Studio lighting", "text": "Controlled light for accurate colour and clean reflections, including on glass and metal." },
+        { "title": "Retouching and colour correction", "text": "Clean-up, an even background and colours that match the real product." },
+        { "title": "Formats for every channel", "text": "Files for your website, plus 1:1 and 4:5 for the feed and 9:16 for Stories on request." },
+        { "title": "Online delivery", "text": "A private gallery where you download high-resolution and web-optimised images." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "Any business selling physical products, online or through resellers, needs photos that show them properly.",
+      "items": [
+        { "industry": "Online stores", "text": "Consistent photos across the whole catalogue, making your site look professional and trustworthy." },
+        { "industry": "Marketplace sellers", "text": "White-background main images that meet platform rules, plus secondary shots that explain the product." },
+        { "industry": "Local makers and artisans", "text": "Jewellery, ceramics, woodwork or natural cosmetics, brought out with good light and composition." },
+        { "industry": "Restaurants and food producers", "text": "Packaged goods, jars, bottles or dishes for menus, delivery apps and labels." },
+        { "industry": "Distributors and B2B companies", "text": "Catalogues, spec sheets and partner presentations with a clear image of every item." },
+        { "industry": "Fashion and accessories brands", "text": "Shoes, bags, watches and accessories shot on neutral backgrounds and in lifestyle settings." }
+      ]
+    },
+    "process": {
+      "title": "How it works",
+      "steps": [
+        { "title": "Product list", "text": "Send us the products to be photographed and where the images will be used." },
+        { "title": "Quote and plan", "text": "You get the quote, the number of images per product and the proposed style." },
+        { "title": "Product handover", "text": "Drop off or ship the products. For large items or big volumes, we can come to you." },
+        { "title": "Shoot and retouching", "text": "We shoot to plan, then retouch and check every image." },
+        { "title": "Delivery", "text": "Download your photos from the online gallery, organised by product." }
+      ]
+    },
+    "pricingNote": "The Product Photo package starts at 500 RON + VAT and covers up to 15 products, white-background and lifestyle shots, with retouching. Larger catalogues get a dedicated quote.",
+    "faq": [
+      { "q": "How much does product photography cost?", "a": "The Product Photo package starts at 500 RON + VAT and covers up to 15 products, white-background and lifestyle shots, with retouching. The final price depends on images per product, how elaborate the lifestyle setups are and tricky items such as glass or polished metal." },
+      { "q": "How many photos do we get per product?", "a": "We agree this before the shoot, based on the product and the channel. Typically a product needs a main image, a few angles and a detail shot. Simple products may need fewer." },
+      { "q": "Do we need to send you the products?", "a": "Yes, we need the physical products. Drop them off or send them by courier, and we'll return them after the shoot. For large items or big volumes, we can come to you." },
+      { "q": "Do the photos meet marketplace requirements?", "a": "Yes. For main images we deliver white-background shots with the product centred and nothing extra in frame, as marketplaces usually require. If a platform has specific size rules, tell us and we'll export to match." },
+      { "q": "How soon will we get the photos?", "a": "For standard packages, delivery is usually within a few working days of the shoot. Larger catalogues take longer, and we set the exact date in the quote." },
+      { "q": "Can we use the photos anywhere?", "a": "Yes. You can use them to promote your own products: website, marketplaces, social media, ads, catalogues and print. Usage terms are written into the contract." },
+      { "q": "Can you film product videos too?", "a": "Yes. We can shoot short clips on the same day for product pages or social media. For bigger campaigns, we'd recommend a commercial with a creative idea and a dedicated edit." }
+    ],
+    "closing": {
+      "title": "Make your products look as good as they are",
+      "text": "Send us your product list and where you'll use the photos. We'll reply with a clear quote and delivery date."
+    },
+    "whatsapp": "Hello, I'd like a quote for product photography. Number of products: ..."
+  }
+}

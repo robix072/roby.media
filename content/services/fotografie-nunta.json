@@ -1,0 +1,177 @@
+{
+  "_comment": "Pagina /servicii/fotografie-nunta (EN: /en/services/wedding-photography). Textele se editează direct aici.",
+  "id": "fotografie-nunta",
+  "category": "evenimente",
+  "order": 20,
+  "slug": { "ro": "fotografie-nunta", "en": "wedding-photography" },
+  "icon": "heart",
+  "packageGroup": "nunti",
+  "packageIds": ["foto-video-premium"],
+  "priceFrom": null,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["nunti-evenimente", "foto"],
+  "related": ["filmare-nunta", "filmare-drona", "filmare-botez", "live-streaming-evenimente"],
+  "localService": null,
+  "ro": {
+    "name": "Fotografie nuntă",
+    "metaTitle": "Fotograf nuntă: fotografie de nuntă naturală și elegantă",
+    "metaDescription": "Fotografie de nuntă: reportaj, portrete de cuplu și fotografii de familie, editate atent. Inclusă în Foto + Video Premium. Cereți o ofertă.",
+    "h1": "Fotografie de nuntă cu lumină naturală și momente reale",
+    "subtitle": "Fotografii de nuntă care arată ca dumneavoastră, nu ca un șablon. Reportaj discret, portrete gândite și o galerie pe care o veți răsfoi cu plăcere și peste ani.",
+    "cardDescription": "Fotografie de nuntă: reportaj discret, portrete de cuplu, fotografii de grup și galerie online editată atent.",
+    "summary": [
+      "Reportaj pe toată ziua, de la pregătiri la petrecere, plus portrete de cuplu și fotografii de grup.",
+      "Fiecare fotografie livrată este selectată și editată individual, cu un stil de culoare unitar.",
+      "Ședință foto de cuplu și peste 500 de fotografii editate în pachetul Foto + Video Premium.",
+      "Lucrăm în toată România. Data se rezervă pe bază de contract și avans."
+    ],
+    "problem": {
+      "title": "Fotografiile sunt ce rămâne pe perete și în album",
+      "paragraphs": [
+        "Filmul îl revedeți la aniversări. Fotografiile le vedeți zilnic: pe perete, pe telefon, în albumul de pe masă. Tocmai de aceea contează fiecare cadru.",
+        "Problemele apar des. Fotografii arse la ceremonia în aer liber, fețe întunecate seara, poze de grup în care jumătate din invitați au ochii închiși, un stil de editare care se schimbă de la o poză la alta. Sau mii de fișiere nesortate, din care nu știți ce să alegeți pentru album.",
+        "O nuntă nu se poate fotografia a doua oară. Aveți nevoie de cineva care știe unde să stea, cum să lucreze cu lumina și când să intervină."
+      ]
+    },
+    "solution": {
+      "title": "Cum fotografiem o nuntă",
+      "paragraphs": [
+        "Combinăm două moduri de lucru. Cea mai mare parte a zilei fotografiem documentar: nu regizăm, nu întrerupem, surprindem ce se întâmplă. În câteva momente stabilite împreună trecem la portrete și fotografii de grup, organizate rapid, ca invitații să nu aștepte.",
+        "Lumina decide multe. Ziua căutăm umbra potrivită sau lumina laterală. Seara, în sala de evenimente, folosim blițuri externe direcționate, astfel încât fotografiile să păstreze atmosfera locului, fără acel aspect plat al blițului din aparat.",
+        "Ședința de cuplu o planificăm în cea mai bună lumină a zilei, de obicei spre apus. Durează puțin și vă dă cele mai frumoase portrete ale zilei.",
+        "După nuntă facem selecția și editarea fiecărei fotografii: expunere, culoare, ten natural, retuș discret. Primiți o galerie online organizată pe momente, ușor de descărcat și de trimis familiei."
+      ]
+    },
+    "includes": {
+      "title": "Ce include fotografia de nuntă",
+      "items": [
+        { "title": "Discuție de planificare", "text": "Stabilim programul zilei, locațiile, lista fotografiilor de grup și momentele la care țineți." },
+        { "title": "Reportaj pe toată ziua", "text": "Pregătiri, detalii, cununie, ceremonie religioasă, intrarea în sală, dansuri, tort, petrecere." },
+        { "title": "Portrete de cuplu", "text": "Un moment scurt, ales în cea mai bună lumină, pentru portretele de care vă veți bucura cel mai mult." },
+        { "title": "Fotografii de grup și de familie", "text": "Organizate pe o listă stabilită dinainte, ca să nu lipsească nimeni important." },
+        { "title": "Ședință foto de cuplu", "text": "Inclusă în Foto + Video Premium, la o locație aleasă împreună." },
+        { "title": "Editare individuală", "text": "Fiecare fotografie livrată este corectată ca expunere și culoare, cu retuș discret." },
+        { "title": "Galerie online privată", "text": "Fotografii în rezoluție mare, organizate pe momente, ușor de descărcat și de distribuit." },
+        { "title": "Coordonare cu echipa video", "text": "În pachetul Foto + Video Premium, fotograful și videografii lucrează pe același plan, fără să își intre în cadru." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Fotografiem nunți foarte diferite ca dimensiune, stil și buget. Contează să știm de la început ce vă doriți.",
+      "items": [
+        { "industry": "Miri care vor un album, nu un hard disk", "text": "Primiți o selecție curată, editată unitar, din care albumul se face ușor." },
+        { "industry": "Cupluri care se simt stânjenite în fața aparatului", "text": "Lucrăm mai mult documentar și vă ghidăm simplu la portrete, fără poze forțate." },
+        { "industry": "Familii numeroase", "text": "Fotografiile de grup sunt planificate pe listă, cu ajutorul unei persoane din familie care cunoaște invitații." },
+        { "industry": "Nunți la conac, la munte sau pe malul mării", "text": "Locațiile cu peisaj câștigă mult din portretele făcute în lumina de seară." },
+        { "industry": "Cununii civile și nunți restrânse", "text": "Fotografii elegante și pentru evenimentele mici, cu câteva ore de acoperire." },
+        { "industry": "Wedding planneri și locații de evenimente", "text": "Respectăm programul stabilit și putem livra fotografii de decor și amenajare, cu acordul mirilor." }
+      ]
+    },
+    "process": {
+      "title": "De la prima discuție la galerie",
+      "steps": [
+        { "title": "Verificăm data", "text": "Ne trimiteți data și locația. Vă răspundem cu disponibilitatea și opțiunile potrivite." },
+        { "title": "Contract și avans", "text": "Data se rezervă pe bază de contract. Termenele de livrare și condițiile sunt scrise clar." },
+        { "title": "Planificarea zilei", "text": "Cu câteva săptămâni înainte stabilim programul, lista de grupuri și momentul pentru portrete." },
+        { "title": "Ziua nunții", "text": "Fotografiem de la pregătiri până la petrecere, discret și atent la detalii." },
+        { "title": "Editare și livrare", "text": "Primiți întâi câteva fotografii de previzualizare, apoi galeria completă, la termenul din contract." }
+      ]
+    },
+    "pricingNote": "Fotografia de nuntă este inclusă în pachetul Foto + Video Premium, de la 8.500 lei (fără TVA), împreună cu filmarea. Pentru fotografie fără filmare, oferta se face după o discuție scurtă.",
+    "faq": [
+      { "q": "Putem rezerva doar fotograf, fără filmare?", "a": "Da. Pachetul Foto + Video Premium este varianta cea mai completă, dar putem face și ofertă doar pentru fotografie. Prețul depinde de numărul de ore, de locații și de ședința de cuplu. Ne scrieți data și vă trimitem oferta după o discuție scurtă." },
+      { "q": "Câte fotografii primim?", "a": "În pachetul Foto + Video Premium primiți peste 500 de fotografii editate. Numărul exact depinde de durata nunții și de câte momente are ziua. Nu livrăm dubluri sau cadre ratate, doar fotografii selectate." },
+      { "q": "Primim și fișierele needitate (RAW)?", "a": "Nu livrăm fișierele RAW. Editarea face parte din fotografie, iar o imagine needitată nu arată rezultatul final. Primiți toate fotografiile bune, editate, în rezoluție mare." },
+      { "q": "Cum arată stilul de editare?", "a": "Natural și curat. Păstrăm tonurile reale ale pielii și culorile locației, fără filtre la modă care se demodează repede. Vă arătăm galerii complete de nunți, nu doar cele mai bune cadre, ca să vedeți cum arată o zi întreagă." },
+      { "q": "Ce facem dacă plouă?", "a": "Ne adaptăm. Portretele se mută sub un acoperiș, într-un foișor sau în interiorul locației. Uneori ploaia dă chiar cele mai interesante fotografii. Discutăm din timp o variantă de rezervă pentru ședința de cuplu." },
+      { "q": "Fotograful și videograful nu se încurcă unul pe altul?", "a": "Nu, dacă lucrează în aceeași echipă. Stabilim dinainte pozițiile la ceremonie și ordinea la portrete. Așa nimeni nu apare în cadrul celuilalt, iar dumneavoastră nu repetați momentele de două ori." },
+      { "q": "Ne ajutați și cu albumul foto?", "a": "Galeria este organizată pe momente, ceea ce ușurează mult alegerea fotografiilor pentru album. Dacă doriți un album tipărit, discutăm opțiunile și le includem separat în ofertă." }
+    ],
+    "closing": {
+      "title": "Spuneți-ne data și locația nunții",
+      "text": "Vă răspundem cu disponibilitatea pentru fotografie, cu sau fără filmare, și cu o ofertă clară."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru fotografie de nuntă. Data nunții: ..., locația: ..., doresc și filmare: da/nu"
+  },
+  "en": {
+    "name": "Wedding photography",
+    "metaTitle": "Natural, Elegant Wedding Photography in Romania",
+    "metaDescription": "Wedding photography: candid coverage, couple portraits and family groups, carefully edited. Part of Photo + Video Premium. Ask for a quote today.",
+    "h1": "Wedding photography with natural light and real moments",
+    "subtitle": "Wedding photos that look like you, not like a template. Discreet coverage, considered portraits and a gallery you'll keep coming back to for years.",
+    "cardDescription": "Wedding photography: discreet candid coverage, couple portraits, group photos and a carefully edited online gallery.",
+    "summary": [
+      "Full-day coverage from getting ready to the party, plus couple portraits and group photos.",
+      "Every delivered photo is hand-picked and edited individually, with one consistent colour style.",
+      "A couple's photo session and 500+ edited photos in the Photo + Video Premium package.",
+      "We work all over Romania. Your date is secured with a contract and a deposit."
+    ],
+    "problem": {
+      "title": "Photos are what end up on your wall and in your album",
+      "paragraphs": [
+        "You'll rewatch your film on anniversaries. Your photos you'll see every day: framed on the wall, on your phone, in the album on the coffee table. That's why every frame matters.",
+        "The same problems come up again and again. Blown-out shots at an outdoor ceremony, dark faces in the evening, group photos where half the guests are blinking, an editing style that changes from one image to the next. Or thousands of unsorted files with no idea which ones belong in the album.",
+        "You can't photograph your wedding twice. You need someone who knows where to stand, how to work with light and when to step in."
+      ]
+    },
+    "solution": {
+      "title": "How we photograph a wedding",
+      "paragraphs": [
+        "We mix two approaches. For most of the day we shoot documentary style: no staging, no interrupting, just what actually happens. At a few moments we agree on in advance, we switch to portraits and group photos, organised quickly so your guests aren't left waiting.",
+        "Light makes the difference. During the day we look for good shade or soft side light. In the evening, inside the venue, we use off-camera flash so the photos keep the mood of the room, without the flat look of an on-camera flash.",
+        "We schedule your couple session for the best light of the day, usually close to sunset. It only takes a short while and gives you the portraits you'll love most.",
+        "After the wedding we cull and edit every single image: exposure, colour, natural skin tones and subtle retouching. You get a private online gallery organised by moment, easy to download and share with family."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Planning call", "text": "We go through the timeline, locations, the group photo list and the moments that matter to you." },
+        { "title": "Full-day coverage", "text": "Getting ready, details, civil and religious ceremonies, the entrance, first dance, cake and party." },
+        { "title": "Couple portraits", "text": "A short break, timed for the best light, for the portraits you'll treasure most." },
+        { "title": "Group and family photos", "text": "Run from a list agreed in advance, so nobody important is missed." },
+        { "title": "Couple's photo session", "text": "Included in Photo + Video Premium, at a location we choose together." },
+        { "title": "Individual editing", "text": "Every delivered photo is corrected for exposure and colour, with light retouching." },
+        { "title": "Private online gallery", "text": "High-resolution images organised by moment, easy to download and share." },
+        { "title": "Coordination with the video team", "text": "With Photo + Video Premium, photographer and videographers work from one plan and stay out of each other's shots." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "We photograph weddings of every size, style and budget. What matters is knowing from the start what you want.",
+      "items": [
+        { "industry": "Couples who want an album, not a hard drive", "text": "You get a clean, consistently edited selection that makes building an album easy." },
+        { "industry": "Couples who feel awkward in front of a camera", "text": "We mostly shoot candidly and give simple direction for portraits, with no forced poses." },
+        { "industry": "Large families", "text": "Group photos are planned from a list, with help from a family member who knows the guests." },
+        { "industry": "Manor, mountain and seaside weddings", "text": "Scenic venues really shine in portraits taken in the evening light." },
+        { "industry": "Civil ceremonies and small weddings", "text": "Elegant photos for intimate celebrations too, with just a few hours of coverage." },
+        { "industry": "Wedding planners and venues", "text": "We stick to the agreed schedule and can deliver décor and set-up photos, with the couple's consent." }
+      ]
+    },
+    "process": {
+      "title": "From first message to final gallery",
+      "steps": [
+        { "title": "Check your date", "text": "Send us your date and venue. We'll reply with availability and the options that suit you." },
+        { "title": "Contract and deposit", "text": "Your date is secured by contract. Delivery dates and terms are written down clearly." },
+        { "title": "Planning the day", "text": "A few weeks before, we agree the timeline, the group list and the time for portraits." },
+        { "title": "The wedding day", "text": "We photograph from getting ready to the party, quietly and with an eye for detail." },
+        { "title": "Editing and delivery", "text": "You get a few preview images first, then the full gallery on the date in your contract." }
+      ]
+    },
+    "pricingNote": "Wedding photography is included in the Photo + Video Premium package, from 8,500 RON (excl. VAT), together with the film. For photography only, we quote after a short call.",
+    "faq": [
+      { "q": "Can we book a photographer without video?", "a": "Yes. Photo + Video Premium is the most complete option, but we can also quote for photography on its own. The price depends on hours, locations and whether you want a couple's session. Send us your date and we'll put together a quote after a short call." },
+      { "q": "How many photos will we get?", "a": "Photo + Video Premium includes 500+ edited photos. The exact number depends on how long the day runs and how many moments it has. We don't send duplicates or missed shots, only a curated selection." },
+      { "q": "Do we get the unedited RAW files?", "a": "We don't deliver RAW files. Editing is part of the photograph, and an unedited file doesn't show the finished result. You receive every good image, edited, in high resolution." },
+      { "q": "What does your editing style look like?", "a": "Natural and clean. We keep true skin tones and the real colours of your venue, without trendy filters that date quickly. We'll show you complete wedding galleries, not just highlights, so you can see how a whole day looks." },
+      { "q": "What if it rains?", "a": "We adapt. Portraits move under a roof, into a gazebo or inside the venue, and rain sometimes makes for the most striking images. We agree a backup plan for the couple's session in advance." },
+      { "q": "Won't the photographer and videographer get in each other's way?", "a": "Not when they work as one team. We agree positions for the ceremony and the order of portraits beforehand, so nobody walks into the other's frame and you don't have to repeat moments twice." },
+      { "q": "Can you help with a printed album?", "a": "The gallery is organised by moment, which makes choosing photos for an album much easier. If you'd like a printed album, we'll talk through the options and quote them separately." }
+    ],
+    "closing": {
+      "title": "Tell us your wedding date and venue",
+      "text": "We'll reply with availability for photography, with or without video, and a clear quote."
+    },
+    "whatsapp": "Hello, I'd like a quote for wedding photography. Wedding date: ..., venue: ..., video as well: yes/no"
+  }
+}

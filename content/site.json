@@ -1,0 +1,57 @@
+{
+  "_comment": "Toate datele firmei într-un singur loc. Se folosesc în header, footer, contact, pagini legale și datele structurate pentru Google.",
+  "_TODO": [
+    "Valorile între paranteze drepte, ex. [CUI], sunt neconfirmate: înlocuiți-le cu datele reale.",
+    "Emailul [email] nu primește link până nu e înlocuit; social media goale nu apar în footer.",
+    "Adăugați showreel-ul: public/video/showreel.mp4 (+ .webm) și imaginea poster public/video/showreel-poster.jpg"
+  ],
+  "name": "Roby Media",
+  "legalName": "[Denumirea firmei]",
+  "domain": "roby.media",
+  "url": "https://roby.media",
+  "cui": "[CUI]",
+  "regCom": "[Nr. Reg. Com.]",
+  "address": {
+    "street": "[Strada și numărul]",
+    "city": "[Oraș]",
+    "county": "[Județ]",
+    "postalCode": "[Cod poștal]",
+    "country": "RO"
+  },
+  "phone": { "display": "0775 348 360", "e164": "+40775348360" },
+  "whatsapp": {
+    "number": "40775348360",
+    "defaultMessage": {
+      "ro": "Bună ziua, aș dori mai multe detalii despre serviciile Roby Media.",
+      "en": "Hello, I'd like to know more about Roby Media's services."
+    }
+  },
+  "email": "[email]",
+  "hours": { "ro": "[Program de lucru]", "en": "[Opening hours]" },
+  "areaServed": { "ro": "Toată România", "en": "All of Romania" },
+  "social": {
+    "tiktok": "",
+    "instagram": "",
+    "facebook": "",
+    "youtube": "",
+    "linkedin": "",
+    "behance": ""
+  },
+  "showreel": {
+    "_comment": "mp4/webm: clip fără sunet, în buclă, max ~8 MB, 1080p. youtubeId: showreel-ul complet cu sunet (opțional).",
+    "mp4": "",
+    "webm": "",
+    "poster": "",
+    "youtubeId": ""
+  },
+  "moreWork": [
+    {
+      "id": "behance",
+      "kind": "behance",
+      "url": "",
+      "cover": "",
+      "title": { "ro": "Portofoliul complet pe Behance", "en": "Full portfolio on Behance" },
+      "description": { "ro": "Proiecte de branding, fotografie și campanii, prezentate în detaliu.", "en": "Branding, photography and campaign projects, presented in detail." }
+    }
+  ]
+}

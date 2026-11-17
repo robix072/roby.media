@@ -1,0 +1,53 @@
+{
+  "_comment": "Pagina /creare-site-oradea. SCHELET: are noindex și nu apare în sitemap până puneți \"ready\": true.",
+  "_TODO": [
+    "Scrieți un paragraf introductiv propriu pentru Oradea (intro), nu copiat din alt oraș.",
+    "Completați „local” cu locații, zone sau industrii reale din Oradea.",
+    "Adăugați 3–5 întrebări FAQ locale.",
+    "Când conținutul e complet și unic, puneți \"ready\": true."
+  ],
+  "ready": false,
+  "service": "creare-site",
+  "city": "oradea",
+  "metaTitle": "Creare site Oradea | Roby Media",
+  "metaDescription": "Site-uri de prezentare și magazine online în Oradea. Echipă care se deplasează în tot județul Bihor. Cereți o ofertă pe WhatsApp sau prin formular.",
+  "h1": "Creare site în Oradea",
+  "subtitle": "Site-uri de prezentare și magazine online în Oradea și în județul Bihor.",
+  "summary": [
+    "Lucrăm în Oradea și în localitățile din județul Bihor.",
+    "Ofertă clară, primită de regulă în aceeași zi lucrătoare.",
+    "Contract, factură și termene de livrare stabilite de la început."
+  ],
+  "intro": [
+    "TODO: paragraf introductiv unic despre creare site în Oradea."
+  ],
+  "local": {
+    "title": "Creare site în Oradea: ce trebuie să știți",
+    "text": "TODO: context local pentru Oradea.",
+    "items": [
+      {
+        "title": "TODO",
+        "text": "TODO: locație, zonă sau industrie relevantă din Oradea."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Deplasare în Oradea",
+    "text": "Echipa noastră se deplasează în Oradea și în județul Bihor. Costul deplasării, dacă există, apare transparent în ofertă."
+  },
+  "faq": [
+    {
+      "q": "Lucrați în Oradea?",
+      "a": "Da. Lucrăm cu clienți în Oradea și din tot județul Bihor. Costul deplasării apare transparent în ofertă."
+    },
+    {
+      "q": "Cât de repede primim o ofertă?",
+      "a": "De regulă în aceeași zi lucrătoare. Cel mai rapid ne găsiți pe WhatsApp sau la telefon."
+    },
+    {
+      "q": "Lucrați pe bază de contract?",
+      "a": "Da. ROBY MEDIA SRL emite factură, iar livrabilele, termenele și plățile sunt trecute în contract."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru crearea unui site în Oradea."
+}

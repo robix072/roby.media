@@ -1,0 +1,172 @@
+{
+  "_comment": "Pagina /servicii/reclame-tiktok-ads (EN: /en/services/tiktok-ads-management). Management campanii plătite TikTok. Conținutul organic are pagina marketing-tiktok.",
+  "id": "reclame-tiktok-ads",
+  "category": "marketing",
+  "order": 20,
+  "slug": { "ro": "reclame-tiktok-ads", "en": "tiktok-ads-management" },
+  "icon": "target",
+  "packageGroup": "ads",
+  "priceFrom": 900,
+  "priceUnit": "luna",
+  "portfolioCategories": ["campanii", "tiktok-social"],
+  "related": ["marketing-tiktok", "productie-ugc", "reclame-facebook-instagram", "landing-page"],
+  "localService": null,
+  "ro": {
+    "name": "Reclame TikTok Ads",
+    "metaTitle": "Reclame TikTok Ads: campanii pentru vânzări și lead-uri",
+    "metaDescription": "Administrare reclame TikTok Ads: pixel, Events API, testare creative și raportare clară, în contul dvs. De la 900 lei/lună. Cereți o analiză gratuită.",
+    "h1": "Reclame TikTok Ads gândite pentru vânzări, nu pentru like-uri",
+    "subtitle": "Configurăm, lansăm și optimizăm campaniile TikTok Ads în contul dumneavoastră de reclame. Măsurăm corect conversiile, testăm constant creative noi și vă arătăm clar unde merg banii.",
+    "cardDescription": "Campanii TikTok Ads pentru vânzări și lead-uri: setare pixel, testare creative, optimizare și rapoarte clare.",
+    "summary": [
+      "Campanii pentru vânzări, lead-uri sau trafic, rulate în contul dumneavoastră TikTok Ads Manager.",
+      "Setăm pixelul TikTok, Events API și evenimentele de conversie, ca rezultatele să fie măsurate corect.",
+      "Testăm mai multe variante de clipuri și păstrăm doar ce aduce clienți la un cost acceptabil.",
+      "Management de la 900 lei/lună + TVA. Bugetul de reclame se plătește separat, direct către TikTok."
+    ],
+    "problem": {
+      "title": "De ce multe reclame pe TikTok ard bani",
+      "paragraphs": [
+        "Butonul „Promovează” din aplicație pare simplu. Plătiți, primiți vizualizări. Doar că vizualizările nu sunt vânzări. Fără pixel instalat și fără evenimente de conversie, platforma nu știe cine a cumpărat sau a completat formularul, deci nu are după ce să optimizeze.",
+        "A doua greșeală frecventă este creativul. Pe TikTok, un clip care arată a reclamă clasică este derulat în prima secundă. Reclamele care funcționează seamănă cu conținutul nativ: o persoană reală, un hook puternic, o problemă și o soluție. Iar un singur clip obosește repede publicul, așa că trebuie înlocuit constant.",
+        "Al treilea motiv este răbdarea. Algoritmul are nevoie de date ca să învețe. Campaniile oprite după trei zile sau modificate zilnic nu ajung niciodată să funcționeze stabil."
+      ]
+    },
+    "solution": {
+      "title": "Cum administrăm campaniile TikTok Ads",
+      "paragraphs": [
+        "Începem cu fundația tehnică. Instalăm sau verificăm pixelul TikTok și Events API (conexiunea server-side), setăm evenimentele relevante: vizualizare produs, adăugare în coș, achiziție, lead. Fără date corecte, orice optimizare este o ghicitoare.",
+        "Apoi construim structura de campanii pe obiectivul real al afacerii: vânzări pentru un magazin online, formulare sau mesaje pentru servicii, trafic calificat pentru o lansare. Pornim cu un public larg și lăsăm algoritmul să găsească cumpărătorii, iar separat facem retargeting pentru cei care au interacționat deja.",
+        "Creativele sunt motorul. Testăm mai multe hook-uri, formate și unghiuri de mesaj în paralel. Ce aduce conversii la un cost bun primește mai mult buget, ce nu funcționează se oprește. Rezultatele depind de ofertă, de calitatea clipurilor, de tracking și de buget. De aceea recomandăm o perioadă de cel puțin 3 luni, ca să existe timp de învățare și de optimizare."
+      ]
+    },
+    "includes": {
+      "title": "Ce include managementul TikTok Ads",
+      "items": [
+        { "title": "Audit și plan de campanie", "text": "Verificăm contul existent, oferta și pagina de destinație, apoi propunem structura și bugetul de start." },
+        { "title": "Pixel și Events API", "text": "Configurăm pixelul TikTok, conexiunea server-side și evenimentele de conversie, plus verificarea lor." },
+        { "title": "Setarea campaniilor", "text": "Campanii pentru vânzări, lead-uri sau trafic, cu public, buget și plasări gândite pentru obiectivul dumneavoastră." },
+        { "title": "Testare creative", "text": "Mai multe variante de hook, text și format testate în paralel. În pachetul Ads + Creative producem noi 8 clipuri pe lună." },
+        { "title": "Retargeting", "text": "Reclame separate pentru cei care au vizitat site-ul, au văzut clipurile sau au abandonat coșul (pachetele Ads Pro și Ads + Creative)." },
+        { "title": "Optimizare continuă", "text": "Ajustăm bugetele, oprim reclamele slabe și scalăm ce funcționează, pe baza datelor, nu a impresiilor." },
+        { "title": "Rapoarte pe înțeles", "text": "Cost pe rezultat, conversii, ce am testat și ce urmează. Lunar sau la două săptămâni, în funcție de pachet." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine sunt reclamele TikTok Ads",
+      "intro": "TikTok Ads funcționează cel mai bine când produsul se poate arăta vizual și decizia de cumpărare se ia relativ repede.",
+      "items": [
+        { "industry": "Magazine online", "text": "Campanii de vânzări cu produsul arătat în uz real, plus retargeting pentru coșurile abandonate." },
+        { "industry": "Restaurante și livrare de mâncare", "text": "Reclame locale, pe o rază de câțiva kilometri, pentru comenzi online sau rezervări în weekend." },
+        { "industry": "Saloane de înfrumusețare și clinici estetice", "text": "Formulare de programare direct din reclamă, cu clipuri de tip înainte și după." },
+        { "industry": "Școli de șoferi, cursuri și training", "text": "Lead-uri pentru înscrieri de la un public tânăr, care petrece mult timp pe TikTok." },
+        { "industry": "Evenimente și cluburi", "text": "Vânzare de bilete cu clipuri din edițiile anterioare și reclame cu termen limită." },
+        { "industry": "Dezvoltatori imobiliari", "text": "Generare de lead-uri pentru apartamente noi, cu tururi video scurte și formular instant." }
+      ]
+    },
+    "process": {
+      "title": "Pașii colaborării",
+      "steps": [
+        { "title": "Analiză gratuită", "text": "Discutăm despre ofertă, marjă, buget și obiective. Vă spunem sincer dacă TikTok Ads are sens pentru dumneavoastră." },
+        { "title": "Acces și tracking", "text": "Primim acces în Business Center-ul dumneavoastră și configurăm pixelul, Events API și evenimentele." },
+        { "title": "Creative și lansare", "text": "Pregătim sau adaptăm clipurile, construim campaniile și le lansăm după aprobarea dumneavoastră." },
+        { "title": "Învățare și testare", "text": "În primele săptămâni testăm variante și lăsăm algoritmul să strângă date, fără modificări haotice." },
+        { "title": "Optimizare și raportare", "text": "Scalăm ce merge, înlocuim ce obosește și vă trimitem rapoarte regulate cu concluzii clare." }
+      ]
+    },
+    "pricingNote": "Managementul campaniilor începe de la 900 lei/lună + TVA. Bugetul de reclame nu este inclus și se plătește direct către TikTok, din contul dumneavoastră.",
+    "faq": [
+      { "q": "Ce buget de reclame ne recomandați pe TikTok?", "a": "Depinde de obiectiv, de prețul produsului și de piață. Bugetul trebuie să permită algoritmului să strângă suficiente conversii ca să învețe. După analiza inițială vă propunem un buget de start realist și cum îl creștem dacă rezultatele o justifică." },
+      { "q": "În cât timp apar rezultatele?", "a": "Primele date apar în câteva zile, dar o campanie stabilă se construiește în câteva săptămâni de testare. Vă recomandăm minimum 3 luni pentru o evaluare corectă. Nu garantăm un anumit număr de vânzări, pentru că rezultatul depinde și de ofertă, preț și pagina de destinație." },
+      { "q": "Al cui este contul de reclame?", "a": "Al dumneavoastră. Campaniile rulează în Business Center-ul și contul TikTok Ads al firmei, iar plata bugetului se face cu cardul dumneavoastră. Noi primim acces de administrare. Dacă încheiem colaborarea, toate datele și campaniile rămân la dumneavoastră." },
+      { "q": "Avem nevoie de clipuri noi pentru reclame?", "a": "Da, regulat. Pe TikTok creativele obosesc repede. Putem folosi clipurile pe care le aveți, le putem adapta sau, în pachetul Ads + Creative, producem noi 8 clipuri publicitare pe lună." },
+      { "q": "Ce primim în raport?", "a": "Cheltuiala, costul pe rezultat, numărul de conversii, ce reclame au performat și ce am schimbat. Plus recomandările pentru perioada următoare, explicate simplu. Raportul este lunar la Ads Start și la două săptămâni la Ads Pro și Ads + Creative." },
+      { "q": "Există perioadă minimă de contract?", "a": "Colaborarea este lunară. Recomandăm 3 luni pentru ca testarea și optimizarea să aibă timp să dea rezultate, iar condițiile de încetare sunt trecute clar în contract." },
+      { "q": "Ce trebuie să ne asigurăm noi?", "a": "Acces la site sau la cine îl administrează, pentru instalarea pixelului. O ofertă clară, stocuri sau disponibilitate și cineva care răspunde rapid la lead-uri. Reclamele aduc oameni interesați, dar vânzarea se închide la dumneavoastră." }
+    ],
+    "closing": {
+      "title": "Aflați dacă TikTok Ads are sens pentru afacerea dumneavoastră",
+      "text": "Trimiteți-ne site-ul și ce vreți să vindeți. Vă spunem sincer ce potențial vedem și cum am începe."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru reclame TikTok Ads. Site-ul nostru: ..., ce vrem să promovăm: ..."
+  },
+  "en": {
+    "name": "TikTok Ads management",
+    "metaTitle": "TikTok Ads Management for Sales and Leads",
+    "metaDescription": "TikTok Ads management in your own ad account: pixel and Events API setup, creative testing, clear reports. From 900 RON/month. Book a free review.",
+    "h1": "TikTok Ads management built for sales, not likes",
+    "subtitle": "We set up, launch and optimise TikTok Ads campaigns inside your own ad account. Conversions are tracked properly, new creatives are tested all the time, and you see exactly where the money goes.",
+    "cardDescription": "TikTok Ads campaigns for sales and leads: pixel setup, creative testing, ongoing optimisation and clear reports.",
+    "summary": [
+      "Sales, lead or traffic campaigns run in your own TikTok Ads Manager account.",
+      "We set up the TikTok pixel, Events API and conversion events so results are measured accurately.",
+      "We test multiple video variations and keep only what brings customers at a sensible cost.",
+      "Management from 900 RON/month + VAT. Ad spend is separate and paid directly to TikTok."
+    ],
+    "problem": {
+      "title": "Why so many TikTok ads burn money",
+      "paragraphs": [
+        "The in-app \"Promote\" button looks easy: pay, get views. But views aren't sales. With no pixel and no conversion events, TikTok has no idea who bought or filled in your form, so it has nothing to optimise towards.",
+        "The second common mistake is the creative. On TikTok, anything that looks like a traditional ad gets swiped away in a second. Ads that work feel native: a real person, a strong hook, a problem and its fix. And a single video wears out its audience quickly, so it needs replacing on a regular basis.",
+        "The third is patience. The algorithm needs data to learn. Campaigns switched off after three days, or tweaked every morning, never get the chance to settle."
+      ]
+    },
+    "solution": {
+      "title": "How we manage TikTok Ads",
+      "paragraphs": [
+        "We start with the technical groundwork. We install or audit the TikTok pixel and Events API (the server-side connection), then set up the events that matter: product views, add to cart, purchase, lead. Without clean data, every optimisation is guesswork.",
+        "Next we build the campaign structure around the real business goal: purchases for an online shop, forms or messages for a service business, qualified traffic for a launch. We usually start broad and let the algorithm find buyers, with separate retargeting for people who have already engaged.",
+        "Creative is the engine. We test several hooks, formats and messaging angles side by side. Whatever drives conversions at a good cost gets more budget, and whatever doesn't gets switched off. Results depend on your offer, the quality of the videos, tracking and budget. That's why we recommend committing to at least 3 months, so there is time to learn and optimise."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Audit and campaign plan", "text": "We review your existing account, offer and landing page, then propose a structure and a starting budget." },
+        { "title": "Pixel and Events API", "text": "We set up the TikTok pixel, the server-side connection and your conversion events, and test that they fire correctly." },
+        { "title": "Campaign build", "text": "Sales, lead or traffic campaigns, with audiences, budgets and placements matched to your objective." },
+        { "title": "Creative testing", "text": "Multiple hooks, copy lines and formats tested in parallel. On Ads + Creative we produce 8 ad videos for you every month." },
+        { "title": "Retargeting", "text": "Dedicated ads for site visitors, video viewers and abandoned carts (on Ads Pro and Ads + Creative)." },
+        { "title": "Ongoing optimisation", "text": "We shift budgets, cut weak ads and scale the winners, based on data rather than gut feeling." },
+        { "title": "Reports you can read", "text": "Cost per result, conversions, what we tested and what's next. Monthly or every two weeks, depending on your plan." }
+      ]
+    },
+    "audience": {
+      "title": "Who TikTok Ads are for",
+      "intro": "TikTok Ads work best when the product can be shown visually and the buying decision is fairly quick.",
+      "items": [
+        { "industry": "Online shops", "text": "Sales campaigns showing the product in real use, plus retargeting for abandoned carts." },
+        { "industry": "Restaurants and food delivery", "text": "Local ads within a few kilometres, driving online orders or weekend bookings." },
+        { "industry": "Beauty salons and aesthetic clinics", "text": "Booking forms straight from the ad, paired with before-and-after videos." },
+        { "industry": "Driving schools, courses and training", "text": "Sign-up leads from a younger audience that spends hours on TikTok." },
+        { "industry": "Events and clubs", "text": "Ticket sales using footage from previous editions and deadline-driven ads." },
+        { "industry": "Property developers", "text": "Leads for new-build apartments, with short video tours and instant forms." }
+      ]
+    },
+    "process": {
+      "title": "How we work together",
+      "steps": [
+        { "title": "Free review", "text": "We talk through your offer, margins, budget and goals, and tell you honestly whether TikTok Ads make sense for you." },
+        { "title": "Access and tracking", "text": "You give us access to your Business Center, and we set up the pixel, Events API and events." },
+        { "title": "Creative and launch", "text": "We prepare or adapt the videos, build the campaigns and go live once you approve." },
+        { "title": "Learning and testing", "text": "In the first weeks we test variations and let the algorithm gather data, without knee-jerk changes." },
+        { "title": "Optimisation and reporting", "text": "We scale what works, replace what's fatiguing and send regular reports with clear takeaways." }
+      ]
+    },
+    "pricingNote": "Campaign management starts at 900 RON/month + VAT. Ad spend is not included and is paid directly to TikTok from your own account.",
+    "faq": [
+      { "q": "How much ad budget do we need on TikTok?", "a": "It depends on your goal, your product price and your market. The budget has to let the algorithm collect enough conversions to learn. After the initial review we'll suggest a realistic starting budget and how to grow it if the results justify it." },
+      { "q": "How soon will we see results?", "a": "First data comes in within days, but a stable campaign takes a few weeks of testing. We recommend at least 3 months for a fair verdict. We don't guarantee a number of sales, because results also depend on your offer, pricing and landing page." },
+      { "q": "Who owns the ad account?", "a": "You do. Campaigns run in your company's Business Center and TikTok Ads account, and the budget is charged to your card. We get admin access. If we stop working together, all the data and campaigns stay with you." },
+      { "q": "Do we need new videos for the ads?", "a": "Yes, regularly. Creatives fatigue fast on TikTok. We can use the videos you already have, adapt them, or, on Ads + Creative, produce 8 new ad videos for you every month." },
+      { "q": "What's in the report?", "a": "Spend, cost per result, conversions, which ads performed and what we changed, plus recommendations for the next period in plain language. Reports are monthly on Ads Start and every two weeks on Ads Pro and Ads + Creative." },
+      { "q": "Is there a minimum contract term?", "a": "We work month to month. We recommend 3 months so testing and optimisation have time to pay off, and the notice terms are clearly stated in the contract." },
+      { "q": "What do we need to provide?", "a": "Access to your website, or to whoever runs it, so we can install the pixel. A clear offer, stock or availability, and someone who answers leads quickly. Ads bring interested people to you, but the sale is closed on your side." }
+    ],
+    "closing": {
+      "title": "Find out whether TikTok Ads make sense for you",
+      "text": "Send us your website and what you want to sell. We'll tell you honestly what potential we see and how we'd get started."
+    },
+    "whatsapp": "Hello, I'd like a quote for TikTok Ads management. Our website: ..., what we want to promote: ..."
+  }
+}

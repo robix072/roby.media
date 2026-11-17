@@ -1,0 +1,172 @@
+{
+  "_comment": "Pagina /servicii/live-streaming-evenimente (EN: /en/services/event-live-streaming). Textele se editează direct aici.",
+  "id": "live-streaming-evenimente",
+  "category": "evenimente",
+  "order": 60,
+  "slug": { "ro": "live-streaming-evenimente", "en": "event-live-streaming" },
+  "icon": "broadcast",
+  "packageGroup": null,
+  "priceFrom": null,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["nunti-evenimente"],
+  "related": ["filmare-evenimente-corporate", "filmare-concerte-festivaluri", "filmare-nunta", "podcast-video"],
+  "localService": null,
+  "ro": {
+    "name": "Live streaming evenimente",
+    "metaTitle": "Live streaming evenimente: transmisie live multi-cameră",
+    "metaDescription": "Live streaming pentru conferințe, nunți și concerte: mai multe camere, sunet curat, YouTube, Facebook sau link privat. Cereți o ofertă rapidă.",
+    "h1": "Live streaming pentru evenimente, cu imagine și sunet de televiziune",
+    "subtitle": "Transmitem evenimentul dumneavoastră live, cu mai multe camere, grafică și sunet curat. Publicul de acasă vede ce se întâmplă în sală, fără întreruperi și fără imagini de pe telefon.",
+    "cardDescription": "Transmisie live multi-cameră pentru conferințe, nunți, concerte și evenimente hibride, pe YouTube, Facebook sau link privat.",
+    "summary": [
+      "Transmisie live cu mai multe camere, regie video, grafică și sunet din mixerul sălii.",
+      "Difuzare pe YouTube, Facebook sau pe un link privat, accesibil doar invitaților.",
+      "Verificăm internetul locației din timp și pregătim o conexiune de rezervă.",
+      "Înregistrăm în paralel, ca transmisia să devină și conținut editat după eveniment."
+    ],
+    "problem": {
+      "title": "Un live slab se vede imediat",
+      "paragraphs": [
+        "Un telefon pe trepied, conectat la Wi-Fi-ul sălii. Imaginea se blochează, sunetul are ecou, speakerul este un punct mic în fundul cadrului. După zece minute, publicul online pleacă.",
+        "Transmisia live nu se poate corecta la montaj. Ce vede publicul este ce iese din regie, în acel moment. De aceea un live bun depinde mai mult de pregătire decât de orice echipament: internet verificat, sunet preluat corect, un plan de rezervă și cineva care urmărește transmisia permanent."
+      ]
+    },
+    "solution": {
+      "title": "Cum pregătim și transmitem un eveniment live",
+      "paragraphs": [
+        "Pornim de la internet, pentru că acolo apar cele mai multe probleme. Întrebăm locația dacă are conexiune pe cablu dedicată și ce viteză de upload oferă. Wi-Fi-ul partajat cu sute de invitați nu este o soluție sigură. Unde se poate, testăm conexiunea înainte de eveniment. Ca rezervă folosim o soluție mobilă 4G/5G cu mai multe rețele combinate, care preia transmisia dacă linia principală cade.",
+        "În sală lucrăm cu mai multe camere conectate la o regie video. Operatorul de regie schimbă unghiurile în timp real: plan larg, speaker, public, slide-uri. Adăugăm grafică pe ecran, cum ar fi numele speakerilor, logo-ul și ecrane de început și pauză. Sunetul îl preluăm din mixerul sălii, ca publicul online să audă la fel de clar ca cel din sală.",
+        "Transmitem pe platforma potrivită pentru dumneavoastră: YouTube, Facebook, simultan pe mai multe canale, sau pe un link privat, protejat, pentru evenimentele interne. În paralel înregistrăm fiecare cameră separat. După eveniment, materialul poate fi montat în clipuri, prezentări integrale sau aftermovie."
+      ]
+    },
+    "includes": {
+      "title": "Ce include serviciul de live streaming",
+      "items": [
+        { "title": "Verificare tehnică a locației", "text": "Internet, prize, poziții de camere, lumină și traseul cablurilor, verificate înainte." },
+        { "title": "Mai multe camere", "text": "Plan larg, prim-plan pe speaker și cadre cu publicul, numărul adaptat evenimentului." },
+        { "title": "Regie video live", "text": "Schimbarea unghiurilor în timp real, plus integrarea prezentărilor de pe laptop." },
+        { "title": "Sunet profesional", "text": "Semnal din mixerul sălii sau microfoane proprii, verificat înainte de start." },
+        { "title": "Grafică pe ecran", "text": "Nume și funcții, logo, ecran de așteptare și de pauză, în identitatea dumneavoastră." },
+        { "title": "Conexiune de rezervă", "text": "Soluție mobilă 4G/5G pregătită să preia transmisia dacă internetul principal cade." },
+        { "title": "Difuzare pe una sau mai multe platforme", "text": "YouTube, Facebook, link privat sau mai multe canale simultan." },
+        { "title": "Înregistrare completă", "text": "Fiecare cameră înregistrată separat, pentru montaj și reutilizare după eveniment." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Live streaming-ul are sens oricând publicul este mai mare decât sala. Iată situațiile în care contează cel mai mult.",
+      "items": [
+        { "industry": "Organizatori de conferințe", "text": "Evenimente hibride, cu participanți în sală și online, sau bilete separate pentru accesul la transmisie." },
+        { "industry": "Companii", "text": "Ședințe generale, prezentări de rezultate și training-uri transmise pe link privat pentru angajații din alte orașe." },
+        { "industry": "Miri cu familie în străinătate", "text": "Ceremonia transmisă pe un link privat, ca rudele care nu au putut veni să fie prezente." },
+        { "industry": "Biserici și comunități religioase", "text": "Slujbe, botezuri și evenimente speciale pentru credincioșii care nu pot ajunge." },
+        { "industry": "Festivaluri și concerte", "text": "Concerte transmise live pentru fanii de acasă, cu sunet din pupitru." },
+        { "industry": "Școli, universități și ONG-uri", "text": "Festivități de absolvire, dezbateri publice și gale, accesibile pentru familii și susținători." }
+      ]
+    },
+    "process": {
+      "title": "Pașii unei transmisii live",
+      "steps": [
+        { "title": "Discuție scurtă", "text": "Aflăm tipul evenimentului, locația, platforma dorită și câți oameni vă urmăresc online." },
+        { "title": "Verificarea locației", "text": "Discutăm cu administratorul despre internet pe cablu, upload și acces tehnic. Unde se poate, testăm pe loc." },
+        { "title": "Montare și test", "text": "Ajungem din timp, montăm camerele și regia și facem o transmisie de test înainte de start." },
+        { "title": "Transmisia live", "text": "Regia urmărește permanent imaginea, sunetul și conexiunea, iar rezerva este pregătită." },
+        { "title": "După eveniment", "text": "Primiți înregistrarea completă și, la cerere, clipuri editate din material." }
+      ]
+    },
+    "pricingNote": "Pentru live streaming nu avem pachet fix. Oferta se face după o discuție scurtă, în funcție de durată, număr de camere, platforme și condițiile tehnice ale locației.",
+    "faq": [
+      { "q": "De ce internet aveți nevoie la locație?", "a": "Ideal, o conexiune pe cablu dedicată transmisiei, cu viteză de upload stabilă. Vă rugăm să întrebați locația dacă o are și cine este persoana tehnică de contact. Wi-Fi-ul folosit de invitați nu este de încredere pentru live." },
+      { "q": "Ce se întâmplă dacă pică internetul?", "a": "Pregătim o conexiune de rezervă pe 4G/5G, care combină mai multe rețele mobile. Dacă linia principală cade, transmisia continuă pe rezervă. În paralel înregistrăm local tot evenimentul, așa că materialul nu se pierde în niciun caz." },
+      { "q": "Pe ce platforme puteți transmite?", "a": "YouTube, Facebook, alte platforme care acceptă transmisii externe sau un link privat. Putem transmite și pe mai multe platforme simultan. Pentru platformele de webinar verificăm compatibilitatea înainte." },
+      { "q": "Putem face transmisia privată?", "a": "Da. Pentru ședințe interne sau evenimente de familie folosim un link nelistat sau protejat cu parolă, trimis doar persoanelor invitate." },
+      { "q": "Puteți integra speakeri care intervin online?", "a": "Da. Putem aduce în transmisie invitați conectați de la distanță și îi putem afișa pe ecranul din sală, ca publicul prezent să îi vadă și să îi audă." },
+      { "q": "Cu cât timp înainte trebuie să vă anunțăm?", "a": "Cât mai devreme, mai ales pentru evenimentele mari. Avem nevoie de timp să verificăm internetul locației și să ne coordonăm cu echipa tehnică. Pentru evenimente mici, uneori putem organiza și cu preaviz scurt." },
+      { "q": "Rămâne înregistrarea după live?", "a": "Da. Înregistrăm fiecare cameră separat și programul final din regie. Primiți înregistrarea completă, iar la cerere o montăm în clipuri scurte sau prezentări separate." }
+    ],
+    "closing": {
+      "title": "Planificați transmisia live",
+      "text": "Trimiteți-ne data, locația și platforma dorită. Verificăm condițiile tehnice și revenim cu o ofertă."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru live streaming. Tip eveniment: ..., data: ..., locația: ..., platforma: ..."
+  },
+  "en": {
+    "name": "Event live streaming",
+    "metaTitle": "Event Live Streaming: Multi-Camera Broadcasts",
+    "metaDescription": "Live streaming for conferences, weddings and concerts: multiple cameras, clean audio, YouTube, Facebook or a private link. Get a quick quote.",
+    "h1": "Event live streaming with broadcast-quality picture and sound",
+    "subtitle": "We stream your event live with multiple cameras, on-screen graphics and clean audio. Your online audience sees what's happening in the room, without dropouts or phone footage.",
+    "cardDescription": "Multi-camera live streaming for conferences, weddings, concerts and hybrid events, on YouTube, Facebook or a private link.",
+    "summary": [
+      "Multi-camera streaming with a live vision mixer, graphics and audio from the venue's desk.",
+      "Broadcast to YouTube, Facebook or a private link only your guests can open.",
+      "We check the venue's internet in advance and bring a backup connection.",
+      "Everything is recorded in parallel, so the stream also becomes edited content later."
+    ],
+    "problem": {
+      "title": "A poor stream is obvious instantly",
+      "paragraphs": [
+        "A phone on a tripod, connected to the venue Wi-Fi. The picture freezes, the sound echoes, the speaker is a tiny figure at the back of the frame. Ten minutes in, the online audience has gone.",
+        "You can't fix a live stream in the edit. What viewers see is what leaves the gallery at that moment. That's why a good stream depends on preparation more than on any piece of kit: tested internet, properly routed audio, a backup plan and someone watching the output the whole time."
+      ]
+    },
+    "solution": {
+      "title": "How we plan and run a live stream",
+      "paragraphs": [
+        "We start with the internet, because that's where most problems come from. We ask the venue whether it has a dedicated wired connection and what upload speed it offers. Wi-Fi shared with hundreds of guests isn't reliable. Where possible, we test the line before the event. As a backup we use a bonded 4G/5G setup that combines several mobile networks and takes over if the main line drops.",
+        "In the room we run several cameras into a live vision mixer. The operator switches angles in real time: wide shot, speaker, audience, slides. We add on-screen graphics such as speaker names, your logo, and holding and break screens. Audio comes from the venue's mixing desk, so online viewers hear as clearly as the people in the room.",
+        "We broadcast wherever suits you: YouTube, Facebook, several channels at once, or a protected private link for internal events. At the same time we record every camera separately. After the event, that footage can be edited into clips, full-length talks or an aftermovie."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Venue tech check", "text": "Internet, power, camera positions, lighting and cable runs, checked in advance." },
+        { "title": "Multiple cameras", "text": "Wide shot, speaker close-up and audience shots, scaled to your event." },
+        { "title": "Live vision mixing", "text": "Real-time switching between angles, plus slides fed in from the presenter's laptop." },
+        { "title": "Professional audio", "text": "A feed from the venue's desk or our own mics, tested before going live." },
+        { "title": "On-screen graphics", "text": "Names and titles, logo, holding and break screens, in your brand style." },
+        { "title": "Backup connection", "text": "A bonded 4G/5G link ready to take over if the main internet fails." },
+        { "title": "One or more platforms", "text": "YouTube, Facebook, a private link or several channels simultaneously." },
+        { "title": "Full recording", "text": "Every camera recorded separately, for editing and reuse after the event." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "Live streaming makes sense whenever your audience is bigger than the room. Here are the situations where it matters most.",
+      "items": [
+        { "industry": "Conference organisers", "text": "Hybrid events with in-person and online attendees, or separate tickets for stream access." },
+        { "industry": "Companies", "text": "All-hands meetings, results presentations and trainings on a private link for staff in other cities." },
+        { "industry": "Couples with family abroad", "text": "The ceremony streamed to a private link, so relatives who couldn't travel can still be there." },
+        { "industry": "Churches and faith communities", "text": "Services, christenings and special occasions for those who can't attend in person." },
+        { "industry": "Festivals and concerts", "text": "Shows streamed live for fans at home, with audio from the desk." },
+        { "industry": "Schools, universities and NGOs", "text": "Graduations, public debates and galas, open to families and supporters anywhere." }
+      ]
+    },
+    "process": {
+      "title": "How a live stream comes together",
+      "steps": [
+        { "title": "Quick call", "text": "We find out the event type, venue, preferred platform and expected online audience." },
+        { "title": "Venue check", "text": "We ask the venue about wired internet, upload and technical access, and test on site where possible." },
+        { "title": "Set-up and test", "text": "We arrive early, rig cameras and the gallery, and run a test stream before going live." },
+        { "title": "Going live", "text": "The gallery monitors picture, sound and connection throughout, with the backup on standby." },
+        { "title": "After the event", "text": "You receive the full recording and, on request, edited clips from the footage." }
+      ]
+    },
+    "pricingNote": "There's no fixed package for live streaming. We quote after a short call, based on duration, number of cameras, platforms and the venue's technical setup.",
+    "faq": [
+      { "q": "What internet do you need at the venue?", "a": "Ideally a wired connection dedicated to the stream, with a stable upload speed. Please ask the venue whether they have one and who their technical contact is. Guest Wi-Fi isn't dependable enough for live video." },
+      { "q": "What if the internet goes down?", "a": "We bring a bonded 4G/5G backup that combines several mobile networks. If the main line fails, the stream carries on over the backup. We also record the whole event locally, so the footage is never lost." },
+      { "q": "Which platforms can you stream to?", "a": "YouTube, Facebook, other platforms that accept external streams, or a private link. We can also stream to several platforms at once. For webinar platforms, we check compatibility beforehand." },
+      { "q": "Can the stream be private?", "a": "Yes. For internal meetings or family events we use an unlisted or password-protected link, sent only to invited guests." },
+      { "q": "Can you bring in remote speakers?", "a": "Yes. We can add guests joining remotely to the stream and show them on the screen in the room, so the in-person audience can see and hear them too." },
+      { "q": "How much notice do you need?", "a": "As much as possible, especially for larger events. We need time to check the venue's internet and coordinate with their tech team. For smaller events we can sometimes work at short notice." },
+      { "q": "Do we keep the recording afterwards?", "a": "Yes. We record each camera separately as well as the final programme feed. You get the full recording, and on request we edit it into short clips or individual talks." }
+    ],
+    "closing": {
+      "title": "Plan your live stream",
+      "text": "Send us the date, venue and platform. We'll check the technical side and come back with a quote."
+    },
+    "whatsapp": "Hello, I'd like a quote for live streaming. Event type: ..., date: ..., venue: ..., platform: ..."
+  }
+}

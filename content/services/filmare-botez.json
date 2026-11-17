@@ -1,0 +1,175 @@
+{
+  "_comment": "Pagina /servicii/filmare-botez (EN: /en/services/baptism-videography). Textele se editează direct aici.",
+  "id": "filmare-botez",
+  "category": "evenimente",
+  "order": 30,
+  "slug": { "ro": "filmare-botez", "en": "baptism-videography" },
+  "icon": "baby",
+  "packageGroup": "nunti",
+  "packageIds": ["botez"],
+  "priceFrom": 1800,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["nunti-evenimente"],
+  "related": ["fotografie-nunta", "filmare-nunta", "filmare-drona", "live-streaming-evenimente"],
+  "localService": null,
+  "ro": {
+    "name": "Filmare botez",
+    "metaTitle": "Filmare botez: ceremonie și petrecere, clip highlight",
+    "metaDescription": "Filmare botez discretă, în biserică și la petrecere, cu sunet curat și clip highlight cald. Pachet de la 1.800 lei. Scrieți-ne data botezului.",
+    "h1": "Filmare botez: primul capitol din povestea copilului",
+    "subtitle": "Filmăm ceremonia și petrecerea discret, fără să deranjăm copilul sau slujba. Primiți un clip cald, pe care familia îl va revedea pe măsură ce cel mic crește.",
+    "cardDescription": "Filmare botez în biserică și la petrecere, cu sunet curat și un clip highlight cald, gata de trimis familiei.",
+    "summary": [
+      "Filmăm slujba din biserică și petrecerea, inclusiv tradițiile familiei.",
+      "Lucrăm discret, fără lumini puternice îndreptate spre copil.",
+      "Primiți un clip highlight și materialele montate, livrate online.",
+      "Pachetul Botez pornește de la 1.800 lei. Ne deplasăm în toată România."
+    ],
+    "problem": {
+      "title": "La botez, momentele importante durează câteva secunde",
+      "paragraphs": [
+        "Scufundarea în cristelniță, primele lacrimi, reacția nașilor, zâmbetul bunicilor. Toate se întâmplă repede, într-o biserică aglomerată, adesea cu lumină slabă.",
+        "Părinții sunt ocupați cu copilul și cu invitații. Rudele filmează pe telefon, din spatele mulțimii, cu sunet de fond și cadre tremurate. După câteva luni, nimeni nu mai găsește fișierele, iar copilul nu va avea niciodată o amintire clară a acestei zile."
+      ]
+    },
+    "solution": {
+      "title": "Cum filmăm un botez",
+      "paragraphs": [
+        "Înainte de eveniment vorbim cu dumneavoastră despre program, biserică, restaurant și obiceiurile familiei. Dacă este nevoie, ne coordonăm cu preotul. Unele biserici au reguli clare despre unde poate sta operatorul și ce lumină se poate folosi, iar noi le respectăm.",
+        "În biserică lucrăm cu camere 4K sensibile la lumină slabă și lentile luminoase. Așa nu avem nevoie de reflectoare îndreptate spre copil. Un microfon discret prinde rugăciunile și vocea preotului, ca sunetul să nu se piardă în ecoul bisericii.",
+        "La petrecere urmărim ce este specific familiei dumneavoastră: intrarea părinților cu cel mic, discursurile nașilor, tortul, obiceiurile de la masă. Filmăm și invitații, pentru că peste ani veți vrea să vedeți cine a fost acolo.",
+        "La montaj construim un clip highlight cald, pe muzică liniștită, cu color grading natural. Cadrele importante din ceremonie rămân în ordine, ca familia să poată revedea slujba."
+      ]
+    },
+    "includes": {
+      "title": "Ce include filmarea de botez",
+      "items": [
+        { "title": "Discuție înainte de eveniment", "text": "Stabilim programul, locațiile, tradițiile și persoanele care trebuie să apară în film." },
+        { "title": "Filmare în biserică", "text": "Slujba completă, cu respectarea regulilor bisericii și fără lumini care să deranjeze copilul." },
+        { "title": "Sunet clar la ceremonie", "text": "Microfon wireless discret, ca rugăciunile și numele copilului să se audă bine." },
+        { "title": "Filmare la petrecere", "text": "Sosirea invitaților, discursurile, tortul și momentele specifice familiei." },
+        { "title": "Clip highlight", "text": "Ziua rezumată în câteva minute, montată pe muzică, potrivită pentru trimis rudelor." },
+        { "title": "Color grading natural", "text": "Culori calde și piele naturală, fără efecte exagerate." },
+        { "title": "Livrare online", "text": "Fișierele în calitate mare, descărcabile dintr-un link privat, ușor de trimis și rudelor din străinătate." },
+        { "title": "Opțiuni suplimentare", "text": "Fotograf, cadre cu drona la locație sau transmisie live pentru rudele care nu pot veni, ofertate separat." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Filmăm botezuri mici, în familie, și botezuri cu restaurant și mulți invitați. Abordarea se adaptează la fiecare.",
+      "items": [
+        { "industry": "Părinți la primul copil", "text": "Vreți să păstrați ziua așa cum a fost, fără să stați cu telefonul în mână." },
+        { "industry": "Familii cu rude în străinătate", "text": "Clipul ajunge rapid la cei care nu au putut veni, iar la cerere putem transmite ceremonia live." },
+        { "industry": "Nași care oferă filmarea cadou", "text": "Un cadou care rămâne familiei pentru totdeauna. Ne coordonăm direct cu părinții." },
+        { "industry": "Botezuri cu tradiții specifice", "text": "Obiceiurile din zona dumneavoastră sunt filmate atent, ca să rămână și pentru generațiile următoare." },
+        { "industry": "Botezuri restrânse, doar în biserică", "text": "Putem filma doar ceremonia, pentru familiile care nu organizează petrecere." },
+        { "industry": "Restaurante și săli de evenimente", "text": "Locațiile care organizează botezuri pot recomanda o echipă care respectă programul și spațiul." }
+      ]
+    },
+    "process": {
+      "title": "Cum decurge colaborarea",
+      "steps": [
+        { "title": "Ne scrieți data", "text": "Pe WhatsApp sau prin formular. Vă confirmăm disponibilitatea și vă trimitem oferta." },
+        { "title": "Rezervare", "text": "Data se rezervă pe bază de contract și avans, cu termenele de livrare scrise clar." },
+        { "title": "Pregătire", "text": "Cu câteva zile înainte confirmăm programul, biserica, restaurantul și momentele importante." },
+        { "title": "Ziua botezului", "text": "Filmăm ceremonia și petrecerea, discret, fără să încurcăm slujba sau invitații." },
+        { "title": "Montaj și livrare", "text": "Primiți clipul highlight și materialele montate printr-un link privat, la termenul din contract." }
+      ]
+    },
+    "pricingNote": "Pachetul Botez pornește de la 1.800 lei (fără TVA) și include filmarea ceremoniei și a petrecerii, plus clipul highlight. Deplasarea în afara orașului se trece separat în ofertă.",
+    "faq": [
+      { "q": "Ne lasă preotul să filmăm în biserică?", "a": "În majoritatea bisericilor se poate filma, dar fiecare are regulile ei. Vă recomandăm să anunțați preotul că veți avea un videograf. Noi respectăm indicațiile: unde stăm, cât ne apropiem, dacă putem intra în altar sau nu." },
+      { "q": "Folosiți lumini puternice care să sperie copilul?", "a": "Nu. Lucrăm cu camere sensibile la lumină slabă, tocmai ca să nu avem nevoie de reflectoare în biserică. Copilul trebuie să fie cât mai liniștit, iar slujba să nu fie deranjată." },
+      { "q": "Cât durează filmarea?", "a": "Depinde de program. De obicei filmăm ceremonia, care durează în jur de o oră, apoi o parte sau toată petrecerea. Stabilim exact intervalul în ofertă, ca să știți de la început ce acoperim." },
+      { "q": "Putem filma doar slujba, fără petrecere?", "a": "Da. Pentru botezurile fără petrecere sau cu o masă restrânsă acasă facem o ofertă adaptată. Prețul se calculează după durata efectivă și deplasare." },
+      { "q": "Aveți și fotograf pentru botez?", "a": "Putem veni cu fotograf, ca să aveți foto și video de la aceeași echipă. Fotograful și videograful se coordonează, ca să nu apară unul în cadrul celuilalt. Opțiunea se adaugă separat în ofertă." },
+      { "q": "Rudele din străinătate pot urmări botezul live?", "a": "Da, prin serviciul nostru de live streaming. Transmisia se face pe un link privat sau pe o platformă aleasă de dumneavoastră. Avem nevoie de o conexiune stabilă la internet în biserică sau o soluție mobilă de rezervă, pe care o verificăm din timp." },
+      { "q": "Ce muzică folosiți în clip?", "a": "Muzică liniștită, potrivită pentru o zi de familie. Puteți propune melodii. Dacă doriți să publicați clipul online, recomandăm muzică licențiată, ca să nu fie blocat pentru drepturi de autor." }
+    ],
+    "closing": {
+      "title": "Rezervați filmarea pentru botez",
+      "text": "Trimiteți-ne data, biserica și restaurantul. Vă răspundem cu disponibilitatea și o ofertă clară."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru filmare botez. Data: ..., biserica: ..., restaurantul: ..."
+  },
+  "en": {
+    "name": "Baptism videography",
+    "metaTitle": "Baptism Videography: Ceremony, Party and Highlight Film",
+    "metaDescription": "Discreet christening videography in church and at the party, with clean audio and a warm highlight film. From 1,800 RON. Send us your date.",
+    "h1": "Baptism videography: the first chapter of your child's story",
+    "subtitle": "We film the ceremony and the party quietly, without disturbing your baby or the service. You get a warm film the family will revisit as your little one grows up.",
+    "cardDescription": "Christening videography in church and at the party, with clean sound and a warm highlight film ready to share with family.",
+    "summary": [
+      "We cover the church service and the party, including your family's traditions.",
+      "We work discreetly, with no bright lights pointed at your baby.",
+      "You get a highlight film and the edited footage, delivered online.",
+      "The Baptism package starts from 1,800 RON. We travel all over Romania."
+    ],
+    "problem": {
+      "title": "At a christening, the key moments last seconds",
+      "paragraphs": [
+        "The immersion in the font, the first tears, the godparents' faces, the grandparents smiling. It all happens fast, in a crowded church, often in dim light.",
+        "Parents are busy with the baby and the guests. Relatives film on their phones from the back, with background noise and shaky footage. A few months later nobody can find the files, and your child never gets a proper record of the day."
+      ]
+    },
+    "solution": {
+      "title": "How we film a christening",
+      "paragraphs": [
+        "Before the day, we talk through the schedule, the church, the restaurant and your family's customs. Where needed, we check in with the priest. Some churches have firm rules about where a camera operator may stand and what lighting is allowed, and we follow them.",
+        "Inside the church we shoot on 4K cameras that handle low light well, with fast lenses. That means no floodlights aimed at your baby. A discreet microphone picks up the prayers and the priest's voice, so the sound doesn't get lost in the church's echo.",
+        "At the party we follow what makes your family's celebration its own: the parents arriving with the baby, the godparents' speech, the cake, the customs at the table. We film the guests too, because years from now you'll want to see who was there.",
+        "In the edit we build a warm highlight film set to gentle music, with natural colour grading. The key parts of the ceremony stay in order, so the family can watch the service again."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Pre-event call", "text": "We agree the schedule, locations, traditions and the people who must be in the film." },
+        { "title": "Church coverage", "text": "The full service, following the church's rules, with no lighting that bothers the baby." },
+        { "title": "Clear ceremony audio", "text": "A discreet wireless mic so the prayers and your child's name come through clearly." },
+        { "title": "Party coverage", "text": "Guests arriving, speeches, the cake and the moments unique to your family." },
+        { "title": "Highlight film", "text": "The day in a few minutes, edited to music and easy to send to relatives." },
+        { "title": "Natural colour grading", "text": "Warm tones and true skin colour, with no overdone effects." },
+        { "title": "Online delivery", "text": "High-quality files from a private link, easy to share with family abroad." },
+        { "title": "Optional extras", "text": "A photographer, drone shots of the venue or a live stream for relatives who can't attend, quoted separately." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "We film small family christenings and large celebrations with a restaurant full of guests, and adapt to each.",
+      "items": [
+        { "industry": "First-time parents", "text": "You want to keep the day as it was, without spending it behind your phone." },
+        { "industry": "Families with relatives abroad", "text": "The film reaches those who couldn't come, and we can stream the ceremony live on request." },
+        { "industry": "Godparents giving the film as a gift", "text": "A present the family keeps forever. We coordinate the details directly with the parents." },
+        { "industry": "Christenings with local traditions", "text": "Regional customs are filmed with care, so they're preserved for the next generations too." },
+        { "industry": "Church-only christenings", "text": "We can film just the ceremony for families who aren't hosting a party." },
+        { "industry": "Restaurants and event venues", "text": "Venues that host christenings can recommend a crew that respects their schedule and space." }
+      ]
+    },
+    "process": {
+      "title": "How it works",
+      "steps": [
+        { "title": "Send us the date", "text": "On WhatsApp or through the form. We'll confirm availability and send a quote." },
+        { "title": "Booking", "text": "The date is secured with a contract and a deposit, with delivery dates written down." },
+        { "title": "Preparation", "text": "A few days before, we confirm the schedule, church, restaurant and key moments." },
+        { "title": "The christening", "text": "We film the ceremony and the party quietly, without getting in the way of the service or guests." },
+        { "title": "Editing and delivery", "text": "You receive the highlight film and edited footage via a private link, on the date in your contract." }
+      ]
+    },
+    "pricingNote": "The Baptism package starts from 1,800 RON (excl. VAT) and covers the ceremony, the party and a highlight film. Travel outside our home city is listed separately in the quote.",
+    "faq": [
+      { "q": "Will the priest let you film in church?", "a": "Most churches allow filming, but each has its own rules. We recommend letting the priest know you'll have a videographer. We follow his guidance on where we stand, how close we get and whether we can enter the altar area." },
+      { "q": "Will bright lights upset the baby?", "a": "We don't use them. Our cameras handle low light well precisely so we don't need floodlights in church. Your baby should stay as calm as possible and the service shouldn't be disturbed." },
+      { "q": "How long do you film for?", "a": "It depends on your schedule. Usually we cover the ceremony, which runs about an hour, then part or all of the party. We set out the exact hours in the quote so you know what's covered." },
+      { "q": "Can you film only the service, without the party?", "a": "Yes. For christenings without a party, or with a small meal at home, we put together a tailored quote based on actual hours and travel." },
+      { "q": "Do you offer a photographer as well?", "a": "We can bring a photographer, so photo and video come from one team. They coordinate so neither ends up in the other's shot. It's added to the quote as an option." },
+      { "q": "Can relatives abroad watch the christening live?", "a": "Yes, through our live streaming service. We stream to a private link or a platform you choose. We need a stable internet connection at the church or a mobile backup, which we check in advance." },
+      { "q": "What music do you use?", "a": "Gentle music suited to a family day. You're welcome to suggest songs. If you plan to post the film online, we recommend licensed music so it doesn't get blocked for copyright." }
+    ],
+    "closing": {
+      "title": "Book your christening film",
+      "text": "Send us the date, church and restaurant. We'll reply with availability and a clear quote."
+    },
+    "whatsapp": "Hello, I'd like a quote for baptism videography. Date: ..., church: ..., restaurant: ..."
+  }
+}

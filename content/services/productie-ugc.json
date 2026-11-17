@@ -1,0 +1,173 @@
+{
+  "_comment": "Pagina /servicii/productie-ugc (EN: /en/services/ugc-video-production). Textele se editează direct aici.",
+  "id": "productie-ugc",
+  "category": "productie",
+  "order": 40,
+  "slug": { "ro": "productie-ugc", "en": "ugc-video-production" },
+  "icon": "users",
+  "packageGroup": "social",
+  "packageIds": ["start", "marketing-pack"],
+  "priceFrom": null,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["tiktok-social", "campanii"],
+  "related": ["continut-social-media", "reclame-tiktok-ads", "reclame-facebook-instagram", "influencer-marketing"],
+  "localService": null,
+  "ro": {
+    "name": "Producție UGC",
+    "metaTitle": "Producție clipuri UGC pentru reclame TikTok și Meta",
+    "metaDescription": "Clipuri UGC autentice pentru reclame TikTok și Meta: scripturi, creatori potriviți, filmare și editare în variante de testat. Cereți o ofertă rapidă.",
+    "h1": "Producție clipuri UGC care arată natural și vând",
+    "subtitle": "Clipuri în stilul conținutului făcut de utilizatori, dar construite cu strategie. Oameni reali vorbesc despre produsul dumneavoastră, iar reclamele par recomandări, nu publicitate.",
+    "cardDescription": "Clipuri UGC pentru reclame și social media: scripturi, creatori, filmare și editare în mai multe variante de hook.",
+    "summary": [
+      "Scripturi construite pe beneficiile reale ale produsului și pe obiecțiile clienților.",
+      "Creatori și actori aleși pentru publicul dumneavoastră, sau oameni din propria echipă.",
+      "Clipuri verticale 9:16, cu mai multe variante de hook pentru testare în reclame.",
+      "Oferta se face după o discuție scurtă, în funcție de numărul de clipuri și de creatori."
+    ],
+    "problem": {
+      "title": "Reclamele care arată a reclame sunt ignorate",
+      "paragraphs": [
+        "Pe TikTok și Instagram oamenii derulează rapid peste tot ce pare publicitate clasică. Un clip prea lustruit, cu logo mare în primul cadru, semnalează imediat „reclamă” și pierde atenția în prima secundă.",
+        "Pe de altă parte, mulți încearcă UGC improvizat: cer unui prieten să filmeze un clip cu telefonul. Iese autentic, dar fără structură. Lipsește hook-ul, beneficiul nu e clar, sunetul e slab, iar la final nu există un îndemn. Clipul arată natural, dar nu vinde."
+      ]
+    },
+    "solution": {
+      "title": "Cum producem clipuri UGC",
+      "paragraphs": [
+        "UGC bun pare spontan, dar nu este întâmplător. Pornim de la produs și de la cumpărător: ce problemă rezolvă, ce obiecții are clientul înainte să comande, ce îl face să aibă încredere. Din aceste răspunsuri scriem scripturi scurte, în limbaj natural, structurate pe hook, demonstrație și îndemn la acțiune.",
+        "Alegem apoi persoanele potrivite. Pot fi creatori sau actori selectați pentru proiect, în funcție de vârsta, stilul și publicul vizat, sau chiar oameni din echipa dumneavoastră. Le pregătim înainte cu scriptul și cu informațiile despre produs, ca să vorbească firesc și corect.",
+        "Filmăm în stilul platformelor: telefon sau cameră discretă, lumină naturală, cadre apropiate, demonstrații reale. Diferența față de un clip amator stă în sunetul curat, în încadrare și în editare. Pentru reclame livrăm mai multe variante ale aceluiași clip, cu hook-uri diferite, ca să puteți testa ce funcționează și să investiți bugetul în varianta câștigătoare."
+      ]
+    },
+    "includes": {
+      "title": "Ce include producția UGC",
+      "items": [
+        { "title": "Analiză produs și public", "text": "Identificăm beneficiile, obiecțiile și argumentele care contează pentru cumpărătorii dumneavoastră." },
+        { "title": "Scripturi UGC", "text": "Texte scurte, naturale, cu hook, demonstrație și îndemn la acțiune, aprobate înainte de filmare." },
+        { "title": "Selecția creatorilor", "text": "Propunem persoane potrivite pentru public și stil. Onorariile se trec transparent în ofertă." },
+        { "title": "Filmare în stil nativ", "text": "Unboxing, testimonial, tutorial, înainte și după, „o zi din viața mea” sau reacții autentice." },
+        { "title": "Variante de hook", "text": "Același clip cu mai multe începuturi diferite, pentru testare A/B în campanii." },
+        { "title": "Editare și subtitrări", "text": "Montaj în ritmul platformei, subtitrări lizibile, text pe ecran și sunet curat." },
+        { "title": "Formate pentru reclame", "text": "Clipuri 9:16 pentru TikTok, Reels și Stories, plus 1:1 sau 4:5 pentru feed, la cerere." },
+        { "title": "Drepturi de utilizare clare", "text": "Canalele și perioada în care folosiți clipurile, inclusiv în reclame plătite, sunt stabilite în contract." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Producția UGC se potrivește afacerilor care fac reclame online și au nevoie de multe variante creative, testate rapid.",
+      "items": [
+        { "industry": "Magazine online și branduri D2C", "text": "Unboxing-uri, demonstrații și recenzii care reduc ezitarea înainte de comandă." },
+        { "industry": "Cosmetice și produse de îngrijire", "text": "Rutine de aplicare, texturi și rezultate arătate de oameni reali, pe pielea lor." },
+        { "industry": "Aplicații și servicii digitale", "text": "Cineva arată pe ecranul telefonului cum folosește aplicația și ce problemă îi rezolvă." },
+        { "industry": "Restaurante cu livrare și dark kitchens", "text": "Reacții la primul gust, comenzi despachetate acasă și recomandări între prieteni." },
+        { "industry": "Săli de sport și studiouri de fitness", "text": "Membri care povestesc de ce au ales sala, cum arată un antrenament și ce s-a schimbat pentru ei." },
+        { "industry": "Clinici estetice și saloane", "text": "Experiența clientului de la programare la rezultat, prezentată onest și fără promisiuni exagerate." }
+      ]
+    },
+    "process": {
+      "title": "Cum lucrăm",
+      "steps": [
+        { "title": "Brief", "text": "Ne spuneți ce produs promovați, pe ce platforme și ce obiectiv au campaniile. Ne trimiteți mostre, dacă este cazul." },
+        { "title": "Scripturi și creatori", "text": "Vă propunem unghiurile de comunicare, scripturile și persoanele care vor apărea." },
+        { "title": "Filmare", "text": "Filmăm clipurile, cu demonstrații reale și mai multe variante pentru fiecare început." },
+        { "title": "Editare și revizii", "text": "Montăm, adăugăm subtitrări și vă trimitem clipurile pentru feedback." },
+        { "title": "Livrare și testare", "text": "Primiți toate variantele, denumite clar, gata de încărcat în campanii." }
+      ]
+    },
+    "pricingNote": "Proiectele UGC se ofertează după o discuție scurtă, în funcție de numărul de clipuri, de creatori și de drepturile de utilizare. Pentru conținut filmat de echipa noastră, pachetele de mai jos pornesc de la 600 lei + TVA.",
+    "faq": [
+      { "q": "Ce înseamnă UGC?", "a": "UGC vine de la „user-generated content”, adică conținut creat de utilizatori. În reclame, înseamnă clipuri filmate în stilul unei recomandări reale: o persoană vorbește direct la cameră despre produs, îl folosește și spune ce i-a plăcut. Pare natural, de aceea atrage atenția mai ușor decât o reclamă clasică." },
+      { "q": "Cât costă un proiect UGC?", "a": "Prețul depinde de numărul de clipuri, de numărul de creatori, de variantele de hook și de drepturile de utilizare în reclame. De aceea facem oferta după o discuție scurtă. Dacă aveți nevoie mai degrabă de volum de conținut filmat de echipa noastră, pachetele Start și Marketing Pack pornesc de la 600 lei + TVA." },
+      { "q": "Trebuie să vă trimitem produsele?", "a": "Da, pentru produsele fizice avem nevoie de mostre pentru filmare: unboxing, utilizare și cadre apropiate. Stabilim împreună dacă produsele se returnează sau rămân la creatori. Pentru servicii, filmăm la locația dumneavoastră sau în spații potrivite." },
+      { "q": "Putem folosi clipurile în reclame plătite?", "a": "Da, acesta este scopul principal. În contract stabilim clar canalele și perioada de utilizare, pentru că drepturile de folosire în reclame influențează onorariul creatorilor. Așa evitați orice discuție ulterioară." },
+      { "q": "Câte clipuri ar trebui să producem?", "a": "Pentru testare în reclame recomandăm mai multe unghiuri de comunicare și mai multe hook-uri pentru fiecare. Un singur clip nu vă spune ce funcționează. Câteva variante bine gândite vă arată rapid unde merită pus bugetul." },
+      { "q": "Ce diferență este între UGC și influencer marketing?", "a": "La UGC plătiți pentru clipuri pe care le folosiți dumneavoastră, de regulă în reclame, pe conturile brandului. Creatorul nu trebuie să aibă o comunitate mare. La influencer marketing plătiți pentru expunerea în fața urmăritorilor unei persoane. Putem combina cele două, în funcție de obiectiv." },
+      { "q": "Cât durează producția?", "a": "Depinde de numărul de clipuri și de livrarea mostrelor. Scripturile se pregătesc în câteva zile, iar filmarea și editarea urmează imediat după aprobare. Termenul exact îl trecem în ofertă." }
+    ],
+    "closing": {
+      "title": "Aveți nevoie de reclame care nu par reclame?",
+      "text": "Spuneți-ne ce produs promovați și pe ce platforme. Vă propunem unghiuri de comunicare și o ofertă pentru primul lot de clipuri UGC."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru producție de clipuri UGC pentru reclame."
+  },
+  "en": {
+    "name": "UGC video production",
+    "metaTitle": "UGC Video Production for TikTok and Meta Ads",
+    "metaDescription": "Authentic UGC videos for TikTok and Meta ads: scripts, the right creators, filming and editing with hook variants to test. Ask for a quote today.",
+    "h1": "UGC video production that feels natural and sells",
+    "subtitle": "Videos in the style of user-generated content, built with strategy behind them. Real people talk about your product, and your ads feel like recommendations rather than advertising.",
+    "cardDescription": "UGC videos for ads and social media: scripts, creators, filming and editing with multiple hook variants.",
+    "summary": [
+      "Scripts built on your product's real benefits and your customers' objections.",
+      "Creators or actors matched to your audience, or people from your own team.",
+      "Vertical 9:16 videos with several hook variants for ad testing.",
+      "Pricing is quoted after a short call, based on video count and creators."
+    ],
+    "problem": {
+      "title": "Ads that look like ads get skipped",
+      "paragraphs": [
+        "On TikTok and Instagram, people scroll straight past anything that looks like traditional advertising. An over-polished video with a big logo in the first frame screams 'ad' and loses attention in the first second.",
+        "On the other hand, many brands try DIY UGC: they ask a friend to film something on a phone. It feels authentic, but it has no structure. No hook, no clear benefit, weak sound and no call to action at the end. It looks natural, but it doesn't sell."
+      ]
+    },
+    "solution": {
+      "title": "How we produce UGC",
+      "paragraphs": [
+        "Good UGC looks spontaneous, but it isn't accidental. We start with the product and the buyer: what problem it solves, what holds customers back before they order, what makes them trust a brand. From there we write short, natural-sounding scripts structured around a hook, a demonstration and a call to action.",
+        "Next we choose the right people. That can be creators or actors selected for the project based on age, style and audience, or members of your own team. We brief them on the script and the product beforehand, so they speak naturally and accurately.",
+        "We shoot in the native style of each platform: a phone or a discreet camera, natural light, close-ups and real demonstrations. What separates it from amateur footage is clean audio, good framing and sharp editing. For ads, we deliver several versions of each video with different hooks, so you can test what works and put your budget behind the winner."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Product and audience research", "text": "We pin down the benefits, objections and arguments that matter to your buyers." },
+        { "title": "UGC scripts", "text": "Short, natural scripts with a hook, demo and call to action, approved before filming." },
+        { "title": "Creator selection", "text": "We propose people who fit your audience and style. Their fees are listed clearly in the quote." },
+        { "title": "Native-style filming", "text": "Unboxings, testimonials, tutorials, before-and-afters, day-in-the-life clips or genuine reactions." },
+        { "title": "Hook variants", "text": "The same video with several different openings, for A/B testing in your campaigns." },
+        { "title": "Editing and captions", "text": "Platform-paced editing, readable captions, on-screen text and clean sound." },
+        { "title": "Ad-ready formats", "text": "9:16 for TikTok, Reels and Stories, plus 1:1 or 4:5 for the feed on request." },
+        { "title": "Clear usage rights", "text": "The channels and period you can use the videos for, paid ads included, are set out in the contract." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "UGC production suits businesses that advertise online and need plenty of creative variations, tested fast.",
+      "items": [
+        { "industry": "Online stores and D2C brands", "text": "Unboxings, demos and reviews that ease hesitation before checkout." },
+        { "industry": "Cosmetics and skincare", "text": "Application routines, textures and results shown by real people, on their own skin." },
+        { "industry": "Apps and digital services", "text": "Someone shows on their phone screen how they use the app and what it solves for them." },
+        { "industry": "Delivery restaurants and dark kitchens", "text": "First-bite reactions, orders unpacked at home and friends recommending a favourite." },
+        { "industry": "Gyms and fitness studios", "text": "Members explaining why they joined, what a session looks like and what changed for them." },
+        { "industry": "Aesthetic clinics and salons", "text": "The client journey from booking to result, presented honestly and without overpromising." }
+      ]
+    },
+    "process": {
+      "title": "How it works",
+      "steps": [
+        { "title": "Brief", "text": "Tell us the product, the platforms and the campaign goal. Send samples if relevant." },
+        { "title": "Scripts and creators", "text": "We propose messaging angles, scripts and the people who will appear." },
+        { "title": "Filming", "text": "We shoot the videos with real demonstrations and several takes of each opening." },
+        { "title": "Editing and revisions", "text": "We edit, add captions and send the videos for your feedback." },
+        { "title": "Delivery and testing", "text": "You receive every variant, clearly labelled and ready to upload to your campaigns." }
+      ]
+    },
+    "pricingNote": "UGC projects are quoted after a short call, based on the number of videos, creators and usage rights. For content filmed by our own team, the packages below start at 600 RON + VAT.",
+    "faq": [
+      { "q": "What is UGC?", "a": "UGC stands for user-generated content. In advertising, it means videos shot in the style of a genuine recommendation: someone talks straight to camera about a product, uses it and says what they liked. It feels natural, which is why it grabs attention more easily than a classic ad." },
+      { "q": "How much does a UGC project cost?", "a": "It depends on the number of videos, the number of creators, how many hook variants you need and the ad usage rights. That's why we quote after a short call. If what you mainly need is volume filmed by our own team, the Start and Marketing Pack packages begin at 600 RON + VAT." },
+      { "q": "Do we need to send you products?", "a": "Yes. For physical products we need samples for the shoot: unboxing, use and close-ups. We'll agree whether they're returned or kept by the creators. For services, we film at your location or in a suitable space." },
+      { "q": "Can we use the videos in paid ads?", "a": "Yes, that's the main point. The contract sets out the channels and usage period clearly, because paid-ad rights affect creator fees. That way there's no room for disputes later." },
+      { "q": "How many videos should we make?", "a": "For ad testing, we recommend several messaging angles, each with a few hooks. One video won't tell you what works. A handful of well-planned variants quickly shows you where your budget belongs." },
+      { "q": "How is UGC different from influencer marketing?", "a": "With UGC, you pay for videos you run yourself, usually as ads from your brand's accounts. The creator doesn't need a big following. With influencer marketing, you pay for exposure to someone's audience. We can combine the two, depending on your goal." },
+      { "q": "How long does production take?", "a": "It depends on the number of videos and when samples arrive. Scripts take a few days, and filming and editing follow straight after approval. The exact timeline goes in your quote." }
+    ],
+    "closing": {
+      "title": "Need ads that don't feel like ads?",
+      "text": "Tell us what you're promoting and where. We'll suggest messaging angles and a quote for your first batch of UGC videos."
+    },
+    "whatsapp": "Hello, I'd like a quote for UGC videos for our ads."
+  }
+}

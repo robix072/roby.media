@@ -1,0 +1,176 @@
+{
+  "_comment": "Pagina /servicii/influencer-marketing (EN: /en/services/influencer-marketing). Fără pachet fix: ofertă la cerere. Onorariile creatorilor sunt separate.",
+  "id": "influencer-marketing",
+  "category": "marketing",
+  "order": 60,
+  "slug": { "ro": "influencer-marketing", "en": "influencer-marketing" },
+  "icon": "star",
+  "packageGroup": null,
+  "priceFrom": null,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["tiktok-social", "campanii"],
+  "related": ["productie-ugc", "marketing-tiktok", "reclame-tiktok-ads", "strategie-marketing"],
+  "localService": null,
+  "ro": {
+    "name": "Influencer marketing",
+    "metaTitle": "Agenție influencer marketing: campanii cu creatori",
+    "metaDescription": "Campanii de influencer marketing: selecția creatorilor, verificarea audienței, brief, contract și raport. Ofertă la cerere. Scrieți-ne pentru o propunere.",
+    "h1": "Influencer marketing cu creatori aleși după public, nu după numărul de urmăritori",
+    "subtitle": "Găsim creatorii potriviți pentru brandul dumneavoastră, negociem, coordonăm conținutul și măsurăm ce aduce fiecare colaborare. Fără urmăritori cumpărați și fără postări care arată a reclamă forțată.",
+    "cardDescription": "Campanii cu influenceri și creatori de conținut: selecție, verificare, brief, coordonare și raportare pe rezultate.",
+    "summary": [
+      "Selectăm creatori după publicul real: oraș, vârstă, interese, calitatea interacțiunilor.",
+      "Ne ocupăm de brief, negociere, contract, drepturi de utilizare și calendarul postărilor.",
+      "Urmărim rezultatele cu linkuri și coduri dedicate, nu doar prin like-uri.",
+      "Ofertă la cerere, după o discuție scurtă. Onorariile creatorilor se stabilesc separat."
+    ],
+    "problem": {
+      "title": "De ce multe colaborări cu influenceri nu aduc nimic",
+      "paragraphs": [
+        "Varianta tipică arată așa: alegeți pe cineva cunoscut, plătiți o postare, apare o poveste de 24 de ore și atât. Câteva vizualizări, niciun client nou și nicio idee dacă banii au contat.",
+        "Cauzele sunt aproape mereu aceleași. Influencerul a fost ales după numărul de urmăritori, nu după cine îl urmărește. O parte din audiență este din alt oraș, din altă țară sau pur și simplu nu este reală. Mesajul a fost impus rigid și sună a reclamă citită. Iar colaborarea a fost una singură, deși încrederea se construiește prin repetiție.",
+        "Mai este și partea pe care puțini o discută: contractul. Cine deține clipul? Îl puteți folosi în reclame? Cât timp? Fără răspunsuri scrise, conflictele apar exact când conținutul funcționează bine."
+      ]
+    },
+    "solution": {
+      "title": "Cum organizăm o campanie cu creatori",
+      "paragraphs": [
+        "Pornim de la obiectiv: notorietate la lansare, vânzări online, clienți într-un anumit oraș sau conținut autentic pentru reclame. Obiectivul decide tipul de creatori. Pentru o afacere locală, câțiva micro-influenceri din oraș pot fi mai utili decât un nume național.",
+        "Verificăm fiecare creator înainte de a vi-l propune. Ne uităm la statisticile audienței, cerute direct de la creator, la calitatea comentariilor, la consistența vizualizărilor și la colaborările anterioare. Vă prezentăm o listă scurtă, cu motivul pentru care fiecare se potrivește.",
+        "Scriem un brief clar, dar lăsăm creatorului libertatea să vorbească în stilul lui, pentru că publicul lui are încredere în vocea aceea. Contractul stabilește livrabilele, termenele, marcarea colaborării ca publicitate și drepturile de utilizare. Fiecare creator primește link sau cod propriu, ca să vedem cine aduce rezultate. Cele mai bune clipuri pot fi apoi promovate ca reclame, cu acordul creatorului, prin formatele de parteneriat ale TikTok și Meta."
+      ]
+    },
+    "includes": {
+      "title": "Ce include serviciul de influencer marketing",
+      "items": [
+        { "title": "Strategia campaniei", "text": "Obiective, public țintă, tipul și numărul de creatori, platforme și calendar." },
+        { "title": "Selecție și verificare", "text": "Listă scurtă de creatori potriviți, cu statistici de audiență și verificarea interacțiunilor reale." },
+        { "title": "Negociere și contract", "text": "Onorarii, livrabile, termene, exclusivitate și drepturi de utilizare a conținutului, puse pe hârtie." },
+        { "title": "Brief creativ", "text": "Mesajele cheie și ce nu trebuie spus, cu suficientă libertate ca rezultatul să sune natural." },
+        { "title": "Aprobare și coordonare", "text": "Verificăm conținutul înainte de publicare și ne asigurăm că totul apare la data stabilită." },
+        { "title": "Marcarea corectă a colaborării", "text": "Colaborările plătite sunt semnalate clar, conform regulilor platformelor și legislației aplicabile." },
+        { "title": "Tracking dedicat", "text": "Linkuri cu parametri UTM și coduri de reducere unice pentru fiecare creator." },
+        { "title": "Raport final", "text": "Acoperire, vizualizări, click-uri, coduri folosite și recomandări pentru următoarea campanie." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine funcționează influencer marketingul",
+      "intro": "Funcționează cel mai bine când produsul poate fi încercat, arătat sau recomandat de cineva în care publicul are încredere.",
+      "items": [
+        { "industry": "Restaurante și cafenele noi", "text": "Creatori locali de food care vin, gustă și povestesc. Oamenii din oraș află de deschidere din surse în care au încredere." },
+        { "industry": "Branduri de cosmetice și beauty", "text": "Teste reale de produs, rutine și rezultate arătate de creatori din nișă." },
+        { "industry": "Magazine online", "text": "Unboxing și recenzii cu cod de reducere unic, ca vânzările să poată fi atribuite fiecărui creator." },
+        { "industry": "Hoteluri, pensiuni și turism", "text": "Sejururi documentate de creatori de travel, cu conținut refolosibil pe site și în reclame." },
+        { "industry": "Săli de fitness și studiouri", "text": "Creatori care se antrenează efectiv la dumneavoastră și își arată progresul, nu doar o fotografie." },
+        { "industry": "Dealeri auto", "text": "Test drive-uri filmate de creatori auto, pentru modele noi sau oferte din stoc." },
+        { "industry": "Evenimente și festivaluri", "text": "Anunțuri, concursuri și conținut din timpul evenimentului, care susțin vânzarea de bilete." }
+      ]
+    },
+    "process": {
+      "title": "Etapele unei campanii",
+      "steps": [
+        { "title": "Discuție și obiectiv", "text": "Aflăm ce promovați, cui și cu ce buget total. Vă spunem sincer dacă influencer marketingul este canalul potrivit." },
+        { "title": "Propunerea de creatori", "text": "Primiți o listă scurtă, cu date de audiență și onorarii estimate. Dumneavoastră decideți." },
+        { "title": "Contracte și brief", "text": "Negociem, semnăm și trimitem brieful. Creatorii primesc produsul sau vă vizitează." },
+        { "title": "Conținut și publicare", "text": "Verificăm materialele, apoi urmărim publicarea la datele stabilite." },
+        { "title": "Măsurare și raport", "text": "Strângem datele și vă arătăm ce a funcționat și ce merită repetat." }
+      ]
+    },
+    "pricingNote": "Nu avem un pachet fix pentru influencer marketing. Oferta se face la cerere, după o discuție scurtă, și include coordonarea campaniei. Onorariile creatorilor și eventualul buget de promovare plătită sunt separate.",
+    "faq": [
+      { "q": "Ce buget ne trebuie pentru o campanie cu influenceri?", "a": "Bugetul are două părți: onorariile creatorilor și coordonarea campaniei. Onorariile variază mult în funcție de mărimea audienței, nișă și tipul de conținut. După ce ne spuneți obiectivul, vă propunem o variantă realistă și creatori care se încadrează." },
+      { "q": "Cum știm că urmăritorii unui influencer sunt reali?", "a": "Cerem statisticile audienței direct din aplicație, analizăm calitatea comentariilor și constanța vizualizărilor. Nicio verificare nu este perfectă, dar eliminăm din start conturile cu semne clare de urmăritori cumpărați sau audiență nepotrivită." },
+      { "q": "Ce rezultate putem aștepta?", "a": "Nu garantăm vânzări sau un număr de urmăritori noi. Rezultatul depinde de produs, ofertă, potrivirea creatorului și de repetiție. O singură postare rareori schimbă ceva. Colaborările repetate, pe mai multe luni, construiesc încredere. Măsurăm tot ce se poate măsura, ca să decidem pe date." },
+      { "q": "Putem folosi clipurile creatorilor în reclame?", "a": "Da, dacă acest lucru este prevăzut în contract. Negociem de la început drepturile de utilizare: unde, cât timp și în ce format. Cele mai bune clipuri pot fi promovate ca reclame prin formatele de parteneriat TikTok și Meta." },
+      { "q": "Cine semnează contractele cu influencerii?", "a": "Stabilim împreună. De obicei negociem noi și pregătim condițiile, iar contractul se încheie astfel încât drepturile asupra conținutului să ajungă la firma dumneavoastră. Totul se discută transparent înainte de semnare." },
+      { "q": "Cât durează organizarea unei campanii?", "a": "De la discuția inițială până la primele postări trec de obicei câteva săptămâni: selecție, negociere, livrarea produselor și crearea conținutului. Pentru lansări cu dată fixă, vă recomandăm să ne contactați din timp." },
+      { "q": "Ce primim la final?", "a": "Un raport cu acoperirea, vizualizările, click-urile și codurile folosite pentru fiecare creator, plus clipurile, dacă drepturile au fost incluse. Și recomandări clare: cu cine merită să continuați și ce schimbăm data viitoare." }
+    ],
+    "closing": {
+      "title": "Găsim creatorii potriviți pentru brandul dumneavoastră",
+      "text": "Spuneți-ne ce promovați și în ce zonă. Vă trimitem o primă direcție și tipul de creatori pe care i-am propune."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru o campanie de influencer marketing. Produsul/serviciul: ..., zona: ..."
+  },
+  "en": {
+    "name": "Influencer marketing",
+    "metaTitle": "Influencer Marketing Agency: Creator Campaigns",
+    "metaDescription": "Influencer marketing campaigns: creator selection, audience checks, briefs, contracts and reporting. Quoted per project. Message us for a proposal.",
+    "h1": "Influencer marketing with creators chosen for their audience, not their follower count",
+    "subtitle": "We find the right creators for your brand, negotiate, coordinate the content and measure what each partnership delivers. No bought followers, no posts that feel like forced ads.",
+    "cardDescription": "Influencer and creator campaigns: selection, vetting, briefing, coordination and results-based reporting.",
+    "summary": [
+      "Creators selected for their real audience: city, age, interests and quality of engagement.",
+      "We handle the brief, negotiation, contract, usage rights and the posting schedule.",
+      "Results tracked with dedicated links and codes, not just likes.",
+      "Quoted per project after a short call. Creator fees are agreed separately."
+    ],
+    "problem": {
+      "title": "Why so many influencer deals deliver nothing",
+      "paragraphs": [
+        "It usually goes like this. You pick someone well known, pay for a post, a story runs for 24 hours and that's it. A few views, no new customers and no idea whether the money mattered.",
+        "The causes are nearly always the same. The influencer was chosen on follower count, not on who those followers are. Part of the audience lives in another city or country, or simply isn't real. The message was scripted so tightly it sounds like a read-out ad. And it was a one-off, even though trust is built through repetition.",
+        "Then there's the part few people talk about: the contract. Who owns the video? Can you run it as an ad? For how long? Without written answers, disputes tend to surface exactly when the content starts performing."
+      ]
+    },
+    "solution": {
+      "title": "How we run a creator campaign",
+      "paragraphs": [
+        "We start from the goal: awareness for a launch, online sales, customers in a specific city, or authentic content for ads. The goal decides the kind of creator. For a local business, a handful of micro-influencers from the same city can be worth more than one national name.",
+        "Every creator is vetted before we suggest them. We look at audience insights requested directly from the creator, the quality of comments, how consistent their views are and who they've worked with before. You get a shortlist, with the reason each one fits.",
+        "We write a clear brief but leave creators free to speak in their own style, because that voice is what their audience trusts. The contract covers deliverables, deadlines, clear ad disclosure and usage rights. Each creator gets their own link or code so we can see who drives results. The strongest videos can then be boosted as ads, with the creator's consent, using TikTok's and Meta's partnership ad formats."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Campaign strategy", "text": "Goals, target audience, type and number of creators, platforms and timeline." },
+        { "title": "Selection and vetting", "text": "A shortlist of well-matched creators, with audience data and checks for genuine engagement." },
+        { "title": "Negotiation and contracts", "text": "Fees, deliverables, deadlines, exclusivity and content usage rights, all in writing." },
+        { "title": "Creative brief", "text": "Key messages and no-go areas, with enough freedom for the result to sound natural." },
+        { "title": "Approval and coordination", "text": "We review content before it goes live and make sure everything posts on schedule." },
+        { "title": "Proper ad disclosure", "text": "Paid partnerships are clearly labelled, in line with platform rules and applicable law." },
+        { "title": "Dedicated tracking", "text": "UTM-tagged links and unique discount codes for every creator." },
+        { "title": "Wrap-up report", "text": "Reach, views, clicks, codes redeemed and recommendations for the next campaign." }
+      ]
+    },
+    "audience": {
+      "title": "Who influencer marketing works for",
+      "intro": "It works best when your product can be tried, shown or recommended by someone the audience already trusts.",
+      "items": [
+        { "industry": "New restaurants and cafés", "text": "Local food creators who visit, taste and tell their followers. People hear about the opening from sources they trust." },
+        { "industry": "Cosmetics and beauty brands", "text": "Genuine product tests, routines and results shown by creators in the niche." },
+        { "industry": "Online shops", "text": "Unboxings and reviews with a unique discount code, so sales can be attributed to each creator." },
+        { "industry": "Hotels, guesthouses and tourism", "text": "Stays documented by travel creators, with content you can reuse on your site and in ads." },
+        { "industry": "Gyms and studios", "text": "Creators who actually train with you and show their progress, not just a single photo." },
+        { "industry": "Car dealers", "text": "Test drives filmed by automotive creators, for new models or in-stock offers." },
+        { "industry": "Events and festivals", "text": "Announcements, giveaways and on-the-day content that support ticket sales." }
+      ]
+    },
+    "process": {
+      "title": "Campaign stages",
+      "steps": [
+        { "title": "Call and goal", "text": "We learn what you're promoting, to whom and with what total budget, and tell you honestly if influencer marketing is the right channel." },
+        { "title": "Creator proposal", "text": "You get a shortlist with audience data and estimated fees. The final call is yours." },
+        { "title": "Contracts and brief", "text": "We negotiate, sign and send the brief. Creators receive the product or come to visit you." },
+        { "title": "Content and publishing", "text": "We review the material, then track publishing against the agreed dates." },
+        { "title": "Measurement and report", "text": "We gather the data and show you what worked and what's worth repeating." }
+      ]
+    },
+    "pricingNote": "There's no fixed package for influencer marketing. We quote on request after a short call, covering campaign coordination. Creator fees and any paid promotion budget are separate.",
+    "faq": [
+      { "q": "What budget do we need for an influencer campaign?", "a": "The budget has two parts: creator fees and campaign coordination. Fees vary widely with audience size, niche and content type. Once you tell us your goal, we'll suggest a realistic setup and creators who fit within it." },
+      { "q": "How do we know an influencer's followers are real?", "a": "We ask for audience insights straight from the app and look at comment quality and how steady their views are. No check is perfect, but we rule out accounts with clear signs of bought followers or the wrong audience from the start." },
+      { "q": "What results can we expect?", "a": "We don't guarantee sales or a number of new followers. Results depend on the product, the offer, how well the creator fits and repetition. A single post rarely moves the needle; repeated partnerships over several months build trust. We measure everything that can be measured, so decisions are based on data." },
+      { "q": "Can we use creators' videos in our ads?", "a": "Yes, if the contract allows it. We negotiate usage rights up front: where, for how long and in what format. The best-performing videos can then run as ads through TikTok's and Meta's partnership formats." },
+      { "q": "Who signs the contracts with influencers?", "a": "We agree that together. Usually we negotiate and draft the terms, and the contract is set up so that rights to the content sit with your company. Everything is discussed openly before anything is signed." },
+      { "q": "How long does it take to organise a campaign?", "a": "From first call to first posts usually takes a few weeks: selection, negotiation, product delivery and content creation. If you have a fixed launch date, get in touch early." },
+      { "q": "What do we get at the end?", "a": "A report with reach, views, clicks and codes redeemed for each creator, plus the videos themselves if rights were included. And clear recommendations: who's worth working with again and what to change next time." }
+    ],
+    "closing": {
+      "title": "Let's find the right creators for your brand",
+      "text": "Tell us what you're promoting and where. We'll send you an initial direction and the kind of creators we'd suggest."
+    },
+    "whatsapp": "Hello, I'd like a quote for an influencer marketing campaign. Product/service: ..., area: ..."
+  }
+}

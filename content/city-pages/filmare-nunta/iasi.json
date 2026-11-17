@@ -1,0 +1,77 @@
+{
+  "ready": true,
+  "service": "filmare-nunta",
+  "city": "iasi",
+  "metaTitle": "Filmare nuntă Iași, film cinematic 4K",
+  "metaDescription": "Filmare nuntă în Iași și județul Iași: Copou, Palatul Culturii, conace și podgorii. Film 4K, teaser în 7 zile. De la 3.500 lei. Cereți oferta.",
+  "h1": "Filmare nuntă în Iași",
+  "subtitle": "Film de nuntă cinematic 4K în Iași și în județ, pentru nunți moldovenești cu mulți invitați, emoție și petreceri până dimineața.",
+  "summary": [
+    "Filmăm nunți în Iași, în localitățile din jur și în tot județul Iași.",
+    "Suntem pregătiți pentru nunți mari și programe lungi, până la ultimul moment al serii.",
+    "Pachete de la 3.500 lei (Essential) și 6.000 lei (Cinematic), fără TVA.",
+    "Contract, factură și termene de livrare stabilite de la început."
+  ],
+  "intro": [
+    "Nunțile din Iași și din Moldova au de obicei mulți invitați, nași foarte implicați și o petrecere care ține până dimineața. Momentele tradiționale, de la ieșirea de acasă a miresei la jocurile din timpul serii, sunt importante pentru familie și trebuie filmate cu grijă, nu doar bifate.",
+    "Pentru o asemenea zi, felul în care este organizată echipa contează. Cu doi videografi putem urmări în paralel mirii și invitații, iar la o nuntă lungă ne asigurăm că avem baterii, carduri și energie pentru ultimele ore. Ne spuneți ce momente țineți neapărat să apară, iar noi le includem în planul zilei.",
+    "Iașul are și cadrul potrivit pentru un film elegant: clădiri istorice, parcuri vechi cu alei umbrite, biserici cu o arhitectură aparte și, în afara orașului, dealuri, păduri și podgorii. Pornim de la locurile alese de dumneavoastră și construim povestea zilei în jurul lor."
+  ],
+  "local": {
+    "title": "Locuri și tipuri de locații pentru nunți în zona Iașului",
+    "text": "Nu recomandăm saloane sau restaurante anume. Vă descriem tipurile de locuri preferate de mirii din Iași și ce înseamnă fiecare pentru filmare.",
+    "items": [
+      {
+        "title": "Palatul Culturii și centrul orașului",
+        "text": "Esplanada din fața Palatului Culturii, bulevardul Ștefan cel Mare și Sfânt și zona Mitropoliei sunt alese des pentru cadre urbane elegante. Recomandăm ore cu mai puțini trecători."
+      },
+      {
+        "title": "Parcul Copou",
+        "text": "Unul dintre cele mai vechi parcuri din oraș, cunoscut pentru Teiul lui Eminescu. Aleile umbrite dau lumină plăcută chiar și la amiază, potrivită pentru sesiunea de nuntă."
+      },
+      {
+        "title": "Grădina Botanică",
+        "text": "Grădina Botanică a universității este una dintre cele mai mari din țară și oferă decoruri diferite de la un sezon la altul. Accesul pentru ședințe foto și video se face după regulile administrației."
+      },
+      {
+        "title": "Biserici istorice",
+        "text": "Iașul are biserici și mănăstiri vechi cu valoare istorică, alese pentru cununia religioasă. Regulile privind locul operatorilor diferă, așa că le aflăm înainte de ziua nunții."
+      },
+      {
+        "title": "Lacuri și păduri din jur",
+        "text": "Lacul Ciric, pădurea de la Bârnova și dealul Bucium sunt aproape de oraș și potrivite pentru o sesiune în natură sau pentru un after wedding."
+      },
+      {
+        "title": "Palate, conace și podgorii din județ",
+        "text": "Palatele și castelele istorice din județ, cum sunt cele de la Ruginoasa sau Miclăușeni, precum și podgoria Cotnari oferă cadre deosebite. Condițiile de acces se stabilesc cu administratorii fiecărui loc."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Deplasare în Iași și în județul Iași",
+    "text": "Filmăm în Iași, în localitățile din zona metropolitană și în tot județul, inclusiv Pașcani sau Hârlău, dar și în județele din jur, cum sunt Vaslui, Neamț, Botoșani sau Suceava. Costul deplasării și al eventualei cazări pentru echipă apare separat și transparent în ofertă."
+  },
+  "faq": [
+    {
+      "q": "Filmați și nunți în județul Iași sau în județele vecine?",
+      "a": "Da. Lucrăm în tot județul și în restul Moldovei. Dacă locația presupune un drum mai lung, costul deplasării apare clar în ofertă."
+    },
+    {
+      "q": "Rămâneți până la finalul petrecerii?",
+      "a": "Depinde de pachet. Stabilim de la început câte ore de filmare includem și ce momente din a doua parte a serii vreți neapărat în film. Orele suplimentare se pot adăuga din timp."
+    },
+    {
+      "q": "Filmați și obiceiurile tradiționale?",
+      "a": "Da. Ne spuneți ce obiceiuri urmează, de la pregătirile miresei la momentele cu nașii, și le includem în planul zilei, ca să fim în locul potrivit."
+    },
+    {
+      "q": "Se poate folosi drona la o nuntă în Iași?",
+      "a": "Acolo unde este permis. Aeroportul Iași este aproape de oraș, iar unele zone urbane au restricții. Verificăm fiecare locație înainte și zburăm doar unde regulile permit."
+    },
+    {
+      "q": "Cu cât timp înainte trebuie să rezervăm?",
+      "a": "Pentru sâmbetele de vară recomandăm 6–12 luni. Data se rezervă cu un avans, pe bază de contract cu ROBY MEDIA SRL."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru filmare nuntă în Iași. Data nunții este: "
+}

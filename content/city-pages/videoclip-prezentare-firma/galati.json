@@ -1,0 +1,53 @@
+{
+  "_comment": "Pagina /videoclip-prezentare-firma-galati. SCHELET: are noindex și nu apare în sitemap până puneți \"ready\": true.",
+  "_TODO": [
+    "Scrieți un paragraf introductiv propriu pentru Galați (intro), nu copiat din alt oraș.",
+    "Completați „local” cu locații, zone sau industrii reale din Galați.",
+    "Adăugați 3–5 întrebări FAQ locale.",
+    "Când conținutul e complet și unic, puneți \"ready\": true."
+  ],
+  "ready": false,
+  "service": "videoclip-prezentare-firma",
+  "city": "galati",
+  "metaTitle": "Videoclip de prezentare firmă Galați | Roby Media",
+  "metaDescription": "Videoclipuri de prezentare pentru firme în Galați. Echipă care se deplasează în tot județul Galați. Cereți o ofertă pe WhatsApp sau prin formular.",
+  "h1": "Videoclip de prezentare firmă în Galați",
+  "subtitle": "Videoclipuri de prezentare pentru firme în Galați și în județul Galați.",
+  "summary": [
+    "Lucrăm în Galați și în localitățile din județul Galați.",
+    "Ofertă clară, primită de regulă în aceeași zi lucrătoare.",
+    "Contract, factură și termene de livrare stabilite de la început."
+  ],
+  "intro": [
+    "TODO: paragraf introductiv unic despre videoclip de prezentare în Galați."
+  ],
+  "local": {
+    "title": "Videoclip de prezentare firmă în Galați: ce trebuie să știți",
+    "text": "TODO: context local pentru Galați.",
+    "items": [
+      {
+        "title": "TODO",
+        "text": "TODO: locație, zonă sau industrie relevantă din Galați."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Deplasare în Galați",
+    "text": "Echipa noastră se deplasează în Galați și în județul Galați. Costul deplasării, dacă există, apare transparent în ofertă."
+  },
+  "faq": [
+    {
+      "q": "Lucrați în Galați?",
+      "a": "Da. Lucrăm cu clienți în Galați și din tot județul Galați. Costul deplasării apare transparent în ofertă."
+    },
+    {
+      "q": "Cât de repede primim o ofertă?",
+      "a": "De regulă în aceeași zi lucrătoare. Cel mai rapid ne găsiți pe WhatsApp sau la telefon."
+    },
+    {
+      "q": "Lucrați pe bază de contract?",
+      "a": "Da. ROBY MEDIA SRL emite factură, iar livrabilele, termenele și plățile sunt trecute în contract."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru un videoclip de prezentare în Galați."
+}

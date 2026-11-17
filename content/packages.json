@@ -1,0 +1,348 @@
+{
+  "_comment": "Toate pachetele și prețurile. Prețurile sunt în lei, fără TVA. \"from\": true afișează „de la”. \"period\": \"luna\" afișează „/ lună”. \"featured\": true pune badge-ul „Cel mai ales” (unul singur pe grupă). \"price\": null afișează „la cerere”.",
+  "currency": "lei",
+  "disclaimer": {
+    "ro": "Prețurile nu includ TVA și nici bugetul de reclame. Oferta finală se stabilește după o discuție scurtă.",
+    "en": "Prices exclude VAT and ad spend. Your final quote is confirmed after a short call."
+  },
+  "groups": [
+    {
+      "id": "social",
+      "title": { "ro": "TikTok & Social Media", "en": "TikTok & Social Media" },
+      "intro": {
+        "ro": "Conținut video scurt care oprește scroll-ul și aduce clienți. De la un pachet de clipuri până la conturi administrate complet.",
+        "en": "Short-form video that stops the scroll and brings in customers. From a one-off batch of clips to fully managed accounts."
+      },
+      "serviceId": "marketing-tiktok",
+      "packages": [
+        {
+          "id": "start",
+          "name": "Start",
+          "price": 600,
+          "description": {
+            "ro": "Pentru afacerile care vor să testeze TikTok și Reels fără un buget mare.",
+            "en": "For businesses that want to test TikTok and Reels without a big budget."
+          },
+          "features": {
+            "ro": ["10 clipuri TikTok / Reels", "1 zi de filmare", "Scripturi și hook-uri", "Editare și subtitrare", "Muzică în trend"],
+            "en": ["10 TikTok / Reels clips", "1 shooting day", "Scripts and hooks", "Editing and subtitles", "Trending music"]
+          }
+        },
+        {
+          "id": "marketing-pack",
+          "name": "Marketing Pack",
+          "price": 1000,
+          "featured": true,
+          "description": {
+            "ro": "Cel mai bun raport între cost și rezultat: conținut pentru o lună întreagă, gata de postat.",
+            "en": "The best value for results: a full month of content, ready to post."
+          },
+          "features": {
+            "ro": ["20 clipuri TikTok / Reels complete", "Strategie de conținut", "Scripturi și copywriting", "Filmare 1–2 zile", "Editare dinamică și subtitrare", "Muzică, descrieri și hashtag-uri", "Calendar de postare"],
+            "en": ["20 finished TikTok / Reels clips", "Content strategy", "Scripts and copywriting", "1–2 shooting days", "Dynamic editing and subtitles", "Music, captions and hashtags", "Posting calendar"]
+          }
+        },
+        {
+          "id": "growth",
+          "name": "Growth",
+          "price": 1900,
+          "period": "luna",
+          "description": {
+            "ro": "Prezență constantă pe TikTok și Instagram, fără să vă ocupați dumneavoastră de nimic.",
+            "en": "A consistent presence on TikTok and Instagram, without lifting a finger."
+          },
+          "features": {
+            "ro": ["30 clipuri pe lună", "Postare și management TikTok și Instagram", "Răspuns la comentarii", "Raport lunar"],
+            "en": ["30 clips per month", "Posting and management on TikTok and Instagram", "Comment replies", "Monthly report"]
+          }
+        },
+        {
+          "id": "all-in-brand",
+          "name": "All-In Brand",
+          "price": 2900,
+          "period": "luna",
+          "description": {
+            "ro": "Conținut, comunitate și reclame plătite, gestionate de aceeași echipă.",
+            "en": "Content, community and paid ads, all handled by one team."
+          },
+          "features": {
+            "ro": ["Tot ce include Growth", "Campanii TikTok Ads / Meta Ads", "Optimizare săptămânală", "Raport de performanță"],
+            "en": ["Everything in Growth", "TikTok Ads / Meta Ads campaigns", "Weekly optimisation", "Performance report"]
+          }
+        }
+      ]
+    },
+    {
+      "id": "ads",
+      "title": { "ro": "Reclame (management campanii)", "en": "Paid Ads (campaign management)" },
+      "intro": {
+        "ro": "Campanii pe Meta, TikTok și Google, setate pentru conversii și optimizate constant. Bugetul de reclame se plătește direct platformelor.",
+        "en": "Meta, TikTok and Google campaigns built for conversions and optimised continuously. Ad spend is paid directly to the platforms."
+      },
+      "serviceId": "reclame-facebook-instagram",
+      "packages": [
+        {
+          "id": "ads-start",
+          "name": "Ads Start",
+          "price": 900,
+          "period": "luna",
+          "description": {
+            "ro": "Un canal de reclame configurat corect, cu măsurare reală a rezultatelor.",
+            "en": "One ad channel set up properly, with real conversion tracking."
+          },
+          "features": {
+            "ro": ["1 platformă (Meta, TikTok sau Google)", "Setare pixel și conversii", "2 campanii", "Raport lunar"],
+            "en": ["1 platform (Meta, TikTok or Google)", "Pixel and conversion setup", "2 campaigns", "Monthly report"]
+          }
+        },
+        {
+          "id": "ads-pro",
+          "name": "Ads Pro",
+          "price": 1600,
+          "period": "luna",
+          "featured": true,
+          "description": {
+            "ro": "Două canale, testare continuă și retargeting pentru clienții care nu au cumpărat încă.",
+            "en": "Two channels, continuous testing and retargeting for people who haven't bought yet."
+          },
+          "features": {
+            "ro": ["2 platforme", "Campanii nelimitate", "Testare creative", "Retargeting", "Raport la 2 săptămâni"],
+            "en": ["2 platforms", "Unlimited campaigns", "Creative testing", "Retargeting", "Report every 2 weeks"]
+          }
+        },
+        {
+          "id": "ads-creative",
+          "name": "Ads + Creative",
+          "price": 2500,
+          "period": "luna",
+          "description": {
+            "ro": "Reclamele și clipurile publicitare făcute de aceeași echipă, ca să testăm rapid ce vinde.",
+            "en": "Ads and ad creatives from the same team, so we can test what sells, fast."
+          },
+          "features": {
+            "ro": ["Tot ce include Ads Pro", "8 clipuri publicitare produse de noi pe lună"],
+            "en": ["Everything in Ads Pro", "8 ad videos produced by us every month"]
+          }
+        }
+      ]
+    },
+    {
+      "id": "website",
+      "title": { "ro": "Website", "en": "Websites" },
+      "intro": {
+        "ro": "Site-uri rapide, construite să transforme vizitatorii în clienți, cu tracking pregătit pentru reclame.",
+        "en": "Fast websites built to turn visitors into customers, with tracking ready for ads."
+      },
+      "serviceId": "creare-site-prezentare",
+      "packages": [
+        {
+          "id": "landing-page",
+          "name": "Landing Page",
+          "price": 1500,
+          "from": true,
+          "description": {
+            "ro": "O singură pagină, un singur scop: cereri de ofertă din campanii.",
+            "en": "One page, one goal: leads from your campaigns."
+          },
+          "features": {
+            "ro": ["1 pagină de conversie", "Copywriting", "Formular și WhatsApp", "Tracking pentru reclame"],
+            "en": ["1 conversion page", "Copywriting", "Form and WhatsApp", "Ad tracking"]
+          }
+        },
+        {
+          "id": "site-prezentare",
+          "name": "Site Prezentare",
+          "price": 2900,
+          "from": true,
+          "featured": true,
+          "description": {
+            "ro": "Site-ul complet al firmei, cu design premium și bazele SEO puse corect.",
+            "en": "Your complete business website, with premium design and solid SEO foundations."
+          },
+          "features": {
+            "ro": ["Până la 6 pagini", "Design premium", "SEO de bază", "Bilingv opțional"],
+            "en": ["Up to 6 pages", "Premium design", "Core SEO", "Optional second language"]
+          }
+        },
+        {
+          "id": "magazin-online",
+          "name": "Magazin Online",
+          "price": 5900,
+          "from": true,
+          "description": {
+            "ro": "Magazin online gata de vânzare, inclusiv fotografii de produs.",
+            "en": "An online store ready to sell, product photos included."
+          },
+          "features": {
+            "ro": ["Platformă e-commerce", "Plăți online", "Integrare curierat", "Fotografie de produs (până la 20 de produse)"],
+            "en": ["E-commerce platform", "Online payments", "Courier integration", "Product photography (up to 20 products)"]
+          }
+        }
+      ]
+    },
+    {
+      "id": "productie",
+      "title": { "ro": "Producție foto-video pentru firme", "en": "Photo & video production for businesses" },
+      "intro": {
+        "ro": "Imagini care fac produsele și serviciile dumneavoastră să arate la nivelul pe care îl merită.",
+        "en": "Visuals that make your products and services look as good as they really are."
+      },
+      "serviceId": "videoclip-prezentare-firma",
+      "packages": [
+        {
+          "id": "foto-produs",
+          "name": "Foto Produs",
+          "price": 500,
+          "from": true,
+          "description": {
+            "ro": "Fotografii curate pentru magazin online, marketplace și reclame.",
+            "en": "Clean product photos for your store, marketplaces and ads."
+          },
+          "features": {
+            "ro": ["Până la 15 produse", "Fundal alb și lifestyle", "Retuș"],
+            "en": ["Up to 15 products", "White background and lifestyle", "Retouching"]
+          }
+        },
+        {
+          "id": "video-prezentare",
+          "name": "Video Prezentare",
+          "price": 1800,
+          "from": true,
+          "featured": true,
+          "description": {
+            "ro": "Clipul care explică în două minute de ce merită să lucreze cineva cu firma dumneavoastră.",
+            "en": "The video that explains, in two minutes, why people should choose your business."
+          },
+          "features": {
+            "ro": ["Concept și script", "1 zi de filmare", "Clip de 60–120 secunde", "3 variante scurte pentru social media"],
+            "en": ["Concept and script", "1 shooting day", "60–120 second film", "3 short cut-downs for social media"]
+          }
+        },
+        {
+          "id": "spot-publicitar",
+          "name": "Spot Publicitar",
+          "price": 3500,
+          "from": true,
+          "description": {
+            "ro": "Reclamă video cinematică, gata pentru TV, online și social media.",
+            "en": "A cinematic commercial, ready for TV, online and social."
+          },
+          "features": {
+            "ro": ["Concept creativ", "Filmare cinematică", "Color grading", "Sound design", "Variante 16:9, 9:16 și 1:1"],
+            "en": ["Creative concept", "Cinematic shoot", "Colour grading", "Sound design", "16:9, 9:16 and 1:1 versions"]
+          }
+        },
+        {
+          "id": "drona",
+          "name": "Drona",
+          "price": 500,
+          "from": true,
+          "description": {
+            "ro": "Cadre aeriene 4K pentru imobiliare, construcții, turism și evenimente.",
+            "en": "4K aerial footage for real estate, construction, tourism and events."
+          },
+          "features": {
+            "ro": ["Sesiune de zbor", "Cadre 4K", "Editare", "Operator cu experiență"],
+            "en": ["Flight session", "4K footage", "Editing", "Experienced pilot"]
+          }
+        }
+      ]
+    },
+    {
+      "id": "nunti",
+      "title": { "ro": "Nunți & evenimente", "en": "Weddings & events" },
+      "intro": {
+        "ro": "Filme cinematice pentru momentele care nu se repetă, de la nunți și botezuri la evenimente corporate.",
+        "en": "Cinematic films for moments that only happen once, from weddings and christenings to corporate events."
+      },
+      "serviceId": "filmare-nunta",
+      "packages": [
+        {
+          "id": "essential",
+          "name": "Essential",
+          "price": 3500,
+          "from": true,
+          "description": {
+            "ro": "Tot ce contează din ziua nunții, filmat curat și montat cu grijă.",
+            "en": "Everything that matters on your wedding day, filmed cleanly and edited with care."
+          },
+          "features": {
+            "ro": ["1 videograf 4K", "8–10 ore de filmare", "Clip highlight de 4–5 minute", "Film complet"],
+            "en": ["1 videographer, 4K", "8–10 hours of coverage", "4–5 minute highlight film", "Full-length film"]
+          }
+        },
+        {
+          "id": "cinematic",
+          "name": "Cinematic",
+          "price": 6000,
+          "from": true,
+          "featured": true,
+          "description": {
+            "ro": "Experiența completă: două unghiuri, cadre aeriene și teaser gata de postat într-o săptămână.",
+            "en": "The full experience: two angles, aerial shots and a teaser ready to post within a week."
+          },
+          "features": {
+            "ro": ["2 videografi 4K", "Drona", "Teaser pentru social media în 7 zile", "Clip highlight cinematic", "Film complet", "Color grading"],
+            "en": ["2 videographers, 4K", "Drone", "Social media teaser in 7 days", "Cinematic highlight film", "Full-length film", "Colour grading"]
+          }
+        },
+        {
+          "id": "foto-video-premium",
+          "name": "Foto + Video Premium",
+          "price": 8500,
+          "from": true,
+          "description": {
+            "ro": "Film și fotografie de la aceeași echipă, coordonate perfect.",
+            "en": "Film and photography from one perfectly coordinated team."
+          },
+          "features": {
+            "ro": ["Tot ce include Cinematic", "Fotograf", "500+ fotografii editate", "Ședință foto de cuplu"],
+            "en": ["Everything in Cinematic", "Photographer", "500+ edited photos", "Couple's photo session"]
+          }
+        },
+        {
+          "id": "botez",
+          "name": "Botez",
+          "price": 1800,
+          "from": true,
+          "description": {
+            "ro": "Ceremonia și petrecerea, păstrate într-un clip cald și natural.",
+            "en": "The ceremony and the party, captured in a warm, natural film."
+          },
+          "features": {
+            "ro": ["Filmare ceremonie și petrecere", "Clip highlight"],
+            "en": ["Ceremony and party coverage", "Highlight film"]
+          }
+        },
+        {
+          "id": "eveniment-corporate",
+          "name": "Eveniment corporate",
+          "price": 2000,
+          "from": true,
+          "description": {
+            "ro": "Conferințe, lansări și evenimente de firmă, transformate în conținut util după eveniment.",
+            "en": "Conferences, launches and company events, turned into content you can use afterwards."
+          },
+          "features": {
+            "ro": ["Filmare conferință sau eveniment", "Aftermovie", "Clipuri scurte pentru social media"],
+            "en": ["Conference or event coverage", "Aftermovie", "Short clips for social media"]
+          }
+        }
+      ]
+    }
+  ],
+  "extras": {
+    "title": { "ro": "Extra", "en": "Add-ons" },
+    "intro": {
+      "ro": "Opțiuni pe care le puteți adăuga la orice pachet. Prețul se stabilește în ofertă.",
+      "en": "Options you can add to any package. Pricing is confirmed in your quote."
+    },
+    "items": [
+      { "id": "videograf-2", "name": { "ro": "Al doilea videograf", "en": "Second videographer" }, "description": { "ro": "Un unghi în plus pentru momentele-cheie.", "en": "An extra angle for the key moments." }, "price": null },
+      { "id": "drona-extra", "name": { "ro": "Drona separat", "en": "Drone add-on" }, "description": { "ro": "Cadre aeriene 4K adăugate la orice filmare.", "en": "4K aerial footage added to any shoot." }, "price": null },
+      { "id": "express", "name": { "ro": "Livrare express", "en": "Express delivery" }, "description": { "ro": "Materialele finale livrate prioritar.", "en": "Final files delivered with priority." }, "price": null },
+      { "id": "live", "name": { "ro": "Live streaming", "en": "Live streaming" }, "description": { "ro": "Transmisie live pe YouTube, Facebook sau link privat.", "en": "Live broadcast on YouTube, Facebook or a private link." }, "price": null },
+      { "id": "album", "name": { "ro": "Album foto", "en": "Photo album" }, "description": { "ro": "Album tipărit premium, cu design personalizat.", "en": "A premium printed album with a custom layout." }, "price": null }
+    ]
+  }
+}

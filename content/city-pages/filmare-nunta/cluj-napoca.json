@@ -1,0 +1,77 @@
+{
+  "ready": true,
+  "service": "filmare-nunta",
+  "city": "cluj-napoca",
+  "metaTitle": "Filmare nuntă Cluj-Napoca, cinematic 4K",
+  "metaDescription": "Filmare nuntă în Cluj-Napoca și județul Cluj: conace, castele, centrul istoric. Film 4K, teaser în 7 zile. De la 3.500 lei. Cereți o ofertă.",
+  "h1": "Filmare nuntă în Cluj-Napoca",
+  "subtitle": "Film de nuntă cinematic 4K în Cluj-Napoca și în județul Cluj, de la centrul istoric până la conacele și dealurile din jur.",
+  "summary": [
+    "Filmăm nunți în Cluj-Napoca, în localitățile din jur și în tot județul Cluj.",
+    "Avem experiență cu nunți bilingve și cu programe care îmbină mai multe tradiții.",
+    "Pachete de la 3.500 lei (Essential) și 6.000 lei (Cinematic), fără TVA.",
+    "Teaser vertical în 7 zile, apoi clipul cinematic și filmul complet."
+  ],
+  "intro": [
+    "Clujul are un public tânăr, mulți miri care lucrează în IT sau în mediul universitar și o preferință clară pentru nunți cu personalitate: ceremonii civile în grădină, petreceri la conac, cadre luate în centrul istoric sau pe dealurile din jurul orașului. Mulți dintre ei vor un film cu ritm și emoție, nu o înregistrare cronologică lungă.",
+    "Orașul are și o tradiție multiculturală. Nu sunt rare nunțile în care ceremonia se ține în două limbi sau în care familiile aduc obiceiuri diferite. Pentru noi asta înseamnă să aflăm dinainte ce urmează, cine vorbește și când, ca sunetul să fie curat la fiecare jurământ și discurs, indiferent de limbă.",
+    "Relieful din jurul Clujului ajută mult filmul de nuntă. În câteva zeci de minute de mers ajungeți de la piațetele centrului la păduri, lacuri și sate cu case vechi. Ne ocupăm să legăm aceste locuri într-o poveste coerentă și vă spunem sincer ce se poate face realist într-o singură zi."
+  ],
+  "local": {
+    "title": "Locuri și tipuri de locații pentru nunți în zona Clujului",
+    "text": "Nu recomandăm restaurante sau săli anume. Vă spunem însă ce tipuri de locuri aleg mirii din Cluj și cum le pregătim pentru filmare.",
+    "items": [
+      {
+        "title": "Centrul istoric",
+        "text": "Piața Unirii, cu Biserica Sfântul Mihail, Piața Muzeului și străzile din jur au fațade vechi și curți interioare bune pentru sesiunea foto și video. Dimineața devreme sunt cele mai liniștite."
+      },
+      {
+        "title": "Cetățuia și panorama orașului",
+        "text": "Dealul Cetățuia oferă una dintre cele mai cunoscute priveliști asupra Clujului. Este o alegere bună pentru cadre la apus, cu orașul în fundal."
+      },
+      {
+        "title": "Parcuri și grădini",
+        "text": "Parcul Central, cu lacul și Cazinoul, și Grădina Botanică sunt populare pentru ședințe foto. În grădina botanică se aplică regulile și taxele stabilite de administrație, pe care le verificăm înainte."
+      },
+      {
+        "title": "Castele și conace din județ",
+        "text": "Județul Cluj are castele și conace istorice, cum este castelul de la Bonțida, folosite pentru ședințe foto și, în anumite cazuri, pentru evenimente. Condițiile de acces se stabilesc direct cu administratorii."
+      },
+      {
+        "title": "Localitățile din jurul orașului",
+        "text": "Florești, Feleacu, Apahida sau Baciu găzduiesc locații de evenimente cu grădini și spații în aer liber, la distanță mică de oraș. Sunt potrivite pentru ceremonii civile în exterior."
+      },
+      {
+        "title": "Peisaje naturale",
+        "text": "Cheile Turzii, Salina Turda sau lacurile dinspre Munții Apuseni sunt alese pentru sesiuni after wedding. Pentru fiecare verificăm programul, regulile de acces și condițiile de lumină."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Deplasare în Cluj-Napoca și în județul Cluj",
+    "text": "Lucrăm în Cluj-Napoca, în zona metropolitană și în tot județul Cluj, inclusiv Turda, Dej sau Gherla, dar și în județele vecine, de exemplu Alba, Sălaj sau Bistrița-Năsăud. Când locația cere drum mai lung sau cazare pentru echipă, costul apare separat și transparent în ofertă."
+  },
+  "faq": [
+    {
+      "q": "Filmați și nunți în afara Clujului, în județ?",
+      "a": "Da. Multe nunți ale mirilor din Cluj au loc în localitățile din jur sau mai departe în județ. Ne deplasăm oriunde, iar costul deplasării, dacă există, apare clar în ofertă."
+    },
+    {
+      "q": "Puteți filma o nuntă cu ceremonie în două limbi?",
+      "a": "Da. Ne spuneți dinainte programul, cine vorbește și în ce ordine. Sunetul este înregistrat separat, iar în montaj păstrăm momentele importante în limba în care au fost spuse."
+    },
+    {
+      "q": "Folosiți drona la nunțile din Cluj?",
+      "a": "Unde este permis, da. Aeroportul Avram Iancu este aproape de oraș, așa că o parte din zona urbană are restricții. Verificăm fiecare locație înainte și zburăm doar unde regulile permit."
+    },
+    {
+      "q": "Cât de repede trebuie să rezervăm data?",
+      "a": "Pentru sâmbetele de vară și de început de toamnă, vă recomandăm să ne contactați cu 6–12 luni înainte. Data se rezervă cu un avans, pe bază de contract."
+    },
+    {
+      "q": "Facem și o sesiune after wedding în altă zi?",
+      "a": "Da, o putem programa în altă zi, într-un loc pe care nu îl puteți include în ziua nunții, de exemplu pe un deal, la un lac sau într-un sat din județ. Costul depinde de durată și distanță."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru filmare nuntă în Cluj-Napoca. Data nunții este: "
+}

@@ -1,0 +1,175 @@
+{
+  "_comment": "Pagina /servicii/continut-social-media (EN: /en/services/social-media-content-production). Textele se editează direct aici.",
+  "id": "continut-social-media",
+  "category": "productie",
+  "order": 30,
+  "slug": { "ro": "continut-social-media", "en": "social-media-content-production" },
+  "icon": "phone-video",
+  "packageGroup": "social",
+  "packageIds": ["start", "marketing-pack"],
+  "priceFrom": 600,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["tiktok-social"],
+  "related": ["marketing-tiktok", "social-media-management", "productie-ugc", "reclame-tiktok-ads"],
+  "localService": null,
+  "ro": {
+    "name": "Conținut social media",
+    "metaTitle": "Creare conținut social media: clipuri TikTok și Reels",
+    "metaDescription": "Creare conținut video pentru social media: scripturi, filmare și editare pentru TikTok, Reels și Shorts. Pachete de la 600 lei. Cereți o ofertă acum.",
+    "h1": "Creare conținut video pentru social media, gata de postat",
+    "subtitle": "Filmăm într-o singură zi conținutul pentru săptămâni întregi. Clipuri verticale cu hook-uri bune, subtitrări și ritm, care aduc vizualizări, mesaje și clienți.",
+    "cardDescription": "Clipuri TikTok, Reels și Shorts filmate și editate profesionist, în loturi de 10 sau 20, cu scripturi și hook-uri.",
+    "summary": [
+      "Scripturi și hook-uri scrise pentru afacerea dumneavoastră, nu șabloane generice.",
+      "Filmare în loturi: într-o zi sau două obținem material pentru o lună de postări.",
+      "Clipuri verticale 9:16, editate dinamic, cu subtitrări și muzică potrivită.",
+      "Pachete de la 600 lei + TVA pentru 10 clipuri și 1.000 lei pentru 20 de clipuri."
+    ],
+    "problem": {
+      "title": "Știți că trebuie să postați. Nu aveți timp să o faceți bine.",
+      "paragraphs": [
+        "TikTok, Instagram și YouTube Shorts sunt locul unde clienții descoperă astăzi firme noi. Algoritmii recompensează constanța. Dacă postați rar sau deloc, nu existați pentru o mare parte din public.",
+        "În practică, conținutul ajunge mereu pe ultimul loc. Cineva din echipă filmează din când în când cu telefonul, clipurile nu au un mesaj clar, editarea durează ore, iar după două săptămâni totul se oprește. Rezultatul: conturi inactive și senzația că social media nu funcționează pentru afacerea dumneavoastră."
+      ]
+    },
+    "solution": {
+      "title": "Cum producem conținutul",
+      "paragraphs": [
+        "Lucrăm în loturi. În loc să filmăm câte un clip pe săptămână, pregătim din timp o listă de idei și scripturi, apoi filmăm totul într-o zi sau două. Așa obțineți volum mare la un cost rezonabil și o prezență constantă pe rețele.",
+        "Ideile pornesc de la întrebările clienților, de la produsele care vând și de la ce funcționează în nișa dumneavoastră. Fiecare clip are un hook pentru primele secunde, un mesaj principal și un final care îndeamnă la o acțiune: mesaj, comandă, programare sau vizită.",
+        "Editarea este gândită pentru telefon: tăieturi rapide, subtitrări mari și lizibile, muzică potrivită și text pe ecran. Livrăm clipurile gata de postat, cu descrieri și hashtag-uri, iar la pachetul Marketing Pack și cu un calendar de postare.",
+        "Dacă preferați să nu vă ocupați deloc de postare, puteți trece oricând la serviciul de social media management, unde publicăm și răspundem la comentarii în locul dumneavoastră."
+      ]
+    },
+    "includes": {
+      "title": "Ce include producția de conținut",
+      "items": [
+        { "title": "Idei și scripturi", "text": "O listă de concepte adaptate afacerii, cu hook-uri și texte scurte, aprobate înainte de filmare." },
+        { "title": "Strategie de conținut", "text": "La Marketing Pack: teme, tipuri de clipuri și mesaje pentru o lună, legate de obiectivele dumneavoastră." },
+        { "title": "Zi de filmare la fața locului", "text": "Una sau două zile de filmare la sediu, în magazin, în restaurant sau pe teren, cu lumini și sunet." },
+        { "title": "Editare dinamică", "text": "Montaj în ritmul platformelor, cu tăieturi rapide, text pe ecran și tranziții curate." },
+        { "title": "Subtitrări", "text": "Subtitrări lizibile pe fiecare clip, pentru cei care urmăresc fără sunet." },
+        { "title": "Muzică și sunet", "text": "Muzică potrivită fiecărei platforme și voce clară, înregistrată cu microfoane wireless." },
+        { "title": "Descrieri și hashtag-uri", "text": "Text de postare și hashtag-uri relevante pentru fiecare clip, la Marketing Pack." },
+        { "title": "Formate pentru toate rețelele", "text": "Clipuri 9:16 pentru TikTok, Reels și Shorts, plus 1:1 sau 4:5 pentru feed, la cerere." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Conținutul video scurt funcționează pentru aproape orice afacere locală sau online care vrea mai mulți clienți.",
+      "items": [
+        { "industry": "Restaurante, cafenele și baruri", "text": "Preparate filmate apetisant, culise din bucătărie și oferte zilnice care aduc oameni la masă." },
+        { "industry": "Saloane de înfrumusețare și barbershop-uri", "text": "Transformări înainte și după, tehnici și sfaturi. Clipurile care umplu agenda de programări." },
+        { "industry": "Clinici și cabinete medicale", "text": "Medicii răspund la întrebări frecvente. Pacienții câștigă încredere înainte de prima vizită." },
+        { "industry": "Magazine online", "text": "Produse în uz real, unboxing-uri și comparații care împing spre coș." },
+        { "industry": "Agenți și agenții imobiliare", "text": "Tururi rapide de proprietăți și sfaturi pentru cumpărători, care aduc solicitări de vizionare." },
+        { "industry": "Service-uri auto și firme de construcții", "text": "Lucrări în desfășurare și rezultate finale. Arătați competența, nu doar o promiteți." }
+      ]
+    },
+    "process": {
+      "title": "Cum lucrăm",
+      "steps": [
+        { "title": "Discuție inițială", "text": "Aflăm ce vindeți, cui și ce ați încercat până acum pe social media. Alegem pachetul potrivit." },
+        { "title": "Idei și scripturi", "text": "Vă trimitem lista de clipuri și scripturile. Le ajustăm împreună până la aprobare." },
+        { "title": "Ziua de filmare", "text": "Venim la dumneavoastră și filmăm toate clipurile pe un program stabilit dinainte." },
+        { "title": "Editare", "text": "Montăm clipurile, adăugăm subtitrări și muzică, apoi vi le trimitem pentru feedback." },
+        { "title": "Livrare", "text": "Primiți clipurile finale gata de postat, cu descrieri și, după caz, calendarul de postare." }
+      ]
+    },
+    "pricingNote": "Pachetele pornesc de la 600 lei + TVA (Start, 10 clipuri) și 1.000 lei + TVA (Marketing Pack, 20 de clipuri). Deplasarea în afara orașului de bază se stabilește în ofertă.",
+    "faq": [
+      { "q": "Cât costă pachetele de conținut social media?", "a": "Pachetul Start costă 600 lei + TVA și include 10 clipuri, o zi de filmare, scripturi și editare cu subtitrări. Marketing Pack costă 1.000 lei + TVA și include 20 de clipuri, strategie de conținut, 1–2 zile de filmare, descrieri, hashtag-uri și calendar de postare." },
+      { "q": "Trebuie să apar eu în clipuri?", "a": "Nu este obligatoriu, dar ajută. Oamenii reacționează la fețe și la vocea celui care conduce afacerea. Dacă nu vă simțiți confortabil, putem filma echipa, produsele sau procesul, cu text pe ecran sau voce din off." },
+      { "q": "Cât de repede primim clipurile?", "a": "Clipurile se livrează de regulă în câteva zile lucrătoare după filmare, în funcție de pachet și de volum. Termenul exact îl stabilim în ofertă. Dacă aveți o campanie sau un eveniment cu dată fixă, îl putem prioritiza." },
+      { "q": "Ce trebuie să pregătim pentru ziua de filmare?", "a": "Spațiul aranjat, produsele sau serviciile pe care le arătăm și persoanele care apar, disponibile pentru câteva ore. Scripturile le primiți înainte, ca să știți ce urmează. Nu este nevoie să învățați texte pe de rost." },
+      { "q": "Ne postați și clipurile?", "a": "Pachetele Start și Marketing Pack includ producția. Postarea o faceți dumneavoastră, după calendarul primit. Dacă vreți să ne ocupăm și de publicare, comentarii și raportare, pachetele Growth și All-In Brand din social media management includ asta." },
+      { "q": "Folosiți muzică în trend? Nu riscăm probleme de drepturi?", "a": "Alegem muzica în funcție de platformă. Pe TikTok și Instagram sunetele disponibile în aplicație se pot adăuga la postare. Pentru clipurile folosite în reclame plătite folosim muzică licențiată pentru uz comercial, ca să evităm blocări." },
+      { "q": "Putem folosi clipurile și în reclame?", "a": "Da. Clipurile scurte sunt potrivite pentru TikTok Ads și Meta Ads. Ne spuneți din timp care vor fi promovate, ca să alegem muzica potrivită și să construim un îndemn la acțiune clar." }
+    ],
+    "closing": {
+      "title": "Hai să umplem calendarul de postări",
+      "text": "Spuneți-ne ce afacere aveți și pe ce rețele vreți să creșteți. Vă propunem pachetul potrivit și primele idei de clipuri."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru creare de conținut video pentru social media."
+  },
+  "en": {
+    "name": "Social media content",
+    "metaTitle": "Social Media Content Production: TikTok and Reels",
+    "metaDescription": "Short-form video content for TikTok, Reels and Shorts: scripts, filming and editing done for you. Packages from 600 RON. Get your quote today.",
+    "h1": "Social media video content, ready to post",
+    "subtitle": "One shoot day gives you weeks of content. Vertical videos with strong hooks, captions and pace, built to bring views, messages and customers.",
+    "cardDescription": "TikTok, Reels and Shorts filmed and edited professionally in batches of 10 or 20, with scripts and hooks.",
+    "summary": [
+      "Scripts and hooks written for your business, not recycled templates.",
+      "Batch filming: one or two days give you a month of posts.",
+      "Vertical 9:16 videos with dynamic editing, captions and fitting music.",
+      "Packages from 600 RON + VAT for 10 videos and 1,000 RON for 20."
+    ],
+    "problem": {
+      "title": "You know you should post. You don't have time to do it well.",
+      "paragraphs": [
+        "TikTok, Instagram and YouTube Shorts are where people discover new businesses today. The algorithms reward consistency. Post rarely, or not at all, and a big part of your audience simply never sees you.",
+        "In reality, content always slips to the bottom of the list. Someone on the team films a clip now and then, the message is unclear, editing eats up hours, and two weeks later it all stops. You end up with dormant accounts and the feeling that social media just doesn't work for your business."
+      ]
+    },
+    "solution": {
+      "title": "How we produce your content",
+      "paragraphs": [
+        "We work in batches. Instead of filming one video a week, we prepare a list of ideas and scripts in advance and shoot everything in one or two days. You get high volume at a sensible cost, and a steady presence on every platform.",
+        "Ideas come from your customers' questions, your best-selling products and what's working in your niche. Every video has a hook for the first few seconds, one clear message and an ending that prompts action: a message, an order, a booking or a visit.",
+        "The edit is made for phones: quick cuts, large readable captions, the right music and on-screen text. Videos arrive ready to post, with captions and hashtags, and on the Marketing Pack with a posting calendar too.",
+        "If you'd rather not handle posting at all, you can move to our social media management service at any time, and we'll publish and reply to comments for you."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Ideas and scripts", "text": "A list of concepts tailored to your business, with hooks and short scripts, approved before filming." },
+        { "title": "Content strategy", "text": "On the Marketing Pack: themes, video types and messages for the month, tied to your goals." },
+        { "title": "On-location shoot", "text": "One or two days filming at your office, shop, restaurant or on site, with lighting and audio." },
+        { "title": "Dynamic editing", "text": "Cut to the pace of each platform, with fast edits, on-screen text and clean transitions." },
+        { "title": "Captions", "text": "Readable captions on every video, for people watching with the sound off." },
+        { "title": "Music and sound", "text": "Music that suits each platform and clear voice recorded on wireless microphones." },
+        { "title": "Post copy and hashtags", "text": "Caption text and relevant hashtags for every video, on the Marketing Pack." },
+        { "title": "Formats for every network", "text": "9:16 for TikTok, Reels and Shorts, plus 1:1 or 4:5 for the feed on request." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "Short-form video works for almost any local or online business that wants more customers.",
+      "items": [
+        { "industry": "Restaurants, cafés and bars", "text": "Dishes filmed to look irresistible, kitchen behind-the-scenes and daily specials that fill tables." },
+        { "industry": "Beauty salons and barbershops", "text": "Before-and-after transformations, techniques and tips. The videos that fill your booking calendar." },
+        { "industry": "Clinics and medical practices", "text": "Doctors answer common questions, so patients trust you before their first visit." },
+        { "industry": "Online stores", "text": "Products in real use, unboxings and comparisons that nudge people to checkout." },
+        { "industry": "Real estate agents", "text": "Quick property tours and buyer tips that turn into viewing requests." },
+        { "industry": "Car service centres and builders", "text": "Work in progress and finished results. Show your skill instead of just claiming it." }
+      ]
+    },
+    "process": {
+      "title": "How it works",
+      "steps": [
+        { "title": "Kick-off call", "text": "We learn what you sell, to whom and what you've tried on social so far, then pick the right package." },
+        { "title": "Ideas and scripts", "text": "We send the video list and scripts, and refine them with you until they're approved." },
+        { "title": "Shoot day", "text": "We come to you and film every video on a schedule agreed in advance." },
+        { "title": "Editing", "text": "We edit, add captions and music, then send the videos for your feedback." },
+        { "title": "Delivery", "text": "You receive the final videos ready to post, with captions and, where included, a posting calendar." }
+      ]
+    },
+    "pricingNote": "Packages start at 600 RON + VAT (Start, 10 videos) and 1,000 RON + VAT (Marketing Pack, 20 videos). Travel outside our home base is quoted separately.",
+    "faq": [
+      { "q": "How much do the content packages cost?", "a": "Start is 600 RON + VAT and includes 10 videos, one shoot day, scripts and editing with captions. The Marketing Pack is 1,000 RON + VAT and includes 20 videos, a content strategy, 1 to 2 shoot days, post copy, hashtags and a posting calendar." },
+      { "q": "Do I have to appear in the videos?", "a": "It isn't required, but it helps. People respond to faces and to the voice of whoever runs the business. If you'd rather not, we can film your team, products or process, using on-screen text or a voiceover." },
+      { "q": "How soon do we get the videos?", "a": "Videos are usually delivered within a few working days of the shoot, depending on the package and volume. We set the exact date in the quote, and can prioritise if you have a campaign or event on a fixed date." },
+      { "q": "What should we prepare for the shoot?", "a": "A tidy space, the products or services we'll show and the people appearing, free for a few hours. You'll have the scripts in advance so you know what's coming. Nobody needs to memorise lines." },
+      { "q": "Do you post the videos for us?", "a": "Start and the Marketing Pack cover production. You post them, following the calendar we provide. If you want us to handle publishing, comments and reporting, the Growth and All-In Brand social media management packages include that." },
+      { "q": "Do you use trending music? Is there a copyright risk?", "a": "We pick music by platform. On TikTok and Instagram, in-app sounds can be added when you post. For videos used in paid ads, we use music licensed for commercial use so nothing gets blocked." },
+      { "q": "Can we use the videos in ads?", "a": "Yes. Short videos work well in TikTok Ads and Meta Ads. Let us know in advance which ones you plan to promote, so we choose the right music and build in a clear call to action." }
+    ],
+    "closing": {
+      "title": "Let's fill your posting calendar",
+      "text": "Tell us about your business and which platforms you want to grow on. We'll suggest the right package and the first video ideas."
+    },
+    "whatsapp": "Hello, I'd like a quote for social media video content."
+  }
+}

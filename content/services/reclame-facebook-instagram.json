@@ -1,0 +1,176 @@
+{
+  "_comment": "Pagina /servicii/reclame-facebook-instagram (EN: /en/services/meta-ads-management). Management campanii Meta Ads. Grupa de pachete ads are serviceId = acest serviciu.",
+  "id": "reclame-facebook-instagram",
+  "category": "marketing",
+  "order": 30,
+  "slug": { "ro": "reclame-facebook-instagram", "en": "meta-ads-management" },
+  "icon": "megaphone",
+  "packageGroup": "ads",
+  "priceFrom": 900,
+  "priceUnit": "luna",
+  "portfolioCategories": ["campanii"],
+  "related": ["reclame-google-ads", "reclame-tiktok-ads", "landing-page", "spot-publicitar"],
+  "localService": null,
+  "ro": {
+    "name": "Reclame Facebook și Instagram",
+    "metaTitle": "Reclame Facebook și Instagram (Meta Ads) pentru firme",
+    "metaDescription": "Reclame Facebook și Instagram administrate în contul dvs.: Pixel, Conversions API, testare creative, rapoarte clare. De la 900 lei/lună. Cereți o ofertă.",
+    "h1": "Reclame Facebook și Instagram care aduc clienți măsurabili",
+    "subtitle": "Administrăm campaniile Meta Ads ale firmei dumneavoastră de la configurarea tehnică până la optimizarea săptămânală. Știți în orice moment cât costă un client nou și ce reclame îl aduc.",
+    "cardDescription": "Campanii Meta Ads pe Facebook și Instagram: Pixel și Conversions API, testare creative, retargeting și rapoarte clare.",
+    "summary": [
+      "Campanii pentru vânzări, lead-uri, mesaje sau programări, în contul dumneavoastră Meta.",
+      "Configurăm Meta Pixel, Conversions API și evenimentele, ca să vedeți rezultate reale, nu estimări.",
+      "Testăm imagini, clipuri și texte și mutăm bugetul spre ce aduce clienți.",
+      "Management de la 900 lei/lună + TVA. Bugetul de reclame se plătește direct către Meta."
+    ],
+    "problem": {
+      "title": "„Am dat boost și nu s-a întâmplat nimic”",
+      "paragraphs": [
+        "Aceasta este cea mai des întâlnită experiență cu reclamele pe Facebook. O postare promovată, câteva sute de lei cheltuiți, like-uri de la oameni care nu vor cumpăra niciodată. Concluzia: „Facebook nu mai merge”.",
+        "În realitate, Facebook și Instagram rămân printre cele mai eficiente canale pentru afacerile din România, dacă sunt folosite corect. Diferența o fac obiectivul de campanie ales, datele pe care le primește platforma și calitatea reclamelor. Un boost optimizat pentru interacțiuni va aduce interacțiuni. O campanie optimizată pentru achiziții, cu Pixel și Conversions API funcționale, caută cumpărători.",
+        "Mai există o problemă ascunsă: conturile administrate de altcineva. Mulți antreprenori descoperă, la final de colaborare, că nu au acces la contul de reclame sau la istoricul campaniilor. La noi, totul rămâne pe firma dumneavoastră."
+      ]
+    },
+    "solution": {
+      "title": "Cum lucrăm cu Meta Ads",
+      "paragraphs": [
+        "Primul pas este măsurarea. Verificăm portofoliul de business Meta, domeniul, Pixel-ul și Conversions API. Setăm evenimentele care contează pentru dumneavoastră: achiziție, lead, programare, mesaj pe WhatsApp. Abia apoi are sens să vorbim de optimizare.",
+        "Construim campaniile pe etape ale deciderii. Oamenii care nu vă cunosc văd reclame care explică ce oferiți. Cei care au vizitat site-ul sau au interacționat cu pagina primesc reclame de retargeting cu argumente, recenzii și oferte. Pentru magazinele online folosim catalogul de produse și reclamele dinamice.",
+        "Testăm continuu. Același produs poate fi vândut printr-un clip de 15 secunde, un carusel sau o imagine cu o ofertă clară. Comparăm variantele pe costul pe rezultat, nu pe like-uri. Rezultatele depind de cinci lucruri: oferta, creativul, tracking-ul, bugetul și timpul de învățare al algoritmului. Pe primele patru le lucrăm împreună, iar pentru ultimul recomandăm cel puțin 3 luni de colaborare."
+      ]
+    },
+    "includes": {
+      "title": "Ce include administrarea reclamelor Meta",
+      "items": [
+        { "title": "Audit de cont", "text": "Analizăm campaniile anterioare, structura contului, publicurile și problemele de tracking." },
+        { "title": "Pixel și Conversions API", "text": "Configurare, verificarea domeniului și a evenimentelor, testarea lor înainte de lansare." },
+        { "title": "Strategie pe funnel", "text": "Campanii separate pentru oameni noi și pentru cei care vă cunosc deja, cu mesaje diferite." },
+        { "title": "Reclame de lead-uri și mesaje", "text": "Formulare instant, mesaje pe Messenger, Instagram Direct sau WhatsApp, după cum vă e mai ușor să răspundeți." },
+        { "title": "Catalog și reclame dinamice", "text": "Pentru magazinele online: produsele vizualizate apar automat în reclame pentru același vizitator." },
+        { "title": "Testare creative", "text": "Imagini, clipuri, texte și titluri testate sistematic. Clipurile pot fi produse de noi în pachetul Ads + Creative." },
+        { "title": "Optimizare și scalare", "text": "Monitorizare constantă, ajustarea bugetelor și oprirea reclamelor care nu performează." },
+        { "title": "Rapoarte clare", "text": "Ce s-a cheltuit, ce a adus, ce am învățat și ce facem mai departe, fără limbaj tehnic inutil." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine sunt potrivite reclamele Facebook și Instagram",
+      "intro": "Meta Ads funcționează pentru aproape orice afacere care are o ofertă clară și poate răspunde rapid clienților noi.",
+      "items": [
+        { "industry": "Clinici stomatologice și medicale", "text": "Campanii de programări pentru servicii specifice, cu formular sau mesaj direct, cu respectarea regulilor de publicitate medicală." },
+        { "industry": "Agenții imobiliare și dezvoltatori", "text": "Lead-uri calificate pentru proprietăți, cu întrebări de filtrare în formular și retargeting pentru vizitatorii anunțurilor." },
+        { "industry": "Magazine online", "text": "Reclame dinamice din catalog, campanii de vânzări și recuperarea coșurilor abandonate." },
+        { "industry": "Restaurante și HoReCa", "text": "Reclame locale pentru rezervări, meniuri de prânz sau evenimente tematice în zona dumneavoastră." },
+        { "industry": "Service-uri și dealeri auto", "text": "Programări la service, campanii sezoniere pentru anvelope și oferte pentru mașini din stoc." },
+        { "industry": "Firme de construcții și amenajări", "text": "Cereri de ofertă de la proprietari din zona în care lucrați, cu lucrări finalizate ca dovadă." },
+        { "industry": "Organizatori de evenimente", "text": "Vânzare de bilete și înscrieri, cu reclame care cresc în intensitate până la data evenimentului." }
+      ]
+    },
+    "process": {
+      "title": "Cum începem",
+      "steps": [
+        { "title": "Discuție și audit", "text": "Aflăm obiectivele, marja și bugetul. Dacă aveți deja campanii, le analizăm și vă spunem ce am schimba." },
+        { "title": "Acces și configurare", "text": "Ne adăugați ca partener în portofoliul de business Meta. Setăm Pixel-ul, Conversions API și evenimentele." },
+        { "title": "Plan și creative", "text": "Propunem structura campaniilor, publicurile și primele reclame, pe care le aprobați înainte de lansare." },
+        { "title": "Lansare și învățare", "text": "Campaniile pornesc, iar în primele săptămâni lăsăm algoritmul să învețe și testăm variante." },
+        { "title": "Optimizare lunară", "text": "Scalăm ce funcționează, reîmprospătăm reclamele obosite și raportăm regulat." }
+      ]
+    },
+    "pricingNote": "Administrarea reclamelor Meta începe de la 900 lei/lună + TVA. Bugetul de reclame nu este inclus și se plătește direct către Meta, cu cardul firmei.",
+    "faq": [
+      { "q": "Cât buget trebuie să alocăm pentru reclame pe Facebook și Instagram?", "a": "Nu există o sumă universală. Depinde de cât valorează un client pentru dumneavoastră, de concurență și de zona în care vindeți. Vă propunem un buget de test realist după discuția inițială și îl creștem doar când datele arată că merită." },
+      { "q": "Cât de repede vin clienții?", "a": "Primele lead-uri sau vânzări pot apărea în primele zile, dar campaniile se stabilizează după o perioadă de învățare și testare. Pentru o imagine corectă recomandăm cel puțin 3 luni. Nu promitem rezultate garantate, pentru că ele depind și de ofertă, preț și de felul în care sunt tratați clienții care vă contactează." },
+      { "q": "Cine deține contul de reclame și pagina?", "a": "Firma dumneavoastră. Lucrăm ca partener în portofoliul de business Meta al firmei, cu acces de administrare. Plata bugetului se face direct către Meta, cu cardul dumneavoastră. Dacă ne despărțim, păstrați contul, campaniile, publicurile și tot istoricul." },
+      { "q": "Ce se întâmplă dacă Meta ne restricționează contul?", "a": "Respectăm politicile de publicitate Meta și vă avertizăm din timp dacă un mesaj sau un domeniu are reguli speciale, cum ar fi sănătatea, creditele sau imobiliarele. Dacă apare totuși o restricție, vă ajutăm cu solicitarea de revizuire prin canalele oficiale." },
+      { "q": "Cât de des primim rapoarte?", "a": "Lunar la pachetul Ads Start și la două săptămâni la Ads Pro și Ads + Creative. Raportul arată cheltuiala, costul pe rezultat, ce reclame au funcționat și pașii următori. Pentru întrebări urgente ne puteți scrie oricând." },
+      { "q": "Ne obligați la un contract lung?", "a": "Nu. Colaborarea este lunară. Recomandăm însă minimum 3 luni, pentru că primele săptămâni sunt de învățare. Condițiile de încetare sunt scrise clar în contract." },
+      { "q": "Ce avem nevoie să pregătim?", "a": "Acces la pagina de Facebook, contul de Instagram și site, o ofertă clară și materiale vizuale de calitate. Dacă nu aveți clipuri potrivite pentru reclame, le putem produce noi. Și foarte important: cineva care răspunde repede la lead-uri și mesaje." }
+    ],
+    "closing": {
+      "title": "Vreți să știți cât vă costă un client nou?",
+      "text": "Trimiteți-ne pagina de Facebook și site-ul. Vă răspundem cu o primă analiză și cu un plan de pornire."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru reclame Facebook și Instagram. Site/pagina noastră: ..., obiectivul: ..."
+  },
+  "en": {
+    "name": "Facebook & Instagram ads",
+    "metaTitle": "Facebook & Instagram Ads Management (Meta Ads)",
+    "metaDescription": "Meta Ads managed in your own account: Pixel, Conversions API, creative testing and clear reporting. From 900 RON/month. Ask us for a quote today.",
+    "h1": "Facebook and Instagram ads that bring in measurable customers",
+    "subtitle": "We run your Meta Ads from the technical setup through to weekly optimisation. At any point you'll know what a new customer costs and which ads brought them in.",
+    "cardDescription": "Meta Ads campaigns on Facebook and Instagram: Pixel and Conversions API, creative testing, retargeting and clear reporting.",
+    "summary": [
+      "Campaigns for sales, leads, messages or bookings, run in your own Meta account.",
+      "We set up Meta Pixel, Conversions API and events, so you see real results rather than estimates.",
+      "We test images, videos and copy, and move budget towards what brings customers.",
+      "Management from 900 RON/month + VAT. Ad spend is paid directly to Meta."
+    ],
+    "problem": {
+      "title": "\"We boosted a post and nothing happened\"",
+      "paragraphs": [
+        "It's the most common Facebook ads story we hear. One boosted post, a few hundred lei spent, a pile of likes from people who were never going to buy. The verdict: \"Facebook doesn't work any more.\"",
+        "In reality, Facebook and Instagram are still among the most effective channels for businesses in Romania, when they're used properly. What makes the difference is the campaign objective, the data the platform receives and the quality of the ads. A boost optimised for engagement gets you engagement. A purchase-optimised campaign, with a working Pixel and Conversions API, goes looking for buyers.",
+        "There's also a hidden risk: accounts run by someone else. Plenty of business owners find out, when an agency relationship ends, that they have no access to their own ad account or campaign history. With us, everything stays in your company's name."
+      ]
+    },
+    "solution": {
+      "title": "How we run Meta Ads",
+      "paragraphs": [
+        "Step one is measurement. We check your Meta business portfolio, domain verification, Pixel and Conversions API, then set up the events that matter to you: purchases, leads, bookings, WhatsApp messages. Optimisation only makes sense once that's in place.",
+        "We build campaigns around the stages of a buying decision. People who don't know you yet see ads that explain what you offer. Those who've visited your site or engaged with your page get retargeting ads with reasons to buy, reviews and offers. For online shops we use your product catalogue and dynamic ads.",
+        "Testing never stops. The same product can sell through a 15-second video, a carousel or a single image with a sharp offer. We compare them on cost per result, not on likes. Results come down to five things: the offer, the creative, tracking, budget and the algorithm's learning time. We work on the first four together, and for the fifth we recommend working with us for at least 3 months."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Account audit", "text": "We review past campaigns, account structure, audiences and any tracking gaps." },
+        { "title": "Pixel and Conversions API", "text": "Setup, domain and event verification, and testing before anything goes live." },
+        { "title": "Full-funnel strategy", "text": "Separate campaigns for new audiences and for people who already know you, each with its own message." },
+        { "title": "Lead and message ads", "text": "Instant forms or conversations on Messenger, Instagram Direct or WhatsApp, whichever is easiest for you to answer." },
+        { "title": "Catalogue and dynamic ads", "text": "For online shops: products someone viewed reappear automatically in their feed." },
+        { "title": "Creative testing", "text": "Images, videos, copy and headlines tested systematically. On Ads + Creative we produce the videos ourselves." },
+        { "title": "Optimisation and scaling", "text": "Constant monitoring, budget shifts and switching off ads that don't pull their weight." },
+        { "title": "Clear reporting", "text": "What was spent, what it brought in, what we learned and what comes next, without unnecessary jargon." }
+      ]
+    },
+    "audience": {
+      "title": "Who Facebook and Instagram ads are for",
+      "intro": "Meta Ads work for almost any business with a clear offer and the ability to respond quickly to new customers.",
+      "items": [
+        { "industry": "Dental and medical clinics", "text": "Booking campaigns for specific treatments, via form or direct message, within the rules for healthcare advertising." },
+        { "industry": "Estate agents and property developers", "text": "Qualified leads for listings, with screening questions in the form and retargeting for listing visitors." },
+        { "industry": "Online shops", "text": "Dynamic catalogue ads, sales campaigns and abandoned-cart recovery." },
+        { "industry": "Restaurants and hospitality", "text": "Local ads for table bookings, lunch menus or themed nights in your area." },
+        { "industry": "Car dealers and garages", "text": "Service bookings, seasonal tyre campaigns and offers on cars in stock." },
+        { "industry": "Construction and fit-out firms", "text": "Quote requests from homeowners in the areas you cover, with finished projects as proof." },
+        { "industry": "Event organisers", "text": "Ticket sales and registrations, with ads that build in intensity as the date gets closer." }
+      ]
+    },
+    "process": {
+      "title": "Getting started",
+      "steps": [
+        { "title": "Call and audit", "text": "We learn your goals, margins and budget. If you're already running ads, we review them and tell you what we'd change." },
+        { "title": "Access and setup", "text": "You add us as a partner in your Meta business portfolio. We set up the Pixel, Conversions API and events." },
+        { "title": "Plan and creatives", "text": "We propose the campaign structure, audiences and first ads, which you approve before launch." },
+        { "title": "Launch and learning", "text": "Campaigns go live, and in the first weeks we let the algorithm learn while we test variations." },
+        { "title": "Monthly optimisation", "text": "We scale what works, refresh tired ads and report back on a regular schedule." }
+      ]
+    },
+    "pricingNote": "Meta Ads management starts at 900 RON/month + VAT. Ad spend is not included and is paid directly to Meta with your company card.",
+    "faq": [
+      { "q": "How much should we spend on Facebook and Instagram ads?", "a": "There's no universal figure. It depends on what a customer is worth to you, your competition and where you sell. After our first conversation we'll suggest a realistic test budget, and we only increase it when the data says it's worth it." },
+      { "q": "How quickly do customers come in?", "a": "First leads or sales can arrive within days, but campaigns only settle after a period of learning and testing. For a fair picture we recommend at least 3 months. We don't promise guaranteed results, because they also depend on your offer, your pricing and how enquiries are handled once they reach you." },
+      { "q": "Who owns the ad account and the page?", "a": "Your company does. We work as a partner inside your Meta business portfolio, with admin access. Ad spend is charged directly by Meta to your card. If we part ways, you keep the account, campaigns, audiences and full history." },
+      { "q": "What if Meta restricts our account?", "a": "We follow Meta's advertising policies and warn you early if your message or industry has special rules, such as health, credit or housing. If a restriction happens anyway, we help you request a review through the official channels." },
+      { "q": "How often do we get reports?", "a": "Monthly on Ads Start, and every two weeks on Ads Pro and Ads + Creative. Each report covers spend, cost per result, which ads worked and the next steps. For anything urgent, you can message us any time." },
+      { "q": "Are we locked into a long contract?", "a": "No. We work month to month. We do recommend at least 3 months, because the first weeks are about learning. The notice terms are written clearly into the contract." },
+      { "q": "What do we need to prepare?", "a": "Access to your Facebook page, Instagram account and website, a clear offer and good-quality visuals. If you don't have videos suited to ads, we can produce them. And, crucially, someone who replies quickly to leads and messages." }
+    ],
+    "closing": {
+      "title": "Want to know what a new customer really costs you?",
+      "text": "Send us your Facebook page and website. We'll come back with an initial review and a plan to get started."
+    },
+    "whatsapp": "Hello, I'd like a quote for Facebook and Instagram ads. Our website/page: ..., our goal: ..."
+  }
+}

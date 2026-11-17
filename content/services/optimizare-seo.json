@@ -1,0 +1,176 @@
+{
+  "_comment": "Pagina /servicii/optimizare-seo (EN: /en/services/seo-services). Textele se editează direct aici.",
+  "id": "optimizare-seo",
+  "category": "web",
+  "order": 40,
+  "slug": { "ro": "optimizare-seo", "en": "seo-services" },
+  "icon": "seo",
+  "packageGroup": null,
+  "priceFrom": null,
+  "priceUnit": "luna",
+  "portfolioCategories": ["website"],
+  "related": ["creare-site-prezentare", "creare-magazin-online", "reclame-google-ads", "copywriting-scripturi-video"],
+  "localService": null,
+  "ro": {
+    "name": "Optimizare SEO",
+    "metaTitle": "Optimizare SEO pentru firme: tehnic, conținut și local",
+    "metaDescription": "Optimizare SEO tehnică, on-page, de conținut și locală, cu Google Business Profile și rapoarte clare. Cereți un audit inițial și o ofertă.",
+    "h1": "Optimizare SEO pentru firme care vor clienți din Google",
+    "subtitle": "Vă ajutăm să fiți găsiți de oamenii care caută deja ce oferiți. Lucrăm pe partea tehnică, pe conținut și pe prezența locală, cu pași clari și rapoarte pe care le înțelegeți.",
+    "cardDescription": "SEO tehnic, on-page, de conținut și local, inclusiv Google Business Profile, cu rapoarte lunare clare.",
+    "summary": [
+      "Audit tehnic și on-page, apoi un plan de lucru pe priorități, nu o listă lungă de probleme.",
+      "Conținut scris pentru căutările reale ale clienților și optimizare locală, inclusiv Google Business Profile.",
+      "Rezultatele SEO se construiesc în luni, nu în zile. Nu promitem poziții garantate.",
+      "Lucrăm lunar. Oferta se face după un audit inițial și o discuție scurtă."
+    ],
+    "problem": {
+      "title": "Clienții vă caută. Doar că găsesc concurența.",
+      "paragraphs": [
+        "Mulți oameni caută pe Google exact serviciul pe care îl oferiți, în orașul dumneavoastră. Dacă site-ul nu apare în primele rezultate sau în harta Google, cererile ajung la firmele care apar. Nu neapărat la cele mai bune, ci la cele mai vizibile.",
+        "Cauzele sunt de obicei aceleași: site lent sau greu de indexat, pagini fără titluri și descrieri gândite, texte scrise pentru firmă și nu pentru client, profil Google Business incomplet sau fără recenzii. Fiecare problemă în parte pare mică. Împreună, vă țin pe pagina a doua.",
+        "Reclamele aduc trafic cât timp plătiți. SEO construiește un canal de clienți care continuă să lucreze pentru dumneavoastră și după ce munca a fost făcută."
+      ]
+    },
+    "solution": {
+      "title": "Cum lucrăm la optimizarea SEO",
+      "paragraphs": [
+        "Începem cu un audit. Verificăm viteza, indexarea, structura site-ului, erorile tehnice, titlurile, conținutul și profilul Google Business. Apoi analizăm ce caută de fapt clienții dumneavoastră și ce fac concurenții care apar înaintea dumneavoastră.",
+        "Rezultatul nu este un raport lung de care nu se mai atinge nimeni. Este un plan pe priorități: ce reparăm întâi, ce pagini creăm sau rescriem și ce urmărim lunar. Începem cu lucrurile care au cel mai mare impact cu cel mai mic efort.",
+        "Lucrăm pe patru direcții. SEO tehnic: viteză, indexare, redirecționări, date structurate, versiune mobilă. SEO on-page: titluri, descrieri, headings, linkuri interne și imagini. Conținut: pagini de servicii și articole care răspund la întrebările reale ale clienților. SEO local: Google Business Profile complet, categorii corecte, fotografii, postări și o strategie simplă pentru recenzii reale.",
+        "Vă spunem deschis: SEO durează. Primele semne apar de obicei după câteva luni, iar rezultatele solide pentru cuvinte competitive cer răbdare și consecvență. Nimeni nu poate garanta locul unu în Google, iar cine o face nu spune adevărul. Ce putem garanta este munca făcută corect și raportarea transparentă."
+      ]
+    },
+    "includes": {
+      "title": "Ce include optimizarea SEO",
+      "items": [
+        { "title": "Audit SEO inițial", "text": "Analiza tehnică, de conținut și locală a site-ului, cu un plan de acțiune pe priorități." },
+        { "title": "Cercetarea cuvintelor cheie", "text": "Identificăm ce caută clienții reali și cât de greu este să apăreți pentru fiecare căutare." },
+        { "title": "SEO tehnic", "text": "Viteză, indexare, erori, redirecționări, sitemap, date structurate și experiența pe mobil." },
+        { "title": "Optimizare on-page", "text": "Titluri, meta descrieri, headings, linkuri interne și imagini optimizate pe fiecare pagină importantă." },
+        { "title": "Conținut SEO", "text": "Pagini de servicii și articole scrise pentru oameni și pentru Google, nu texte umplute cu cuvinte cheie." },
+        { "title": "SEO local și Google Business Profile", "text": "Profil complet, categorii, fotografii, postări și consecvența datelor firmei pe internet." },
+        { "title": "Monitorizare și raport lunar", "text": "Evoluția vizibilității, a traficului și a cererilor din organic, explicată pe înțelesul tuturor." },
+        { "title": "Recomandări pentru conversie", "text": "Traficul trebuie să devină clienți. Vă spunem ce pagini pierd vizitatori și cum le îmbunătățim." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "SEO are sens pentru firmele pe care clienții le caută activ pe Google și care pot aștepta câteva luni pentru un canal de vânzare stabil.",
+      "items": [
+        { "industry": "Clinici și cabinete medicale", "text": "Pacienții caută tratamente și specialiști în zona lor. Paginile bine scrise și profilul Google aduc programări." },
+        { "industry": "Firme de servicii locale", "text": "Instalatori, electricieni, service-uri auto sau firme de curățenie care vor să apară în harta Google în orașul lor." },
+        { "industry": "Magazine online", "text": "Categorii și pagini de produs optimizate, ca să vindeți și din căutări, nu doar din reclame." },
+        { "industry": "Avocați, contabili și consultanți", "text": "Articole care răspund la întrebările clienților și construiesc încredere înainte de primul contact." },
+        { "industry": "Turism și HoReCa", "text": "Pensiuni, hoteluri și restaurante care vor rezervări directe din căutări și din Google Maps." },
+        { "industry": "Firme B2B și producători", "text": "Pagini pentru căutările tehnice ale cumpărătorilor de specialitate, care aduc cereri de ofertă calificate." }
+      ]
+    },
+    "process": {
+      "title": "Pașii colaborării",
+      "steps": [
+        { "title": "Discuție și acces", "text": "Ne spuneți ce servicii contează cel mai mult. Primim acces la site, Google Search Console și Analytics." },
+        { "title": "Audit și plan", "text": "Analizăm site-ul, cuvintele cheie și concurența, apoi vă prezentăm planul pe priorități." },
+        { "title": "Reparații tehnice", "text": "Rezolvăm întâi problemele care împiedică indexarea și încărcarea rapidă." },
+        { "title": "Conținut și optimizare locală", "text": "Optimizăm paginile existente, creăm conținut nou și lucrăm pe profilul Google Business." },
+        { "title": "Raport și ajustare lunară", "text": "Lunar vă arătăm ce s-a făcut, ce s-a schimbat și ce urmează." }
+      ]
+    },
+    "pricingNote": "Optimizarea SEO se face lunar. Oferta depinde de mărimea site-ului și de concurența din domeniu, așa că o facem după auditul inițial și o discuție scurtă.",
+    "faq": [
+      { "q": "Cât costă optimizarea SEO?", "a": "Nu avem un preț fix, pentru că efortul diferă mult între un site de prezentare local și un magazin online cu sute de produse. După audit și o discuție scurtă vă trimitem o ofertă lunară clară, cu lista activităților incluse." },
+      { "q": "În cât timp vedem rezultate?", "a": "Reparațiile tehnice și optimizarea paginilor pot avea efect în câteva săptămâni, dar rezultatele solide apar de regulă după câteva luni de lucru constant. În domeniile foarte competitive durează mai mult. Vă spunem de la început la ce să vă așteptați." },
+      { "q": "Garantați prima pagină în Google?", "a": "Nu. Google decide pozițiile, iar algoritmul se schimbă constant. Cine garantează locul unu promite ceva ce nu controlează. Noi garantăm muncă făcută corect, transparență și rapoarte care arată exact ce s-a făcut." },
+      { "q": "Ce aveți nevoie de la noi?", "a": "Acces la site, Google Search Console, Google Analytics și Google Business Profile, plus informații despre servicii și clienți. Pentru conținut, o persoană care poate valida rapid informațiile tehnice din domeniul dumneavoastră." },
+      { "q": "Trebuie să refacem site-ul?", "a": "Nu neapărat. De multe ori putem lucra pe site-ul existent. Dacă auditul arată probleme care nu se pot repara rezonabil, vă spunem deschis și vă explicăm opțiunile, inclusiv costurile." },
+      { "q": "Ce se întâmplă dacă oprim colaborarea?", "a": "Tot ce am optimizat și tot conținutul creat rămân pe site-ul dumneavoastră. Accesurile vă aparțin, iar noi doar le folosim pe durata colaborării. Perioada de colaborare și condițiile de încetare sunt trecute în contract." },
+      { "q": "SEO sau Google Ads?", "a": "Google Ads aduce trafic imediat, cât timp plătiți. SEO aduce trafic mai târziu, dar costul pe client scade în timp. Pentru multe firme, combinația funcționează cel mai bine: reclame pentru rezultate rapide și SEO pentru stabilitate." }
+    ],
+    "closing": {
+      "title": "Aflați de ce nu apăreți în Google",
+      "text": "Trimiteți-ne adresa site-ului și serviciile pentru care vreți să fiți găsiți. Vă spunem ce oportunități vedem și cum am lucra."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru optimizare SEO. Site-ul: ..., orașul/zona: ..."
+  },
+  "en": {
+    "name": "SEO services",
+    "metaTitle": "SEO Services: Technical, Content and Local SEO",
+    "metaDescription": "Technical, on-page, content and local SEO, including Google Business Profile and clear monthly reports. Request an initial audit and a quote.",
+    "h1": "SEO services for businesses that want customers from Google",
+    "subtitle": "We help the people already searching for what you offer to find you. We work on the technical side, the content and your local presence, with clear steps and reports you can actually follow.",
+    "cardDescription": "Technical, on-page, content and local SEO, including Google Business Profile, with clear monthly reporting.",
+    "summary": [
+      "A technical and on-page audit, followed by a prioritised plan rather than a long list of issues.",
+      "Content written for what customers actually search, plus local SEO including Google Business Profile.",
+      "SEO results build over months, not days. We don't promise guaranteed rankings.",
+      "We work monthly. Pricing is quoted after an initial audit and a short call."
+    ],
+    "problem": {
+      "title": "Customers are searching for you. They're finding your competitors.",
+      "paragraphs": [
+        "Every day, people search Google for exactly what you offer, in your city. If your site isn't near the top or in the map results, those enquiries go to whoever is. Not necessarily the best business, just the most visible one.",
+        "The causes are usually the same: a slow site that's hard to index, pages without proper titles and descriptions, copy written about the company instead of for the customer, and an incomplete Google Business Profile with few reviews. Each issue looks small. Together, they keep you on page two.",
+        "Ads bring traffic as long as you keep paying. SEO builds a channel that keeps working for you long after the work is done."
+      ]
+    },
+    "solution": {
+      "title": "How we approach SEO",
+      "paragraphs": [
+        "We start with an audit. We check speed, indexing, site structure, technical errors, titles, content and your Google Business Profile. Then we look at what your customers really search for and what the competitors ranking above you are doing.",
+        "What you get isn't a thick report that nobody touches again. It's a prioritised plan: what we fix first, which pages we create or rewrite, and what we track each month. We start with the changes that have the biggest impact for the least effort.",
+        "We work in four areas. Technical SEO: speed, indexing, redirects, structured data and mobile experience. On-page SEO: titles, descriptions, headings, internal links and images. Content: service pages and articles that answer your customers' real questions. Local SEO: a complete Google Business Profile, the right categories, photos, posts and a simple approach to earning genuine reviews.",
+        "We'll be straight with you: SEO takes time. The first signs usually appear after a few months, and solid results on competitive keywords need patience and consistency. Nobody can guarantee the top spot on Google, and anyone who says otherwise isn't being honest. What we can guarantee is work done properly and transparent reporting."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Initial SEO audit", "text": "A technical, content and local review of your site, with a prioritised action plan." },
+        { "title": "Keyword research", "text": "We find what real customers search for and how hard it is to rank for each term." },
+        { "title": "Technical SEO", "text": "Speed, indexing, errors, redirects, sitemap, structured data and mobile experience." },
+        { "title": "On-page optimisation", "text": "Titles, meta descriptions, headings, internal links and images on every key page." },
+        { "title": "SEO content", "text": "Service pages and articles written for people and for Google, not stuffed with keywords." },
+        { "title": "Local SEO and Google Business Profile", "text": "A complete profile, categories, photos, posts and consistent business details across the web." },
+        { "title": "Tracking and monthly report", "text": "Visibility, traffic and organic enquiries over time, explained in plain language." },
+        { "title": "Conversion recommendations", "text": "Traffic has to turn into customers. We point out pages that lose visitors and how to improve them." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "SEO makes sense for businesses that customers actively search for on Google, and that can give a stable sales channel a few months to build.",
+      "items": [
+        { "industry": "Medical clinics and practices", "text": "Patients search for treatments and specialists nearby. Well-written pages and a strong Google profile bring bookings." },
+        { "industry": "Local service businesses", "text": "Plumbers, electricians, garages or cleaning companies that want to appear in Google Maps in their city." },
+        { "industry": "Online stores", "text": "Optimised category and product pages, so you sell from search as well as from ads." },
+        { "industry": "Lawyers, accountants and consultants", "text": "Articles that answer clients' questions and build trust before the first contact." },
+        { "industry": "Tourism and hospitality", "text": "Guesthouses, hotels and restaurants that want direct bookings from search and Google Maps." },
+        { "industry": "B2B companies and manufacturers", "text": "Pages for the technical searches of specialist buyers, bringing in qualified quote requests." }
+      ]
+    },
+    "process": {
+      "title": "How we work together",
+      "steps": [
+        { "title": "Call and access", "text": "You tell us which services matter most. We get access to the site, Google Search Console and Analytics." },
+        { "title": "Audit and plan", "text": "We analyse the site, keywords and competition, then walk you through the prioritised plan." },
+        { "title": "Technical fixes", "text": "First we resolve anything that blocks indexing or slows the site down." },
+        { "title": "Content and local optimisation", "text": "We optimise existing pages, create new content and work on your Google Business Profile." },
+        { "title": "Monthly report and adjustments", "text": "Each month we show you what was done, what changed and what's next." }
+      ]
+    },
+    "pricingNote": "SEO is a monthly service. Pricing depends on the size of your site and the competition in your field, so we quote after the initial audit and a short call.",
+    "faq": [
+      { "q": "How much does SEO cost?", "a": "There's no fixed price, because the effort for a local business site is very different from an online store with hundreds of products. After the audit and a short call, we send a clear monthly quote listing exactly what's included." },
+      { "q": "How soon will we see results?", "a": "Technical fixes and page optimisation can show an effect within weeks, but solid results usually come after a few months of consistent work. Highly competitive fields take longer. We'll set realistic expectations from the start." },
+      { "q": "Do you guarantee page one on Google?", "a": "No. Google decides rankings, and its algorithm changes constantly. Anyone guaranteeing the top spot is promising something they don't control. We guarantee proper work, transparency and reports that show exactly what was done." },
+      { "q": "What do you need from us?", "a": "Access to your website, Google Search Console, Google Analytics and Google Business Profile, plus information about your services and customers. For content, someone who can quickly check technical details in your field." },
+      { "q": "Do we need a new website?", "a": "Not necessarily. We can often work on your existing site. If the audit shows problems that can't reasonably be fixed, we'll tell you plainly and explain your options, costs included." },
+      { "q": "What happens if we stop working together?", "a": "Everything we've optimised and all the content we've created stays on your site. The accounts are yours; we only use them while we work together. The term and notice conditions are set out in the contract." },
+      { "q": "SEO or Google Ads?", "a": "Google Ads brings traffic immediately, for as long as you pay. SEO brings traffic later, but the cost per customer drops over time. For many businesses the combination works best: ads for quick wins, SEO for stability." }
+    ],
+    "closing": {
+      "title": "Find out why you're not showing up on Google",
+      "text": "Send us your website address and the services you want to be found for. We'll tell you what opportunities we see and how we'd approach them."
+    },
+    "whatsapp": "Hello, I'd like a quote for SEO services. Website: ..., city/area: ..."
+  }
+}

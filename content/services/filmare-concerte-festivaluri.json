@@ -1,0 +1,176 @@
+{
+  "_comment": "Pagina /servicii/filmare-concerte-festivaluri (EN: /en/services/concert-festival-filming). Textele se editează direct aici.",
+  "id": "filmare-concerte-festivaluri",
+  "category": "evenimente",
+  "order": 50,
+  "slug": { "ro": "filmare-concerte-festivaluri", "en": "concert-festival-filming" },
+  "icon": "guitar",
+  "packageGroup": null,
+  "priceFrom": null,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["nunti-evenimente", "drona"],
+  "related": ["filmare-drona", "live-streaming-evenimente", "videoclipuri-muzicale", "continut-social-media"],
+  "localService": null,
+  "ro": {
+    "name": "Filmare concerte și festivaluri",
+    "metaTitle": "Filmare concerte și festivaluri: aftermovie și live",
+    "metaDescription": "Filmare concerte și festivaluri cu mai multe camere, sunet din pupitru, dronă și aftermovie. Conținut pentru artiști și sponsori. Cereți o ofertă.",
+    "h1": "Filmare concerte și festivaluri, cu energia din fața scenei",
+    "subtitle": "Filmăm concertul așa cum l-a trăit publicul: lumini, voce, mulțime. Primiți aftermovie, clipuri pentru social media și înregistrări care vând biletele ediției următoare.",
+    "cardDescription": "Filmare concerte și festivaluri cu mai multe camere, sunet din pupitru, cadre aeriene și aftermovie pentru ediția următoare.",
+    "summary": [
+      "Filmare cu mai multe camere: scenă, artist, public și backstage.",
+      "Sunet preluat din pupitrul de sonorizare, pentru înregistrări care se pot asculta.",
+      "Aftermovie, clipuri verticale pentru social media și materiale pentru sponsori.",
+      "Oferta se face după o discuție scurtă, în funcție de zile, scene și livrabile."
+    ],
+    "problem": {
+      "title": "Concertul a fost excelent. Filmarea nu arată asta.",
+      "paragraphs": [
+        "Concertele sunt printre cele mai grele evenimente de filmat. Lumina de scenă se schimbă în fiecare secundă, de la întuneric total la stroboscop. Sunetul din sală este prea puternic pentru orice microfon de cameră. Mulțimea blochează unghiurile bune.",
+        "Rezultatul obișnuit: cadre zgomotoase, fețe arse de reflectoare, sunet distorsionat și un aftermovie care nu transmite nimic din atmosferă. Pentru un festival, asta înseamnă că promovarea ediției următoare pornește fără material bun. Pentru un artist, înseamnă un concert important fără o înregistrare pe care să o poată folosi."
+      ]
+    },
+    "solution": {
+      "title": "Cum filmăm un concert sau un festival",
+      "paragraphs": [
+        "Pregătirea începe cu echipa de producție. Aflăm programul, scenele, regulile de acces, zonele în care putem filma și persoana de contact din ziua evenimentului. Cu inginerul de sunet stabilim de unde preluăm semnalul audio. Înregistrarea din pupitru face diferența între un clip pe care îl urmăriți până la capăt și unul pe care îl închideți după zece secunde.",
+        "Pe scenă și în jurul ei lucrăm cu mai multe camere 4K. Una rămâne pe plan larg, alta pe artist, iar operatorii mobili prind publicul, instrumentiștii și momentele din backstage. Folosim lentile luminoase și setări gândite pentru lumina de scenă, ca să păstrăm culorile reale ale show-ului.",
+        "Drona adaugă scara evenimentului: scena, mulțimea, locația văzută de sus. Zborurile respectă reglementările AACR și UE. Zborul deasupra publicului este restricționat, așa că planificăm cadrele aeriene în zone permise și verificăm din timp locația.",
+        "Montajul se face pe ritmul muzicii. Pentru festivaluri construim aftermovie-ul în jurul experienței: sosirea, mulțimea, artiștii, momentele de vârf. Pentru artiști putem monta piese live complete, cu sunetul sincronizat."
+      ]
+    },
+    "includes": {
+      "title": "Ce include filmarea",
+      "items": [
+        { "title": "Coordonare cu producția", "text": "Program, scene, acreditări, poziții de camere și reguli de acces stabilite înainte." },
+        { "title": "Filmare multi-cameră 4K", "text": "Plan larg, prim-plan pe artist, public și backstage, în funcție de dimensiunea evenimentului." },
+        { "title": "Sunet din pupitru", "text": "Semnal audio preluat de la sonorizare, sincronizat cu imaginea la montaj." },
+        { "title": "Cadre aeriene", "text": "Scena și locația filmate cu drona, în zonele și condițiile permise de reglementări." },
+        { "title": "Aftermovie", "text": "Atmosfera evenimentului în câteva minute, gândit pentru promovarea ediției următoare." },
+        { "title": "Clipuri pentru social media", "text": "Momente scurte, verticale, pentru TikTok, Instagram și Facebook, livrate pe parcurs sau după eveniment." },
+        { "title": "Piese live complete", "text": "La cerere, melodii integrale montate din mai multe unghiuri, pentru artiști și trupe." },
+        { "title": "Materiale pentru sponsori", "text": "Cadre cu activările și branding-ul partenerilor, pentru raportările către aceștia." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "De la concerte în club la festivaluri pe mai multe zile, adaptăm echipa la scară și la ce vă trebuie după eveniment.",
+      "items": [
+        { "industry": "Organizatori de festivaluri", "text": "Aftermovie și clipuri care vând abonamentele ediției următoare și arată sponsorilor ce au primit." },
+        { "industry": "Artiști și trupe", "text": "Înregistrări live pentru YouTube, materiale pentru booking și conținut pentru fani." },
+        { "industry": "Cluburi și săli de concerte", "text": "Conținut constant pentru promovarea programului și a locației." },
+        { "industry": "Primării și instituții culturale", "text": "Zilele orașului, festivaluri de tradiții și concerte în aer liber, documentate pentru comunitate." },
+        { "industry": "Branduri cu activări la festival", "text": "Standul, activarea și reacția publicului, filmate pentru campaniile dumneavoastră." },
+        { "industry": "Agenții de booking și management", "text": "Material live de calitate pentru prezentarea artiștilor către organizatori." },
+        { "industry": "Concerte caritabile și ONG-uri", "text": "Evenimente de strângere de fonduri, cu clipuri pentru mulțumiri și ediții viitoare." }
+      ]
+    },
+    "process": {
+      "title": "De la primul mesaj la aftermovie",
+      "steps": [
+        { "title": "Discuție scurtă", "text": "Aflăm data, locația, numărul de scene și zile, artiștii și ce materiale vă trebuie." },
+        { "title": "Ofertă și echipă", "text": "Vă propunem numărul de operatori, echipamentul și livrabilele, cu termene clare." },
+        { "title": "Pregătire tehnică", "text": "Ne coordonăm cu producția, sonorizarea și echipa de lumini. Verificăm locația pentru dronă." },
+        { "title": "Evenimentul", "text": "Filmăm pe baza programului, cu un coordonator care comunică permanent cu producția." },
+        { "title": "Montaj și livrare", "text": "Clipurile scurte pleacă primele, apoi aftermovie-ul și restul materialelor, la termenele stabilite." }
+      ]
+    },
+    "pricingNote": "Pentru concerte și festivaluri nu avem pachet fix. Oferta se face după o discuție scurtă, în funcție de numărul de zile, scene, operatori și livrabile.",
+    "faq": [
+      { "q": "Cum obțineți un sunet bun la concert?", "a": "Preluăm semnalul direct din pupitrul de sonorizare, cu acordul inginerului de sunet. Îl combinăm cu sunetul ambiental al publicului, ca înregistrarea să fie clară, dar să păstreze atmosfera. Microfonul de pe cameră singur nu poate face asta." },
+      { "q": "Aveți nevoie de acordul artiștilor pentru filmare?", "a": "Da, iar această parte o rezolvă de obicei organizatorul, prin contractele cu artiștii. Unii artiști limitează filmarea la anumite piese sau cer să aprobe materialele. Ne spuneți regulile și le respectăm." },
+      { "q": "Puteți zbura cu drona deasupra publicului?", "a": "Zborul deasupra mulțimii este puternic restricționat de reglementările AACR și UE. Planificăm cadrele aeriene în afara zonelor cu public sau în condițiile pe care reglementările le permit. Verificăm din timp fiecare locație." },
+      { "q": "Cât de repede primim clipurile pentru social media?", "a": "Dacă stabilim din timp, putem livra clipuri scurte în timpul festivalului, de la o zi la alta, ca să aveți conținut cât evenimentul este în desfășurare. Aftermovie-ul vine după, la termenul din ofertă." },
+      { "q": "Putem folosi muzica artiștilor în aftermovie?", "a": "Drepturile asupra muzicii trebuie clarificate cu artiștii sau cu casele de discuri. De multe ori organizatorii obțin acordul prin contractul de booking. Dacă nu, folosim muzică licențiată pentru aftermovie." },
+      { "q": "Puteți transmite concertul live?", "a": "Da, prin serviciul nostru de live streaming, cu mai multe camere și sunet din pupitru. Avem nevoie de o conexiune stabilă la internet la locație, pe care o verificăm din timp împreună cu organizatorul." },
+      { "q": "Filmați și evenimente mici, în club?", "a": "Da. Pentru un concert în club echipa este mai mică, dar abordarea rămâne aceeași: sunet din pupitru, unghiuri planificate și montaj pe ritm." }
+    ],
+    "closing": {
+      "title": "Spuneți-ne despre concert sau festival",
+      "text": "Trimiteți data, locația și numărul de scene. Revenim cu o propunere de echipă și o ofertă clară."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru filmarea unui concert/festival. Data: ..., locația: ..., număr de scene/zile: ..."
+  },
+  "en": {
+    "name": "Concert and festival filming",
+    "metaTitle": "Concert and Festival Filming: Aftermovies and Live",
+    "metaDescription": "Multi-camera concert and festival filming with desk audio, drone shots and aftermovies. Content for artists and sponsors. Request a quote.",
+    "h1": "Concert and festival filming with front-row energy",
+    "subtitle": "We film the show the way the crowd lived it: the lights, the vocals, the people. You get an aftermovie, social clips and footage that sells next year's tickets.",
+    "cardDescription": "Multi-camera concert and festival filming with desk audio, aerial shots and an aftermovie built to promote the next edition.",
+    "summary": [
+      "Multi-camera coverage: stage, artist, crowd and backstage.",
+      "Audio taken from the front-of-house desk, so the footage is actually worth listening to.",
+      "Aftermovie, vertical social clips and material for your sponsors.",
+      "Quoted after a short call, based on days, stages and deliverables."
+    ],
+    "problem": {
+      "title": "The show was great. The footage doesn't show it.",
+      "paragraphs": [
+        "Concerts are among the hardest events to film. Stage lighting changes every second, from pitch dark to strobes. The volume is too much for any on-camera mic. The crowd blocks every good angle.",
+        "The usual result: noisy footage, faces blown out by spotlights, distorted sound and an aftermovie that captures none of the atmosphere. For a festival, that means promoting next year with nothing good to show. For an artist, it means a big show with no footage worth using."
+      ]
+    },
+    "solution": {
+      "title": "How we film a concert or festival",
+      "paragraphs": [
+        "Prep starts with the production team. We get the schedule, the stages, access rules, the areas where we can shoot and a contact for the day. With the sound engineer we agree where we take the audio feed. A desk recording is the difference between a clip people watch to the end and one they close after ten seconds.",
+        "On and around the stage we run several 4K cameras. One holds the wide shot, another stays on the artist, and roaming operators catch the crowd, the musicians and backstage moments. We use fast lenses and settings built for stage lighting, so the show's real colours come through.",
+        "The drone shows the scale: the stage, the crowd, the venue from above. Flights follow AACR and EU regulations. Flying over the audience is restricted, so we plan aerial shots in permitted areas and check the site in advance.",
+        "We cut to the rhythm of the music. For festivals, the aftermovie is built around the experience: arrival, the crowd, the artists, the peak moments. For artists, we can edit complete live songs with synced audio."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Production coordination", "text": "Schedule, stages, accreditation, camera positions and access rules agreed beforehand." },
+        { "title": "Multi-camera 4K filming", "text": "Wide shots, artist close-ups, crowd and backstage, scaled to the event." },
+        { "title": "Desk audio", "text": "An audio feed from front of house, synced to picture in the edit." },
+        { "title": "Aerial footage", "text": "The stage and venue filmed by drone, in areas and conditions the rules allow." },
+        { "title": "Aftermovie", "text": "The atmosphere of the event in a few minutes, made to promote the next edition." },
+        { "title": "Social media clips", "text": "Short vertical moments for TikTok, Instagram and Facebook, delivered during or after the event." },
+        { "title": "Full live songs", "text": "On request, complete tracks edited from multiple angles for artists and bands." },
+        { "title": "Sponsor material", "text": "Footage of partner activations and branding, ready for your sponsor reports." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "From club gigs to multi-day festivals, we scale the crew to the event and to what you need afterwards.",
+      "items": [
+        { "industry": "Festival organisers", "text": "An aftermovie and clips that sell next year's passes and show sponsors what they got." },
+        { "industry": "Artists and bands", "text": "Live recordings for YouTube, booking reels and content for fans." },
+        { "industry": "Clubs and concert venues", "text": "A steady flow of content to promote your line-up and your space." },
+        { "industry": "City halls and cultural institutions", "text": "City days, heritage festivals and open-air concerts documented for the community." },
+        { "industry": "Brands with festival activations", "text": "Your stand, your activation and the crowd's reaction, filmed for your campaigns." },
+        { "industry": "Booking and management agencies", "text": "Quality live footage to pitch your artists to promoters." },
+        { "industry": "Charity concerts and NGOs", "text": "Fundraising events, with clips for thank-you messages and future editions." }
+      ]
+    },
+    "process": {
+      "title": "From first message to aftermovie",
+      "steps": [
+        { "title": "Quick call", "text": "We get the date, venue, number of stages and days, the line-up and what you need." },
+        { "title": "Quote and crew", "text": "We propose the number of operators, kit and deliverables, with clear deadlines." },
+        { "title": "Technical prep", "text": "We coordinate with production, sound and lighting, and check the site for drone flights." },
+        { "title": "The event", "text": "We film to the running order, with a coordinator in constant contact with production." },
+        { "title": "Editing and delivery", "text": "Short clips go out first, followed by the aftermovie and the rest, on the agreed dates." }
+      ]
+    },
+    "pricingNote": "There's no fixed package for concerts and festivals. We quote after a short call, based on days, stages, crew size and deliverables.",
+    "faq": [
+      { "q": "How do you get good sound at a gig?", "a": "We take a feed straight from the front-of-house desk, with the sound engineer's agreement, and blend it with crowd ambience. The recording stays clear but keeps the atmosphere, which an on-camera mic alone can't do." },
+      { "q": "Do you need the artists' permission to film?", "a": "Yes, and the organiser usually handles this through the artist contracts. Some artists limit filming to certain songs or want to approve footage. Tell us the rules and we'll follow them." },
+      { "q": "Can you fly the drone over the crowd?", "a": "Flying over crowds is heavily restricted under AACR and EU rules. We plan aerial shots away from the audience or under the conditions the regulations allow, and check every site in advance." },
+      { "q": "How fast can we get social clips?", "a": "If we plan for it, we can deliver short clips during the festival, day by day, so you have content while it's happening. The aftermovie follows on the date in the quote." },
+      { "q": "Can we use the artists' music in the aftermovie?", "a": "Music rights need to be cleared with the artists or their labels. Organisers often secure this in the booking contract. If not, we use licensed music for the aftermovie." },
+      { "q": "Can you stream the concert live?", "a": "Yes, through our live streaming service, with multiple cameras and desk audio. We need a stable internet connection at the venue, which we check with the organiser in advance." },
+      { "q": "Do you film smaller club gigs too?", "a": "Yes. A club show needs a smaller crew, but the approach is the same: desk audio, planned angles and an edit cut to the music." }
+    ],
+    "closing": {
+      "title": "Tell us about your concert or festival",
+      "text": "Send us the date, venue and number of stages. We'll come back with a crew proposal and a clear quote."
+    },
+    "whatsapp": "Hello, I'd like a quote for filming a concert/festival. Date: ..., venue: ..., number of stages/days: ..."
+  }
+}

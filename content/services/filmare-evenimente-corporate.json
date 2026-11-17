@@ -1,0 +1,350 @@
+{
+  "_comment": "Pagina /servicii/filmare-evenimente-corporate (EN: /en/services/corporate-event-videography). Textele se editează direct aici.",
+  "id": "filmare-evenimente-corporate",
+  "category": "evenimente",
+  "order": 40,
+  "slug": {
+    "ro": "filmare-evenimente-corporate",
+    "en": "corporate-event-videography"
+  },
+  "icon": "presentation",
+  "packageGroup": "nunti",
+  "packageIds": [
+    "eveniment-corporate"
+  ],
+  "priceFrom": 2000,
+  "priceUnit": "proiect",
+  "portfolioCategories": [
+    "nunti-evenimente",
+    "video-comercial"
+  ],
+  "related": [
+    "live-streaming-evenimente",
+    "fotografie-corporate",
+    "videoclip-prezentare-firma",
+    "continut-social-media"
+  ],
+  "localService": null,
+  "ro": {
+    "name": "Filmare evenimente corporate",
+    "metaTitle": "Filmare evenimente corporate: conferințe și lansări",
+    "metaDescription": "Filmare evenimente corporate: conferințe, lansări, gale. Aftermovie, clipuri pentru social media și prezentări complete. De la 2.000 lei. Cereți ofertă.",
+    "h1": "Filmare evenimente corporate care lucrează și după eveniment",
+    "subtitle": "Conferința durează o zi. Materialele video pot aduce vizibilitate, lead-uri și participanți la ediția următoare luni de zile, dacă sunt filmate cu un plan clar.",
+    "cardDescription": "Filmare conferințe, lansări și evenimente de firmă: aftermovie, clipuri scurte pentru social media și prezentări complete.",
+    "summary": [
+      "Filmăm conferințe, lansări de produs, gale, team building-uri și evenimente interne.",
+      "Livrăm aftermovie, clipuri scurte pentru social media și, la cerere, prezentările integrale.",
+      "Sunet preluat din mixerul sălii, mai multe camere pentru speakeri și interviuri pe loc.",
+      "Pachetul Eveniment corporate pornește de la 2.000 lei. Lucrăm în toată România."
+    ],
+    "problem": {
+      "title": "Un eveniment bun, uitat a doua zi",
+      "paragraphs": [
+        "O firmă investește mult într-un eveniment: locație, speakeri, catering, invitați, săptămâni de organizare. A doua zi rămân câteva poze pe LinkedIn și atât.",
+        "Cauza este de obicei aceeași. Filmarea este tratată ca o formalitate. Se face o înregistrare de pe trepied, din fundul sălii, cu sunetul din aer. Nimeni nu s-a gândit ce clipuri sunt necesare după eveniment, pentru ce canale și în ce format. Materialul ajunge pe un hard disk și nu mai este folosit."
+      ]
+    },
+    "solution": {
+      "title": "Filmăm cu lista de livrabile în față",
+      "paragraphs": [
+        "Începem de la întrebarea: ce trebuie să existe după eveniment? Un aftermovie pentru site și pentru ediția următoare. Clipuri scurte pentru LinkedIn, Instagram sau TikTok. Prezentările integrale pentru participanți sau pentru clienți. Interviuri cu speakeri și testimoniale de la invitați. Pe baza acestei liste stabilim echipa, camerele și programul de filmare.",
+        "În ziua evenimentului ne coordonăm cu organizatorul și cu echipa tehnică a sălii. Sunetul îl preluăm direct din mixer, ca fiecare cuvânt de pe scenă să fie curat. La keynote-uri și paneluri folosim mai multe camere: plan larg, speaker, reacțiile publicului. Între sesiuni facem interviuri scurte și filmăm atmosfera, standurile și networkingul.",
+        "La montaj respectăm identitatea vizuală a firmei: logo, culori, fonturi, subtitrări. Clipurile pentru social media le montăm vertical și cu subtitrare, pentru că majoritatea oamenilor le urmăresc fără sunet. Dacă stabilim din timp, putem livra câteva clipuri scurte foarte repede după eveniment, cât subiectul este încă de actualitate."
+      ]
+    },
+    "includes": {
+      "title": "Ce include filmarea evenimentului",
+      "items": [
+        {
+          "title": "Brief și plan de filmare",
+          "text": "Agenda, speakerii, momentele-cheie și lista exactă de livrabile, stabilite înainte."
+        },
+        {
+          "title": "Filmare 4K cu una sau mai multe camere",
+          "text": "Plan larg, prim-plan pe speaker și cadre cu publicul, în funcție de dimensiunea evenimentului."
+        },
+        {
+          "title": "Sunet din mixerul sălii",
+          "text": "Preluare directă de la sonorizare, plus microfoane wireless pentru interviuri."
+        },
+        {
+          "title": "Aftermovie",
+          "text": "Un clip de câteva minute cu atmosfera, mesajele principale și energia evenimentului."
+        },
+        {
+          "title": "Clipuri scurte pentru social media",
+          "text": "Formate verticale cu subtitrare, gata de publicat pe LinkedIn, Instagram, Facebook sau TikTok."
+        },
+        {
+          "title": "Interviuri și testimoniale",
+          "text": "Speakeri, parteneri și participanți, filmați pe loc, cu întrebări pregătite împreună."
+        },
+        {
+          "title": "Prezentări integrale",
+          "text": "La cerere, fiecare speaker montat separat, cu slide-urile integrate în cadru."
+        },
+        {
+          "title": "Branding consecvent",
+          "text": "Logo, culori, fonturi și titluri conform identității vizuale a firmei."
+        }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Lucrăm cu echipe de marketing, HR, comunicare și cu organizatori de evenimente. Fiecare are nevoie de altceva de la același eveniment.",
+      "items": [
+        {
+          "industry": "Organizatori de conferințe",
+          "text": "Aftermovie-ul vinde biletele ediției următoare, iar prezentările integrale aduc valoare participanților."
+        },
+        {
+          "industry": "Companii care lansează un produs",
+          "text": "Lansarea devine conținut pentru campanii, site și echipa de vânzări."
+        },
+        {
+          "industry": "Departamente de HR și employer branding",
+          "text": "Team building-uri și evenimente interne transformate în clipuri pentru recrutare și cultură de firmă."
+        },
+        {
+          "industry": "Asociații profesionale și camere de comerț",
+          "text": "Gale, forumuri și dezbateri documentate pentru membri și parteneri."
+        },
+        {
+          "industry": "ONG-uri și fundații",
+          "text": "Evenimente caritabile și de strângere de fonduri, cu materiale pentru rapoartele către donatori."
+        },
+        {
+          "industry": "Agenții de evenimente",
+          "text": "Lucrăm ca partener video pe proiectele dumneavoastră, pe programul și brieful clientului."
+        },
+        {
+          "industry": "Universități și școli private",
+          "text": "Deschideri de an, absolviri, conferințe academice și zile porților deschise."
+        }
+      ]
+    },
+    "process": {
+      "title": "Cum lucrăm",
+      "steps": [
+        {
+          "title": "Discuție scurtă",
+          "text": "Aflăm tipul evenimentului, data, locația, numărul de săli și ce materiale vă trebuie."
+        },
+        {
+          "title": "Ofertă și plan",
+          "text": "Primiți oferta cu echipa, livrabilele și termenele. După confirmare, stabilim planul de filmare."
+        },
+        {
+          "title": "Coordonare tehnică",
+          "text": "Vorbim cu echipa de sonorizare și cu organizatorul pentru acces, prize, poziții de camere și program."
+        },
+        {
+          "title": "Ziua evenimentului",
+          "text": "Filmăm discret, fără să încurcăm speakerii sau publicul, cu un responsabil de proiect pe loc."
+        },
+        {
+          "title": "Montaj și revizii",
+          "text": "Livrăm clipurile online, cu o rundă de revizii inclusă pentru ajustări de text și ordine."
+        }
+      ]
+    },
+    "pricingNote": "Pachetul Eveniment corporate pornește de la 2.000 lei (fără TVA) și include filmarea, aftermovie-ul și clipuri scurte pentru social media. Evenimentele pe mai multe zile sau săli se ofertează separat.",
+    "faq": [
+      {
+        "q": "Ce include prețul de la 2.000 lei?",
+        "a": "Filmarea conferinței sau a evenimentului, un aftermovie și clipuri scurte pentru social media. Oferta finală depinde de durată, numărul de camere, numărul de săli și de livrabilele în plus, cum ar fi prezentările integrale sau interviurile."
+      },
+      {
+        "q": "Cât de repede primim materialele?",
+        "a": "Termenele se stabilesc în ofertă, în funcție de volum. Dacă aveți nevoie de clipuri pentru social media imediat după eveniment, ne spuneți din timp și organizăm montajul ca să le livrăm cât mai repede."
+      },
+      {
+        "q": "Puteți filma un eveniment pe mai multe zile sau în mai multe săli?",
+        "a": "Da. Pentru evenimente mari mărim echipa și stabilim cine acoperă fiecare sală. Planificăm din timp, pe baza agendei finale, ca să nu ratăm sesiunile importante."
+      },
+      {
+        "q": "Cum rezolvați sunetul în sală?",
+        "a": "Preluăm semnalul direct din mixerul echipei de sonorizare. Așa vocea speakerilor este curată, fără ecou și zgomotul sălii. Pentru interviuri folosim microfoane wireless separate."
+      },
+      {
+        "q": "Ce facem cu acordul participanților pentru filmare?",
+        "a": "Recomandăm să anunțați la înscriere și la intrare că evenimentul este filmat. Dacă anumite persoane nu doresc să apară, ne spuneți și evităm prim-planurile cu ele. Pentru interviuri cerem întotdeauna acordul persoanei."
+      },
+      {
+        "q": "Puteți transmite evenimentul și live?",
+        "a": "Da, prin serviciul de live streaming. Putem combina transmisia live cu filmarea pentru aftermovie, cu aceeași echipă, ceea ce simplifică mult coordonarea."
+      },
+      {
+        "q": "Folosiți identitatea vizuală a firmei noastre?",
+        "a": "Da. Ne trimiteți logo-ul, fonturile și ghidul de brand, iar noi le folosim la titluri, subtitrări și cadrul final. Astfel clipurile arată ca restul comunicării dumneavoastră."
+      }
+    ],
+    "closing": {
+      "title": "Spuneți-ne despre evenimentul dumneavoastră",
+      "text": "Trimiteți data, locația și agenda. Vă răspundem cu o ofertă și cu lista de livrabile potrivite."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru filmarea unui eveniment corporate. Tip eveniment: ..., data: ..., locația: ..."
+  },
+  "en": {
+    "name": "Corporate event videography",
+    "metaTitle": "Corporate Event Videography: Conferences and Launches",
+    "metaDescription": "Corporate event filming: conferences, launches and galas. Aftermovies, social clips and full-length talks. From 2,000 RON. Request a quote today.",
+    "h1": "Corporate event videography that keeps working after the event",
+    "subtitle": "Your conference lasts a day. Planned properly, the footage can drive visibility, leads and sign-ups for the next edition for months.",
+    "cardDescription": "Filming for conferences, launches and company events: aftermovies, short social clips and full-length presentations.",
+    "summary": [
+      "We film conferences, product launches, galas, team-building days and internal events.",
+      "We deliver an aftermovie, short social clips and, on request, full-length talks.",
+      "Audio taken from the venue's sound desk, multi-camera keynotes and on-the-spot interviews.",
+      "The Corporate Event package starts from 2,000 RON. We work across Romania."
+    ],
+    "problem": {
+      "title": "A great event, forgotten the next day",
+      "paragraphs": [
+        "Companies put a lot into an event: the venue, speakers, catering, guests, weeks of planning. The day after, there are a few photos on LinkedIn and that's it.",
+        "The cause is usually the same. Filming is treated as a box to tick. Someone sets a camera on a tripod at the back of the room and records the room sound. Nobody has thought about which clips are needed afterwards, for which channels or in what format. The footage ends up on a hard drive and never gets used."
+      ]
+    },
+    "solution": {
+      "title": "We film with the deliverables list in hand",
+      "paragraphs": [
+        "We start with one question: what needs to exist after the event? An aftermovie for your website and to promote next year. Short clips for LinkedIn, Instagram or TikTok. Full talks for attendees or clients. Speaker interviews and guest testimonials. That list decides the crew, the cameras and the shooting schedule.",
+        "On the day, we work alongside the organiser and the venue's tech team. We take audio straight from the sound desk, so every word on stage is clean. Keynotes and panels get multiple cameras: a wide shot, the speaker and audience reactions. Between sessions we grab short interviews and film the atmosphere, the stands and the networking.",
+        "In the edit we stick to your brand: logo, colours, fonts and captions. Social clips are cut vertically and subtitled, because most people watch them on mute. If we plan for it in advance, we can turn around a few short clips very quickly after the event, while it's still a talking point."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        {
+          "title": "Brief and shot plan",
+          "text": "Agenda, speakers, key moments and an exact deliverables list, agreed up front."
+        },
+        {
+          "title": "4K filming, single or multi-camera",
+          "text": "Wide shot, speaker close-up and audience shots, scaled to the size of the event."
+        },
+        {
+          "title": "Audio from the sound desk",
+          "text": "A direct feed from the venue's PA, plus wireless mics for interviews."
+        },
+        {
+          "title": "Aftermovie",
+          "text": "A few minutes capturing the atmosphere, the main messages and the energy in the room."
+        },
+        {
+          "title": "Short social clips",
+          "text": "Vertical, subtitled cuts ready for LinkedIn, Instagram, Facebook or TikTok."
+        },
+        {
+          "title": "Interviews and testimonials",
+          "text": "Speakers, partners and attendees filmed on site, with questions prepared together."
+        },
+        {
+          "title": "Full-length talks",
+          "text": "On request, each speaker edited separately, with slides worked into the frame."
+        },
+        {
+          "title": "Consistent branding",
+          "text": "Logo, colours, fonts and titles in line with your visual identity."
+        }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "We work with marketing, HR and communications teams, and with event organisers. Each needs something different from the same event.",
+      "items": [
+        {
+          "industry": "Conference organisers",
+          "text": "The aftermovie sells next year's tickets, and full talks add value for attendees."
+        },
+        {
+          "industry": "Companies launching a product",
+          "text": "The launch becomes material for campaigns, the website and your sales team."
+        },
+        {
+          "industry": "HR and employer branding teams",
+          "text": "Team-building days and internal events turned into clips for recruiting and company culture."
+        },
+        {
+          "industry": "Professional associations and chambers of commerce",
+          "text": "Galas, forums and debates documented for members and partners."
+        },
+        {
+          "industry": "NGOs and foundations",
+          "text": "Charity and fundraising events, with footage you can use in reports to donors."
+        },
+        {
+          "industry": "Event agencies",
+          "text": "We act as your video partner, working to your client's schedule and brief."
+        },
+        {
+          "industry": "Universities and private schools",
+          "text": "Opening ceremonies, graduations, academic conferences and open days."
+        }
+      ]
+    },
+    "process": {
+      "title": "How we work",
+      "steps": [
+        {
+          "title": "Quick call",
+          "text": "We find out the type of event, date, venue, number of rooms and what you need afterwards."
+        },
+        {
+          "title": "Quote and plan",
+          "text": "You get a quote with crew, deliverables and deadlines. Once confirmed, we build the shot plan."
+        },
+        {
+          "title": "Technical coordination",
+          "text": "We talk to the sound team and organiser about access, power, camera positions and timings."
+        },
+        {
+          "title": "Event day",
+          "text": "We film discreetly, without getting in the way of speakers or guests, with a project lead on site."
+        },
+        {
+          "title": "Editing and revisions",
+          "text": "Clips are delivered online, with one round of revisions included for text and order tweaks."
+        }
+      ]
+    },
+    "pricingNote": "The Corporate Event package starts from 2,000 RON (excl. VAT) and covers filming, an aftermovie and short social clips. Multi-day or multi-room events are quoted separately.",
+    "faq": [
+      {
+        "q": "What does the 2,000 RON starting price include?",
+        "a": "Filming the conference or event, an aftermovie and short social media clips. The final quote depends on duration, number of cameras and rooms, and any extra deliverables such as full talks or interviews."
+      },
+      {
+        "q": "How quickly do we get the footage?",
+        "a": "Deadlines are set in the quote, based on volume. If you need social clips straight after the event, tell us early and we'll schedule the edit to get them to you as fast as possible."
+      },
+      {
+        "q": "Can you cover multi-day or multi-room events?",
+        "a": "Yes. For larger events we scale up the crew and assign who covers each room. We plan from the final agenda so the important sessions aren't missed."
+      },
+      {
+        "q": "How do you handle sound in the room?",
+        "a": "We take a feed directly from the sound team's mixing desk. That keeps speakers' voices clean, with no echo or room noise. Interviews are recorded on separate wireless mics."
+      },
+      {
+        "q": "What about attendee consent to being filmed?",
+        "a": "We recommend stating at registration and at the entrance that the event is being filmed. If certain people prefer not to appear, let us know and we'll avoid close-ups of them. We always ask for consent before an interview."
+      },
+      {
+        "q": "Can you also stream the event live?",
+        "a": "Yes, through our live streaming service. We can combine the stream with filming for the aftermovie using one crew, which makes coordination much simpler."
+      },
+      {
+        "q": "Will you follow our brand guidelines?",
+        "a": "Yes. Send us your logo, fonts and brand guide and we'll use them for titles, captions and end cards, so the clips match the rest of your communication."
+      }
+    ],
+    "closing": {
+      "title": "Tell us about your event",
+      "text": "Send the date, venue and agenda. We'll reply with a quote and the deliverables that make sense for you."
+    },
+    "whatsapp": "Hello, I'd like a quote for filming a corporate event. Event type: ..., date: ..., venue: ..."
+  }
+}

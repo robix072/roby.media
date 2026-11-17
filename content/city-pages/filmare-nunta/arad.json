@@ -1,0 +1,53 @@
+{
+  "_comment": "Pagina /filmare-nunta-arad. SCHELET: are noindex și nu apare în sitemap până puneți \"ready\": true.",
+  "_TODO": [
+    "Scrieți un paragraf introductiv propriu pentru Arad (intro), nu copiat din alt oraș.",
+    "Completați „local” cu locații, zone sau industrii reale din Arad.",
+    "Adăugați 3–5 întrebări FAQ locale.",
+    "Când conținutul e complet și unic, puneți \"ready\": true."
+  ],
+  "ready": false,
+  "service": "filmare-nunta",
+  "city": "arad",
+  "metaTitle": "Filmare nuntă Arad | Roby Media",
+  "metaDescription": "Filmare de nuntă cinematică 4K în Arad. Echipă care se deplasează în tot județul Arad. Cereți o ofertă pe WhatsApp sau prin formular.",
+  "h1": "Filmare nuntă în Arad",
+  "subtitle": "Filmare de nuntă cinematică 4K în Arad și în județul Arad.",
+  "summary": [
+    "Lucrăm în Arad și în localitățile din județul Arad.",
+    "Ofertă clară, primită de regulă în aceeași zi lucrătoare.",
+    "Contract, factură și termene de livrare stabilite de la început."
+  ],
+  "intro": [
+    "TODO: paragraf introductiv unic despre videograf de nuntă în Arad."
+  ],
+  "local": {
+    "title": "Filmare nuntă în Arad: ce trebuie să știți",
+    "text": "TODO: context local pentru Arad.",
+    "items": [
+      {
+        "title": "TODO",
+        "text": "TODO: locație, zonă sau industrie relevantă din Arad."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Deplasare în Arad",
+    "text": "Echipa noastră se deplasează în Arad și în județul Arad. Costul deplasării, dacă există, apare transparent în ofertă."
+  },
+  "faq": [
+    {
+      "q": "Lucrați în Arad?",
+      "a": "Da. Lucrăm cu clienți în Arad și din tot județul Arad. Costul deplasării apare transparent în ofertă."
+    },
+    {
+      "q": "Cât de repede primim o ofertă?",
+      "a": "De regulă în aceeași zi lucrătoare. Cel mai rapid ne găsiți pe WhatsApp sau la telefon."
+    },
+    {
+      "q": "Lucrați pe bază de contract?",
+      "a": "Da. ROBY MEDIA SRL emite factură, iar livrabilele, termenele și plățile sunt trecute în contract."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru filmare nuntă în Arad."
+}

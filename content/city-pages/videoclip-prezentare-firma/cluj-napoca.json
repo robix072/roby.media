@@ -1,0 +1,98 @@
+{
+  "ready": true,
+  "service": "videoclip-prezentare-firma",
+  "city": "cluj-napoca",
+  "metaTitle": "Videoclip de prezentare firmă în Cluj-Napoca",
+  "metaDescription": "Videoclipuri de prezentare pentru firme și startup-uri din Cluj-Napoca: produs, echipă, recrutare. De la 1.800 lei + TVA. Scrieți-ne pe WhatsApp.",
+  "h1": "Videoclip de prezentare pentru firme în Cluj-Napoca",
+  "subtitle": "Filme scurte care explică produsul, echipa și cultura firmei dumneavoastră. Pentru companii IT, startup-uri, clinici și producători din Cluj-Napoca și județul Cluj.",
+  "summary": [
+    "Filmăm la birou, în laborator, în hala de producție sau la evenimentele dumneavoastră din Cluj.",
+    "Video gândit pentru investitori, clienți internaționali și candidați, cu subtitrare în engleză la cerere.",
+    "Pachetul Video Prezentare pornește de la 1.800 lei + TVA.",
+    "Un film principal și variante scurte din aceeași zi de filmare."
+  ],
+  "intro": [
+    "Cluj-Napoca are una dintre cele mai active comunități de tehnologie și startup-uri din România. Multe firme de aici vând servicii sau produse digitale către clienți din străinătate, așa că prima impresie se formează online, adesea înainte de orice apel.",
+    "Problema tipică: produsul este complex, iar textul de pe site nu reușește să explice simplu ce face. Un videoclip de prezentare bine structurat arată problema clientului, soluția și oamenii din spatele ei în unul sau două minute. Același material poate merge într-un pitch deck, pe pagina de cariere și pe LinkedIn.",
+    "Lucrăm cu dumneavoastră pe mesaj și scenariu, filmăm la Cluj cu echipa noastră și livrăm versiuni în română și engleză, după nevoie."
+  ],
+  "local": {
+    "title": "Video de prezentare pentru piața din Cluj",
+    "text": "Clujul combină un ecosistem IT matur, universități mari, un sector medical puternic și o scenă de evenimente bogată. Fiecare dintre aceste lumi are un public diferit, iar un video eficient pornește de la cine trebuie convins.",
+    "items": [
+      {
+        "title": "Clienți și investitori din străinătate",
+        "text": "Pentru firmele care lucrează la export, livrăm videoclipul cu subtitrare sau voce în engleză, ca să poată fi trimis direct partenerilor."
+      },
+      {
+        "title": "Concurență pentru talente",
+        "text": "Firmele de tehnologie din Cluj caută aceiași specialiști. Un video sincer despre echipă, proiecte și modul de lucru ajută pagina de cariere mai mult decât o listă de beneficii."
+      },
+      {
+        "title": "Oraș universitar",
+        "text": "Studenții și absolvenții sunt un public important pentru internship-uri și primele angajări. Pentru ei funcționează formatele scurte, verticale, cu oameni reali."
+      },
+      {
+        "title": "Evenimente, conferințe și meetup-uri",
+        "text": "Clujul găzduiește frecvent conferințe și evenimente de business. Putem filma prezența firmei dumneavoastră și integra cadrele în videoclipul de prezentare."
+      },
+      {
+        "title": "Producție în zona metropolitană",
+        "text": "Parcurile industriale și firmele din jurul orașului au nevoie de imagini cu fluxul de producție, pentru clienți B2B și pentru recrutare."
+      }
+    ]
+  },
+  "industries": {
+    "title": "Sectoare din Cluj care folosesc bine un video de prezentare",
+    "items": [
+      {
+        "title": "Startup-uri și produse SaaS",
+        "text": "Video explicativ despre produs, cu demo pe ecran și interviu cu fondatorii, pentru site și pentru runde de finanțare."
+      },
+      {
+        "title": "Firme de outsourcing IT",
+        "text": "Prezentarea echipei și a modului de lucru, pentru clienți externi care vor să știe cu cine colaborează."
+      },
+      {
+        "title": "Clinici private și centre medicale",
+        "text": "Film despre medici, echipamente și traseul pacientului, care reduce emoțiile primei vizite."
+      },
+      {
+        "title": "Producători și firme industriale",
+        "text": "Cadre din hală, linii de producție și control de calitate, pentru oferte B2B și târguri."
+      },
+      {
+        "title": "Școli private, training și educație",
+        "text": "Prezentarea profesorilor, a spațiilor și a programelor, pentru părinți și cursanți."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Filmare în Cluj-Napoca și în județul Cluj",
+    "text": "Echipa noastră se deplasează în Cluj-Napoca, în zona metropolitană și în localitățile din județul Cluj, cu tot echipamentul necesar: camere cinema 4K, lumini, audio wireless și dronă când e util. Pentru proiecte cu mai multe zile de filmare organizăm cazarea noi. Costul deplasării, dacă există, apare transparent în ofertă."
+  },
+  "faq": [
+    {
+      "q": "Puteți livra videoclipul și în limba engleză?",
+      "a": "Da. Putem adăuga subtitrare în engleză sau putem filma interviurile direct în engleză. Spuneți-ne de la început, ca să pregătim scenariul și întrebările în limba potrivită."
+    },
+    {
+      "q": "Lucrați și cu startup-uri aflate la început?",
+      "a": "Da. Pentru bugete mai mici recomandăm o zi scurtă de filmare și un video concentrat pe produs și fondatori. Pachetul Video Prezentare pornește de la 1.800 lei + TVA."
+    },
+    {
+      "q": "Cum arătăm un produs software, care nu se vede fizic?",
+      "a": "Combinăm interviuri cu echipa, cadre din birou și înregistrări de ecran animate simplu. Scopul este ca un client să înțeleagă ce problemă rezolvați, nu fiecare funcție."
+    },
+    {
+      "q": "Puteți filma la un eveniment al nostru din Cluj?",
+      "a": "Da. Putem filma la conferințe, lansări sau evenimente interne și putem folosi cadrele în videoclipul de prezentare. Detaliile și prețul le stabilim în ofertă."
+    },
+    {
+      "q": "În cât timp primim videoclipul?",
+      "a": "Termenul exact îl trecem în contract. De regulă, primiți prima variantă în câteva zile lucrătoare de la filmare, apoi o rundă de modificări."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru un videoclip de prezentare a firmei noastre din Cluj-Napoca."
+}

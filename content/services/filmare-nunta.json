@@ -1,0 +1,173 @@
+{
+  "_comment": "Pagina /servicii/filmare-nunta (EN: /en/services/wedding-videography). Textele se editează direct aici.",
+  "id": "filmare-nunta",
+  "category": "evenimente",
+  "order": 10,
+  "slug": { "ro": "filmare-nunta", "en": "wedding-videography" },
+  "icon": "rings",
+  "packageGroup": "nunti",
+  "packageIds": ["essential", "cinematic", "foto-video-premium"],
+  "priceFrom": 3500,
+  "priceUnit": "proiect",
+  "portfolioCategories": ["nunti-evenimente"],
+  "related": ["fotografie-nunta", "filmare-drona", "filmare-botez", "live-streaming-evenimente"],
+  "localService": "filmare-nunta",
+  "ro": {
+    "name": "Filmare nuntă",
+    "metaTitle": "Filmare nuntă cinematică 4K, în toată România",
+    "metaDescription": "Filmare de nuntă cinematică 4K: 1–2 videografi, dronă, teaser în 7 zile și film complet. Pachete de la 3.500 lei. Cereți disponibilitatea pentru data dvs.",
+    "h1": "Filmare nuntă cinematică, gândită ca un film",
+    "subtitle": "Vă filmăm ziua așa cum ați simțit-o: emoția, oamenii, detaliile. Primiți un film pe care îl veți revedea peste 20 de ani cu aceeași plăcere.",
+    "cardDescription": "Film de nuntă cinematic 4K, cu dronă, teaser rapid pentru social media și film complet al zilei.",
+    "summary": [
+      "Filmare 4K cu 1 sau 2 videografi, opțional dronă și fotograf.",
+      "Teaser pentru social media în 7 zile, clip highlight cinematic și film complet.",
+      "Ne deplasăm în toată România. Data se rezervă cu un avans, pe bază de contract.",
+      "Pachete de la 3.500 lei. Oferta finală depinde de durată, locații și echipă."
+    ],
+    "problem": {
+      "title": "Nunta trece într-o zi. Filmul rămâne o viață.",
+      "paragraphs": [
+        "În ziua nunții totul se întâmplă repede. Pregătirile, cununia, primul dans, discursurile, petrecerea. Mulți miri ne spun că, a doua zi, își amintesc doar fragmente.",
+        "Problema apare când filmul primit nu redă ziua. Cadre tremurate, sunet slab la jurăminte, momente importante ratate, un montaj lung și obositor pe care nu îl mai deschide nimeni. Nunta nu se poate repeta, așa că nici filmarea nu are voie să fie un experiment."
+      ]
+    },
+    "solution": {
+      "title": "Cum lucrăm la o filmare de nuntă",
+      "paragraphs": [
+        "Pornim de la o discuție despre voi: ce vă doriți să păstrați, cine sunt oamenii importanți, ce stil vă place. Apoi stabilim împreună programul zilei și momentele-cheie, ca să fim mereu în locul potrivit.",
+        "În ziua nunții suntem discreți. Lucrăm cu camere cinema 4K, lentile luminoase pentru seri și sunet înregistrat separat la ceremonie și discursuri. Cu doi videografi acoperim simultan reacțiile mirilor și ale invitaților. Drona adaugă cadrele aeriene care dau amploare locației.",
+        "În post-producție construim povestea: montaj pe ritmul muzicii, color grading cinematic și sunet curat. Primiți întâi un teaser pentru social media, apoi clipul highlight și filmul complet al zilei."
+      ]
+    },
+    "includes": {
+      "title": "Ce include filmarea de nuntă",
+      "items": [
+        { "title": "Întâlnire de planificare", "text": "Discutăm programul, locațiile, momentele speciale și muzica, online sau față în față." },
+        { "title": "Filmare 4K pe toată ziua", "text": "De la pregătiri până la petrecere, 8–10 ore sau mai mult, în funcție de pachet." },
+        { "title": "Unul sau doi videografi", "text": "Doi operatori surprind în același timp momentul și reacțiile celor din jur." },
+        { "title": "Cadre aeriene cu drona", "text": "Locația, cortegiul și peisajul filmate din aer, unde zborul este permis." },
+        { "title": "Sunet profesional", "text": "Microfoane wireless la ceremonie, jurăminte și discursuri, pentru un sunet clar." },
+        { "title": "Teaser pentru social media", "text": "Un clip scurt vertical, livrat în 7 zile, ca să îl puteți împărtăși imediat." },
+        { "title": "Clip highlight cinematic", "text": "Povestea zilei în câteva minute, cu montaj pe muzică și color grading." },
+        { "title": "Film complet", "text": "Ceremonia, discursurile și momentele importante, montate cronologic." },
+        { "title": "Livrare online", "text": "Fișiere în calitate maximă, descărcabile dintr-o galerie privată." }
+      ]
+    },
+    "audience": {
+      "title": "Pentru cine este",
+      "intro": "Filmăm nunți de toate dimensiunile, de la cununii intime la petreceri cu sute de invitați.",
+      "items": [
+        { "industry": "Miri care vor un film, nu o înregistrare", "text": "Vă doriți un clip cu emoție și ritm, pe care să îl revedeți cu plăcere." },
+        { "industry": "Nunți în aer liber și la conac", "text": "Locațiile spectaculoase câștigă enorm prin cadrele aeriene și lumina naturală." },
+        { "industry": "Nunți cu invitați din străinătate", "text": "Teaserul și galeria online ajung rapid la familia și prietenii care nu au putut veni." },
+        { "industry": "Cununii civile și nunți restrânse", "text": "Pachete mai scurte, cu aceeași atenție la detalii și la sunet." },
+        { "industry": "Organizatori de evenimente și wedding planneri", "text": "Colaborăm pe programul stabilit și livrăm materiale pentru portofoliul dvs., cu acordul mirilor." }
+      ]
+    },
+    "process": {
+      "title": "Procesul, de la rezervare la film",
+      "steps": [
+        { "title": "Verificăm data", "text": "Ne scrieți pe WhatsApp sau prin formular. Vă răspundem rapid cu disponibilitatea și o ofertă." },
+        { "title": "Rezervare și contract", "text": "Data se blochează pe bază de contract și avans. Restul se achită conform contractului." },
+        { "title": "Planificare", "text": "Cu 2–3 săptămâni înainte stabilim programul, locațiile și momentele-cheie." },
+        { "title": "Ziua nunții", "text": "Filmăm discret, de la pregătiri până la petrecere." },
+        { "title": "Livrare", "text": "Teaser în 7 zile, apoi clipul highlight și filmul complet, la termenele din contract." }
+      ]
+    },
+    "pricingNote": "Pachetele de nuntă pornesc de la 3.500 lei. Deplasarea în afara orașului de bază se stabilește în ofertă.",
+    "faq": [
+      { "q": "Cu cât timp înainte trebuie să rezervăm filmarea de nuntă?", "a": "Datele din sezon (mai–septembrie, mai ales în weekend) se ocupă de obicei cu 6–12 luni înainte. Vă recomandăm să ne scrieți imediat ce aveți data și locația. Pentru datele din afara sezonului avem adesea disponibilitate și cu câteva săptămâni înainte." },
+      { "q": "În cât timp primim filmul?", "a": "Teaserul pentru social media îl primiți în 7 zile la pachetele Cinematic și Foto + Video Premium. Clipul highlight și filmul complet se livrează la termenul din contract, care depinde de perioada din sezon. Vă comunicăm termenul exact înainte de semnare." },
+      { "q": "Vă deplasați și în alte orașe?", "a": "Da. Filmăm nunți în toată România. Costul deplasării și, dacă este cazul, al cazării se trec transparent în ofertă, în funcție de distanță." },
+      { "q": "Putem alege muzica din clip?", "a": "Puteți propune melodiile preferate și ținem cont de stilul dorit. Pentru clipurile publicate online folosim de preferință muzică licențiată, ca să nu fie blocate de platforme pentru drepturi de autor." },
+      { "q": "Folosiți drona la orice locație?", "a": "Drona este inclusă la pachetele Cinematic și Foto + Video Premium. Zburăm doar unde regulile permit. Verificăm din timp fiecare locație, pentru că zonele din apropierea aeroporturilor și unele zone urbane sunt restricționate." },
+      { "q": "Ce se întâmplă dacă nunta se amână?", "a": "Încercăm să mutăm rezervarea pe noua dată, în limita disponibilității. Condițiile exacte pentru amânare și anulare sunt trecute în contract, ca să știți de la început la ce să vă așteptați." },
+      { "q": "Oferiți și fotografie de nuntă?", "a": "Da. Pachetul Foto + Video Premium include fotograf, 500+ fotografii editate și o ședință foto de cuplu. Lucrul cu aceeași echipă pentru foto și video înseamnă coordonare mai bună și mai puțin stres în ziua nunții." }
+    ],
+    "closing": {
+      "title": "Verificați disponibilitatea pentru data nunții",
+      "text": "Trimiteți-ne data și locația. Vă răspundem cu disponibilitatea și o ofertă clară, fără costuri ascunse."
+    },
+    "whatsapp": "Bună ziua, aș dori o ofertă pentru filmare nuntă. Data nunții: ..., locația: ..."
+  },
+  "en": {
+    "name": "Wedding videography",
+    "metaTitle": "Cinematic 4K Wedding Videography in Romania",
+    "metaDescription": "Cinematic 4K wedding films: one or two videographers, drone, a social teaser in 7 days and the full film. Packages from 3,500 RON. Check your date today.",
+    "h1": "Cinematic wedding videography, crafted like a film",
+    "subtitle": "We capture your day the way it felt: the emotion, the people, the details. A film you will still love watching twenty years from now.",
+    "cardDescription": "A cinematic 4K wedding film with drone shots, a quick social teaser and the full story of the day.",
+    "summary": [
+      "4K filming with one or two videographers, plus optional drone and photographer.",
+      "A social media teaser in 7 days, a cinematic highlight film and the full-length film.",
+      "We travel anywhere in Romania. Your date is secured with a contract and a deposit.",
+      "Packages from 3,500 RON. Final pricing depends on hours, locations and crew size."
+    ],
+    "problem": {
+      "title": "The wedding lasts a day. The film lasts a lifetime.",
+      "paragraphs": [
+        "Everything on a wedding day moves fast: getting ready, the ceremony, the first dance, the speeches, the party. Many couples tell us that the next morning they only remember fragments.",
+        "The real problem starts when the film doesn't do the day justice. Shaky footage, muffled vows, missed moments and a long, tiring edit nobody ever opens again. You can't repeat your wedding, so the filming can't be an experiment."
+      ]
+    },
+    "solution": {
+      "title": "How we film a wedding",
+      "paragraphs": [
+        "We start by getting to know you: what you want to remember, who the important people are, which style you like. Then we plan the timeline and key moments together, so we're always in the right place.",
+        "On the day, we stay discreet. We shoot on 4K cinema cameras with fast lenses for evening light, and record the vows and speeches on separate audio. With two videographers we capture the moment and the reactions around it at the same time. Drone footage adds scale and context to your venue.",
+        "In post-production we shape the story: an edit cut to the music, cinematic colour grading and clean sound. You get a social teaser first, followed by the highlight film and the full film of the day."
+      ]
+    },
+    "includes": {
+      "title": "What's included",
+      "items": [
+        { "title": "Planning session", "text": "We go through your timeline, venues, special moments and music, online or in person." },
+        { "title": "Full-day 4K coverage", "text": "From getting ready to the party, 8 to 10 hours or more depending on the package." },
+        { "title": "One or two videographers", "text": "Two shooters capture the moment and everyone's reactions at once." },
+        { "title": "Aerial drone footage", "text": "Your venue, the convoy and the landscape from above, wherever flying is allowed." },
+        { "title": "Professional audio", "text": "Wireless microphones for the ceremony, vows and speeches, so every word is clear." },
+        { "title": "Social media teaser", "text": "A short vertical clip delivered within 7 days, ready to share right away." },
+        { "title": "Cinematic highlight film", "text": "The story of your day in a few minutes, edited to music and colour graded." },
+        { "title": "Full-length film", "text": "The ceremony, speeches and key moments, edited in chronological order." },
+        { "title": "Online delivery", "text": "Full-quality files, downloadable from a private gallery." }
+      ]
+    },
+    "audience": {
+      "title": "Who it's for",
+      "intro": "We film weddings of every size, from intimate civil ceremonies to celebrations with hundreds of guests.",
+      "items": [
+        { "industry": "Couples who want a film, not a recording", "text": "You want something with emotion and rhythm that you'll actually rewatch." },
+        { "industry": "Outdoor and manor-house weddings", "text": "Stunning venues come alive with aerial shots and natural light." },
+        { "industry": "Weddings with guests from abroad", "text": "The teaser and online gallery reach family and friends who couldn't make it." },
+        { "industry": "Civil ceremonies and small weddings", "text": "Shorter packages with the same attention to detail and sound." },
+        { "industry": "Event organisers and wedding planners", "text": "We work to your schedule and deliver portfolio material, with the couple's consent." }
+      ]
+    },
+    "process": {
+      "title": "From booking to your film",
+      "steps": [
+        { "title": "Check your date", "text": "Message us on WhatsApp or through the form. We'll reply quickly with availability and a quote." },
+        { "title": "Booking and contract", "text": "Your date is secured with a contract and a deposit. The balance follows the contract terms." },
+        { "title": "Planning", "text": "Two to three weeks before, we finalise the timeline, venues and key moments." },
+        { "title": "The wedding day", "text": "We film discreetly, from getting ready to the last dance." },
+        { "title": "Delivery", "text": "Teaser within 7 days, then the highlight film and the full film on the contract dates." }
+      ]
+    },
+    "pricingNote": "Wedding packages start at 3,500 RON. Travel outside our home base is quoted separately.",
+    "faq": [
+      { "q": "How far in advance should we book?", "a": "Peak-season dates (May to September, especially weekends) usually go 6 to 12 months ahead. Get in touch as soon as you have your date and venue. Off-season dates are often available at a few weeks' notice." },
+      { "q": "When do we get the film?", "a": "The social teaser arrives within 7 days on the Cinematic and Photo + Video Premium packages. The highlight film and full film are delivered on the date set in your contract, which depends on the season. We confirm the exact timeline before you sign." },
+      { "q": "Do you travel to other cities?", "a": "Yes. We film weddings all over Romania. Travel and, if needed, accommodation costs are listed clearly in your quote, based on distance." },
+      { "q": "Can we choose the music?", "a": "You can suggest your favourite songs and we'll match the style you like. For films published online we prefer licensed music, so platforms don't block them for copyright." },
+      { "q": "Can you fly the drone at any venue?", "a": "The drone is included in the Cinematic and Photo + Video Premium packages. We only fly where regulations allow, and we check every venue in advance, since areas near airports and parts of cities are restricted." },
+      { "q": "What if our wedding is postponed?", "a": "We'll try to move your booking to the new date, subject to availability. Postponement and cancellation terms are set out in the contract, so you know exactly where you stand." },
+      { "q": "Do you also offer wedding photography?", "a": "Yes. The Photo + Video Premium package includes a photographer, 500+ edited photos and a couple's photo session. One team for photo and video means better coordination and less stress on the day." }
+    ],
+    "closing": {
+      "title": "Check availability for your wedding date",
+      "text": "Send us your date and venue. We'll reply with availability and a clear quote, with no hidden costs."
+    },
+    "whatsapp": "Hello, I'd like a quote for wedding videography. Wedding date: ..., venue: ..."
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "_comment": "Proiectele din portofoliu. Copertele se pun în public/portfolio/ (JPG/WebP, 1600x1000 recomandat). \"placeholder\": true afișează eticheta PLACEHOLDER. \"category\" decide filtrul: video-comercial, tiktok-social, nunti-evenimente, drona, foto, website, campanii. \"services\" leagă proiectul de paginile de servicii. \"result\" doar cu cifre reale. \"featured\": true îl afișează pe Acasă.",
+  "items": [
+    {
+      "_TODO": "Verificați textele: rolul nostru și lista de livrabile sunt deduse din site-ul public.",
+      "slug": { "ro": "site-broker-credite-xbr", "en": "xbr-credit-broker-website" },
+      "title": { "ro": "Site pentru XBR, broker de credite", "en": "Website for XBR, a credit broker" },
+      "client": "XBR",
+      "industry": { "ro": "Servicii financiare", "en": "Financial services" },
+      "year": 2026,
+      "category": "website",
+      "services": ["creare-site-prezentare", "optimizare-seo"],
+      "cover": "/portfolio/xbr.webp",
+      "url": "https://xbr.ro",
+      "embed": true,
+      "gallery": ["/portfolio/xbr-1.webp", "/portfolio/xbr-mobile.webp", "/portfolio/xbr-2.webp", "/portfolio/xbr-3.webp", "/portfolio/xbr-4.webp", "/portfolio/xbr-5.webp", "/portfolio/xbr-mobile-2.webp", "/portfolio/xbr-6.webp"],
+      "featured": true,
+      "excerpt": {
+        "ro": "Site întunecat, cu un simulator de rată direct în hero și un mesaj clar: brokerul nu dă credite, te ajută să alegi.",
+        "en": "A dark website with a repayment simulator right in the hero and a clear message: the broker doesn’t lend, it helps you choose."
+      },
+      "challenge": {
+        "ro": "Oamenii nu au încredere în brokerii de credite și vor să vadă cifrele înainte să lase un telefon.",
+        "en": "People distrust credit brokers and want to see the numbers before they leave a phone number."
+      },
+      "whatWeDid": {
+        "ro": ["Structură și copywriting", "Design și identitate vizuală", "Simulator de rată pe tipuri de credit", "Cookie-uri conforme GDPR", "SEO tehnic"],
+        "en": ["Structure and copywriting", "Design and visual identity", "Repayment simulator by loan type", "GDPR-compliant cookies", "Technical SEO"]
+      }
+    },
+    {
+      "_TODO": "Verificați textele: rolul nostru și lista de livrabile sunt deduse din site-ul public.",
+      "slug": { "ro": "site-broker-credite-elytra", "en": "elytra-credit-broker-website" },
+      "title": { "ro": "Site pentru Elytra, broker de credite", "en": "Website for Elytra, a credit broker" },
+      "client": "Elytra",
+      "industry": { "ro": "Servicii financiare", "en": "Financial services" },
+      "year": 2026,
+      "category": "website",
+      "services": ["creare-site-prezentare", "branding-identitate-vizuala"],
+      "cover": "/portfolio/elytra.webp",
+      "url": "https://elytra.ro",
+      "gallery": ["/portfolio/elytra-1.webp", "/portfolio/elytra-mobile.webp", "/portfolio/elytra-2.webp", "/portfolio/elytra-3.webp", "/portfolio/elytra-4.webp", "/portfolio/elytra-5.webp", "/portfolio/elytra-mobile-2.webp", "/portfolio/elytra-6.webp"],
+      "featured": true,
+      "excerpt": {
+        "ro": "Un site luminos, cu un calculator de credit care arată suma totală de rambursat și pași simpli pentru fiecare nevoie.",
+        "en": "A bright website with a loan calculator that shows the total to repay and simple paths for each need."
+      },
+      "challenge": {
+        "ro": "Creditul pare complicat. Vizitatorul trebuia să înțeleagă costul real în câteva secunde.",
+        "en": "Credit feels complicated. Visitors had to understand the real cost within seconds."
+      },
+      "whatWeDid": {
+        "ro": ["Structură și copywriting", "Design și identitate vizuală", "Calculator de credit interactiv", "Ghiduri și pagini de soluții", "SEO tehnic"],
+        "en": ["Structure and copywriting", "Design and visual identity", "Interactive loan calculator", "Guides and solution pages", "Technical SEO"]
+      }
+    },
+    {
+      "_TODO": "Verificați textele: rolul nostru și lista de livrabile sunt deduse din site-ul public.",
+      "slug": { "ro": "site-urgent-broker", "en": "urgent-broker-website" },
+      "title": { "ro": "Site pentru Urgent Broker", "en": "Website for Urgent Broker" },
+      "client": "Urgent Broker",
+      "industry": { "ro": "Servicii financiare", "en": "Financial services" },
+      "year": 2026,
+      "category": "website",
+      "services": ["creare-site-prezentare", "branding-identitate-vizuala"],
+      "cover": "/portfolio/urgentbroker.webp",
+      "url": "https://urgentbroker.ro",
+      "embed": true,
+      "gallery": ["/portfolio/urgentbroker-1.webp", "/portfolio/urgentbroker-mobile.webp", "/portfolio/urgentbroker-2.webp", "/portfolio/urgentbroker-3.webp", "/portfolio/urgentbroker-4.webp", "/portfolio/urgentbroker-5.webp", "/portfolio/urgentbroker-mobile-2.webp", "/portfolio/urgentbroker-6.webp"],
+      "featured": true,
+      "excerpt": {
+        "ro": "„De la schiță la chei”: un site în stil de planșă tehnică, cu ilustrații izometrice care se schimbă după suma aleasă.",
+        "en": "“From sketch to keys”: a blueprint-style website with isometric illustrations that change with the chosen amount."
+      },
+      "challenge": {
+        "ro": "Pe o piață plină de site-uri financiare identice, brandul avea nevoie de o imagine pe care o ții minte.",
+        "en": "In a market full of identical finance sites, the brand needed a look people remember."
+      },
+      "whatWeDid": {
+        "ro": ["Concept vizual de planșă tehnică", "Ilustrații izometrice", "Simulator cu sumă și perioadă", "Copywriting", "Formular de cerere ofertă"],
+        "en": ["Blueprint visual concept", "Isometric illustrations", "Amount and term simulator", "Copywriting", "Quote request form"]
+      }
+    },
+    {
+      "_TODO": "Verificați textele: rolul nostru și lista de livrabile sunt deduse din site-ul public.",
+      "slug": { "ro": "site-arhiva-tnt", "en": "tnt-archive-website" },
+      "title": { "ro": "TNT Archive, poveste spusă la scroll", "en": "TNT Archive, a scroll-driven story" },
+      "client": "TNT Archive",
+      "industry": { "ro": "Educație și istorie", "en": "Education and history" },
+      "year": 2026,
+      "category": "website",
+      "services": ["creare-site-prezentare"],
+      "cover": "/portfolio/tnt.webp",
+      "url": "https://tnt.calinsandu.com",
+      "embed": true,
+      "gallery": ["/portfolio/tnt-1.webp", "/portfolio/tnt-mobile.webp", "/portfolio/tnt-2.webp", "/portfolio/tnt-3.webp", "/portfolio/tnt-4.webp", "/portfolio/tnt-5.webp", "/portfolio/tnt-mobile-2.webp", "/portfolio/tnt-6.webp"],
+      "featured": false,
+      "excerpt": {
+        "ro": "O arhivă în stil de dosar de muzeu: istoria TNT, de la Wilbrand la Nobel, spusă capitol cu capitol pe măsură ce derulezi.",
+        "en": "A museum-file style archive: the history of TNT, from Wilbrand to Nobel, told chapter by chapter as you scroll."
+      },
+      "challenge": {
+        "ro": "O temă tehnică și istorică trebuia să țină atenția până la final, fără să pară un manual.",
+        "en": "A technical, historical subject had to hold attention to the end without reading like a textbook."
+      },
+      "whatWeDid": {
+        "ro": ["Concept editorial de arhivă", "Povestire pe capitole, legată de scroll", "Tipografie și art direction", "Animații de scroll", "Variantă mobil"],
+        "en": ["Editorial archive concept", "Scroll-driven chapter storytelling", "Typography and art direction", "Scroll animations", "Mobile version"]
+      }
+    },
+    {
+      "_TODO": "Verificați textele: clientul, rolul nostru și livrabilele sunt deduse din titlul videoclipului (youtube.com/watch?v=hASy6ZkcEE8).",
+      "slug": { "ro": "o-zi-din-viata-unui-artist", "en": "a-day-in-the-life-of-an-artist" },
+      "title": { "ro": "O zi din viața unui artist", "en": "A day in the life of an artist" },
+      "client": "RobyCRS",
+      "industry": { "ro": "Muzică și artiști", "en": "Music and artists" },
+      "year": 2026,
+      "category": "video-comercial",
+      "services": ["videoclipuri-muzicale", "post-productie-video"],
+      "cover": "/portfolio/o-zi-din-viata-unui-artist.webp",
+      "gallery": [],
+      "featured": true,
+      "excerpt": {
+        "ro": "Un film documentar scurt care urmărește un artist de dimineața până seara: repetiții, drum, culise și scenă.",
+        "en": "A short documentary film that follows an artist from morning to night: rehearsals, the road, backstage and the stage."
+      },
+      "challenge": {
+        "ro": "Publicul vede doar scena. Artistul voia să arate și restul zilei, fără să pară o reclamă.",
+        "en": "Fans only see the stage. The artist wanted to show the rest of the day without it feeling like an ad."
+      },
+      "whatWeDid": {
+        "ro": ["Filmare documentară pe parcursul unei zile", "Montaj narativ", "Color grading", "Sound design", "Publicare pe YouTube"],
+        "en": ["Documentary shoot across one day", "Narrative edit", "Colour grading", "Sound design", "YouTube release"]
+      },
+      "video": { "provider": "youtube", "id": "hASy6ZkcEE8" }
+    }
+  ]
+}

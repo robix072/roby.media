@@ -1,0 +1,98 @@
+{
+  "ready": true,
+  "service": "agentie-marketing",
+  "city": "brasov",
+  "metaTitle": "Agenție de marketing și social media în Brașov",
+  "metaDescription": "Social media și reclame pentru hoteluri, restaurante și firme din Brașov. TikTok Marketing Pack 1.000 lei + TVA. Cereți o ofertă pe WhatsApp.",
+  "h1": "Agenție de marketing și social media în Brașov",
+  "subtitle": "Conținut video și campanii plătite pentru turism, HoReCa și firme locale din Brașov, gândite pe sezoane și pe publicul care vine în oraș.",
+  "summary": [
+    "Clipuri pentru TikTok, Instagram și Facebook cu locul, oamenii și experiența dumneavoastră.",
+    "Campanii pentru turiști din țară și din străinătate, sau pentru publicul local.",
+    "TikTok Marketing Pack 1.000 lei, abonamentul Growth 1.900 lei/lună, plus TVA.",
+    "Plan de conținut pe sezoane: iarnă, vară, sărbători și weekend-uri prelungite."
+  ],
+  "intro": [
+    "La Brașov, mulți clienți decid înainte să ajungă în oraș. Un turist din București sau din străinătate caută pe Instagram, TikTok și Google unde să stea, unde să mănânce și ce să facă. Pensiunile, restaurantele și organizatorii de activități care apar constant cu conținut bun sunt cei aleși.",
+    "Turismul are însă sezoane. Iarna, Poiana Brașov și pârtiile aduc un val de vizitatori. Vara și weekend-urile prelungite aduc alt public. Marketingul eficient pregătește conținutul din timp și pornește reclamele exact când oamenii își planifică excursia.",
+    "Pe lângă turism, Brașovul are un public local stabil și o industrie puternică. Pentru firmele locale și pentru angajatori, strategia este diferită, iar noi o adaptăm."
+  ],
+  "local": {
+    "title": "Marketing online pentru turism și afaceri din Brașov",
+    "text": "Brașovul combină un public turistic care se schimbă tot timpul cu un public local fidel. Conținutul și reclamele trebuie să țină cont de ambele și de ritmul sezoanelor.",
+    "items": [
+      {
+        "title": "Sezonul de schi din Poiana Brașov",
+        "text": "Pentru cazare, închirieri de echipament și restaurante din zona montană, campaniile încep înainte de sezon, când turiștii își fac rezervările."
+      },
+      {
+        "title": "Turiști din alte orașe",
+        "text": "Mulți vizitatori vin din București și din alte orașe mari. Reclamele pot fi targetate către ei, nu doar către cei care sunt deja în Brașov."
+      },
+      {
+        "title": "Centrul istoric și city break-urile",
+        "text": "Cafenelele, restaurantele și magazinele din centru beneficiază de conținut care arată atmosfera și de clipuri publicate în weekend-urile aglomerate."
+      },
+      {
+        "title": "Rezervări directe",
+        "text": "Pentru hoteluri și pensiuni, conținutul pe rețele poate duce oamenii spre rezervarea directă pe site, nu doar spre platformele de intermediere."
+      },
+      {
+        "title": "Angajatori din industrie",
+        "text": "Firmele industriale și furnizorii auto din zonă folosesc social media pentru recrutare. Clipurile cu locul de muncă real ajută candidații să decidă."
+      }
+    ]
+  },
+  "industries": {
+    "title": "Afaceri din Brașov cărora le aducem vizibilitate",
+    "items": [
+      {
+        "title": "Pensiuni și hoteluri",
+        "text": "Clipuri cu camere, priveliști și experiențe, campanii către turiști înainte de sezon."
+      },
+      {
+        "title": "Restaurante și cafenele",
+        "text": "Conținut cu preparate și atmosferă, reclame locale și pentru vizitatori."
+      },
+      {
+        "title": "Activități outdoor și experiențe",
+        "text": "Clipuri cu trasee și aventuri, campanii pentru rezervări de grup și weekend-uri."
+      },
+      {
+        "title": "Firme industriale",
+        "text": "Campanii de recrutare cu clipuri din fabrică, targetate pe localitățile din jur."
+      },
+      {
+        "title": "Servicii locale",
+        "text": "Clinici, săli de sport și saloane, cu conținut constant pentru publicul din oraș."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Cum lucrăm cu firmele din Brașov",
+    "text": "Planul de conținut, montajul, publicarea și reclamele le gestionăm online, iar ședințele lunare le facem prin apel video. Pentru filmări venim în Brașov, în Poiana Brașov sau în localitățile din județ, în zile alese după sezon și vreme. Dacă doriți o întâlnire față în față, o programăm."
+  },
+  "faq": [
+    {
+      "q": "Când ar trebui să începem promovarea pentru sezonul de iarnă?",
+      "a": "Ideal, cu câteva săptămâni înainte ca turiștii să rezerve. Filmăm din timp, pregătim conținutul și pornim reclamele când crește interesul pentru Brașov și Poiana."
+    },
+    {
+      "q": "Putem targeta turiști din București sau din străinătate?",
+      "a": "Da. Reclamele pot viza orașe sau țări anume. Pentru publicul străin putem pregăti clipuri cu subtitrare în engleză."
+    },
+    {
+      "q": "Trebuie să ne întâlnim față în față?",
+      "a": "Nu este obligatoriu. Lucrăm mult online, prin apel video și WhatsApp. Ne vedem la filmări și, dacă doriți, la o primă discuție în Brașov."
+    },
+    {
+      "q": "Cât costă administrarea paginilor pentru o pensiune?",
+      "a": "TikTok Marketing Pack costă 1.000 lei + TVA, iar abonamentul Growth 1.900 lei/lună + TVA. Bugetul de reclame se plătește separat, direct către platforme."
+    },
+    {
+      "q": "Ne garantați rezervări?",
+      "a": "Nu. Rezervările depind și de preț, recenzii și disponibilitate. Noi creștem vizibilitatea și vă arătăm lunar ce a adus fiecare campanie, ca să decideți pe baza datelor."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru social media și reclame pentru afacerea noastră din Brașov."
+}

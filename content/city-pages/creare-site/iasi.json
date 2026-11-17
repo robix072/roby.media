@@ -1,0 +1,98 @@
+{
+  "ready": true,
+  "service": "creare-site",
+  "city": "iasi",
+  "metaTitle": "Creare site în Iași pentru firme și cabinete",
+  "metaDescription": "Creare site în Iași: site de prezentare de la 2.900 lei, landing page de la 1.500 lei, magazin online de la 5.900 lei + TVA. Cereți oferta pe WhatsApp.",
+  "h1": "Creare site în Iași",
+  "subtitle": "Site-uri simple, rapide și ușor de folosit pentru clinici, firme de servicii, școli și magazine din Iași, gândite pentru clienți din oraș și din toată Moldova.",
+  "summary": [
+    "Site de prezentare de la 2.900 lei + TVA, cu până la 6 pagini și SEO de bază.",
+    "Pagini clare pentru fiecare serviciu, cu programare prin telefon, formular sau WhatsApp.",
+    "Landing page de la 1.500 lei, magazin online de la 5.900 lei, plus TVA.",
+    "Lucrăm și cu firme mici, cu pași simpli și ofertă clară."
+  ],
+  "intro": [
+    "Iașiul deservește o regiune întreagă. Oamenii din județele din jur caută aici medici, școli, servicii și furnizori, iar prima căutare o fac pe telefon, în Google. Dacă firma dumneavoastră nu are un site clar sau are unul vechi, care nu se vede bine pe mobil, clientul alege pe altcineva înainte să sune.",
+    "Multe afaceri din Iași funcționează încă doar cu o pagină de Facebook. Este un început, dar nu apare bine în căutări, nu prezintă ordonat serviciile și nu vă aparține cu adevărat. Un site propriu, chiar și simplu, rezolvă aceste probleme.",
+    "Construim site-uri de prezentare, landing page-uri și magazine online, cu texte scrise pe înțelesul clienților și o structură care ajută Google să vă afișeze la căutările potrivite."
+  ],
+  "local": {
+    "title": "Site-uri pentru afacerile din Iași",
+    "text": "Iașiul are un sector medical important, multe instituții de educație, o comunitate IT și o mulțime de afaceri locale care deservesc toată Moldova. Fiecare are nevoie de un alt fel de site.",
+    "items": [
+      {
+        "title": "Pacienți și clienți din alte județe",
+        "text": "Includem informații practice pentru cei care vin de departe: adresă clară, hartă, program, parcare și cum se face o programare."
+      },
+      {
+        "title": "Sectorul medical",
+        "text": "Clinicile și cabinetele au nevoie de pagini pe specialități și pe medici, cu texte corecte și fără promisiuni medicale exagerate."
+      },
+      {
+        "title": "Educație și cursuri",
+        "text": "Școlile private, after-school-urile și centrele de cursuri au nevoie de pagini cu programe, prețuri și înscriere simplă, ușor de actualizat."
+      },
+      {
+        "title": "IT și outsourcing",
+        "text": "Firmele care lucrează cu clienți externi au nevoie de un site bilingv, cu servicii și procese descrise clar."
+      },
+      {
+        "title": "Trecerea de la Facebook la site propriu",
+        "text": "Pentru afacerile care au doar pagină de Facebook, construim un site simplu care preia informațiile importante și le ordonează pentru Google."
+      }
+    ]
+  },
+  "industries": {
+    "title": "Afaceri din Iași pentru care facem site-uri",
+    "items": [
+      {
+        "title": "Clinici, stomatologie și laboratoare",
+        "text": "Pagini pe servicii și medici, programare rapidă și informații practice pentru pacienți din regiune."
+      },
+      {
+        "title": "Școli private și centre de cursuri",
+        "text": "Prezentarea programelor, profesorilor și formular de înscriere."
+      },
+      {
+        "title": "Firme de construcții și instalații",
+        "text": "Portofoliu de lucrări, zone deservite în Iași și județ, cerere de ofertă."
+      },
+      {
+        "title": "Producători locali",
+        "text": "Magazin online cu plăți și curierat, pentru vânzare în toată țara."
+      },
+      {
+        "title": "Firme IT și de servicii",
+        "text": "Site bilingv cu servicii, echipă și pagină de cariere."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Cum lucrăm cu firmele din Iași",
+    "text": "Designul, programarea și textele se realizează online. Discutăm structura și vă arătăm variantele prin apel video, iar feedbackul îl primim pe e-mail sau WhatsApp. Dacă preferați o întâlnire față în față în Iași, o programăm. Pentru fotografii sau video pentru site, echipa noastră de filmare se poate deplasa la dumneavoastră."
+  },
+  "faq": [
+    {
+      "q": "Lucrați cu firme mici din Iași?",
+      "a": "Da. Lucrăm și cu cabinete, ateliere și firme cu câțiva angajați. Pentru început, un landing page de la 1.500 lei + TVA sau un site de prezentare de la 2.900 lei + TVA sunt suficiente."
+    },
+    {
+      "q": "Avem doar pagină de Facebook. Mai avem nevoie de site?",
+      "a": "Recomandăm da. Site-ul apare mai bine în Google, prezintă ordonat serviciile și vă aparține. Pagina de Facebook rămâne utilă și o legăm de site."
+    },
+    {
+      "q": "Cât durează să apară site-ul în Google?",
+      "a": "De obicei câteva zile pentru indexare. Pozițiile bune pentru căutări din Iași se construiesc în timp și depind de concurență. Nu garantăm poziții, dar facem site-ul corect tehnic de la început."
+    },
+    {
+      "q": "Trebuie să ne întâlnim față în față?",
+      "a": "Nu este obligatoriu. Proiectul se desfășoară bine prin apel video și mesaje. Dacă doriți o întâlnire în Iași, o stabilim."
+    },
+    {
+      "q": "Cât durează realizarea site-ului?",
+      "a": "Depinde de numărul de pagini și de cât de repede primim textele și imaginile. Termenul exact îl trecem în ofertă și în contract, înainte de a începe."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru crearea unui site pentru firma mea din Iași."
+}

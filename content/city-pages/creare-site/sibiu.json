@@ -1,0 +1,53 @@
+{
+  "_comment": "Pagina /creare-site-sibiu. SCHELET: are noindex și nu apare în sitemap până puneți \"ready\": true.",
+  "_TODO": [
+    "Scrieți un paragraf introductiv propriu pentru Sibiu (intro), nu copiat din alt oraș.",
+    "Completați „local” cu locații, zone sau industrii reale din Sibiu.",
+    "Adăugați 3–5 întrebări FAQ locale.",
+    "Când conținutul e complet și unic, puneți \"ready\": true."
+  ],
+  "ready": false,
+  "service": "creare-site",
+  "city": "sibiu",
+  "metaTitle": "Creare site Sibiu | Roby Media",
+  "metaDescription": "Site-uri de prezentare și magazine online în Sibiu. Echipă care se deplasează în tot județul Sibiu. Cereți o ofertă pe WhatsApp sau prin formular.",
+  "h1": "Creare site în Sibiu",
+  "subtitle": "Site-uri de prezentare și magazine online în Sibiu și în județul Sibiu.",
+  "summary": [
+    "Lucrăm în Sibiu și în localitățile din județul Sibiu.",
+    "Ofertă clară, primită de regulă în aceeași zi lucrătoare.",
+    "Contract, factură și termene de livrare stabilite de la început."
+  ],
+  "intro": [
+    "TODO: paragraf introductiv unic despre creare site în Sibiu."
+  ],
+  "local": {
+    "title": "Creare site în Sibiu: ce trebuie să știți",
+    "text": "TODO: context local pentru Sibiu.",
+    "items": [
+      {
+        "title": "TODO",
+        "text": "TODO: locație, zonă sau industrie relevantă din Sibiu."
+      }
+    ]
+  },
+  "travel": {
+    "title": "Deplasare în Sibiu",
+    "text": "Echipa noastră se deplasează în Sibiu și în județul Sibiu. Costul deplasării, dacă există, apare transparent în ofertă."
+  },
+  "faq": [
+    {
+      "q": "Lucrați în Sibiu?",
+      "a": "Da. Lucrăm cu clienți în Sibiu și din tot județul Sibiu. Costul deplasării apare transparent în ofertă."
+    },
+    {
+      "q": "Cât de repede primim o ofertă?",
+      "a": "De regulă în aceeași zi lucrătoare. Cel mai rapid ne găsiți pe WhatsApp sau la telefon."
+    },
+    {
+      "q": "Lucrați pe bază de contract?",
+      "a": "Da. ROBY MEDIA SRL emite factură, iar livrabilele, termenele și plățile sunt trecute în contract."
+    }
+  ],
+  "whatsapp": "Bună ziua, aș dori o ofertă pentru crearea unui site în Sibiu."
+}
