@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<title>roby.media · Pachetul Lansare</title>
+<style>
+@font-face { font-family: "Manrope"; src: url(assets/Manrope.ttf) format("truetype"); font-weight: 200 800; }
+:root { --ink:#0b0a09; --fg:#f5f3ef; --muted:#a6a29a; --gold:#e0a100; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { width: 1080px; height: 1920px; background: var(--ink); overflow: hidden; }
+body { font-family: "Manrope", sans-serif; color: var(--fg); -webkit-font-smoothing: antialiased; }
+#stage { position: absolute; inset: 0; overflow: hidden; background: var(--ink); }
+.abs { position: absolute; }
+
+/* Fundal: lumini calde care se mișcă lent */
+.glow { position: absolute; }
+
+/* Lumea 3D (MacBook + clipuri) */
+#worldWrap { position: absolute; inset: 0; perspective: 2600px; perspective-origin: 540px 960px; }
+#world, #mac, .lid { position: absolute; left: 0; top: 0; transform-style: preserve-3d; }
+#mac > div, .lid > div { position: absolute; }
+.lid { left: -450px; top: -585px; width: 900px; height: 585px; transform-origin: 50% 100%; }
+.lid > div { inset: 0; border-radius: 30px; }
+.lid .slice { background: #1f2023; }
+.lid .back { background: linear-gradient(180deg,#3a3b40,#2a2b2f); }
+.lid .bezel { background: #050505; box-shadow: inset 0 0 0 2px #4b4c52, inset 0 0 0 3.5px #121214; }
+.lid .screen { inset: 14px 14px 22px 14px; border-radius: 14px 14px 4px 4px; overflow: hidden; background: #16110d; }
+.notch { position: absolute; left: 50%; top: 13px; width: 132px; height: 22px; margin-left: -66px; background: #050505; border-radius: 0 0 12px 12px; }
+.notch::after { content: ""; position: absolute; left: 61px; top: 6px; width: 9px; height: 9px; border-radius: 50%; background: radial-gradient(circle at 40% 40%, #2a3550, #0a0a0c 70%); }
+.base { left: -470px; top: 0; width: 940px; height: 620px; transform-origin: 50% 0; border-radius: 6px 6px 28px 28px;
+  background: linear-gradient(180deg, #34353a, #2a2b2f 40%, #26272b); box-shadow: inset 0 1px 0 #55565c; }
+.kbd { position: absolute; left: 92px; right: 92px; top: 34px; height: 262px; background: #0d0d0f; border-radius: 10px; padding: 10px; display: flex; flex-direction: column; gap: 6px; }
+.krow { display: flex; gap: 6px; }
+.key { background: linear-gradient(180deg,#1c1c1f,#161618); border-radius: 5px; box-shadow: inset 0 1px 0 rgba(255,255,255,.05); }
+.grill { position: absolute; top: 34px; width: 52px; height: 262px; background-image: radial-gradient(circle, #121214 1.1px, transparent 1.6px); background-size: 6px 6px; }
+.pad { position: absolute; left: 50%; top: 322px; width: 440px; height: 268px; margin-left: -220px; border-radius: 14px; background: linear-gradient(180deg,#303136,#2b2c30); box-shadow: inset 0 0 0 1px #3d3e43; }
+.lip { left: -470px; top: 0; width: 940px; height: 15px; border-radius: 0 0 12px 12px; background: linear-gradient(180deg,#45464b,#1c1d20); }
+.lip::after { content:""; position:absolute; left:50%; top:0; width:120px; height:6px; margin-left:-60px; border-radius:0 0 6px 6px; background:#1a1b1e; }
+.side { top: 0; width: 620px; height: 15px; background: linear-gradient(180deg,#3a3b40,#1c1d20); transform-origin: 0 0; }
+.shadow { left: -650px; top: 0; width: 1300px; height: 900px; transform-origin: 50% 0; background: radial-gradient(closest-side, rgba(0,0,0,.75), rgba(0,0,0,.35) 55%, transparent); }
+
+/* Ecranul: desktop + ferestre */
+.wall { position: absolute; inset: 0; }
+.menubar { position: absolute; left: 0; right: 0; top: 0; height: 26px; background: rgba(10,8,6,.55); display: flex; align-items: center; gap: 16px; padding: 0 70px 0 16px; font-size: 11.5px; font-weight: 600; color: rgba(245,243,239,.85); }
+.menubar b { font-weight: 800; }
+.menubar .r { margin-left: auto; }
+.win { position: absolute; left: 38px; top: 46px; width: 796px; height: 474px; border-radius: 14px; overflow: hidden; box-shadow: 0 30px 60px rgba(0,0,0,.55), 0 0 0 1px rgba(255,255,255,.08); }
+.tbar { height: 40px; display: flex; align-items: center; padding: 0 14px; gap: 8px; }
+.tl { width: 12px; height: 12px; border-radius: 50%; }
+.url { position: absolute; left: 50%; top: 8px; width: 300px; height: 24px; margin-left: -150px; border-radius: 8px; display: flex; align-items: center; justify-content: center; gap: 6px; font-size: 12px; font-weight: 600; }
+
+/* Site-ul (fereastra 1) */
+.site { background: #f4f1ea; color: #15120f; }
+.site .tbar { background: #e9e4da; }
+.site .url { background: #fbf9f5; color: #4b463f; }
+.sp { position: absolute; }
+.snav { left: 34px; right: 34px; top: 58px; height: 30px; display: flex; align-items: center; gap: 22px; font-size: 13px; font-weight: 600; color: #57514a; }
+.snav .brand { font-size: 17px; font-weight: 800; color: #15120f; letter-spacing: -.02em; margin-right: auto; }
+.snav .cta { background: #15120f; color: #f4f1ea; padding: 7px 14px; border-radius: 99px; }
+.shero { left: 34px; top: 122px; width: 380px; }
+.shero h4 { font-size: 46px; line-height: 1.02; font-weight: 800; letter-spacing: -.045em; }
+.shero p { margin-top: 14px; font-size: 14px; line-height: 1.5; color: #6b645b; font-weight: 500; }
+.sbtns { left: 34px; top: 300px; display: flex; gap: 10px; }
+.sbtn { padding: 11px 18px; border-radius: 99px; font-size: 13px; font-weight: 700; }
+.simg { left: 440px; top: 116px; width: 322px; height: 232px; border-radius: 18px; background: url(assets/bokeh.webp) center/cover; }
+.scard { top: 372px; width: 233px; height: 78px; border-radius: 14px; background: #fff; box-shadow: 0 1px 0 rgba(0,0,0,.04), 0 6px 16px rgba(0,0,0,.05); padding: 14px; display: flex; gap: 12px; align-items: center; }
+.scard i { width: 36px; height: 36px; border-radius: 10px; background: #f3e3b8; flex: none; }
+.scard span { display: block; height: 9px; border-radius: 5px; background: #e4ded3; }
+
+/* Panoul de reclame (fereastra 2) */
+.dash { background: #0f0e0d; color: var(--fg); }
+.dash .tbar { background: #171513; }
+.dash .url { background: #221f1c; color: #a6a29a; }
+.dside { position: absolute; left: 0; top: 40px; bottom: 0; width: 64px; border-right: 1px solid #22201d; display: flex; flex-direction: column; align-items: center; gap: 16px; padding-top: 22px; }
+.dside i { width: 28px; height: 28px; border-radius: 9px; background: #22201d; }
+.dside i.on { background: var(--gold); }
+.dmain { position: absolute; left: 88px; top: 60px; right: 24px; }
+.dhead { display: flex; align-items: center; gap: 12px; height: 44px; }
+.dhead h5 { font-size: 26px; font-weight: 800; letter-spacing: -.03em; }
+.pill { display: inline-flex; align-items: center; gap: 7px; padding: 6px 11px; border-radius: 99px; background: #1c2a1e; color: #8fe39b; font-size: 12px; font-weight: 700; }
+.pill b { width: 7px; height: 7px; border-radius: 50%; background: #3ddc5a; }
+.dplat { margin-left: auto; display: flex; align-items: center; gap: 8px; font-size: 13px; font-weight: 700; color: #a6a29a; }
+.dplat svg { width: 22px; height: 22px; fill: #f5f3ef; }
+.dcard { position: absolute; border-radius: 16px; background: #171513; box-shadow: inset 0 0 0 1px #24211e; }
+.crow { position: absolute; left: 16px; right: 16px; height: 104px; display: flex; align-items: center; gap: 16px; }
+.thumb { width: 54px; height: 96px; border-radius: 9px; background: #24211e; flex: none; }
+.crow .t1 { font-size: 15px; font-weight: 700; }
+.crow .t2 { font-size: 12px; font-weight: 600; color: #a6a29a; margin-top: 4px; }
+.tog { margin-left: auto; width: 46px; height: 26px; border-radius: 99px; background: #34302b; position: relative; }
+.tog b { position: absolute; top: 3px; left: 3px; width: 20px; height: 20px; border-radius: 50%; background: #f5f3ef; }
+.chartlbl { position: absolute; left: 18px; top: 16px; font-size: 13px; font-weight: 700; color: #a6a29a; }
+
+/* Clipuri verticale */
+.clip { position: absolute; left: -110px; top: -195.5px; width: 220px; height: 391px; border-radius: 22px; overflow: hidden; background: #000; box-shadow: 0 0 0 1px rgba(255,255,255,.08); }
+.clip .img { position: absolute; inset: -12%; background-size: cover; background-position: center; }
+.clip .shade { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,.35), transparent 25%, transparent 55%, rgba(0,0,0,.65)); }
+.clip .cap { position: absolute; left: 14px; right: 40px; top: 150px; text-align: center; font-size: 19px; line-height: 1.25; font-weight: 800; letter-spacing: -.02em; }
+.clip .cap span { background: #fff; color: #111; padding: 2px 7px; border-radius: 6px; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+.clip .who { position: absolute; left: 12px; bottom: 34px; display: flex; align-items: center; gap: 7px; font-size: 11px; font-weight: 700; }
+.clip .who i { width: 22px; height: 22px; border-radius: 50%; background: linear-gradient(135deg, var(--gold), #e2708a); }
+.clip .rail { position: absolute; right: 10px; bottom: 60px; display: flex; flex-direction: column; gap: 14px; }
+.clip .rail svg { width: 22px; height: 22px; fill: #fff; }
+.clip .bar { position: absolute; left: 12px; right: 12px; bottom: 16px; height: 3px; border-radius: 2px; background: rgba(255,255,255,.3); }
+.clip .bar b { position: absolute; left: 0; top: 0; bottom: 0; border-radius: 2px; background: #fff; }
+
+/* Logo */
+.logo { position: absolute; }
+.logo svg { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; }
+.logo path { fill: #fff; }
+
+/* Texte */
+.hl { position: absolute; left: 60px; right: 60px; top: 200px; text-align: center; font-size: 84px; line-height: 1.04; text-wrap: balance; font-weight: 750; letter-spacing: -.04em; }
+.w { display: inline-block; white-space: pre; }
+.pills { position: absolute; left: 40px; right: 40px; top: 1450px; display: flex; justify-content: center; flex-wrap: wrap; gap: 14px; }
+.chip { padding: 16px 26px; border-radius: 99px; font-size: 30px; font-weight: 650; letter-spacing: -.01em; color: var(--fg); background: rgba(255,255,255,.07); box-shadow: inset 0 0 0 1.5px rgba(255,255,255,.1); }
+
+/* Cardul pachetului */
+#ovl { position: absolute; inset: 0; perspective: 2000px; perspective-origin: 540px 1010px; }
+.pkg { position: absolute; left: 540px; top: 1010px; width: 800px; height: 1000px; margin: -500px 0 0 -400px; border-radius: 48px; overflow: hidden;
+  background: linear-gradient(160deg, #23201c 0%, #151311 45%, #100f0d 100%); box-shadow: inset 0 0 0 1.5px rgba(255,255,255,.09), 0 60px 120px rgba(0,0,0,.6); }
+.pkg .in { position: absolute; inset: 0; padding: 64px 60px; }
+.pkg .tag { display: inline-flex; align-items: center; gap: 12px; font-size: 28px; font-weight: 700; color: var(--muted); }
+.pkg .tag b { width: 14px; height: 14px; border-radius: 50%; background: var(--gold); }
+.pkg h2 { margin-top: 18px; font-size: 128px; line-height: .95; font-weight: 800; letter-spacing: -.05em; }
+.pkg .sub { margin-top: 18px; font-size: 32px; font-weight: 600; color: var(--muted); letter-spacing: -.01em; }
+.prow { position: absolute; left: 60px; right: 60px; height: 116px; display: flex; align-items: center; gap: 26px; border-top: 1.5px solid rgba(255,255,255,.07); }
+.prow .ic { width: 76px; height: 76px; border-radius: 22px; background: rgba(224,161,0,.13); display: grid; place-items: center; flex: none; }
+.prow .ic svg { width: 38px; height: 38px; fill: none; stroke: var(--gold); stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.prow .a { font-size: 34px; font-weight: 750; letter-spacing: -.02em; }
+.prow .b { font-size: 25px; font-weight: 550; color: var(--muted); margin-top: 4px; }
+.prow .ok { margin-left: auto; width: 46px; height: 46px; border-radius: 50%; background: var(--gold); display: grid; place-items: center; flex: none; }
+.prow .ok svg { width: 26px; height: 26px; fill: none; stroke: #0b0a09; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+.sheen { position: absolute; inset: 0; background: linear-gradient(105deg, transparent 40%, rgba(255,240,200,.10) 50%, transparent 60%); background-size: 300% 100%; }
+.search { position: absolute; display: flex; align-items: center; gap: 24px; padding: 0 44px; font-size: 52px; font-weight: 650; letter-spacing: -.02em; }
+.search svg { width: 46px; height: 46px; fill: none; stroke: var(--muted); stroke-width: 2.2; flex: none; }
+.caret { display: inline-block; width: 4px; height: 58px; background: var(--gold); margin-left: 4px; vertical-align: middle; border-radius: 2px; }
+.cta { position: absolute; left: 60px; right: 60px; text-wrap: balance; top: 1120px; text-align: center; font-size: 36px; font-weight: 600; color: var(--muted); letter-spacing: -.01em; }
+.disc { position: absolute; }
+
+/* v2: hook, listă, pagini de site, formular, notificări */
+.hook { position: absolute; left: 50px; right: 50px; top: 700px; text-align: center; font-size: 124px; line-height: 1.02; font-weight: 800; letter-spacing: -.05em; text-wrap: balance; }
+.hook .gold, .list .gold { color: var(--gold); }
+.list { position: absolute; left: 150px; top: 640px; }
+.li { display: flex; align-items: baseline; gap: 34px; font-size: 128px; line-height: 1.12; font-weight: 800; letter-spacing: -.05em; }
+.li small { font-size: 40px; font-weight: 700; color: var(--gold); letter-spacing: 0; font-variant-numeric: tabular-nums; width: 70px; }
+.flash { position: absolute; inset: 0; background: radial-gradient(circle at 50% 50%, rgba(255,236,190,.55), rgba(224,161,0,.12) 55%, transparent 80%); pointer-events: none; }
+.site .tbar { position: relative; z-index: 2; }
+.page { position: absolute; left: 0; right: 0; top: 0; height: 1500px; }
+.sec2 { left: 34px; right: 34px; top: 500px; }
+.sec2 h4, .sec3 h4 { font-size: 34px; font-weight: 800; letter-spacing: -.04em; }
+.svc { display: flex; gap: 14px; margin-top: 18px; }
+.svc div { flex: 1; height: 240px; border-radius: 16px; background-size: cover; background-position: center; position: relative; overflow: hidden; }
+.svc div span { position: absolute; left: 14px; bottom: 12px; color: #fff; font-size: 15px; font-weight: 800; letter-spacing: -.02em; }
+.sec3 { left: 34px; right: 34px; top: 960px; display: flex; gap: 30px; }
+.sec3 .l { width: 300px; padding-top: 10px; }
+.sec3 .l p { margin-top: 12px; font-size: 14px; color: #6b645b; line-height: 1.5; font-weight: 500; }
+.form { flex: 1; background: #fff; border-radius: 18px; padding: 20px; box-shadow: 0 10px 30px rgba(0,0,0,.06); }
+.fl { font-size: 11px; font-weight: 700; color: #8a8378; margin: 10px 0 6px; }
+.fi { height: 38px; border-radius: 10px; background: #f4f1ea; padding: 0 12px; display: flex; align-items: center; font-size: 14px; font-weight: 600; color: #15120f; }
+.fi.ta { height: 62px; align-items: flex-start; padding-top: 10px; }
+.fbtn { margin-top: 14px; height: 44px; border-radius: 99px; background: #e0a100; color: #15120f; font-size: 14px; font-weight: 800; display: grid; place-items: center; }
+.toast { position: absolute; right: 18px; width: 250px; height: 42px; border-radius: 13px; background: #26231f; box-shadow: 0 10px 24px rgba(0,0,0,.5), inset 0 0 0 1px #34302b; display: flex; align-items: center; gap: 10px; padding: 0 14px; font-size: 13px; font-weight: 700; }
+.toast b { width: 9px; height: 9px; border-radius: 50%; background: #3ddc5a; flex: none; }
+</style>
+</head>
+<body>
+<div id="stage">
+  <div id="bg"></div>
+  <div id="worldWrap"><div id="world"><div id="mac"></div></div></div>
+  <div id="ovl"></div>
+  <div id="txt"></div>
+</div>
+<script src="assets/data.js"></script>
+<script src="ad.js"></script>
+</body>
+</html>

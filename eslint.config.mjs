@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Unelte interne Claude (skill-uri, exemple de reclame), nu fac parte din site
+    ".claude/**",
   ]),
 ]);
 
